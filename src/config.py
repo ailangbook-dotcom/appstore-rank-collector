@@ -1,4 +1,10 @@
-COUNTRY = "kr"
+COUNTRY = [
+    "us", "jp", "kr",
+    "gb", "de", "fr",
+    "ca", "au",
+    "sg", "tw", "hk",
+    "nl", "se", "nz"
+]
 LIMIT = 100
 CHART = "top-free"
 

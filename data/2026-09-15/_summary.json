@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-15",
+  "country": [
+    "us",
+    "jp",
+    "kr",
+    "gb",
+    "de",
+    "fr",
+    "ca",
+    "au",
+    "sg",
+    "tw",
+    "hk",
+    "nl",
+    "se",
+    "nz"
+  ],
+  "chart": "top-free",
+  "categories": {
+    "productivity": {
+      "genre_id": 6007,
+      "error": "500 Server Error: Internal Server Error for url: https://rss.marketingtools.apple.com/api/v2/%5B'us',%20'jp',%20'kr',%20'gb',%20'de',%20'fr',%20'ca',%20'au',%20'sg',%20'tw',%20'hk',%20'nl',%20'se',%20'nz'%5D/apps/top-free/100/apps.json?genre=6007"
+    },
+    "utilities": {
+      "genre_id": 6002,
+      "error": "500 Server Error: Internal Server Error for url: https://rss.marketingtools.apple.com/api/v2/%5B'us',%20'jp',%20'kr',%20'gb',%20'de',%20'fr',%20'ca',%20'au',%20'sg',%20'tw',%20'hk',%20'nl',%20'se',%20'nz'%5D/apps/top-free/100/apps.json?genre=6002"
+    },
+    "photo-video": {
+      "genre_id": 6008,
+      "error": "500 Server Error: Internal Server Error for url: https://rss.marketingtools.apple.com/api/v2/%5B'us',%20'jp',%20'kr',%20'gb',%20'de',%20'fr',%20'ca',%20'au',%20'sg',%20'tw',%20'hk',%20'nl',%20'se',%20'nz'%5D/apps/top-free/100/apps.json?genre=6008"
+    },
+    "lifestyle": {
+      "genre_id": 6012,
+      "error": "HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=30)"
+    },
+    "health-fitness": {
+      "genre_id": 6013,
+      "error": "500 Server Error: Internal Server Error for url: https://rss.marketingtools.apple.com/api/v2/%5B'us',%20'jp',%20'kr',%20'gb',%20'de',%20'fr',%20'ca',%20'au',%20'sg',%20'tw',%20'hk',%20'nl',%20'se',%20'nz'%5D/apps/top-free/100/apps.json?genre=6013"
+    },
+    "education": {
+      "genre_id": 6017,
+      "error": "500 Server Error: Internal Server Error for url: https://rss.marketingtools.apple.com/api/v2/%5B'us',%20'jp',%20'kr',%20'gb',%20'de',%20'fr',%20'ca',%20'au',%20'sg',%20'tw',%20'hk',%20'nl',%20'se',%20'nz'%5D/apps/top-free/100/apps.json?genre=6017"
+    },
+    "finance": {
+      "genre_id": 6015,
+      "error": "500 Server Error: Internal Server Error for url: https://rss.marketingtools.apple.com/api/v2/%5B'us',%20'jp',%20'kr',%20'gb',%20'de',%20'fr',%20'ca',%20'au',%20'sg',%20'tw',%20'hk',%20'nl',%20'se',%20'nz'%5D/apps/top-free/100/apps.json?genre=6015"
+    },
+    "entertainment": {
+      "genre_id": 6016,
+      "error": "500 Server Error: Internal Server Error for url: https://rss.marketingtools.apple.com/api/v2/%5B'us',%20'jp',%20'kr',%20'gb',%20'de',%20'fr',%20'ca',%20'au',%20'sg',%20'tw',%20'hk',%20'nl',%20'se',%20'nz'%5D/apps/top-free/100/apps.json?genre=6016"
+    },
+    "developer-tools": {
+      "genre_id": 6026,
+      "error": "HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=30)"
+    },
+    "graphics-design": {
+      "genre_id": 6027,
+      "error": "500 Server Error: Internal Server Error for url: https://rss.marketingtools.apple.com/api/v2/%5B'us',%20'jp',%20'kr',%20'gb',%20'de',%20'fr',%20'ca',%20'au',%20'sg',%20'tw',%20'hk',%20'nl',%20'se',%20'nz'%5D/apps/top-free/100/apps.json?genre=6027"
+    }
+  }
+}

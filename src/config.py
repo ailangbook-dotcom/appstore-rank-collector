@@ -1,4 +1,4 @@
-COUNTRY = [
+COUNTRIES = [
     "us", "jp", "kr",
     "gb", "de", "fr",
     "ca", "au",

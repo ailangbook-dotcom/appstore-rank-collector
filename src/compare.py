@@ -8,16 +8,16 @@ from pathlib import Path
 DATA_ROOT = Path(__file__).resolve().parents[1] / "data"
 
 
-def load_apps(day: str, country: str, category: str) -> list[dict]:
-    path = DATA_ROOT / day / country / f"{category}.json"
+def load_apps(day: str, category: str) -> list[dict]:
+    path = DATA_ROOT / day / f"{category}.json"
     if not path.exists():
         raise FileNotFoundError(path)
     return json.loads(path.read_text(encoding="utf-8"))["apps"]
 
 
-def compare(previous_day: str, current_day: str, country: str, category: str) -> dict:
-    previous = load_apps(previous_day, country, category)
-    current = load_apps(current_day, country, category)
+def compare(previous_day: str, current_day: str, category: str) -> dict:
+    previous = load_apps(previous_day, category)
+    current = load_apps(current_day, category)
 
     old_rank = {app["id"]: app["rank"] for app in previous}
     current_ids = {app["id"] for app in current}
@@ -72,7 +72,6 @@ def compare(previous_day: str, current_day: str, country: str, category: str) ->
     new_entries = [x for x in changes if x["status"] == "new"]
 
     return {
-        "country": country,
         "category": category,
         "previous_date": previous_day,
         "current_date": current_day,
@@ -84,16 +83,15 @@ def compare(previous_day: str, current_day: str, country: str, category: str) ->
 
 
 def main() -> None:
-    if len(sys.argv) >= 5:
-        previous_day, current_day, country, category = sys.argv[1:5]
+    if len(sys.argv) >= 4:
+        previous_day, current_day, category = sys.argv[1:4]
     else:
         today = date.today()
         current_day = today.isoformat()
         previous_day = (today - timedelta(days=1)).isoformat()
-        country = "kr"
         category = "productivity"
 
-    result = compare(previous_day, current_day, country, category)
+    result = compare(previous_day, current_day, category)
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
 

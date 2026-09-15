@@ -1,6 +1,6 @@
 # App Store Rank Collector
 
-여러 국가의 App Store 카테고리별 **무료 앱 Top 100**을 매일 수집해서 GitHub에 JSON으로 저장하는 최소 프로젝트입니다.
+한국 App Store의 카테고리별 **무료 앱 Top 100**을 매일 수집해서 GitHub에 JSON으로 저장하는 최소 프로젝트입니다.
 
 ## 수집 대상
 
@@ -38,14 +38,10 @@
 ```text
 data/
 ├── 2026-09-15/
-│   ├── kr/
-│   │   ├── productivity.json
-│   │   ├── utilities.json
-│   │   ├── photo-video.json
-│   │   └── _summary.json
-│   ├── us/
-│   │   └── ...
-│   └── ...
+│   ├── productivity.json
+│   ├── utilities.json
+│   ├── photo-video.json
+│   └── _summary.json
 └── 2026-09-16/
     └── ...
 ```
@@ -60,7 +56,7 @@ python src/collect.py
 ## 두 날짜 비교
 
 ```bash
-python src/compare.py 2026-09-14 2026-09-15 kr productivity
+python src/compare.py 2026-09-14 2026-09-15 productivity
 ```
 
 `change`는 **양수일수록 순위 상승**입니다.
@@ -91,15 +87,15 @@ Actions가 repository에 커밋할 수 있도록 다음 설정을 확인하세�
 
 ## 데이터 출처
 
-Apple의 공개 iTunes RSS JSON feed를 사용합니다.
+Apple의 공개 Apple Marketing Tools RSS JSON feed를 사용합니다.
 
 기본 endpoint 형태:
 
 ```text
-https://itunes.apple.com/{country}/rss/topfreeapplications/limit={limit}/genre={genre_id}/json
+https://rss.marketingtools.apple.com/api/v2/{country}/apps/top-free/{limit}/apps.json
 ```
 
-카테고리는 URL의 `genre` 값으로 전달합니다 (`rss.marketingtools.apple.com`의 v2 feed는 `genre` 파라미터를 무시해서 카테고리 필터가 동작하지 않으므로 사용하지 않습니다).
+카테고리는 `genre` query parameter로 전달합니다.
 
 ## 참고
 

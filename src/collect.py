@@ -11,7 +11,13 @@ import requests
 from config import COUNTRIES, LIMIT, CHART, CATEGORIES
 
 
-BASE_URL = "https://rss.marketingtools.apple.com/api/v2"
+BASE_URL = "https://itunes.apple.com"
+
+CHART_FEEDS = {
+    "top-free": "topfreeapplications",
+    "top-paid": "toppaidapplications",
+    "top-grossing": "topgrossingapplications",
+}
 
 KST = ZoneInfo("Asia/Seoul")
 
@@ -32,16 +38,15 @@ def fetch_category(
     특정 국가 / 카테고리의 무료 앱 Top N을 가져온다.
     """
 
+    # rss.marketingtools.apple.com(v2)은 genre 파라미터를 무시하므로
+    # 카테고리 필터가 동작하는 iTunes RSS 피드를 사용한다.
     url = (
         f"{BASE_URL}/"
-        f"{country}/apps/{CHART}/{LIMIT}/apps.json"
+        f"{country}/rss/{CHART_FEEDS[CHART]}/limit={LIMIT}/genre={genre_id}/json"
     )
 
     response = requests.get(
         url,
-        params={
-            "genre": genre_id,
-        },
         headers=HEADERS,
         timeout=30,
     )
@@ -50,30 +55,32 @@ def fetch_category(
 
     payload = response.json()
 
-    feed = payload.get("feed", {})
-    results = feed.get("results", [])
+    entries = payload.get("feed", {}).get("entry", [])
+
+    if isinstance(entries, dict):
+        entries = [entries]
 
     apps = []
 
-    for rank, item in enumerate(results, start=1):
-        genres = item.get("genres") or []
+    for rank, item in enumerate(entries, start=1):
+        category = item.get("category", {}).get("attributes", {})
+        images = item.get("im:image") or [{}]
 
         apps.append(
             {
                 "rank": rank,
-                "id": item.get("id"),
-                "name": item.get("name"),
-                "developer": item.get("artistName"),
-                "url": item.get("url"),
-                "icon": item.get("artworkUrl100"),
-                "release_date": item.get("releaseDate"),
+                "id": item.get("id", {}).get("attributes", {}).get("im:id"),
+                "name": item.get("im:name", {}).get("label"),
+                "developer": item.get("im:artist", {}).get("label"),
+                "url": item.get("id", {}).get("label"),
+                "icon": images[-1].get("label"),
+                "release_date": item.get("im:releaseDate", {}).get("label", "")[:10],
                 "genres": [
                     {
-                        "id": genre.get("genreId"),
-                        "name": genre.get("name"),
-                        "url": genre.get("url"),
+                        "id": category.get("im:id"),
+                        "name": category.get("label"),
+                        "url": category.get("scheme"),
                     }
-                    for genre in genres
                 ],
             }
         )

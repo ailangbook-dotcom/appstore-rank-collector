@@ -1,0 +1,1611 @@
+{
+  "collected_at": "2026-09-19T00:11:49.519206+09:00",
+  "date": "2026-09-19",
+  "country": "gb",
+  "chart": "top-free",
+  "category": "utilities",
+  "genre_id": 6002,
+  "count": 100,
+  "apps": [
+    {
+      "rank": 1,
+      "id": "6737119425",
+      "name": "GOV.UK One Login",
+      "developer": "Government Digital Service",
+      "url": "https://apps.apple.com/gb/app/gov-uk-one-login/id6737119425?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/0d/66/dd0d665f-26d6-7b82-bb23-18d149eeb639/GlassAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-06-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "284815942",
+      "name": "Google - More ways to search",
+      "developer": "Google",
+      "url": "https://apps.apple.com/gb/app/google-more-ways-to-search/id284815942?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/79/af/7979af5c-30a8-e3fd-3d08-b5aedb8637fa/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "535886823",
+      "name": "Google Chrome",
+      "developer": "Google",
+      "url": "https://apps.apple.com/gb/app/google-chrome/id535886823?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/f5/a8/78f5a8c8-bdb2-e403-2c67-4e0dc9bfb43c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-06-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "388497605",
+      "name": "Google Authenticator",
+      "developer": "Google",
+      "url": "https://apps.apple.com/gb/app/google-authenticator/id388497605?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2010-09-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "1288723196",
+      "name": "Microsoft Edge",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/gb/app/microsoft-edge/id1288723196?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/09/3e/0c093efa-5719-2da0-b558-3b3d7841aa4d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2017-11-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "567457151",
+      "name": "EE: Mobile, broadband & tech",
+      "developer": "EE LIMITED",
+      "url": "https://apps.apple.com/gb/app/ee-mobile-broadband-tech/id567457151?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/bc/46/75bc46b3-9834-154c-26b4-9cea3e596d61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-10-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "1629050566",
+      "name": "GOV.UK ID Check",
+      "developer": "Government Digital Service",
+      "url": "https://apps.apple.com/gb/app/gov-uk-id-check/id1629050566?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a3/8f/75a38fe4-f13c-6e5b-9792-47b3d233b179/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-08-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "1093452209",
+      "name": "Octopus Energy",
+      "developer": "Octopus Energy",
+      "url": "https://apps.apple.com/gb/app/octopus-energy/id1093452209?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/05/e7/c105e76a-000c-d9f3-9445-8c652e1333a9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-07-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "1437005085",
+      "name": "Proton VPN: Fast & Secure",
+      "developer": "Proton AG",
+      "url": "https://apps.apple.com/gb/app/proton-vpn-fast-secure/id1437005085?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f2/63/abf26323-cb7a-5977-fad6-a6434bf904df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-11-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "880575127",
+      "name": "My Sky",
+      "developer": "Sky UK Limited",
+      "url": "https://apps.apple.com/gb/app/my-sky/id880575127?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/90/e1/d990e196-a645-3602-c120-ce4e09aeba23/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-07-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "1510944943",
+      "name": "Cleanup: Clean Storage Space",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "url": "https://apps.apple.com/gb/app/cleanup-clean-storage-space/id1510944943?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/47/f2/9747f2a0-902e-2029-23aa-3210b7384a5a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "905953485",
+      "name": "NordVPN: VPN Fast & Secure",
+      "developer": "Nordvpn S.A.",
+      "url": "https://apps.apple.com/gb/app/nordvpn-vpn-fast-secure/id905953485?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/6f/7a/a46f7ace-9158-4524-bf10-35c60d704f41/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-12-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "370901726",
+      "name": "My Vodafone (UK)",
+      "developer": "Vodafone UK Ltd",
+      "url": "https://apps.apple.com/gb/app/my-vodafone-uk/id370901726?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/48/67/62486745-ba95-4479-0b50-d9ce2f751cc4/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2010-06-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "6754900760",
+      "name": "Authenticator App - 2FA MFA",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/gb/app/authenticator-app-2fa-mfa/id6754900760?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c1/ed/ddc1edde-6453-0a23-e087-fd72bf5c5c60/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-11-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "1461457136",
+      "name": "Admiral Insurance",
+      "developer": "Admiral group",
+      "url": "https://apps.apple.com/gb/app/admiral-insurance/id1461457136?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/a6/7e/67a67e76-e84c-0c5f-d166-11ea99c3923e/ADAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-06-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "6503702226",
+      "name": "Nextbase",
+      "developer": "NEXTBASE UK",
+      "url": "https://apps.apple.com/gb/app/nextbase/id6503702226?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/37/04/49370413-f0e6-8329-0604-b4bb556e1770/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-10-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "1579039631",
+      "name": "E.ON NEXT",
+      "developer": "E.ON Next Energy Limited",
+      "url": "https://apps.apple.com/gb/app/e-on-next/id1579039631?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/8b/81/2b8b8146-bdfd-5c21-91dc-2649f19a9a4a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-09-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "1504076137",
+      "name": "geteduroam",
+      "developer": "SURF B.V.",
+      "url": "https://apps.apple.com/gb/app/geteduroam/id1504076137?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e0/cb/d7e0cb0e-f81a-a5aa-fc1d-b7334b3034ba/AppIcon-0-1x_U007epad-0-1-0-sRGB-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-06-15",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "935325621",
+      "name": "Uswitch",
+      "developer": "Uswitch Ltd",
+      "url": "https://apps.apple.com/gb/app/uswitch/id935325621?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/7d/1f/e37d1fd9-285d-5804-19be-6599cedf9112/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-05-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "6763306820",
+      "name": "Authenticator© App",
+      "developer": "To Ngoc Mai",
+      "url": "https://apps.apple.com/gb/app/authenticator-app/id6763306820?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/9d/ee/cb9dee94-4dfe-594d-54be-f5f3d7e42020/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "6444313203",
+      "name": "British Gas",
+      "developer": "BRITISH GAS TRADING LIMITED",
+      "url": "https://apps.apple.com/gb/app/british-gas/id6444313203?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/b7/28/2eb72885-5608-f7cb-5e92-f63f273194f3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-03-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "642951374",
+      "name": "My Virgin Media Account",
+      "developer": "Virgin Media",
+      "url": "https://apps.apple.com/gb/app/my-virgin-media-account/id642951374?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/d9/6a/6cd96ac4-29be-8f79-59d5-886b462e9d3e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2013-06-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "1122491914",
+      "name": "MyLebara",
+      "developer": "Lebara Media Services",
+      "url": "https://apps.apple.com/gb/app/mylebara/id1122491914?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/eb/47/aceb4729-4455-3fbd-9848-6aec213036a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "1050171910",
+      "name": "Free VPN by Free VPN .org™",
+      "developer": "Free VPN LLC",
+      "url": "https://apps.apple.com/gb/app/free-vpn-by-free-vpn-org/id1050171910?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/f4/f0/d5f4f059-a16a-cade-e6b3-1781c8284f3b/IFV-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-11-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "325533754",
+      "name": "My O2 - UK Offers, Data, Bills",
+      "developer": "Telefonica UK Limited",
+      "url": "https://apps.apple.com/gb/app/my-o2-uk-offers-data-bills/id325533754?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/06/99/80069963-2660-d88b-f732-d5b3c8a95bf5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2009-09-15",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "533054756",
+      "name": "SafeZone",
+      "developer": "CriticalArc Pty Ltd",
+      "url": "https://apps.apple.com/gb/app/safezone/id533054756?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/09/fe/7e09fe2b-96d7-ce67-768d-8117c6a87694/AppIcon-1x_U007emarketing-0-4-85-220-0.png/100x100bb.png",
+      "release_date": "2012-08-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "571246020",
+      "name": "giffgaff",
+      "developer": "giffgaff",
+      "url": "https://apps.apple.com/gb/app/giffgaff/id571246020?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/3e/1e/093e1e39-f35d-e5fe-9297-1de01ed30088/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-11-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "1168502924",
+      "name": "Sony | Sound Connect",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/gb/app/sony-sound-connect/id1168502924?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/aa/ed/2eaaeda4-1c7a-0501-ed68-874a7ae58f5e/AppIcon-0-0-1x_U007emarketing-0-3-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "1575330471",
+      "name": "Free VPN - Fast & Secure Proxy",
+      "developer": "Free VPN LTD (Apps)",
+      "url": "https://apps.apple.com/gb/app/free-vpn-fast-secure-proxy/id1575330471?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/00/d3/ed00d367-e18a-32fb-1838-b148d055c5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "393530266",
+      "name": "Three",
+      "developer": "Hutchison 3G UK Ltd",
+      "url": "https://apps.apple.com/gb/app/three/id393530266?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a3/3c/bda33c15-b434-f2c7-0044-9b0a9d55a7c3/AppIconServices-0-0-1x_U007emarketing-0-8-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "release_date": "2010-10-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "6758564907",
+      "name": "VitalScan: Wellness Mirror",
+      "developer": "CyberNex Networks Limited",
+      "url": "https://apps.apple.com/gb/app/vitalscan-wellness-mirror/id6758564907?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/ea/d6/c8ead6a1-5506-af11-5087-87bcfa57027f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "404849554",
+      "name": "EDF UK",
+      "developer": "EDF Energy",
+      "url": "https://apps.apple.com/gb/app/edf-uk/id404849554?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/c4/8a/f9c48a9e-ce0a-8b27-15a2-4f083a770fe5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-02-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "989804926",
+      "name": "Firefox Fast & Private Browser",
+      "developer": "Mozilla",
+      "url": "https://apps.apple.com/gb/app/firefox-fast-private-browser/id989804926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/75/5e/ac755e42-187f-34f2-1aa3-f9a0931952ac/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-11-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "1581765635",
+      "name": "Universal Remote TV Control ·",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/gb/app/universal-remote-tv-control/id1581765635?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/50/44/c95044a2-927a-9e5b-3d6e-003317edc84f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "1411869974",
+      "name": "Opera Browser with VPN",
+      "developer": "Opera Norway AS",
+      "url": "https://apps.apple.com/gb/app/opera-browser-with-vpn/id1411869974?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ed/bd/68edbdf8-39a4-043e-eb64-0130e3f83926/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1052879175",
+      "name": "Brave Browser & Private Web",
+      "developer": "Brave Software",
+      "url": "https://apps.apple.com/gb/app/brave-browser-private-web/id1052879175?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/01/d1/a001d104-a525-41a3-3ef6-12e14dd78a3c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-02-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "626316021",
+      "name": "OVO Energy",
+      "developer": "Ovo Energy Ltd",
+      "url": "https://apps.apple.com/gb/app/ovo-energy/id626316021?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/88/a2/f988a22f-e48c-4962-f1b2-f402ba830c82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-04-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "663592361",
+      "name": "DuckDuckGo, optional Duck.ai",
+      "developer": "DuckDuckGo, Inc.",
+      "url": "https://apps.apple.com/gb/app/duckduckgo-optional-duck-ai/id663592361?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/24/64/e524649c-8864-66ec-6098-f0a23e7ea247/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2013-06-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "633420816",
+      "name": "Tesco Mobile",
+      "developer": "Tesco Mobile UK",
+      "url": "https://apps.apple.com/gb/app/tesco-mobile/id633420816?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/7d/9e/ee7d9e3b-aa71-baa8-6b85-863febb93c89/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-04-21",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "979586092",
+      "name": "iD Mobile - Mobile done right!",
+      "developer": "Currys plc",
+      "url": "https://apps.apple.com/gb/app/id-mobile-mobile-done-right/id979586092?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/46/22/404622f0-e5bc-13a0-aae3-26ca7356727e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-07-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "6746566368",
+      "name": "SSE Airtricity App",
+      "developer": "Airtricity",
+      "url": "https://apps.apple.com/gb/app/sse-airtricity-app/id6746566368?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/d1/f2/0dd1f227-3f27-ea1f-44a1-7896dfe02e55/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "599496594",
+      "name": "TP-Link Tether",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/gb/app/tp-link-tether/id599496594?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ae/c7/47aec7ae-7c0d-f12d-e0cb-7d96ef966d88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-05-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "1618056244",
+      "name": "Fuse Energy",
+      "developer": "FUSE ENERGY SUPPLY LIMITED",
+      "url": "https://apps.apple.com/gb/app/fuse-energy/id1618056244?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/88/b5/0488b5b5-31a1-8f60-4f51-35e7ca084d51/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "6758482875",
+      "name": "Siri",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/gb/app/siri/id6758482875?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/f7/bf/bdf7bfe2-d2b3-85ab-7584-8b9048872c3d/siriCalistoga-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-09-14",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1423538627",
+      "name": "1.1.1.1: Faster Internet",
+      "developer": "Cloudflare",
+      "url": "https://apps.apple.com/gb/app/1-1-1-1-faster-internet/id1423538627?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/f5/0f/4ff50f2e-fcd4-2796-a277-ee1dab7210f3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1403367428",
+      "name": "Countdown",
+      "developer": "Find Appiness LLC",
+      "url": "https://apps.apple.com/gb/app/countdown/id1403367428?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/05/1f/72051f3a-551e-eacc-4322-a8940d8c1444/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "6744354859",
+      "name": "Pod Home",
+      "developer": "Pod Point Ltd",
+      "url": "https://apps.apple.com/gb/app/pod-home/id6744354859?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b9/45/9ab945b8-debe-1926-187a-9e91661f248d/AppIcon-prod-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-05-21",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "6755033589",
+      "name": "myCar: Car Widgets & Dashboard",
+      "developer": "DOFUapps",
+      "url": "https://apps.apple.com/gb/app/mycar-car-widgets-dashboard/id6755033589?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/cf/76/0fcf76b6-d7d5-fd9d-a132-cee34c14d962/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "6474658500",
+      "name": "X Browser : Private Browser",
+      "developer": "Krishna Chitaliya",
+      "url": "https://apps.apple.com/gb/app/x-browser-private-browser/id6474658500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/88/6b/96886b81-b94a-d50b-86c5-f45d2e29b3a8/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2023-12-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1670808515",
+      "name": "Lyca Mobile UK",
+      "developer": "Lyca Digital Private Limited",
+      "url": "https://apps.apple.com/gb/app/lyca-mobile-uk/id1670808515?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/25/01/2325018b-1fbb-8e4a-5926-4ea0bdac5892/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "6446115390",
+      "name": "TalkTalk",
+      "developer": "TalkTalk Group",
+      "url": "https://apps.apple.com/gb/app/talktalk/id6446115390?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/98/b2/1d98b2d5-c056-e890-bd62-159987ed863f/AppIcon-1x_U007ephone-0-1-0-P3-85-220-0.png/100x100bb.png",
+      "release_date": "2024-05-15",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "562202559",
+      "name": "ScottishPower - YourEnergy",
+      "developer": "ScottishPower",
+      "url": "https://apps.apple.com/gb/app/scottishpower-yourenergy/id562202559?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/c6/60/37c660c0-0cc8-036f-1d4a-74b1f4be1922/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2012-09-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1317652970",
+      "name": "Connect IQ™ Store",
+      "developer": "Garmin",
+      "url": "https://apps.apple.com/gb/app/connect-iq-store/id1317652970?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/bc/85/8ebc856d-0e7b-7afb-32a7-cff6c4a89adb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-04-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1583884012",
+      "name": "Swipewipe: Photo Cleaner",
+      "developer": "MWM",
+      "url": "https://apps.apple.com/gb/app/swipewipe-photo-cleaner/id1583884012?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/86/bc/3d86bc15-3882-c6a3-1535-dd112248fe40/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-03-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6760263190",
+      "name": "Cleaner: Storage Cleaner",
+      "developer": "Sitou Advertising",
+      "url": "https://apps.apple.com/gb/app/cleaner-storage-cleaner/id6760263190?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/a2/47/d4a2474d-0e38-30f7-d214-410ed7e4bf80/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-03-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "6759605595",
+      "name": "IMI Heatmiser NeoApp",
+      "developer": "Heatmiser UK",
+      "url": "https://apps.apple.com/gb/app/imi-heatmiser-neoapp/id6759605595?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/82/2d/8b822d12-fb32-7ae2-c4e1-9387974a53c7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-06-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1499891460",
+      "name": "UK Immigration: ID Check",
+      "developer": "Home Office",
+      "url": "https://apps.apple.com/gb/app/uk-immigration-id-check/id1499891460?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a4/fd/59a4fd4f-a321-de50-58b5-4eb430c645fc/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-09-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1377322844",
+      "name": "Ohme",
+      "developer": "Ohme Technologies Limited",
+      "url": "https://apps.apple.com/gb/app/ohme/id1377322844?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/51/82/4051821d-23d1-4eff-adb3-bd95b31f34da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-03-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "979618672",
+      "name": "My BT",
+      "developer": "British Telecommunications plc",
+      "url": "https://apps.apple.com/gb/app/my-bt/id979618672?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/a4/c9/52a4c9ed-453f-ed81-1b2c-d07657306a87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-06-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "6780915191",
+      "name": "Screen Mirroring & CastConnect",
+      "developer": "Janki Panchani",
+      "url": "https://apps.apple.com/gb/app/screen-mirroring-castconnect/id6780915191?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b2/fe/dcb2fe77-c89f-97aa-e3bc-3283c3d867e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "1670649189",
+      "name": "TV Remote - Universal",
+      "developer": "Zap Software Studio BV",
+      "url": "https://apps.apple.com/gb/app/tv-remote-universal/id1670649189?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/14/be/a514beb4-cf8f-53e0-47e0-3c6ba80da3ff/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-02-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "448142450",
+      "name": "Truecaller: Premium Caller ID",
+      "developer": "True Software Scandinavia AB",
+      "url": "https://apps.apple.com/gb/app/truecaller-premium-caller-id/id448142450?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/1f/c6/191fc6ae-d85c-0570-7020-2a527f673acc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2011-07-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "1034649547",
+      "name": "Tuya: Smart Life, Smart Living",
+      "developer": "Tuya Smart Inc.",
+      "url": "https://apps.apple.com/gb/app/tuya-smart-life-smart-living/id1034649547?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/aa/26/6baa26ee-9045-c9f0-517f-78d3c8de882b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6454846550",
+      "name": "Home@Halls",
+      "developer": "University Partnerships Programme",
+      "url": "https://apps.apple.com/gb/app/home-halls/id6454846550?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/9c/01/6a9c0169-70b3-8fc8-e39c-7415f14db0ed/UppAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2023-08-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1539090879",
+      "name": "TV Remote - Universal Control",
+      "developer": "EVOLLY.APP",
+      "url": "https://apps.apple.com/gb/app/tv-remote-universal-control/id1539090879?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b6/2a/ebb62a10-8f54-3171-e009-8568a6bc1ea5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "300704847",
+      "name": "Speedtest Internet & WiFi Test",
+      "developer": "Ookla",
+      "url": "https://apps.apple.com/gb/app/speedtest-internet-wifi-test/id300704847?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/6f/65/756f65aa-ba4d-f3c9-23a2-fcdf0291dbd1/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2009-01-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "1526408639",
+      "name": "VIDAA",
+      "developer": "V America Operations Inc.",
+      "url": "https://apps.apple.com/gb/app/vidaa/id1526408639?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/44/fe/3b44fe74-0c7d-0766-8dfd-53fad5cb7dbf/AppIconVIDAA-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-02-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1571429529",
+      "name": "Samsung Smart Switch Mobile",
+      "developer": "Samsung Electronics Co., Ltd.",
+      "url": "https://apps.apple.com/gb/app/samsung-smart-switch-mobile/id1571429529?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/32/3b/7c323b30-eefb-e2ac-7d93-1b5807f4d01d/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6738902375",
+      "name": "Fire Stick TV Remote Control •",
+      "developer": "Remote Control TV LLC",
+      "url": "https://apps.apple.com/gb/app/fire-stick-tv-remote-control/id6738902375?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/9d/55929da4-ce64-97fa-1cff-424be6233727/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+      "release_date": "2025-01-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1537177988",
+      "name": "Starlink",
+      "developer": "SpaceX",
+      "url": "https://apps.apple.com/gb/app/starlink/id1537177988?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/8b/e3/208be37f-4e51-5a0f-70e4-b1bbfa3971ae/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2020-12-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6749280843",
+      "name": "YouFibre",
+      "developer": "Substantial Group Limited",
+      "url": "https://apps.apple.com/gb/app/youfibre/id6749280843?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/38/12/92381259-1e6b-49a5-b226-08d7ad90d106/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6739498078",
+      "name": "Measuring Tape & Ruler：Metrix",
+      "developer": "MobileTech OU",
+      "url": "https://apps.apple.com/gb/app/measuring-tape-ruler-metrix/id6739498078?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/0a/19/020a1942-7f2a-5770-f9a4-c66dd4041e99/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-01-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6477382010",
+      "name": "Universal Remote TV Control＊",
+      "developer": "VISARGERD, S.L.",
+      "url": "https://apps.apple.com/gb/app/universal-remote-tv-control/id6477382010?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/f3/dd/78f3dd1f-4ca0-8a38-1712-7daddcf667be/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "6759697123",
+      "name": "SmartClean AI: Storage Cleaner",
+      "developer": "AMOBEAR GROUP",
+      "url": "https://apps.apple.com/gb/app/smartclean-ai-storage-cleaner/id6759697123?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/06/ee/af06ee03-c9fb-1310-fb9e-47b62922d98c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1503251395",
+      "name": "VPNIFY - Unlimited VPN",
+      "developer": "Neonetworks solution ltd",
+      "url": "https://apps.apple.com/gb/app/vpnify-unlimited-vpn/id1503251395?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/26/0e/a2260eb9-007f-981a-ae7c-a185639a276d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6475598662",
+      "name": "Minifig Scan",
+      "developer": "Francis Bonnin",
+      "url": "https://apps.apple.com/gb/app/minifig-scan/id6475598662?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/96/d9/6b96d949-72d3-ec18-873b-cd1e44470507/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-01-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1540812668",
+      "name": "SMARTY",
+      "developer": "Hutchison 3G UK Ltd",
+      "url": "https://apps.apple.com/gb/app/smarty/id1540812668?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/a3/40/12a34032-a374-0d3d-af94-4bdf6759ca98/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "6444912481",
+      "name": "UK ETA",
+      "developer": "Home Office",
+      "url": "https://apps.apple.com/gb/app/uk-eta/id6444912481?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f1/79/dff179a7-c0c3-7e49-b9e0-65c87a6fd9f8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-10-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "1624635075",
+      "name": "Blackhole Spliter",
+      "developer": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
+      "url": "https://apps.apple.com/gb/app/blackhole-spliter/id1624635075?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/bb/52/bbbb52bd-f1c9-a562-3a87-6fd541473845/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-05-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "1661733229",
+      "name": "LocalSend",
+      "developer": "Tien Do Nam",
+      "url": "https://apps.apple.com/gb/app/localsend/id1661733229?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/88/39/ef88398c-00e7-8733-37bb-4aacb1f9043d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6504182653",
+      "name": "UniRemote: Universal TV Remote",
+      "developer": "Kanatom Limited",
+      "url": "https://apps.apple.com/gb/app/uniremote-universal-tv-remote/id6504182653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/f5/72/d9f572d7-ec7d-27ed-4870-e5b9f606c710/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-08-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "6745863842",
+      "name": "Camtro",
+      "developer": "DigitalConverge Intellect Limited",
+      "url": "https://apps.apple.com/gb/app/camtro/id6745863842?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/c8/e1/8fc8e1b2-18af-6c15-ab7f-0d24d33846af/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/100x100bb.png",
+      "release_date": "2025-06-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "985918725",
+      "name": "Vodafone Broadband",
+      "developer": "Vodafone",
+      "url": "https://apps.apple.com/gb/app/vodafone-broadband/id985918725?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/7f/53/cb7f5330-9412-735c-0c30-94e7256c9b07/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-06-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1252962749",
+      "name": "NFC Tools",
+      "developer": "wakdev",
+      "url": "https://apps.apple.com/gb/app/nfc-tools/id1252962749?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/a0/45/f1a04596-05f3-ae60-4888-d72ddd1028c2/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6480077263",
+      "name": "Epic Games",
+      "developer": "Epic Games Inc.",
+      "url": "https://apps.apple.com/gb/app/epic-games/id6480077263?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/f7/2b/c1f72ba6-c578-e57f-f474-a29149ba3399/AppIcon-Companion-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1021587274",
+      "name": "MYPEUGEOT APP",
+      "developer": "Automobiles Peugeot",
+      "url": "https://apps.apple.com/gb/app/mypeugeot-app/id1021587274?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/09/6e/0b096e38-5268-d6ee-50ac-9f0929d7c802/app_launcher_icon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-05-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "6786565891",
+      "name": "Locato: Family GPS Locator",
+      "developer": "Servaym Limited",
+      "url": "https://apps.apple.com/gb/app/locato-family-gps-locator/id6786565891?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ad/5b/fbad5b8d-b96e-952e-911e-d874b48709ed/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "1507917112",
+      "name": "Find Air - My Device Tracker",
+      "developer": "Air Apps Systems",
+      "url": "https://apps.apple.com/gb/app/find-air-my-device-tracker/id1507917112?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/ba/26/3cba26c0-229d-88ce-207d-7631110059c4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2020-05-21",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "1150085200",
+      "name": "Google Family Link",
+      "developer": "Google",
+      "url": "https://apps.apple.com/gb/app/google-family-link/id1150085200?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/2a/15/ed2a1552-6eb7-f95d-7606-7f7a23a40876/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-02-26",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6761462970",
+      "name": "Glide",
+      "developer": "GLIDE STUDENT & RESIDENTIAL LIMITED",
+      "url": "https://apps.apple.com/gb/app/glide/id6761462970?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/b1/3c/feb13c39-64de-91d2-4020-eaefa8fed4c7/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "724596345",
+      "name": "McAfee: Stay Secure & Private",
+      "developer": "McAfee, LLC.",
+      "url": "https://apps.apple.com/gb/app/mcafee-stay-secure-private/id724596345?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a2/e0/b4a2e014-caab-6a24-92db-2f3420c279ab/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-01-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "6673905322",
+      "name": "SuperVPN Fast VPN Client",
+      "developer": "NETWORKSUPER LTD",
+      "url": "https://apps.apple.com/gb/app/supervpn-fast-vpn-client/id6673905322?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/da/4b/75da4b84-e5ae-7510-aed2-eb3fe8a58e7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-09-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1410235921",
+      "name": "Planet Free VPN ™ Super Proxy",
+      "developer": "FREE VPN PLANET S R L",
+      "url": "https://apps.apple.com/gb/app/planet-free-vpn-super-proxy/id1410235921?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/22/8c/4d228c81-8627-eb1b-cbb9-085a146de5a8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "1602061522",
+      "name": "Authenticator ·",
+      "developer": "SMM service, s.r.o.",
+      "url": "https://apps.apple.com/gb/app/authenticator/id1602061522?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/fe/bb/32febb85-cfe8-5531-818e-339ec9c46b56/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2022-02-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1126552896",
+      "name": "Vehicle Smart - Car Check",
+      "developer": "Vehicle Smart Ltd",
+      "url": "https://apps.apple.com/gb/app/vehicle-smart-car-check/id1126552896?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/4b/dd/554bddae-d0a4-c061-eaec-beb63a4a12cb/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-07-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1128691313",
+      "name": "MyGP, Bangladesh",
+      "developer": "Grameenphone Limited",
+      "url": "https://apps.apple.com/gb/app/mygp-bangladesh/id1128691313?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/ad/2d/78ad2da5-ef02-20d8-37c3-c8a65b894a1f/AppIcon-LIVE-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-09-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "876323966",
+      "name": "Pocket Bubble Level",
+      "developer": "ExaMobile S.A.",
+      "url": "https://apps.apple.com/gb/app/pocket-bubble-level/id876323966?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/77/ee/a177eead-ef4b-8431-efdf-fe3f6f045bd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-07-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "1516235668",
+      "name": "Brother Mobile Connect",
+      "developer": "Brother Industries, LTD.",
+      "url": "https://apps.apple.com/gb/app/brother-mobile-connect/id1516235668?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2f/1d/8a2f1dc2-0eb7-3ae3-9d9d-44b1370069d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "886492891",
+      "name": "ExpressVPN: Super Secure VPN",
+      "developer": "Express VPN",
+      "url": "https://apps.apple.com/gb/app/expressvpn-super-secure-vpn/id886492891?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/01/02/600102aa-87eb-bc99-a9c8-c6540b0cd7d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "6743742595",
+      "name": "Sky Remote",
+      "developer": "Sky UK Limited",
+      "url": "https://apps.apple.com/gb/app/sky-remote/id6743742595?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/a0/77/6ea077ba-60cf-42fe-7562-8186ff9e67b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/gb/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    }
+  ]
+}

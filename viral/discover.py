@@ -17,6 +17,7 @@
   8월 시점엔 7개월 된 단어였다. 봐야 하는 건 신규성이 아니라 확산 기울기다.
 
 사용법:
+  AXIS=toy|luck|relation|self VIRAL_OUT=.discover-<축> 를 앞에 붙여 축별로 따로 돌린다.
   YTK=<youtube api key> python viral/discover.py harvest   # 벨웨더 채널 수집
   YTK=<youtube api key> python viral/discover.py pull      # 채널별 업로드 전량 수집
   python viral/discover.py detect                          # 변곡점 탐지
@@ -37,8 +38,25 @@ def P(n):
 
 
 # 트렌드가 '시작되는' 곳을 노린다. 대형 종합 채널은 트렌드를 증폭할 뿐 만들지 않는다.
-SEEDS = ["ASMR 신상", "문구점 신상", "다이소 신상", "요즘 유행", "챌린지", "말랑이",
-         "피젯 토이", "언박싱 장난감", "유행하는 놀이", "요즘 애들", "밈 유행", "신상 아이템 리뷰"]
+#
+# 축별 분리 (2026-09-19 2회차): 단일 SEEDS는 종합 예능·리뷰 채널로 수렴해
+# 상위를 일반 명사가 먹는다. 실제로 기본 축으로는 석가머니(기복)가 0건으로 안 잡혔다.
+# AXIS 환경변수로 축을 바꾸고, VIRAL_OUT도 축마다 따로 줘야 한다.
+SEED_SETS = {
+    # 촉각·물건 (기본). 왁뿌볼·슬랑이를 잡아낸 집합.
+    "toy": ["ASMR 신상", "문구점 신상", "다이소 신상", "요즘 유행", "챌린지", "말랑이",
+            "피젯 토이", "언박싱 장난감", "유행하는 놀이", "요즘 애들", "밈 유행", "신상 아이템 리뷰"],
+    # 기복·운세·의례. 석가머니가 여기 있었는데 toy 집합으로는 0건이었다.
+    "luck": ["사주 봐드립니다", "타로 리딩", "신점 후기", "운세 보는 법", "부적", "절 기도",
+             "기도 브이로그", "소원 이루어지는", "미신 징크스", "꿈 해몽", "MBTI 운세", "개운법"],
+    # 관계·고백·연애 의례.
+    "relation": ["소개팅 후기", "고백 챌린지", "커플 질문", "친구 테스트", "연애 상담",
+                 "랜덤채팅", "인맥 정리", "단톡방", "썸 판별", "결혼식 축의금", "카톡 프사", "연락 끊긴"],
+    # 자기정체성·기록·측정.
+    "self": ["인생 정리", "루틴 브이로그", "다이어리 꾸미기", "가계부 쓰기", "자기관리 앱",
+             "폰 정리", "사진 정리", "습관 만들기", "체크리스트", "성격 테스트", "회고", "목표 세우기"],
+}
+SEEDS = SEED_SETS[os.environ.get("AXIS", "toy")]
 
 
 def api(ep, **p):
@@ -191,17 +209,23 @@ def detect():
         med = st.median(a["subs"])
         if med > 300000:                   # 이미 메인스트림이면 늦었다
             continue
-        rows.append((c0 / base, c0, c1, c2, int(med), a["v"], t, a["vids"]))
+        # 한 채널이 편수를 독점하면 확산이 아니라 그 채널의 시리즈다.
+        # 2026-09-19 오탐 2건이 근거: 손금=화담철학관 125/157편, 랜덤깡=다꾸녀신 36/39편.
+        # 채널 수만 세면 둘 다 '3채널 확산'으로 올라온다. 편수 집중도를 봐야 걸러진다.
+        share = collections.Counter(v["ch"] for v in a["vids"]).most_common(1)[0][1] / len(a["vids"])
+        if share > 0.6:
+            continue
+        rows.append((c0 / base, c0, c1, c2, int(med), a["v"], t, a["vids"], share))
     rows.sort(key=lambda r: (-r[0], -r[5]))
     print("창: 최근 %s~%s / 이전 %s~%s / 그전 %s~%s\n"
           % (W[0][0], W[0][1], W[1][0], W[1][1], W[2][0], W[2][1]))
     seen = []
-    for ratio, c0, c1, c2, med, views, t, vids in rows:
+    for ratio, c0, c1, c2, med, views, t, vids, share in rows:
         if any(t in s or s in t for s in seen):
             continue
         seen.append(t)
-        print("[%s] 확산 %d→%d→%d채널 (x%.1f) 채널규모중앙값=%s 조회=%s"
-              % (t, c2, c1, c0, ratio, format(med, ","), format(views, ",")))
+        print("[%s] 확산 %d→%d→%d채널 (x%.1f) 채널규모중앙값=%s 조회=%s 최다채널비중=%.0f%%"
+              % (t, c2, c1, c0, ratio, format(med, ","), format(views, ","), share * 100))
         for v in sorted(vids, key=lambda x: -x["views"])[:3]:
             print("     %s %10s (subs %9s) %-14s %s"
                   % (v["date"], format(v["views"], ","), format(v["subs"], ","),

@@ -11,7 +11,8 @@
         {
           "date": "2026-09-18",
           "rank": "entertainment#43",
-          "reviews": 5
+          "reviews": 5,
+          "reviews_pm": 5
         }
       ]
     },
@@ -25,7 +26,8 @@
         {
           "date": "2026-09-18",
           "rank": "graphics-design#24",
-          "reviews": 20
+          "reviews": 20,
+          "reviews_pm": 20
         }
       ]
     },
@@ -39,7 +41,8 @@
         {
           "date": "2026-09-18",
           "rank": "health-fitness#28",
-          "reviews": 9
+          "reviews": 12,
+          "reviews_pm": 12
         }
       ]
     },
@@ -53,7 +56,8 @@
         {
           "date": "2026-09-18",
           "rank": "entertainment#30",
-          "reviews": 16
+          "reviews": 16,
+          "reviews_pm": 16
         }
       ]
     },
@@ -67,7 +71,8 @@
         {
           "date": "2026-09-18",
           "rank": "graphics-design#39",
-          "reviews": 3
+          "reviews": 3,
+          "reviews_pm": 3
         }
       ]
     },
@@ -81,7 +86,8 @@
         {
           "date": "2026-09-18",
           "rank": "productivity#49",
-          "reviews": 2
+          "reviews": 2,
+          "reviews_pm": 2
         }
       ]
     },
@@ -95,7 +101,8 @@
         {
           "date": "2026-09-18",
           "rank": "productivity#21",
-          "reviews": 6
+          "reviews": 15,
+          "reviews_pm": 15
         }
       ]
     },
@@ -109,7 +116,8 @@
         {
           "date": "2026-09-18",
           "rank": "graphics-design#5",
-          "reviews": 11
+          "reviews": 11,
+          "reviews_pm": 11
         }
       ]
     },
@@ -123,7 +131,8 @@
         {
           "date": "2026-09-18",
           "rank": "lifestyle#46",
-          "reviews": 20
+          "reviews": 22,
+          "reviews_pm": 22
         }
       ]
     },
@@ -137,7 +146,8 @@
         {
           "date": "2026-09-18",
           "rank": "utilities#2",
-          "reviews": 671
+          "reviews": 696,
+          "reviews_pm": 696
         }
       ]
     },
@@ -151,7 +161,8 @@
         {
           "date": "2026-09-18",
           "rank": "entertainment#49",
-          "reviews": 27
+          "reviews": 26,
+          "reviews_pm": 26
         }
       ]
     },
@@ -165,7 +176,8 @@
         {
           "date": "2026-09-18",
           "rank": "entertainment#41",
-          "reviews": 42
+          "reviews": 43,
+          "reviews_pm": 43
         }
       ]
     },
@@ -179,7 +191,50 @@
         {
           "date": "2026-09-18",
           "rank": "lifestyle#22",
-          "reviews": 60
+          "reviews": 61,
+          "reviews_pm": 61
+        }
+      ]
+    },
+    {
+      "id": "6778568911",
+      "name": "석가머니 - 운 모으는 부처",
+      "seller": "BUG HOLE INC.",
+      "first_seen": "2026-09-18",
+      "release_date": "2026-07-04",
+      "history": [
+        {
+          "date": "2026-09-18",
+          "rank": "health-fitness#1",
+          "reviews": 1959
+        }
+      ]
+    },
+    {
+      "id": "6780200289",
+      "name": "왁뿌볼 | 왁스 뿌시기 볼",
+      "seller": "Seonwook Kim",
+      "first_seen": "2026-09-18",
+      "release_date": "2026-06-17",
+      "history": [
+        {
+          "date": "2026-09-18",
+          "rank": "entertainment#32",
+          "reviews": 1996
+        }
+      ]
+    },
+    {
+      "id": "1638926773",
+      "name": "Charlie - 찰리와 걷기",
+      "seller": "Hyowon Jeon",
+      "first_seen": "2026-09-18",
+      "release_date": "2022-09-08",
+      "history": [
+        {
+          "date": "2026-09-18",
+          "rank": "health-fitness#43",
+          "reviews": 10951
         }
       ]
     }

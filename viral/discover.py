@@ -17,11 +17,12 @@
   8월 시점엔 7개월 된 단어였다. 봐야 하는 건 신규성이 아니라 확산 기울기다.
 
 사용법:
-  AXIS=toy|luck|relation|self VIRAL_OUT=.discover-<축> 를 앞에 붙여 축별로 따로 돌린다.
+  AXIS=toy|luck|relation|self|shop|place VIRAL_OUT=.discover-<축> 를 앞에 붙여 축별로 따로 돌린다.
   YTK=<youtube api key> python viral/discover.py harvest   # 벨웨더 채널 수집
   YTK=<youtube api key> python viral/discover.py pull      # 채널별 업로드 전량 수집
   python viral/discover.py detect                          # 변곡점 탐지
-  python viral/discover.py curve <단어>                     # 특정 단어의 확산 곡선
+  python viral/discover.py curve <단어>                     # 특정 단어의 확산 곡선(코퍼스 내)
+  YTK=<key> python viral/discover.py probe <단어> [개월]     # 확산 곡선(코퍼스 밖, 검색 API 직접)
 
 API 키는 셸 환경변수로만 넘긴다. 파일에 쓰지 말 것 (저장소 공개).
 산출물은 VIRAL_OUT(기본 .discover/)에 쌓이며 저장소에 커밋하지 않는다.
@@ -55,6 +56,16 @@ SEED_SETS = {
     # 자기정체성·기록·측정.
     "self": ["인생 정리", "루틴 브이로그", "다이어리 꾸미기", "가계부 쓰기", "자기관리 앱",
              "폰 정리", "사진 정리", "습관 만들기", "체크리스트", "성격 테스트", "회고", "목표 세우기"],
+    # 2026-09-20 신설. 시드 규칙: '주제'가 아니라 '그 행위를 돈 받고 해주는 사람'을 지목한다.
+    # relation/self가 실패한 이유가 주제를 지목해 예능·명언 채널로 수렴했기 때문이다.
+    # shop = 몸·외형을 남이 돈 받고 만져주는 영역 (마찰: 돈·예약·이동 확정).
+    "shop": ["네일아트 시술", "속눈썹 연장", "타투 도안", "헤어 시술", "퍼스널컬러 진단",
+             "셀프사진관", "네컷사진", "필름 현상", "스튜디오 촬영", "메이크업 숍",
+             "왁싱 후기", "체형 교정"],
+    # place = 돈 내고 그 장소에 가야만 되는 놀이 (마찰: 돈·이동·예약 확정).
+    "place": ["방탈출 카페", "보드게임 카페", "클라이밍 도전", "원데이클래스", "도자기 공방",
+              "향수 공방", "반지 만들기 공방", "꽃다발 만들기", "실내 낚시터", "코인노래방",
+              "오락실 인형뽑기", "스크린골프"],
 }
 SEEDS = SEED_SETS[os.environ.get("AXIS", "toy")]
 
@@ -234,9 +245,60 @@ def detect():
             break
 
 
+def probe(word, months=9):
+    """코퍼스 밖에서 확산 곡선을 뜬다.
+
+    curve()는 harvest한 벨웨더 70채널 안에서만 센다. 그래서 그 집합에 없는 영역은
+    구조적으로 0건이 된다(석가머니가 toy 축에서 0건이었던 이유). probe()는
+    검색 API를 월별로 직접 때려서 채널 수 / 채널규모 중앙값 / 조회를 낸다.
+    진입 규칙('채널 수 2배 & 채널규모 중앙값 1만 미만')을 임의 단어에 적용할 수 있다.
+
+    비용: 월당 search 100 + channels 1 유닛. 9개월이면 약 909 유닛.
+    """
+    today = dt.date.today().replace(day=1)
+    ms = []
+    for i in range(months - 1, -1, -1):
+        y, m = divmod((today.year * 12 + today.month - 1) - i, 12)
+        ms.append((y, m + 1))
+    print("=== probe: %s ==="  % word)
+    print("  월       영상 채널  채널규모중앙값      누적조회  최다채널비중")
+    for y, m in ms:
+        lo = dt.date(y, m, 1)
+        hi = dt.date(y + (m == 12), m % 12 + 1, 1)
+        d = api("search", part="snippet", type="video", order="relevance", maxResults=50,
+                regionCode="KR", relevanceLanguage="ko", q=word,
+                publishedAfter=lo.isoformat() + "T00:00:00Z",
+                publishedBefore=hi.isoformat() + "T00:00:00Z")
+        items = [it for it in d.get("items", []) if word in it["snippet"]["title"]]
+        if not items:
+            print("  %04d-%02d      0    0           -             -" % (y, m))
+            continue
+        cids = sorted({it["snippet"]["channelId"] for it in items})
+        subs, views = {}, 0
+        for i in range(0, len(cids), 50):
+            c = api("channels", part="statistics", id=",".join(cids[i:i + 50]))
+            for it in c.get("items", []):
+                subs[it["id"]] = int(it.get("statistics", {}).get("subscriberCount", 0) or 0)
+        vids = [it["id"]["videoId"] for it in items]
+        for i in range(0, len(vids), 50):
+            vv = api("videos", part="statistics", id=",".join(vids[i:i + 50]))
+            for it in vv.get("items", []):
+                views += int(it["statistics"].get("viewCount", 0) or 0)
+        cnt = collections.Counter(it["snippet"]["channelId"] for it in items)
+        share = cnt.most_common(1)[0][1] / len(items)
+        med = int(st.median([subs.get(c, 0) for c in cids]))
+        print("  %04d-%02d   %4d %4d  %12s  %12s        %3.0f%%"
+              % (y, m, len(items), len(cids), format(med, ","), format(views, ","), share * 100))
+    print("")
+    print("  주의: search API는 상위 50편만 준다. 월 50편을 채우면 포화이므로")
+    print("        '채널 수'는 하한이다. 절대값이 아니라 기울기만 읽어라.")
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "detect"
     if cmd == "curve":
         curve(sys.argv[2])
+    elif cmd == "probe":
+        probe(sys.argv[2], int(sys.argv[3]) if len(sys.argv) > 3 else 9)
     else:
         {"harvest": harvest, "pull": pull, "detect": detect}[cmd]()

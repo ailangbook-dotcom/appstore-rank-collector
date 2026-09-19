@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "apps": [
     {
       "id": "6793831470",
@@ -13,6 +13,12 @@
           "rank": "entertainment#43",
           "reviews": 5,
           "reviews_pm": 5
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "entertainment#57",
+          "reviews": 5,
+          "delta": 0
         }
       ]
     },
@@ -28,6 +34,12 @@
           "rank": "graphics-design#24",
           "reviews": 20,
           "reviews_pm": 20
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "graphics-design#20",
+          "reviews": 20,
+          "delta": 0
         }
       ]
     },
@@ -43,6 +55,12 @@
           "rank": "health-fitness#28",
           "reviews": 12,
           "reviews_pm": 12
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "health-fitness#59",
+          "reviews": 13,
+          "delta": 1
         }
       ]
     },
@@ -58,6 +76,12 @@
           "rank": "entertainment#30",
           "reviews": 16,
           "reviews_pm": 16
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "entertainment#52",
+          "reviews": 17,
+          "delta": 1
         }
       ]
     },
@@ -73,6 +97,12 @@
           "rank": "graphics-design#39",
           "reviews": 3,
           "reviews_pm": 3
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "graphics-design#43",
+          "reviews": 4,
+          "delta": 1
         }
       ]
     },
@@ -88,6 +118,12 @@
           "rank": "productivity#49",
           "reviews": 2,
           "reviews_pm": 2
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "productivity#76",
+          "reviews": 2,
+          "delta": 0
         }
       ]
     },
@@ -103,6 +139,12 @@
           "rank": "productivity#21",
           "reviews": 15,
           "reviews_pm": 15
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "productivity#42",
+          "reviews": 16,
+          "delta": 1
         }
       ]
     },
@@ -118,6 +160,12 @@
           "rank": "graphics-design#5",
           "reviews": 11,
           "reviews_pm": 11
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "graphics-design#5",
+          "reviews": 11,
+          "delta": 0
         }
       ]
     },
@@ -133,6 +181,12 @@
           "rank": "lifestyle#46",
           "reviews": 22,
           "reviews_pm": 22
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "out",
+          "reviews": 22,
+          "delta": 0
         }
       ]
     },
@@ -148,6 +202,12 @@
           "rank": "utilities#2",
           "reviews": 696,
           "reviews_pm": 696
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "utilities#2",
+          "reviews": 733,
+          "delta": 37
         }
       ]
     },
@@ -163,6 +223,12 @@
           "rank": "entertainment#49",
           "reviews": 26,
           "reviews_pm": 26
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "entertainment#44",
+          "reviews": 27,
+          "delta": 1
         }
       ]
     },
@@ -178,6 +244,12 @@
           "rank": "entertainment#41",
           "reviews": 43,
           "reviews_pm": 43
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "entertainment#35",
+          "reviews": 44,
+          "delta": 1
         }
       ]
     },
@@ -193,6 +265,12 @@
           "rank": "lifestyle#22",
           "reviews": 61,
           "reviews_pm": 61
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "lifestyle#49",
+          "reviews": 61,
+          "delta": 0
         }
       ]
     },
@@ -207,6 +285,12 @@
           "date": "2026-09-18",
           "rank": "health-fitness#1",
           "reviews": 1959
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "health-fitness#1",
+          "reviews": 2134,
+          "delta": 175
         }
       ]
     },
@@ -221,6 +305,12 @@
           "date": "2026-09-18",
           "rank": "entertainment#32",
           "reviews": 1996
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "entertainment#36",
+          "reviews": 2004,
+          "delta": 8
         }
       ]
     },
@@ -235,6 +325,26 @@
           "date": "2026-09-18",
           "rank": "health-fitness#43",
           "reviews": 10951
+        },
+        {
+          "date": "2026-09-19",
+          "rank": "health-fitness#47",
+          "reviews": 10968,
+          "delta": 17
+        }
+      ]
+    },
+    {
+      "id": "6795989020",
+      "name": "이게내연봉",
+      "seller": "JooWon Koh",
+      "first_seen": "2026-09-19",
+      "release_date": "2026-07-30",
+      "history": [
+        {
+          "date": "2026-09-19",
+          "rank": "finance#4",
+          "reviews": 2
         }
       ]
     }

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>재질 축 스와치</title>
+<style>
+  :root{--bg:#faf9f7;--fg:#1a1a1a;--mut:#6b6b6b;--line:#e2ded8;--card:#fff;}
+  @media (prefers-color-scheme:dark){:root{--bg:#141414;--fg:#ededed;--mut:#9a9a9a;--line:#2e2e2e;--card:#1d1d1d;}}
+  *{box-sizing:border-box}
+  body{margin:0;padding:24px 16px;background:var(--bg);color:var(--fg);
+       font:400 15px/1.6 -apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;}
+  .wrap{max-width:880px;margin:0 auto}
+  h1{font-size:20px;font-weight:600;margin:0 0 4px}
+  .sub{color:var(--mut);font-size:13px;margin:0 0 20px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px}
+  .cell{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;}
+  .name{font-size:13px;font-weight:600;margin:10px 0 2px}
+  .note{font-size:11.5px;color:var(--mut);line-height:1.45}
+  .chip{width:100%;aspect-ratio:1/1;border-radius:18px;position:relative;overflow:hidden;
+        border:1px solid rgba(0,0,0,.14)}
+  .pat{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none}
+  .pat b{width:26%;aspect-ratio:1;border-radius:50%;display:block}
+  .sec{margin:30px 0 12px;font-size:15px;font-weight:600;border-top:1px solid var(--line);padding-top:20px}
+  code{font:12px/1.5 ui-monospace,Menlo,monospace;background:rgba(127,127,127,.13);
+       padding:1px 5px;border-radius:4px}
+  .hint{font-size:12.5px;color:var(--mut);margin:8px 0 0}
+  .row{display:flex;gap:14px;flex-wrap:wrap;align-items:flex-start}
+  .big{width:210px}
+</style>
+<div class="wrap">
+<h1>금색은 색이 아니라 재질이다</h1>
+<p class="sub">마우스를 올리면 각도가 바뀐다 — 실제 기기에서는 CoreMotion 기울기로 같은 효과를 낸다.</p>
+
+<div class="row">
+  <div class="cell big">
+    <div class="chip" style="background:#FFD700"></div>
+    <div class="name">평면 #FFD700 ("gold")</div>
+    <div class="note">RGB 한 값. 그냥 노란색으로 보인다. 금속이라는 인상이 전혀 없다.</div>
+  </div>
+  <div class="cell big">
+    <div class="chip tilt" data-k="metal" style="--h:45"></div>
+    <div class="name">메탈릭 (같은 hue 45°)</div>
+    <div class="note">색상은 같다. 다른 건 <b>명도 밴딩</b> — 어두움→밝음→어두움이 반복된다. 이것만으로 금이 된다.</div>
+  </div>
+  <div class="cell big">
+    <div class="chip tilt" data-k="holo"></div>
+    <div class="name">홀로그램</div>
+    <div class="note">무지개 각도 그라디언트. 기울여야 살아난다 — 정지 이미지로는 절반도 안 담긴다.</div>
+  </div>
+</div>
+
+<div class="sec">재질 축 (색과 곱해진다)</div>
+<div class="grid" id="mat"></div>
+
+<div class="sec">같은 재질 × 다른 색상 — 금·은·동이 따로 필요 없다</div>
+<div class="grid" id="hue"></div>
+
+<div class="sec">무늬가 얹힌 상태 (상단색 / 하단색 분할 + 무늬)</div>
+<div class="grid" id="full"></div>
+
+<p class="hint">
+SwiftUI 대응: 메탈릭·펄은 <code>LinearGradient</code>, 홀로그램은 <code>AngularGradient</code>,
+야광은 어두운 배경 + <code>.blur</code> 레이어. 각도는 <code>CMMotionManager</code>의
+<code>attitude.roll</code>을 그라디언트 <code>angle</code>에 바로 물린다.
+</p>
+</div>
+
+<script>
+const G = {
+  matte:  h => `hsl(${h} 62% 52%)`,
+  gloss:  h => `linear-gradient(160deg, hsl(${h} 70% 68%) 0%, hsl(${h} 64% 50%) 42%, hsl(${h} 60% 44%) 100%)`,
+  pearl:  h => `linear-gradient(140deg, hsl(${h} 45% 88%) 0%, hsl(${h} 38% 72%) 35%, hsl(${h} 50% 84%) 62%, hsl(${h} 35% 70%) 100%)`,
+  metal:  h => `linear-gradient(var(--a,120deg),
+      hsl(${h} 55% 26%) 0%, hsl(${h} 72% 50%) 14%, hsl(${h} 90% 82%) 26%,
+      hsl(${h} 70% 46%) 38%, hsl(${h} 50% 24%) 52%, hsl(${h} 78% 58%) 68%,
+      hsl(${h} 95% 88%) 78%, hsl(${h} 65% 42%) 90%, hsl(${h} 50% 28%) 100%)`,
+  holo:   () => `conic-gradient(from var(--a,0deg),
+      #ff5f6d, #ffc371, #f9f871, #62ffa8, #47d6ff, #7b6cff, #e86cff, #ff5f6d)`,
+  glow:   h => `radial-gradient(circle at 50% 45%, hsl(${h} 100% 72%) 0%, hsl(${h} 90% 52%) 45%, hsl(${h} 70% 22%) 100%)`
+};
+const MAT = [
+  ["무광","matte",200,"단색 하나. 가장 흔하게."],
+  ["유광","gloss",200,"단색 + 상단 하이라이트."],
+  ["펄","pearl",300,"부드러운 다중 밴딩. 은은하다."],
+  ["메탈릭","metal",45,"강한 명도 밴딩. 각도 반응."],
+  ["홀로그램","holo",0,"무지개 각도. 각도 반응."],
+  ["야광","glow",130,"어두울 때 발광. 중앙이 밝다."]
+];
+const HUE = [["금","metal",45],["은","metal",210],["동","metal",22],
+             ["보라 메탈릭","metal",280],["청록 메탈릭","metal",170],["핑크 메탈릭","metal",330]];
+
+function chip(kind,h){
+  const d=document.createElement('div');
+  d.className='chip'+((kind==='metal'||kind==='holo')?' tilt':'');
+  d.dataset.k=kind; d.style.setProperty('--h',h);
+  d.style.background=G[kind](h);
+  return d;
+}
+function cell(host,label,kind,h,note){
+  const c=document.createElement('div'); c.className='cell';
+  c.appendChild(chip(kind,h));
+  c.insertAdjacentHTML('beforeend',
+    `<div class="name">${label}</div>`+(note?`<div class="note">${note}</div>`:''));
+  host.appendChild(c);
+}
+MAT.forEach(([n,k,h,note])=>cell(document.getElementById('mat'),n,k,h,note));
+HUE.forEach(([n,k,h])=>cell(document.getElementById('hue'),n,k,h));
+
+const SHAPE={dot:'50%',square:'14%',diamond:'14%'};
+[["무광 파랑 / 무광 남색 · 점 3","matte",210,240,"matte",55,3,'dot'],
+ ["메탈릭 금 / 무광 갈색 · 점 1","metal",45,28,"matte",40,1,'dot'],
+ ["홀로그램 / 무광 검정 · 점 7","holo",0,0,"matte",0,7,'dot'],
+ ["펄 분홍 / 유광 자주 · 사각 2","pearl",330,310,"gloss",280,2,'square'],
+ ["유광 초록 / 메탈릭 은 · 점 5","gloss",140,210,"metal",210,5,'dot'],
+ ["야광 연두 / 무광 검정 · 마름모 4","glow",100,0,"matte",0,4,'diamond']
+].forEach(([label,tk,th,bh,pk,ph,n,shape])=>{
+  const c=document.createElement('div'); c.className='cell';
+  const wrap=document.createElement('div');
+  wrap.className='chip'+((tk==='metal'||tk==='holo')?' tilt':'');
+  wrap.dataset.k=tk; wrap.style.setProperty('--h',th);
+  wrap.style.background=G[tk](th);
+  const bot=document.createElement('div');
+  bot.style.cssText=`position:absolute;left:0;right:0;bottom:0;height:42%;background:${G.matte(bh)}`;
+  wrap.appendChild(bot);
+  const pat=document.createElement('div'); pat.className='pat';
+  pat.style.cssText+=';display:flex;gap:5%;flex-wrap:wrap;justify-content:center;align-items:center;padding:16%';
+  for(let i=0;i<n;i++){
+    const b=document.createElement('b');
+    b.style.background=G[pk](ph);
+    b.style.borderRadius=SHAPE[shape];
+    if(shape==='diamond') b.style.transform='rotate(45deg)';
+    b.style.width='18%';
+    pat.appendChild(b);
+  }
+  wrap.appendChild(pat);
+  c.appendChild(wrap);
+  c.insertAdjacentHTML('beforeend',`<div class="name">${label}</div>`);
+  document.getElementById('full').appendChild(c);
+});
+
+document.addEventListener('mousemove',e=>{
+  const a=(e.clientX/window.innerWidth)*360;
+  document.querySelectorAll('.tilt').forEach(el=>{
+    const k=el.dataset.k, h=el.style.getPropertyValue('--h')||0;
+    el.style.setProperty('--a', k==='holo' ? a+'deg' : (60+a*0.5)+'deg');
+    el.style.background = G[k](h);
+  });
+});
+</script>

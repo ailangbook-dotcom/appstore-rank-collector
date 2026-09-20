@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "apps": [
     {
       "id": "6793831470",
@@ -19,6 +19,13 @@
           "rank": "entertainment#57",
           "reviews": 5,
           "delta": 0
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "out",
+          "reviews": 7,
+          "delta": 2,
+          "version": "1.0.10"
         }
       ]
     },
@@ -40,6 +47,13 @@
           "rank": "graphics-design#20",
           "reviews": 20,
           "delta": 0
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "graphics-design#32",
+          "reviews": 20,
+          "delta": 0,
+          "version": "1.2.4"
         }
       ]
     },
@@ -61,6 +75,13 @@
           "rank": "health-fitness#59",
           "reviews": 13,
           "delta": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "out",
+          "reviews": 14,
+          "delta": 1,
+          "version": "1.8"
         }
       ]
     },
@@ -82,6 +103,13 @@
           "rank": "entertainment#52",
           "reviews": 17,
           "delta": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "out",
+          "reviews": 18,
+          "delta": 1,
+          "version": "1.0.6"
         }
       ]
     },
@@ -103,6 +131,13 @@
           "rank": "graphics-design#43",
           "reviews": 4,
           "delta": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "graphics-design#42",
+          "reviews": 3,
+          "delta": -1,
+          "version": "1.0.2"
         }
       ]
     },
@@ -124,6 +159,13 @@
           "rank": "productivity#76",
           "reviews": 2,
           "delta": 0
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "out",
+          "reviews": 2,
+          "delta": 0,
+          "version": "2.0.0"
         }
       ]
     },
@@ -145,6 +187,13 @@
           "rank": "productivity#42",
           "reviews": 16,
           "delta": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "productivity#62",
+          "reviews": 17,
+          "delta": 1,
+          "version": "v1.1.0"
         }
       ]
     },
@@ -166,6 +215,13 @@
           "rank": "graphics-design#5",
           "reviews": 11,
           "delta": 0
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "graphics-design#10",
+          "reviews": 11,
+          "delta": 0,
+          "version": "1.0.5"
         }
       ]
     },
@@ -187,6 +243,13 @@
           "rank": "out",
           "reviews": 22,
           "delta": 0
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "out",
+          "reviews": 22,
+          "delta": 0,
+          "version": "1.7.23"
         }
       ]
     },
@@ -208,6 +271,13 @@
           "rank": "utilities#2",
           "reviews": 733,
           "delta": 37
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "utilities#6",
+          "reviews": 751,
+          "delta": 18,
+          "version": "1.3.7"
         }
       ]
     },
@@ -229,6 +299,13 @@
           "rank": "entertainment#44",
           "reviews": 27,
           "delta": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "entertainment#36",
+          "reviews": 28,
+          "delta": 1,
+          "version": "1.3.2"
         }
       ]
     },
@@ -250,6 +327,13 @@
           "rank": "entertainment#35",
           "reviews": 44,
           "delta": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "entertainment#24",
+          "reviews": 43,
+          "delta": -1,
+          "version": "1.0.19"
         }
       ]
     },
@@ -271,6 +355,13 @@
           "rank": "lifestyle#49",
           "reviews": 61,
           "delta": 0
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "lifestyle#53",
+          "reviews": 63,
+          "delta": 2,
+          "version": "1.10.2"
         }
       ]
     },
@@ -291,6 +382,13 @@
           "rank": "health-fitness#1",
           "reviews": 2134,
           "delta": 175
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "health-fitness#1",
+          "reviews": 2228,
+          "delta": 94,
+          "version": "1.0.25"
         }
       ]
     },
@@ -311,6 +409,13 @@
           "rank": "entertainment#36",
           "reviews": 2004,
           "delta": 8
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "entertainment#41",
+          "reviews": 2015,
+          "delta": 11,
+          "version": "1.28.1"
         }
       ]
     },
@@ -331,6 +436,13 @@
           "rank": "health-fitness#47",
           "reviews": 10968,
           "delta": 17
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "health-fitness#49",
+          "reviews": 10981,
+          "delta": 13,
+          "version": "2.19.2"
         }
       ]
     },
@@ -345,6 +457,13 @@
           "date": "2026-09-19",
           "rank": "finance#4",
           "reviews": 2
+        },
+        {
+          "date": "2026-09-20",
+          "rank": "finance#3",
+          "reviews": 9,
+          "delta": 7,
+          "version": "1.3.0"
         }
       ]
     }

@@ -1,0 +1,1611 @@
+{
+  "collected_at": "2026-09-20T18:10:00.097954+09:00",
+  "date": "2026-09-20",
+  "country": "nz",
+  "chart": "top-free",
+  "category": "finance",
+  "genre_id": 6015,
+  "count": 100,
+  "apps": [
+    {
+      "rank": 1,
+      "id": "612261027",
+      "name": "Wise - Global Money",
+      "developer": "Wise Payments Ltd",
+      "url": "https://apps.apple.com/nz/app/wise-global-money/id612261027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c1/c8/35c1c841-d51b-dd76-eaa9-f3a77becbd4f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-10-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "932493382",
+      "name": "Revolut: Spend, send and save",
+      "developer": "Revolut Ltd",
+      "url": "https://apps.apple.com/nz/app/revolut-spend-send-and-save/id932493382?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/7c/14/1f7c1428-a432-8d16-9b55-0cb08bd77575/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-03-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "1571805487",
+      "name": "Sharesies: Grow your wealth",
+      "developer": "Sharesies",
+      "url": "https://apps.apple.com/nz/app/sharesies-grow-your-wealth/id1571805487?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/78/80/8e788040-16ba-d78c-9dc5-201c508a5fb6/AppIcon-Release-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-01-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "685125525",
+      "name": "ANZ goMoney New Zealand",
+      "developer": "ANZ Bank New Zealand Limited",
+      "url": "https://apps.apple.com/nz/app/anz-gomoney-new-zealand/id685125525?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/26/a1/4026a130-bd8c-b3f8-371b-eef0e24ee0dd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-09-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "283646709",
+      "name": "PayPal - Send, Manage, Pay",
+      "developer": "PayPal, Inc.",
+      "url": "https://apps.apple.com/nz/app/paypal-send-manage-pay/id283646709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d1/36/1dd13639-7422-c1ad-adc7-ff8e7e11c04d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "434348489",
+      "name": "ASB Mobile Banking",
+      "developer": "ASB Bank Limited",
+      "url": "https://apps.apple.com/nz/app/asb-mobile-banking/id434348489?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/e2/cb/8ee2cb65-2850-82c9-876b-a0aa1874ecc3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2011-05-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "1115120118",
+      "name": "Klarna | Smarter payments",
+      "developer": "Klarna Bank AB",
+      "url": "https://apps.apple.com/nz/app/klarna-smarter-payments/id1115120118?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/9a/2f/f89a2f8c-8d5d-71a3-5681-cb5159e73a20/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-22",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "443045792",
+      "name": "BNZ Mobile",
+      "developer": "Bank of New Zealand",
+      "url": "https://apps.apple.com/nz/app/bnz-mobile/id443045792?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/1d/bf/5a1dbfe5-4b7c-45cf-24f7-f8fce67793d5/PersonalAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-06-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "6746389752",
+      "name": "Feijoa",
+      "developer": "Feijoa",
+      "url": "https://apps.apple.com/nz/app/feijoa/id6746389752?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ba/45/a4ba45b2-6633-b9da-227e-bb96b2658e62/GlassAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-09-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "504216653",
+      "name": "Kiwibank Mobile Banking",
+      "developer": "Kiwibank Limited",
+      "url": "https://apps.apple.com/nz/app/kiwibank-mobile-banking/id504216653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/2b/91/cc2b917e-5df5-10f7-a8ed-43dc0b750366/KiwibankAppIcon-0-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2012-05-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "1373059866",
+      "name": "Latitude App",
+      "developer": "Latitude Financial Services Australia Holdings Pty Ltd",
+      "url": "https://apps.apple.com/nz/app/latitude-app/id1373059866?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/82/49/8582497b-1853-2e44-4554-a8486bc0c8fd/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-09-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "997576572",
+      "name": "AMI",
+      "developer": "IAG New Zealand Limited",
+      "url": "https://apps.apple.com/nz/app/ami/id997576572?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/c7/e4/d3c7e410-ebe3-b6c3-974a-c81fa6953cfb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-06-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "458023433",
+      "name": "Splitwise",
+      "developer": "Splitwise, Inc.",
+      "url": "https://apps.apple.com/nz/app/splitwise/id458023433?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/46/6c/dd466ca1-c67b-6e52-5aec-5321a4c31d4f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-08-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "510251434",
+      "name": "Westpac One NZ Mobile Banking",
+      "developer": "Westpac New Zealand Limited",
+      "url": "https://apps.apple.com/nz/app/westpac-one-nz-mobile-banking/id510251434?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/e1/e8/2be1e83f-4b53-0bce-7c01-2a89e08140f3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/100x100bb.png",
+      "release_date": "2012-04-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "674258465",
+      "name": "Remitly: Send money overseas",
+      "developer": "Remitly Inc",
+      "url": "https://apps.apple.com/nz/app/remitly-send-money-overseas/id674258465?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/04/c3/8c04c31b-2515-002c-b741-396a4de37942/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "1326690384",
+      "name": "ASB ID",
+      "developer": "ASB Bank Limited",
+      "url": "https://apps.apple.com/nz/app/asb-id/id1326690384?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/12/fc/a512fc1a-1d90-e174-845d-7f3cdc794e70/AppIcon-0-0-1x_U007emarketing-0-6-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2018-11-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "6759945604",
+      "name": "Kernel Wealth",
+      "developer": "Kernel Wealth",
+      "url": "https://apps.apple.com/nz/app/kernel-wealth/id6759945604?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/89/24/c7892428-6bea-858e-094a-fba7b6062fbb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "6741115427",
+      "name": "fomo - never miss out",
+      "developer": "fomo labs, inc",
+      "url": "https://apps.apple.com/nz/app/fomo-never-miss-out/id6741115427?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/c2/36/19c23643-69bc-f3bf-5cb8-3266ac024ef3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "1226778839",
+      "name": "Western Union New Zealand",
+      "developer": "Western Union Holdings, Inc.",
+      "url": "https://apps.apple.com/nz/app/western-union-new-zealand/id1226778839?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/65/bb/1065bb84-6495-02f5-e281-638a51cdd867/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
+      "release_date": "2017-04-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "1156875272",
+      "name": "Suica",
+      "developer": "East Japan Railway Company",
+      "url": "https://apps.apple.com/nz/app/suica/id1156875272?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/31/01/473101ed-564d-3f13-3c8b-3a1d9cd60880/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-10-23",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "1205990992",
+      "name": "TradingView: Track All Markets",
+      "developer": "TradingView",
+      "url": "https://apps.apple.com/nz/app/tradingview-track-all-markets/id1205990992?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/59/53/a65953c9-4e9f-07ad-854a-53eda0c02a10/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "995079326",
+      "name": "State",
+      "developer": "IAG New Zealand Limited",
+      "url": "https://apps.apple.com/nz/app/state/id995079326?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/d0/57/66d057e0-f554-fea2-8c10-2f8678a04e29/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-06-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "417962622",
+      "name": "Plus500: AU & Global Trading",
+      "developer": "Plus500 Ltd",
+      "url": "https://apps.apple.com/nz/app/plus500-au-global-trading/id417962622?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/25/56/f62556f3-2e4f-b585-e515-6732ed73b5f3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-01-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "1144272918",
+      "name": "Q Mastercard",
+      "developer": "Flexi Cards Limited",
+      "url": "https://apps.apple.com/nz/app/q-mastercard/id1144272918?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/9c/01/d89c0106-024c-9798-9f7e-370654c705ed/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2016-09-22",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "6758353111",
+      "name": "Simplicity",
+      "developer": "Simplicity NZ LTD",
+      "url": "https://apps.apple.com/nz/app/simplicity/id6758353111?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1c/48/c01c4872-b8f4-bfc7-1ff2-a72364e16a31/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-04-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "1455800098",
+      "name": "Zip NZ - Shop Now, Pay Later",
+      "developer": "zip.co",
+      "url": "https://apps.apple.com/nz/app/zip-nz-shop-now-pay-later/id1455800098?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/2d/01/792d015c-19e4-91c1-a169-513c9f297d9e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-06-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "1516986805",
+      "name": "Swyftx: Buy Bitcoin, ETH & SOL",
+      "developer": "Swyftx Pty Ltd",
+      "url": "https://apps.apple.com/nz/app/swyftx-buy-bitcoin-eth-sol/id1516986805?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2c/43/272c43e5-059a-3e0d-42c9-c56e38fd55f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-09-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "1049066729",
+      "name": "Amex New Zealand",
+      "developer": "American Express",
+      "url": "https://apps.apple.com/nz/app/amex-new-zealand/id1049066729?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ae/04/c6ae04ab-8fe8-31f9-2a3c-fe4acf066dda/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "1451761596",
+      "name": "Hnry",
+      "developer": "Hnry Limited",
+      "url": "https://apps.apple.com/nz/app/hnry/id1451761596?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/d6/77/15d677a7-c98f-3907-1e30-abca022f55be/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "1436799971",
+      "name": "Binance: Buy Bitcoin & Crypto",
+      "developer": "Binance Switzerland AG",
+      "url": "https://apps.apple.com/nz/app/binance-buy-bitcoin-crypto/id1436799971?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/88/88/108888be-fc52-0a63-8e43-0d5da9b6d80c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "6444542249",
+      "name": "Generate KiwiSaver",
+      "developer": "Generate KiwiSaver",
+      "url": "https://apps.apple.com/nz/app/generate-kiwisaver/id6444542249?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/42/dd/d342dd76-de24-9f51-00ea-aafbd562e657/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-05-07",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1179170506",
+      "name": "Booster NZ",
+      "developer": "Booster Financial Services Ltd",
+      "url": "https://apps.apple.com/nz/app/booster-nz/id1179170506?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/c2/e6/d3c2e658-86af-f642-c5cd-7be6f30c7783/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-03-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "1510862201",
+      "name": "Xero Verify",
+      "developer": "Xero Ltd",
+      "url": "https://apps.apple.com/nz/app/xero-verify/id1510862201?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/8a/a4/2a8aa462-14ca-d867-6c86-df76d7d1290c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "1495738612",
+      "name": "ANZ Plus",
+      "developer": "ANZ Banking Group Limited",
+      "url": "https://apps.apple.com/nz/app/anz-plus/id1495738612?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/56/5d/d7565def-5f45-9a18-f224-a5c766e56286/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-08-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "6738336566",
+      "name": "Welcome Suica Mobile",
+      "developer": "East Japan Railway Company",
+      "url": "https://apps.apple.com/nz/app/welcome-suica-mobile/id6738336566?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/75/f6/cc75f6a1-58d6-bd10-0881-737caa24d850/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1598432977",
+      "name": "Phantom: Trading Wallet",
+      "developer": "Phantom Technologies Incorporated",
+      "url": "https://apps.apple.com/nz/app/phantom-trading-wallet/id1598432977?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/97/52/f697526a-4680-4e44-a772-9eafc606f88c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-01-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "6752740187",
+      "name": "Collect - Settlement Finder",
+      "developer": "Ferrix Labs Inc.",
+      "url": "https://apps.apple.com/nz/app/collect-settlement-finder/id6752740187?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/97/1a/d5971aa7-2b02-c18f-9e59-f0c2e0a6b4c7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2025-12-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "6801469335",
+      "name": "ChickFund Goal Jar",
+      "developer": "LOVEPREET SINGH",
+      "url": "https://apps.apple.com/nz/app/chickfund-goal-jar/id6801469335?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/5d/d7/b35dd77c-480f-5fe7-985a-5d216b2434cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "310251202",
+      "name": "CommBank",
+      "developer": "Commonwealth Bank of Australia",
+      "url": "https://apps.apple.com/nz/app/commbank/id310251202?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/5b/ce/005bcece-367f-c5d0-4372-ad9001ab609d/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2009-04-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "1553399999",
+      "name": "SquareOne - Youth Money",
+      "developer": "Emerge Group Limited",
+      "url": "https://apps.apple.com/nz/app/squareone-youth-money/id1553399999?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/8f/99/348f99e1-78da-84aa-46f8-6ebd4ae8b167/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2021-11-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "936422955",
+      "name": "Buddy: Money & Budget Planner",
+      "developer": "Buddy Budgeting AB",
+      "url": "https://apps.apple.com/nz/app/buddy-money-budget-planner/id936422955?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/ff/aa/70ffaa4f-a894-b89c-b98e-3557c834d76c/Buddy-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-11-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "1023600494",
+      "name": "Tiger Trade: Buy US&ASX shares",
+      "developer": "Tiger Trade Technology Pte Ltd",
+      "url": "https://apps.apple.com/nz/app/tiger-trade-buy-us-asx-shares/id1023600494?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/5d/da/545dda6a-bb9f-339b-4075-54ed50f206cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-08-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "6444322833",
+      "name": "Fisher Funds",
+      "developer": "Fisher Funds Management Limited",
+      "url": "https://apps.apple.com/nz/app/fisher-funds/id6444322833?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/82/fd/0e82fd8a-5e9d-8ce9-ed8f-83762d6d1ab2/AppIcon-prod-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2023-07-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1488273458",
+      "name": "Milford",
+      "developer": "Milford Asset Management Limited",
+      "url": "https://apps.apple.com/nz/app/milford/id1488273458?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/11/32/46113268-aac5-0a53-9beb-eae60a3fa966/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-12-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1056640628",
+      "name": "ClearScore – Credit Score",
+      "developer": "Clear Score Technology Ltd.",
+      "url": "https://apps.apple.com/nz/app/clearscore-credit-score/id1056640628?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b7/02/88b7022a-9ddd-36b5-c6b0-be8f4a247818/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-06-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "6443869328",
+      "name": "Aera: First home training club",
+      "developer": "Aera Mobile",
+      "url": "https://apps.apple.com/nz/app/aera-first-home-training-club/id6443869328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/e1/87/2be187a8-baef-ab11-4337-35451f4c3d31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "1350309294",
+      "name": "iPayroll Kiosk",
+      "developer": "iPayroll",
+      "url": "https://apps.apple.com/nz/app/ipayroll-kiosk/id1350309294?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/43/26/a34326ec-fff3-1e6c-8bc9-6682ba5230ba/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.jpeg/100x100bb.png",
+      "release_date": "2018-12-09",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1401756383",
+      "name": "Heartland Mobile App - NZ",
+      "developer": "Heartland Bank Limited",
+      "url": "https://apps.apple.com/nz/app/heartland-mobile-app-nz/id1401756383?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/bb/5e/b4bb5e94-222c-765e-9b09-7ea9597d8cf7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-07-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "6751225067",
+      "name": "Gocrypto: Crypto Trading",
+      "developer": "Gocrypto: Crypto Trading and Mining Simulator & Academy",
+      "url": "https://apps.apple.com/nz/app/gocrypto-crypto-trading/id6751225067?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/f0/c3/79f0c340-0bdd-4eac-5093-ffc1a8104088/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "6452397222",
+      "name": "BudgetBuddie",
+      "developer": "YetiTech Limited",
+      "url": "https://apps.apple.com/nz/app/budgetbuddie/id6452397222?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6d/7a/9e6d7a48-536f-9e95-8bb7-9dfb55161a0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1551072628",
+      "name": "Dosh",
+      "developer": "MCA Investments Limited",
+      "url": "https://apps.apple.com/nz/app/dosh/id1551072628?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/78/2a/5a782a84-1742-4583-4e19-cc1ef7a9b876/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-10-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "454558592",
+      "name": "IBKR Mobile - Invest Worldwide",
+      "developer": "Interactive Brokers LLC",
+      "url": "https://apps.apple.com/nz/app/ibkr-mobile-invest-worldwide/id454558592?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/eb/22/c4eb22fc-92e3-aad5-6d01-f219903b4904/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-08-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1327268470",
+      "name": "OKX: Buy Bitcoin BTC & Crypto",
+      "developer": "OKX Inc.",
+      "url": "https://apps.apple.com/nz/app/okx-buy-bitcoin-btc-crypto/id1327268470?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/77/23/44772332-f677-6478-ce35-903516a4ef63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-01-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1159515083",
+      "name": "PocketSmith Sidekick",
+      "developer": "PocketSmith",
+      "url": "https://apps.apple.com/nz/app/pocketsmith-sidekick/id1159515083?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/4a/f3/044af316-3899-1e28-3504-148fec39d820/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2016-11-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "1590031328",
+      "name": "Smartly",
+      "developer": "SmartPayroll",
+      "url": "https://apps.apple.com/nz/app/smartly/id1590031328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/77/6225773a-e8fe-fbf8-bdfb-df93047ae26c/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
+      "release_date": "2021-11-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1465666036",
+      "name": "Farmers Mastercard",
+      "developer": "Flexi Cards Limited",
+      "url": "https://apps.apple.com/nz/app/farmers-mastercard/id1465666036?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/ef/c6/0aefc6d0-e3bf-9779-38d7-a650670f1f93/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-05-31",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1546446105",
+      "name": "Blossom – Save & Invest.",
+      "developer": "Blossomapp PTY LTD",
+      "url": "https://apps.apple.com/nz/app/blossom-save-invest/id1546446105?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/95/fc/2a95fc6a-f964-0527-bcf2-02969ad8a2a9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-04-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1406211993",
+      "name": "Ember - Free Games. Big Wins.",
+      "developer": "Ember Fund LLC",
+      "url": "https://apps.apple.com/nz/app/ember-free-games-big-wins/id1406211993?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/43/06/b74306c6-1742-9c9c-f1f1-dcef5be0a702/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-09",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "1500360633",
+      "name": "XTrend Speed Trading",
+      "developer": "RYNAT CAPITAL (PTY) Ltd",
+      "url": "https://apps.apple.com/nz/app/xtrend-speed-trading/id1500360633?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/70/82/5c708225-5273-41b3-814d-612d58183c0e/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-01-23",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "349866256",
+      "name": "tricount: Split & Settle Bills",
+      "developer": "Tricount",
+      "url": "https://apps.apple.com/nz/app/tricount-split-settle-bills/id349866256?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2010-02-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "469964520",
+      "name": "Lloyds Mobile Banking",
+      "developer": "Lloyds Banking Group",
+      "url": "https://apps.apple.com/nz/app/lloyds-mobile-banking/id469964520?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/6e/cd/866ecd99-2f64-f58e-fc34-6fa3f18f9f7f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-05-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "950053494",
+      "name": "OrbitRemit Money Transfer",
+      "developer": "OrbitRemit Ltd",
+      "url": "https://apps.apple.com/nz/app/orbitremit-money-transfer/id950053494?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/d1/73/48d173c7-b510-2589-f0eb-27399c45f20e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-02-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6749724198",
+      "name": "MoneyGram Money Transfers",
+      "developer": "MoneyGram International, Inc.",
+      "url": "https://apps.apple.com/nz/app/moneygram-money-transfers/id6749724198?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/32/cd/3432cdd9-ce6a-8da1-f1a3-b96f5ad2152b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "581811390",
+      "name": "BNZ Mobile Business Banking",
+      "developer": "Bank of New Zealand",
+      "url": "https://apps.apple.com/nz/app/bnz-mobile-business-banking/id581811390?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/5f/1e/a75f1edf-ce30-e9ee-36fe-e3f3a5392515/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2012-12-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1038767901",
+      "name": "MyAMP NZ",
+      "developer": "AMP NZ limited",
+      "url": "https://apps.apple.com/nz/app/myamp-nz/id1038767901?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/59/2f/42592fec-f9fa-3a5a-8253-0a7120c32f2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "886427730",
+      "name": "Coinbase: Buy BTC, ETH, SOL",
+      "developer": "Coinbase, Inc.",
+      "url": "https://apps.apple.com/nz/app/coinbase-buy-btc-eth-sol/id886427730?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/e1/6e/23e16e52-7a9f-cc6b-2118-2d926ea6c66b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-06-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6529524926",
+      "name": "My Extraordinary App",
+      "developer": "HealthNow",
+      "url": "https://apps.apple.com/nz/app/my-extraordinary-app/id6529524926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/cd/8d/a8cd8d16-623e-569a-a612-7834fb3c917a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-08-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1488296980",
+      "name": "Bybit: Buy Crypto & Bitcoin",
+      "developer": "Bybit Fintech Limited",
+      "url": "https://apps.apple.com/nz/app/bybit-buy-crypto-bitcoin/id1488296980?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/79/f0/f979f0da-416b-d769-4485-2fb63c6b42ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-01-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "299111811",
+      "name": "Westpac",
+      "developer": "Westpac Banking Corporation",
+      "url": "https://apps.apple.com/nz/app/westpac/id299111811?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/12/77/ac127778-3303-a6a5-e07e-cebc6cf79e88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2008-12-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1262148500",
+      "name": "Crypto.com: Buy BTC, ETH & CRO",
+      "developer": "Crypto.com",
+      "url": "https://apps.apple.com/nz/app/crypto-com-buy-btc-eth-cro/id1262148500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/d8/2d/21d82d1c-0334-a3b4-a450-93ddb07c40cc/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-08-31",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "413251709",
+      "name": "MetaTrader 5",
+      "developer": "MetaQuotes Software Corp.",
+      "url": "https://apps.apple.com/nz/app/metatrader-5/id413251709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-01-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "1288339409",
+      "name": "Trust: Crypto & Bitcoin Wallet",
+      "developer": "DApps Platform Software Services Ltd.",
+      "url": "https://apps.apple.com/nz/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/15/3d/c7153d57-d5bf-19e6-c99b-02d552020771/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1008842996",
+      "name": "Travelex Travel Money",
+      "developer": "Travelex Global",
+      "url": "https://apps.apple.com/nz/app/travelex-travel-money/id1008842996?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/b6/95/0eb69578-1390-da81-679e-c75eb8836ed9/AppIconTravelex-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-07-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1065921908",
+      "name": "Ria Money Transfer",
+      "developer": "Ria Envia Inc.",
+      "url": "https://apps.apple.com/nz/app/ria-money-transfer/id1065921908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/ab/7d/2cab7d14-d157-065f-ebd5-6bbadfca1c31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-02-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "718248239",
+      "name": "Skrill - Wallet App",
+      "developer": "Skrill Ltd.",
+      "url": "https://apps.apple.com/nz/app/skrill-wallet-app/id718248239?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/9b/f9/d79bf957-c75c-ab0c-e1f9-83c4643afc10/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2013-10-28",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1505492952",
+      "name": "Octopus for Tourists",
+      "developer": "Octopus Cards",
+      "url": "https://apps.apple.com/nz/app/octopus-for-tourists/id1505492952?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/93/48/c593483f-46f9-d424-e765-ec5fe83d7c61/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6466778991",
+      "name": "Easy Crypto Wallet: Buy BTC",
+      "developer": "Dott Enterprises Ltd.",
+      "url": "https://apps.apple.com/nz/app/easy-crypto-wallet-buy-btc/id6466778991?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/42/49/634249e0-7c79-536c-3cea-31101eb9ece2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "897754041",
+      "name": "The Co-operative Bank (NZ)",
+      "developer": "The Co-operative Bank (New Zealand)",
+      "url": "https://apps.apple.com/nz/app/the-co-operative-bank-nz/id897754041?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/36/78/313678f4-a367-0599-78d7-9145e35cb37f/AppIcon-Production-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2014-07-28",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "315241195",
+      "name": "Xe Money Transfer & Currency",
+      "developer": "XE.com Inc.",
+      "url": "https://apps.apple.com/nz/app/xe-money-transfer-currency/id315241195?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/1c/7f/481c7f26-ea8c-dafa-57db-a1d56364f807/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2009-05-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "6737245340",
+      "name": "Payap",
+      "developer": "Centrapay",
+      "url": "https://apps.apple.com/nz/app/payap/id6737245340?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/3f/61/6a3f615e-2d6c-669a-08d7-7e3537a22d54/AppIcon-Prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "600273928",
+      "name": "UnionPay APP",
+      "developer": "中国银联",
+      "url": "https://apps.apple.com/nz/app/unionpay-app/id600273928?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/12/18/9b121847-ff76-5ebf-62fd-1b8a6a346222/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2013-03-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "6752380344",
+      "name": "moomoo - Trade & Invest",
+      "developer": "Moomoo Technologies Inc.",
+      "url": "https://apps.apple.com/nz/app/moomoo-trade-invest/id6752380344?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ea/4e/24ea4e8f-a7bb-b0e8-0465-6157547f0428/AppIcon-MooMoo-NZ-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-11-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "520020791",
+      "name": "GCash",
+      "developer": "MYNT, INC.",
+      "url": "https://apps.apple.com/nz/app/gcash/id520020791?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c5/93/9ec59340-8ba8-6873-560d-d03589c29390/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-05-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1563772058",
+      "name": "Currency Converter by Wise",
+      "developer": "Wise Payments Ltd",
+      "url": "https://apps.apple.com/nz/app/currency-converter-by-wise/id1563772058?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/86/52/d5865297-c584-7a00-50e0-4836b7884d78/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-10-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6473522959",
+      "name": "SA Traveller Management System",
+      "developer": "South African Revenue Service",
+      "url": "https://apps.apple.com/nz/app/sa-traveller-management-system/id6473522959?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/c1/79/6ac17947-cfeb-522c-ec64-600052435a5d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-12-11",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "6590609636",
+      "name": "Moreta Pay",
+      "developer": "Moreta Global Inc.",
+      "url": "https://apps.apple.com/nz/app/moreta-pay/id6590609636?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/54/95/085495b3-8cd7-4ae9-260a-4996afb5f4d9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-07-31",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1170055821",
+      "name": "PhonePe: UPI & Credit Card App",
+      "developer": "PHONEPE PRIVATE LIMITED",
+      "url": "https://apps.apple.com/nz/app/phonepe-upi-credit-card-app/id1170055821?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/3d/3c/7f3d3c97-f3f7-7c2a-0223-8388a2de1f21/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2017-01-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "1033426084",
+      "name": "TSB Bank Ltd Mobile Banking",
+      "developer": "TSB Bank Limited",
+      "url": "https://apps.apple.com/nz/app/tsb-bank-ltd-mobile-banking/id1033426084?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/84/3b/94843b89-29c1-c468-20b9-1f88ba43c5b1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "6667094041",
+      "name": "Avanti Finance",
+      "developer": "Avanti Finance Limited",
+      "url": "https://apps.apple.com/nz/app/avanti-finance/id6667094041?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/ae/eb/b6aeeb24-9521-e542-0d9f-d34d5f165d0d/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2024-10-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "1628080108",
+      "name": "XTrend Pro Trading&Investment",
+      "developer": "TOPLINE LIMITED",
+      "url": "https://apps.apple.com/nz/app/xtrend-pro-trading-investment/id1628080108?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/2b/28/e32b2889-75c2-e1d9-5fcb-2b6bbbb24404/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6758410344",
+      "name": "Buffer Builder by Sorted",
+      "developer": "CAP Initiatives Limited",
+      "url": "https://apps.apple.com/nz/app/buffer-builder-by-sorted/id6758410344?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/36/f9/aa36f98c-d4b5-2823-dad6-7137206604f5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-28",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "875855935",
+      "name": "WorldRemit Send Money Overseas",
+      "developer": "WorldRemit",
+      "url": "https://apps.apple.com/nz/app/worldremit-send-money-overseas/id875855935?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/08/a7/c308a7b3-9173-3ed6-5457-297f5cf6984a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2014-09-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1623228342",
+      "name": "Link: A smarter way to pay",
+      "developer": "Stripe, LLC",
+      "url": "https://apps.apple.com/nz/app/link-a-smarter-way-to-pay/id1623228342?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/60/40/0f604002-c912-68f8-4614-2b3ce703983c/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-04-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "1481947260",
+      "name": "Kraken: Buy Crypto & Bitcoin",
+      "developer": "Kraken",
+      "url": "https://apps.apple.com/nz/app/kraken-buy-crypto-bitcoin/id1481947260?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/af/b6/5bafb63c-d272-0d2f-97fd-5fcd959fc88b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-12-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "664461825",
+      "name": "Australian Taxation Office",
+      "developer": "Australian Taxation Office",
+      "url": "https://apps.apple.com/nz/app/australian-taxation-office/id664461825?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b6/41/cbb64183-6fb3-440d-03c6-e75bfa6fcecb/app_icon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2013-06-28",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1525179720",
+      "name": "Spending Tracker - Budget App",
+      "developer": "InnerGrow",
+      "url": "https://apps.apple.com/nz/app/spending-tracker-budget-app/id1525179720?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/62/bb/5262bb8e-32f8-2ac1-4f44-0763cef11529/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-08-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6450400554",
+      "name": "BlackBull Client Portal",
+      "developer": "Black Bull Group Limited",
+      "url": "https://apps.apple.com/nz/app/blackbull-client-portal/id6450400554?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/68/42/9368426b-bb88-17bf-a600-5b4cd02c219e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-02-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "6468939871",
+      "name": "Emerge: Money Made Easy",
+      "developer": "Emerge Group Limited",
+      "url": "https://apps.apple.com/nz/app/emerge-money-made-easy/id6468939871?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/78/16/4d7816aa-c672-1068-6859-50b0da30b3f5/Emerge-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-04-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "6504402552",
+      "name": "HDFC Bank App: Banking & Cards",
+      "developer": "HDFC Bank Ltd.",
+      "url": "https://apps.apple.com/nz/app/hdfc-bank-app-banking-cards/id6504402552?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/02/39/f90239f5-97e2-f1b3-2181-a53f10b0a680/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-12-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "1231393474",
+      "name": "YONO SBI: Banking, UPI & Pay",
+      "developer": "State Bank of India",
+      "url": "https://apps.apple.com/nz/app/yono-sbi-banking-upi-pay/id1231393474?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/ec/65/afec65d8-ca7a-2409-dcf5-0cbcf6d1836f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-10-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/nz/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    }
+  ]
+}

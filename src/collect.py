@@ -1,12 +1,22 @@
 from __future__ import annotations
 
 import json
+import sys
 import time
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import requests
+
+# Windows 기본 콘솔 인코딩(cp949)에서는 체크·엑스 기호를 못 찍어
+# 에러 분기의 print 한 줄에서 프로세스 전체가 죽는다.
+# 출력 스트림을 utf-8로 고정하고, 그래도 안 되면 대체 문자로 흘린다.
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
 
 from config import COUNTRIES, LIMIT, CHART, CATEGORIES
 

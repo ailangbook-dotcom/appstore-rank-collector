@@ -709,7 +709,79 @@
      "current_version_date": "2026-09-14"
     }
    ]
+  },
+  {
+   "id": "6474930108",
+   "name": "마라마스터 : 왁뿌볼, 키캡, 마라탕, 포카포장",
+   "seller": "Supa Inc.",
+   "first_seen": "2026-09-21",
+   "release_date": "2024-03-13",
+   "note": "컨테이너 대조군(Supa)",
+   "history": [
+    {
+     "date": "2026-09-21",
+     "rank": "games 100위 밖",
+     "reviews": 15238,
+     "reviews_pm": 15238,
+     "version": "v2.15.13",
+     "remeasured": "3x cache-busted max (2회차)"
+    }
+   ]
+  },
+  {
+   "id": "6475250167",
+   "name": "푸쉬팝 - 팝잇 ASMR",
+   "seller": "Supa Inc.",
+   "first_seen": "2026-09-21",
+   "release_date": "2024-02-02",
+   "note": "단일행위 대조군(Supa)",
+   "history": [
+    {
+     "date": "2026-09-21",
+     "rank": "games 100위 밖",
+     "reviews": 204,
+     "reviews_pm": 204,
+     "version": "v1.2.2",
+     "remeasured": "3x cache-busted max (2회차)"
+    }
+   ]
+  },
+  {
+   "id": "6791991985",
+   "name": "클리커 러쉬 - 키캡 ASMR",
+   "seller": "Supa Inc.",
+   "first_seen": "2026-09-21",
+   "release_date": "2026-08-06",
+   "note": "단일행위 대조군(Supa)",
+   "history": [
+    {
+     "date": "2026-09-21",
+     "rank": "games 100위 밖",
+     "reviews": 6,
+     "reviews_pm": 6,
+     "version": "v1.0.3",
+     "remeasured": "3x cache-busted max (2회차)"
+    }
+   ]
+  },
+  {
+   "id": "6790010650",
+   "name": "나 혼자만 상한가 : 회귀 인생게임",
+   "seller": "seizemode",
+   "first_seen": "2026-09-21",
+   "release_date": "2026-07-14",
+   "note": "신호1 적중·광고 판정. 광고형 감쇠 추적",
+   "history": [
+    {
+     "date": "2026-09-21",
+     "rank": "games#50",
+     "reviews": 72,
+     "reviews_pm": 72,
+     "version": "v1.0.6",
+     "remeasured": "3x cache-busted max (2회차)"
+    }
+   ]
   }
  ],
- "note": "리뷰수는 &_=<ms> 캐시버스터로 3회 조회해 최대값을 취한다. Apple userRatingCount는 배치 갱신이라 1일 해상도 미만에서는 신뢰하지 말 것."
+ "note": "09-21 2회차: Supa Inc. 3개(컨테이너 1 vs 단일행위 2) + 나혼자만상한가 편입. 기존 22개는 1회차 측정값 유지."
 }

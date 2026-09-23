@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:10:55.574922+09:00",
+  "collected_at": "2026-09-23T21:03:52.470394+09:00",
   "date": "2026-09-23",
   "country": "jp",
   "chart": "top-free",
@@ -9,6 +9,22 @@
   "apps": [
     {
       "rank": 1,
+      "id": "897446215",
+      "name": "Canva(キャンバ): 画像・動画編集 & AIデザイン",
+      "developer": "Canva",
+      "url": "https://apps.apple.com/jp/app/canva-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90-%E7%94%BB%E5%83%8F-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86-ai%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/id897446215?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ea/e2/99eae2c4-6d6f-43cf-28e0-59a3cb625ede/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-10-15",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "id": "389801252",
       "name": "Instagram",
       "developer": "Instagram, Inc.",
@@ -24,29 +40,13 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "1500855883",
       "name": "CapCut：写真＆動画エディター",
       "developer": "Bytedance Pte. Ltd",
       "url": "https://apps.apple.com/jp/app/capcut-%E5%86%99%E7%9C%9F-%E5%8B%95%E7%94%BB%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC/id1500855883?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/7d/61/a97d6162-c9cb-8fa3-d671-dae8538cb974/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "release_date": "2020-04-14",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "id": "897446215",
-      "name": "Canva(キャンバ): 画像・動画編集 & AIデザイン",
-      "developer": "Canva",
-      "url": "https://apps.apple.com/jp/app/canva-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90-%E7%94%BB%E5%83%8F-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86-ai%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/id897446215?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ea/e2/99eae2c4-6d6f-43cf-28e0-59a3cb625ede/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2014-10-15",
       "genres": [
         {
           "id": "6008",
@@ -77,7 +77,7 @@
       "name": "Accent - Selective Color",
       "developer": "AKIRA SANO",
       "url": "https://apps.apple.com/jp/app/accent-selective-color/id6801496954?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/17/59/9017593d-55f6-be36-7d89-a388646bf26c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/03/bf/d903bf50-7e2a-582f-8c85-ed588e5c6420/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "release_date": "2026-08-16",
       "genres": [
         {
@@ -89,22 +89,6 @@
     },
     {
       "rank": 6,
-      "id": "416048305",
-      "name": "Meitu AI加工&写真編集ツール",
-      "developer": "Meitu Technology Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/meitu-ai%E5%8A%A0%E5%B7%A5-%E5%86%99%E7%9C%9F%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB/id416048305?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/8c/2f/948c2f51-68e3-f083-e97e-41ad21f4685d/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2011-02-14",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "id": "622434129",
       "name": "BeautyPlus-写真加工、証明写真、自撮りカメラ",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
@@ -120,7 +104,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "446747531",
       "name": "ピクトリンク",
       "developer": "FURYU Corporation",
@@ -136,13 +120,13 @@
       ]
     },
     {
-      "rank": 9,
-      "id": "592331499",
-      "name": "BeautyCam-新世代カメラ＆ナチュラルAI",
+      "rank": 8,
+      "id": "416048305",
+      "name": "Meitu AI加工&写真編集ツール",
       "developer": "Meitu Technology Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/beautycam-%E6%96%B0%E4%B8%96%E4%BB%A3%E3%82%AB%E3%83%A1%E3%83%A9-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%ABai/id592331499?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/4b/fa/f64bfa96-bdac-c752-4e32-25655239469b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2013-01-27",
+      "url": "https://apps.apple.com/jp/app/meitu-ai%E5%8A%A0%E5%B7%A5-%E5%86%99%E7%9C%9F%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB/id416048305?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/8c/2f/948c2f51-68e3-f083-e97e-41ad21f4685d/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2011-02-14",
       "genres": [
         {
           "id": "6008",
@@ -152,7 +136,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "544007664",
       "name": "YouTube",
       "developer": "Google",
@@ -168,13 +152,29 @@
       ]
     },
     {
-      "rank": 11,
-      "id": "1594288016",
-      "name": "Wink：高画質な動画編集・加工アプリ",
+      "rank": 10,
+      "id": "592331499",
+      "name": "BeautyCam-新世代カメラ＆ナチュラルAI",
       "developer": "Meitu Technology Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/wink-%E9%AB%98%E7%94%BB%E8%B3%AA%E3%81%AA%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86-%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id1594288016?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/b7/d4/8ab7d4eb-b152-31dd-0eb5-b1aa8e3f8ad7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-12-17",
+      "url": "https://apps.apple.com/jp/app/beautycam-%E6%96%B0%E4%B8%96%E4%BB%A3%E3%82%AB%E3%83%A1%E3%83%A9-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%ABai/id592331499?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/4b/fa/f64bfa96-bdac-c752-4e32-25655239469b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-01-27",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "666639180",
+      "name": "Ki-Re-i Photo(証明写真＆写真プリント-ピプリ)",
+      "developer": "DNP Photo Imaging Japan Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/ki-re-i-photo-%E8%A8%BC%E6%98%8E%E5%86%99%E7%9C%9F-%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E3%83%94%E3%83%97%E3%83%AA/id666639180?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/08/70/6608702f-ed21-d187-6254-af0c695563d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-08-05",
       "genres": [
         {
           "id": "6008",
@@ -201,12 +201,12 @@
     },
     {
       "rank": 13,
-      "id": "666639180",
-      "name": "Ki-Re-i Photo(証明写真＆写真プリント-ピプリ)",
-      "developer": "DNP Photo Imaging Japan Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/ki-re-i-photo-%E8%A8%BC%E6%98%8E%E5%86%99%E7%9C%9F-%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E3%83%94%E3%83%97%E3%83%AA/id666639180?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/08/70/6608702f-ed21-d187-6254-af0c695563d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-08-05",
+      "id": "1594288016",
+      "name": "Wink：高画質な動画編集・加工アプリ",
+      "developer": "Meitu Technology Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/wink-%E9%AB%98%E7%94%BB%E8%B3%AA%E3%81%AA%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86-%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id1594288016?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/b7/d4/8ab7d4eb-b152-31dd-0eb5-b1aa8e3f8ad7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-12-17",
       "genres": [
         {
           "id": "6008",
@@ -221,7 +221,7 @@
       "name": "Hypic：画像編集、写真加工",
       "developer": "Bytedance Pte. Ltd",
       "url": "https://apps.apple.com/jp/app/hypic-%E7%94%BB%E5%83%8F%E7%B7%A8%E9%9B%86-%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5/id1644042837?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bf/a2/9abfa2a5-17e7-44ed-5da1-0e11efea8624/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/2e/17/f22e1794-536f-7df4-6cbe-2aa9016de9e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "release_date": "2022-11-07",
       "genres": [
         {
@@ -233,12 +233,12 @@
     },
     {
       "rank": 15,
-      "id": "6801929008",
-      "name": "Peako - 試合の切り抜きカメラ",
-      "developer": "ITK dev",
-      "url": "https://apps.apple.com/jp/app/peako-%E8%A9%A6%E5%90%88%E3%81%AE%E5%88%87%E3%82%8A%E6%8A%9C%E3%81%8D%E3%82%AB%E3%83%A1%E3%83%A9/id6801929008?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/4e/13/6c4e1368-37db-277a-c797-71eae60bd73d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-20",
+      "id": "621574163",
+      "name": "Amazon Photos",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/jp/app/amazon-photos/id621574163?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ad/f5/99adf5f9-e5f0-12af-e549-111368642c66/AppIconRelease-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2013-05-09",
       "genres": [
         {
           "id": "6008",
@@ -249,12 +249,12 @@
     },
     {
       "rank": 16,
-      "id": "621574163",
-      "name": "Amazon Photos",
-      "developer": "AMZN Mobile LLC",
-      "url": "https://apps.apple.com/jp/app/amazon-photos/id621574163?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ad/f5/99adf5f9-e5f0-12af-e549-111368642c66/AppIconRelease-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2013-05-09",
+      "id": "6738967378",
+      "name": "Edits: ビデオ編集者",
+      "developer": "Instagram, Inc.",
+      "url": "https://apps.apple.com/jp/app/edits-%E3%83%93%E3%83%87%E3%82%AA%E7%B7%A8%E9%9B%86%E8%80%85/id6738967378?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6d/2f/1c6d2f88-0ecc-6c76-71bf-07beeb50b4c1/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-04-22",
       "genres": [
         {
           "id": "6008",
@@ -281,86 +281,6 @@
     },
     {
       "rank": 18,
-      "id": "6738967378",
-      "name": "Edits: ビデオ編集者",
-      "developer": "Instagram, Inc.",
-      "url": "https://apps.apple.com/jp/app/edits-%E3%83%93%E3%83%87%E3%82%AA%E7%B7%A8%E9%9B%86%E8%80%85/id6738967378?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6d/2f/1c6d2f88-0ecc-6c76-71bf-07beeb50b4c1/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-04-22",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "964220645",
-      "name": "モザイク　ぼかし & モザイク加工アプリ",
-      "developer": "Yu Abe",
-      "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF-%E3%81%BC%E3%81%8B%E3%81%97-%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id964220645?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/ef/9c/42ef9cfc-4c9c-c165-b902-3d28bdaba324/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-02-17",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
-      "id": "997362197",
-      "name": "InShot - 動画編集＆写真加工アプリ",
-      "developer": "SHANTANU PTE. LTD.",
-      "url": "https://apps.apple.com/jp/app/inshot-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86-%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id997362197?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/5d/bf/4a5dbf34-7466-6a89-4f05-36f048950540/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-06-11",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "id": "1477796092",
-      "name": "Epson Smart Panel",
-      "developer": "Seiko Epson Corporation",
-      "url": "https://apps.apple.com/jp/app/epson-smart-panel/id1477796092?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/66/38/d4663893-5c2c-5b40-8fbb-edd3c9ea765b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2019-10-22",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "id": "664425773",
-      "name": "Canon PRINT",
-      "developer": "Canon Inc.",
-      "url": "https://apps.apple.com/jp/app/canon-print/id664425773?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/8e/26/178e269d-d8d9-fc05-d042-3dc167eef0e7/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-08-25",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 23,
       "id": "425194759",
       "name": "Vimeo 広告なしの動画プレーヤー",
       "developer": "Vimeo.com, Inc.",
@@ -376,71 +296,87 @@
       ]
     },
     {
+      "rank": 19,
+      "id": "1477796092",
+      "name": "Epson Smart Panel",
+      "developer": "Seiko Epson Corporation",
+      "url": "https://apps.apple.com/jp/app/epson-smart-panel/id1477796092?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/66/38/d4663893-5c2c-5b40-8fbb-edd3c9ea765b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2019-10-22",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "664425773",
+      "name": "Canon PRINT",
+      "developer": "Canon Inc.",
+      "url": "https://apps.apple.com/jp/app/canon-print/id664425773?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/8e/26/178e269d-d8d9-fc05-d042-3dc167eef0e7/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-08-25",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "997362197",
+      "name": "InShot - 動画編集＆写真加工アプリ",
+      "developer": "SHANTANU PTE. LTD.",
+      "url": "https://apps.apple.com/jp/app/inshot-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86-%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id997362197?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/8e/c5/618ec504-087e-b893-95e8-61e06914d6ea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-06-11",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "964220645",
+      "name": "モザイク　ぼかし & モザイク加工アプリ",
+      "developer": "Yu Abe",
+      "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF-%E3%81%BC%E3%81%8B%E3%81%97-%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id964220645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/ef/9c/42ef9cfc-4c9c-c165-b902-3d28bdaba324/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-02-17",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "6801929008",
+      "name": "Peako - 試合の切り抜きカメラ",
+      "developer": "ITK dev",
+      "url": "https://apps.apple.com/jp/app/peako-%E8%A9%A6%E5%90%88%E3%81%AE%E5%88%87%E3%82%8A%E6%8A%9C%E3%81%8D%E3%82%AB%E3%83%A1%E3%83%A9/id6801929008?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/4e/13/6c4e1368-37db-277a-c797-71eae60bd73d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-20",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 24,
-      "id": "1022267439",
-      "name": "SNOW スノー - AIプロフィール",
-      "developer": "SNOW Corporation",
-      "url": "https://apps.apple.com/jp/app/snow-%E3%82%B9%E3%83%8E%E3%83%BC-ai%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/id1022267439?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/04/b7/4c04b731-61e7-5cbf-81a0-ba36c2771c07/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-11-03",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "id": "6761677727",
-      "name": "WalkColor",
-      "developer": "宇康 田",
-      "url": "https://apps.apple.com/jp/app/walkcolor/id6761677727?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/77/78/1f777872-72ad-01e0-ecf5-ae5c2b5ee5ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-07",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "1422471180",
-      "name": "Dazz - フィルムカメラ",
-      "developer": "DAZZ PTE. LTD.",
-      "url": "https://apps.apple.com/jp/app/dazz-%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%AB%E3%83%A1%E3%83%A9/id1422471180?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/c8/2a/9ac82aa8-89bf-36ae-e50a-f18ce446e0c0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-08-17",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "6781998623",
-      "name": "101cam - フィルム&デジタルカメラ",
-      "developer": "SNOW Corporation",
-      "url": "https://apps.apple.com/jp/app/101cam-%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9/id6781998623?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/9c/db/079cdbc7-b3c5-f7d3-cbbc-41df9c631ad3/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-07-10",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
       "id": "919409463",
       "name": "履歴書カメラ",
       "developer": "Indeed Inc.",
@@ -456,13 +392,13 @@
       ]
     },
     {
-      "rank": 29,
-      "id": "1431720653",
-      "name": "DJI Mimo",
-      "developer": "DJI",
-      "url": "https://apps.apple.com/jp/app/dji-mimo/id1431720653?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/f8/48/90f848f3-9b3c-00f9-bdd4-7a5e450031a4/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-12-11",
+      "rank": 25,
+      "id": "1422471180",
+      "name": "Dazz - フィルムカメラ",
+      "developer": "DAZZ PTE. LTD.",
+      "url": "https://apps.apple.com/jp/app/dazz-%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%AB%E3%83%A1%E3%83%A9/id1422471180?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/8b/f5/9f8bf50c-e446-accc-918d-bc55ddfa6ab9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-08-17",
       "genres": [
         {
           "id": "6008",
@@ -472,23 +408,7 @@
       ]
     },
     {
-      "rank": 30,
-      "id": "516561342",
-      "name": "LINE Camera – 写真編集＆フィルター",
-      "developer": "SNOW Corporation",
-      "url": "https://apps.apple.com/jp/app/line-camera-%E5%86%99%E7%9C%9F%E7%B7%A8%E9%9B%86-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC/id516561342?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/aa/0d/d0aa0db9-20b0-0061-e211-25c519643b3f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2012-04-25",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
+      "rank": 26,
       "id": "6673894245",
       "name": "フォトブック・写真アルバムの【しまうまブック】アルバム作成",
       "developer": "SHIMAUMA PRINT, Inc.",
@@ -504,13 +424,13 @@
       ]
     },
     {
-      "rank": 32,
-      "id": "6745820631",
-      "name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "url": "https://apps.apple.com/jp/app/shots-photo-video-generator/id6745820631?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-04",
+      "rank": 27,
+      "id": "1022267439",
+      "name": "SNOW スノー - AIプロフィール",
+      "developer": "SNOW Corporation",
+      "url": "https://apps.apple.com/jp/app/snow-%E3%82%B9%E3%83%8E%E3%83%BC-ai%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/id1022267439?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/04/b7/4c04b731-61e7-5cbf-81a0-ba36c2771c07/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-03",
       "genres": [
         {
           "id": "6008",
@@ -520,7 +440,23 @@
       ]
     },
     {
-      "rank": 33,
+      "rank": 28,
+      "id": "516561342",
+      "name": "LINE Camera – 写真編集＆フィルター",
+      "developer": "SNOW Corporation",
+      "url": "https://apps.apple.com/jp/app/line-camera-%E5%86%99%E7%9C%9F%E7%B7%A8%E9%9B%86-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC/id516561342?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/aa/0d/d0aa0db9-20b0-0061-e211-25c519643b3f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2012-04-25",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
       "id": "888530356",
       "name": "YouTube Studio",
       "developer": "Google",
@@ -536,13 +472,13 @@
       ]
     },
     {
-      "rank": 34,
-      "id": "460177396",
-      "name": "Twitch: ライブ配信",
-      "developer": "Twitch Interactive, Inc.",
-      "url": "https://apps.apple.com/jp/app/twitch-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1/id460177396?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/74/5e/d1745e19-8ced-0316-26a1-b259803e1efd/TwitchAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-10-25",
+      "rank": 30,
+      "id": "1431720653",
+      "name": "DJI Mimo",
+      "developer": "DJI",
+      "url": "https://apps.apple.com/jp/app/dji-mimo/id1431720653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/f8/48/90f848f3-9b3c-00f9-bdd4-7a5e450031a4/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-12-11",
       "genres": [
         {
           "id": "6008",
@@ -552,7 +488,7 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 31,
       "id": "587366035",
       "name": "Picsart (ピクスアート) 写真加工&動画編集アプリ",
       "developer": "PicsArt, Inc.",
@@ -568,13 +504,77 @@
       ]
     },
     {
-      "rank": 36,
+      "rank": 32,
+      "id": "6781998623",
+      "name": "101cam - フィルム&デジタルカメラ",
+      "developer": "SNOW Corporation",
+      "url": "https://apps.apple.com/jp/app/101cam-%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9/id6781998623?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/b1/66/e3b1662d-4c02-dab2-47d9-dc6eea91e8d1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-07-10",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
       "id": "1466767847",
       "name": "moovin studio",
       "developer": "KITAMURA Co.,LTD.",
       "url": "https://apps.apple.com/jp/app/moovin-studio/id1466767847?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/9b/ad/f69bad41-047f-905b-33f1-81e642c04915/AppIcon-0-0-1x_U007emarketing-0-3-0-0-85-220.png/100x100bb.png",
       "release_date": "2019-06-15",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "460177396",
+      "name": "Twitch: ライブ配信",
+      "developer": "Twitch Interactive, Inc.",
+      "url": "https://apps.apple.com/jp/app/twitch-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1/id460177396?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/6e/fe/ac6efeff-c9ff-0262-9559-b063412bac53/TwitchAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-25",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "6745820631",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "url": "https://apps.apple.com/jp/app/shots-photo-video-generator/id6745820631?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-04",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "6761677727",
+      "name": "WalkColor",
+      "developer": "宇康 田",
+      "url": "https://apps.apple.com/jp/app/walkcolor/id6761677727?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/77/78/1f777872-72ad-01e0-ecf5-ae5c2b5ee5ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-07",
       "genres": [
         {
           "id": "6008",
@@ -617,54 +617,6 @@
     },
     {
       "rank": 39,
-      "id": "1491707486",
-      "name": "プリクラON",
-      "developer": "SEGA CORPORATION",
-      "url": "https://apps.apple.com/jp/app/%E3%83%97%E3%83%AA%E3%82%AF%E3%83%A9on/id1491707486?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/15/87/661587d7-07a8-dc5f-4785-4d2e30b8f992/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-06",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "1325756279",
-      "name": "Prequel: 写真フィルター リール編集 動画加工",
-      "developer": "Prequel Inc.",
-      "url": "https://apps.apple.com/jp/app/prequel-%E5%86%99%E7%9C%9F%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC-%E3%83%AA%E3%83%BC%E3%83%AB%E7%B7%A8%E9%9B%86-%E5%8B%95%E7%94%BB%E5%8A%A0%E5%B7%A5/id1325756279?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/aa/24/09aa24f6-340a-1f33-93ac-4b74ae67f9f5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2018-03-28",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "1289057196",
-      "name": "コラージュや写真の加工はSCRL：写真加工・編集アプリ",
-      "developer": "Appostrophe AB",
-      "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%84%E5%86%99%E7%9C%9F%E3%81%AE%E5%8A%A0%E5%B7%A5%E3%81%AFscrl-%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5-%E7%B7%A8%E9%9B%86%E3%82%A2%E3%83%97%E3%83%AA/id1289057196?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/ea/10/0eea109c-25ee-f906-0bd5-0c306e6fc6a8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-10-17",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
       "id": "848660412",
       "name": "FUJIFILMおみせプリント（わいぷり）",
       "developer": "FUJIFILM Corporation",
@@ -680,7 +632,39 @@
       ]
     },
     {
-      "rank": 43,
+      "rank": 40,
+      "id": "1289057196",
+      "name": "コラージュや写真の加工はSCRL：写真加工・編集アプリ",
+      "developer": "Appostrophe AB",
+      "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%84%E5%86%99%E7%9C%9F%E3%81%AE%E5%8A%A0%E5%B7%A5%E3%81%AFscrl-%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5-%E7%B7%A8%E9%9B%86%E3%82%A2%E3%83%97%E3%83%AA/id1289057196?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/59/71/5d5971f8-f918-6dd5-dbe4-5957e700e7a1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-10-17",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "1491707486",
+      "name": "プリクラON",
+      "developer": "SEGA CORPORATION",
+      "url": "https://apps.apple.com/jp/app/%E3%83%97%E3%83%AA%E3%82%AF%E3%83%A9on/id1491707486?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/15/87/661587d7-07a8-dc5f-4785-4d2e30b8f992/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-06",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
       "id": "878783582",
       "name": "Lightroom: 写真&動画エディター・画質向上",
       "developer": "Adobe Inc.",
@@ -696,7 +680,7 @@
       ]
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "448639966",
       "name": "PicCollage 写真加工、画像編集、コラージュアプリ",
       "developer": "Cardinal Blue",
@@ -712,44 +696,12 @@
       ]
     },
     {
-      "rank": 45,
-      "id": "6443709020",
-      "name": "Retro — 友達と写真を共有",
-      "developer": "Lone Palm Labs, Inc.",
-      "url": "https://apps.apple.com/jp/app/retro-%E5%8F%8B%E9%81%94%E3%81%A8%E5%86%99%E7%9C%9F%E3%82%92%E5%85%B1%E6%9C%89/id6443709020?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/d7/40/5cd7407a-a8ae-6d65-e69d-3fd667a2686e/AppIcon-Chrome-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-07-13",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "1514324432",
-      "name": "コンビニフォト！‐コンビニ印刷・写真プリントアプリ",
-      "developer": "Saltworks.inc.",
-      "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E3%83%95%E3%82%A9%E3%83%88-%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E5%8D%B0%E5%88%B7-%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1514324432?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0c/4f/be0c4f6b-9c5e-b026-0160-db6b34e316c6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-06-11",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
+      "rank": 44,
       "id": "447188370",
       "name": "Snapchat：写真で会話",
       "developer": "Snap, Inc.",
       "url": "https://apps.apple.com/jp/app/snapchat-%E5%86%99%E7%9C%9F%E3%81%A7%E4%BC%9A%E8%A9%B1/id447188370?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/58/e2/3658e212-8c4e-c3ec-c664-f52519b74a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/21/58/372158fe-98a6-5e2f-2a43-feb2ca74619a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "release_date": "2011-07-13",
       "genres": [
         {
@@ -760,13 +712,13 @@
       ]
     },
     {
-      "rank": 48,
-      "id": "944097177",
-      "name": "Canon Camera Connect",
-      "developer": "Canon Inc.",
-      "url": "https://apps.apple.com/jp/app/canon-camera-connect/id944097177?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/2f/5f/982f5ff1-aef3-7da0-bcba-f9bac426c45f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-02-05",
+      "rank": 45,
+      "id": "1325756279",
+      "name": "Prequel: 写真フィルター リール編集 動画加工",
+      "developer": "Prequel Inc.",
+      "url": "https://apps.apple.com/jp/app/prequel-%E5%86%99%E7%9C%9F%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC-%E3%83%AA%E3%83%BC%E3%83%AB%E7%B7%A8%E9%9B%86-%E5%8B%95%E7%94%BB%E5%8A%A0%E5%B7%A5/id1325756279?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/aa/24/09aa24f6-340a-1f33-93ac-4b74ae67f9f5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2018-03-28",
       "genres": [
         {
           "id": "6008",
@@ -776,7 +728,7 @@
       ]
     },
     {
-      "rank": 49,
+      "rank": 46,
       "id": "952050883",
       "name": "VLLO、Vlogのための初めてのビデオエディタ",
       "developer": "vimosoft",
@@ -792,7 +744,39 @@
       ]
     },
     {
-      "rank": 50,
+      "rank": 47,
+      "id": "6443709020",
+      "name": "Retro — 友達と写真を共有",
+      "developer": "Lone Palm Labs, Inc.",
+      "url": "https://apps.apple.com/jp/app/retro-%E5%8F%8B%E9%81%94%E3%81%A8%E5%86%99%E7%9C%9F%E3%82%92%E5%85%B1%E6%9C%89/id6443709020?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/d7/40/5cd7407a-a8ae-6d65-e69d-3fd667a2686e/AppIcon-Chrome-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-07-13",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1514324432",
+      "name": "コンビニフォト！‐コンビニ印刷・写真プリントアプリ",
+      "developer": "Saltworks.inc.",
+      "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E3%83%95%E3%82%A9%E3%83%88-%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E5%8D%B0%E5%88%B7-%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1514324432?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0c/4f/be0c4f6b-9c5e-b026-0160-db6b34e316c6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-06-11",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
       "id": "1455009060",
       "name": "Photoroom（フォトルーム）：AI写真＆画像編集",
       "developer": "Photoroom",
@@ -808,13 +792,29 @@
       ]
     },
     {
+      "rank": 50,
+      "id": "944097177",
+      "name": "Canon Camera Connect",
+      "developer": "Canon Inc.",
+      "url": "https://apps.apple.com/jp/app/canon-camera-connect/id944097177?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/2f/5f/982f5ff1-aef3-7da0-bcba-f9bac426c45f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-02-05",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 51,
-      "id": "863844475",
-      "name": "YouCamメイク-髪型シミュレーション、ビューティーカメラ",
-      "developer": "PERFECT MOBILE CORP.",
-      "url": "https://apps.apple.com/jp/app/youcam%E3%83%A1%E3%82%A4%E3%82%AF-%E9%AB%AA%E5%9E%8B%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AB%E3%83%A1%E3%83%A9/id863844475?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/97/8c/42978cc8-fe44-2ad0-b2b0-1e33cc937e7e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2014-08-12",
+      "id": "6739276631",
+      "name": "AI Catch(AI キャッチ): ビデオジェネレーター",
+      "developer": "Prominent Fortune PTE. LTD",
+      "url": "https://apps.apple.com/jp/app/ai-catch-ai-%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-%E3%83%93%E3%83%87%E3%82%AA%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/id6739276631?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/3b/7c/a13b7c28-ffd4-80ef-1231-e225cbb56cdd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-12-30",
       "genres": [
         {
           "id": "6008",
@@ -841,150 +841,6 @@
     },
     {
       "rank": 53,
-      "id": "768469908",
-      "name": "ユーカム（YouCam Perfect）：写真加工＆画像編集",
-      "developer": "PERFECT MOBILE CORP.",
-      "url": "https://apps.apple.com/jp/app/%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%A0-youcam-perfect-%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5-%E7%94%BB%E5%83%8F%E7%B7%A8%E9%9B%86/id768469908?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/00/c8/0900c8fb-8529-ae7b-80cc-e4777c037cd7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2014-03-26",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "926035241",
-      "name": "背景透明化",
-      "developer": "handyCloset Inc.",
-      "url": "https://apps.apple.com/jp/app/%E8%83%8C%E6%99%AF%E9%80%8F%E6%98%8E%E5%8C%96/id926035241?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/7a/60/267a6094-0227-497f-1ab6-f9859d27c965/Free-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-10-06",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "1294170656",
-      "name": "わたあめカメラ ふんわり＆ぼかし加工アプリ",
-      "developer": "kenji hara",
-      "url": "https://apps.apple.com/jp/app/%E3%82%8F%E3%81%9F%E3%81%82%E3%82%81%E3%82%AB%E3%83%A1%E3%83%A9-%E3%81%B5%E3%82%93%E3%82%8F%E3%82%8A-%E3%81%BC%E3%81%8B%E3%81%97%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id1294170656?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/42/af/2f42af73-5685-975f-d065-28a7974a088a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2017-10-12",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "1577495806",
-      "name": "トルミル",
-      "developer": "ULTIMATE,Inc",
-      "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%AB%E3%83%9F%E3%83%AB/id1577495806?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/38/cd/3e38cd2e-f61c-bc23-7d46-5aa6aa406221/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-09-02",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "1491299654",
-      "name": "Insta360",
-      "developer": "Insta360",
-      "url": "https://apps.apple.com/jp/app/insta360/id1491299654?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f9/a4/14f9a498-ee9d-2ae4-15b6-a96f5f0453aa/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2020-01-16",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "1577705074",
-      "name": "EPIK エピック - AI写真＆動画編集",
-      "developer": "SNOW Corporation",
-      "url": "https://apps.apple.com/jp/app/epik-%E3%82%A8%E3%83%94%E3%83%83%E3%82%AF-ai%E5%86%99%E7%9C%9F-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id1577705074?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/c5/45/a3c54502-72f1-f5fd-fe0b-7df8bc0b9f0b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-08-14",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "6763000830",
-      "name": "Luma Style AI",
-      "developer": "GEORGE GRANT",
-      "url": "https://apps.apple.com/jp/app/luma-style-ai/id6763000830?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/7a/7b/497a7bc1-b1e4-d0ec-ecf6-732f3c5d8775/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-26",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "6758437998",
-      "name": "ProCleaner – ストレージクリーナー",
-      "developer": "Talvion Tech L.L.C-FZ",
-      "url": "https://apps.apple.com/jp/app/procleaner-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BC/id6758437998?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/43/e6/2f43e64f-d77f-f079-6c2d-7076fb5acdae/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-03-18",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "1398796436",
-      "name": "Ulikeユーライク：ナチュラルに盛るビューティカメラ！",
-      "developer": "Bytedance Pte. Ltd",
-      "url": "https://apps.apple.com/jp/app/ulike%E3%83%A6%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%AF-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%81%AB%E7%9B%9B%E3%82%8B%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%A1%E3%83%A9/id1398796436?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/89/52/928952a2-2d48-a383-61e5-5b1156ce73c4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2018-07-28",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
       "id": "1483868574",
       "name": "証明写真作成アプリ",
       "developer": "siranet GK",
@@ -1000,13 +856,13 @@
       ]
     },
     {
-      "rank": 63,
-      "id": "650377962",
-      "name": "VLC media player",
-      "developer": "VideoLAN",
-      "url": "https://apps.apple.com/jp/app/vlc-media-player/id650377962?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/7c/225a7c89-472a-8fa7-fe11-ed6aaa8a5c21/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-07-19",
+      "rank": 54,
+      "id": "863844475",
+      "name": "YouCamメイク-髪型シミュレーション、ビューティーカメラ",
+      "developer": "PERFECT MOBILE CORP.",
+      "url": "https://apps.apple.com/jp/app/youcam%E3%83%A1%E3%82%A4%E3%82%AF-%E9%AB%AA%E5%9E%8B%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AB%E3%83%A1%E3%83%A9/id863844475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/97/8c/42978cc8-fe44-2ad0-b2b0-1e33cc937e7e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-12",
       "genres": [
         {
           "id": "6008",
@@ -1016,7 +872,119 @@
       ]
     },
     {
-      "rank": 64,
+      "rank": 55,
+      "id": "926035241",
+      "name": "背景透明化",
+      "developer": "handyCloset Inc.",
+      "url": "https://apps.apple.com/jp/app/%E8%83%8C%E6%99%AF%E9%80%8F%E6%98%8E%E5%8C%96/id926035241?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/7a/60/267a6094-0227-497f-1ab6-f9859d27c965/Free-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-10-06",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "768469908",
+      "name": "ユーカム（YouCam Perfect）：写真加工＆画像編集",
+      "developer": "PERFECT MOBILE CORP.",
+      "url": "https://apps.apple.com/jp/app/%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%A0-youcam-perfect-%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5-%E7%94%BB%E5%83%8F%E7%B7%A8%E9%9B%86/id768469908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/00/c8/0900c8fb-8529-ae7b-80cc-e4777c037cd7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-26",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1577495806",
+      "name": "トルミル",
+      "developer": "ULTIMATE,Inc",
+      "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%AB%E3%83%9F%E3%83%AB/id1577495806?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/38/cd/3e38cd2e-f61c-bc23-7d46-5aa6aa406221/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-09-02",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1294170656",
+      "name": "わたあめカメラ ふんわり＆ぼかし加工アプリ",
+      "developer": "kenji hara",
+      "url": "https://apps.apple.com/jp/app/%E3%82%8F%E3%81%9F%E3%81%82%E3%82%81%E3%82%AB%E3%83%A1%E3%83%A9-%E3%81%B5%E3%82%93%E3%82%8F%E3%82%8A-%E3%81%BC%E3%81%8B%E3%81%97%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id1294170656?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/42/af/2f42af73-5685-975f-d065-28a7974a088a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2017-10-12",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "1491299654",
+      "name": "Insta360",
+      "developer": "Insta360",
+      "url": "https://apps.apple.com/jp/app/insta360/id1491299654?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f9/a4/14f9a498-ee9d-2ae4-15b6-a96f5f0453aa/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2020-01-16",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "6446202561",
+      "name": "Kick - ライブ配信",
+      "developer": "Kick Streaming",
+      "url": "https://apps.apple.com/jp/app/kick-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1/id6446202561?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/a7/8c/3ea78cdf-1929-36b5-802d-b49091f4abea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-03-26",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6742757464",
+      "name": "Adobe Premiere - AI動画編集",
+      "developer": "Adobe Inc.",
+      "url": "https://apps.apple.com/jp/app/adobe-premiere-ai%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id6742757464?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/21/50/99215087-85b8-4a77-3362-6add10faea9e/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-09-30",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
       "id": "1531076582",
       "name": "写真プリント・現像・印刷はお任せ！ - しまうまプリント",
       "developer": "SHIMAUMA PRINT, Inc.",
@@ -1032,13 +1000,45 @@
       ]
     },
     {
+      "rank": 63,
+      "id": "6758437998",
+      "name": "ProCleaner – ストレージクリーナー",
+      "developer": "Talvion Tech L.L.C-FZ",
+      "url": "https://apps.apple.com/jp/app/procleaner-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BC/id6758437998?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/43/e6/2f43e64f-d77f-f079-6c2d-7076fb5acdae/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-03-18",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "1577705074",
+      "name": "EPIK エピック - AI写真＆動画編集",
+      "developer": "SNOW Corporation",
+      "url": "https://apps.apple.com/jp/app/epik-%E3%82%A8%E3%83%94%E3%83%83%E3%82%AF-ai%E5%86%99%E7%9C%9F-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id1577705074?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/71/a6/3271a667-7389-703a-26ed-9360f0b49eed/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-14",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 65,
-      "id": "1616622856",
-      "name": "Sony | Creators' App",
-      "developer": "Sony Corporation",
-      "url": "https://apps.apple.com/jp/app/sony-creators-app/id1616622856?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/8e/10298e16-b833-3d37-e2d1-cd49381d82bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-10-13",
+      "id": "6763000830",
+      "name": "Luma Style AI",
+      "developer": "GEORGE GRANT",
+      "url": "https://apps.apple.com/jp/app/luma-style-ai/id6763000830?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/7a/7b/497a7bc1-b1e4-d0ec-ecf6-732f3c5d8775/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-26",
       "genres": [
         {
           "id": "6008",
@@ -1065,12 +1065,12 @@
     },
     {
       "rank": 67,
-      "id": "6449580241",
-      "name": "Blackmagic Camera",
-      "developer": "Blackmagic Design Inc",
-      "url": "https://apps.apple.com/jp/app/blackmagic-camera/id6449580241?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/47/8e/1c478ee4-c909-d459-1904-aa9443e4d1bb/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-14",
+      "id": "650377962",
+      "name": "VLC media player",
+      "developer": "VideoLAN",
+      "url": "https://apps.apple.com/jp/app/vlc-media-player/id650377962?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/7c/225a7c89-472a-8fa7-fe11-ed6aaa8a5c21/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-07-19",
       "genres": [
         {
           "id": "6008",
@@ -1081,70 +1081,6 @@
     },
     {
       "rank": 68,
-      "id": "1570093460",
-      "name": "OldRoll - レトロフィルムカメラ",
-      "developer": "梓杰 张",
-      "url": "https://apps.apple.com/jp/app/oldroll-%E3%83%AC%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%AB%E3%83%A1%E3%83%A9/id1570093460?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/57/41/da574135-f705-3044-ecac-08082fb047e5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-06-04",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "6742757464",
-      "name": "Adobe Premiere - AI動画編集",
-      "developer": "Adobe Inc.",
-      "url": "https://apps.apple.com/jp/app/adobe-premiere-ai%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id6742757464?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/21/50/99215087-85b8-4a77-3362-6add10faea9e/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-09-30",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "1019382747",
-      "name": "Filmora：AI動画作成・動画編集",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "url": "https://apps.apple.com/jp/app/filmora-ai%E5%8B%95%E7%94%BB%E4%BD%9C%E6%88%90-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id1019382747?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/65/e0/e865e0f9-3fda-32c8-93b9-7c7105885b43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-04-28",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "6471662064",
-      "name": "KakaPic - AI動画作成と高画質AI写真館",
-      "developer": "盛河 徐",
-      "url": "https://apps.apple.com/jp/app/kakapic-ai%E5%8B%95%E7%94%BB%E4%BD%9C%E6%88%90%E3%81%A8%E9%AB%98%E7%94%BB%E8%B3%AAai%E5%86%99%E7%9C%9F%E9%A4%A8/id6471662064?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/dc/e8/eadce8f2-0d8e-49d9-f0dd-59d2e66c770d/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-11-16",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
       "id": "912314964",
       "name": "PhotoFast ONE",
       "developer": "PhotoFast Global Inc.",
@@ -1160,7 +1096,23 @@
       ]
     },
     {
-      "rank": 73,
+      "rank": 69,
+      "id": "1616622856",
+      "name": "Sony | Creators' App",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/jp/app/sony-creators-app/id1616622856?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/8e/10298e16-b833-3d37-e2d1-cd49381d82bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-13",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
       "id": "1185459031",
       "name": "動画モザイク　ぼかし加工 & モザイク加工",
       "developer": "Yu Abe",
@@ -1176,13 +1128,13 @@
       ]
     },
     {
-      "rank": 74,
-      "id": "6763503159",
-      "name": "GigaFile FLY",
-      "developer": "GIGA FILE, K.K.",
-      "url": "https://apps.apple.com/jp/app/gigafile-fly/id6763503159?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/ba/6c/7bba6c41-2df2-9dc8-395e-b7ecbf19911f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-10",
+      "rank": 71,
+      "id": "1398796436",
+      "name": "Ulikeユーライク：ナチュラルに盛るビューティカメラ！",
+      "developer": "Bytedance Pte. Ltd",
+      "url": "https://apps.apple.com/jp/app/ulike%E3%83%A6%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%AF-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%81%AB%E7%9B%9B%E3%82%8B%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%A1%E3%83%A9/id1398796436?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/89/52/928952a2-2d48-a383-61e5-5b1156ce73c4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2018-07-28",
       "genres": [
         {
           "id": "6008",
@@ -1192,13 +1144,13 @@
       ]
     },
     {
-      "rank": 75,
-      "id": "6446202561",
-      "name": "Kick - ライブ配信",
-      "developer": "Kick Streaming",
-      "url": "https://apps.apple.com/jp/app/kick-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1/id6446202561?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/a7/8c/3ea78cdf-1929-36b5-802d-b49091f4abea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-03-26",
+      "rank": 72,
+      "id": "1019382747",
+      "name": "Filmora：AI動画作成・動画編集",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "url": "https://apps.apple.com/jp/app/filmora-ai%E5%8B%95%E7%94%BB%E4%BD%9C%E6%88%90-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id1019382747?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/65/e0/e865e0f9-3fda-32c8-93b9-7c7105885b43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-28",
       "genres": [
         {
           "id": "6008",
@@ -1208,71 +1160,7 @@
       ]
     },
     {
-      "rank": 76,
-      "id": "907366587",
-      "name": "PhotoDirector - AIで写真加工＆画像編集",
-      "developer": "CyberLink",
-      "url": "https://apps.apple.com/jp/app/photodirector-ai%E3%81%A7%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5-%E7%94%BB%E5%83%8F%E7%B7%A8%E9%9B%86/id907366587?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/96/f6/8496f6d6-7976-bb8d-89c6-47b1f37891e8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-09-30",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "1459833443",
-      "name": "Alight Motion",
-      "developer": "Bending Spoons Apps ApS",
-      "url": "https://apps.apple.com/jp/app/alight-motion/id1459833443?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/3b/7c/8c3b7ce9-68ef-ca83-9be6-8a4d3a54fbd3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-21",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "1437880869",
-      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-      "developer": "SNOW Corporation",
-      "url": "https://apps.apple.com/jp/app/soda-%E3%82%BD%E3%83%BC%E3%83%80-ai%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-%E8%A8%BA%E6%96%AD%E3%82%AB%E3%83%A1%E3%83%A9/id1437880869?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/3f/70/433f702f-c52c-3d3c-b7cd-df3afbfe6b98/GlobalAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-10-20",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "6739276631",
-      "name": "AI Catch(AI キャッチ): ビデオジェネレーター",
-      "developer": "Prominent Fortune PTE. LTD",
-      "url": "https://apps.apple.com/jp/app/ai-catch-ai-%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-%E3%83%93%E3%83%87%E3%82%AA%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/id6739276631?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/3b/7c/a13b7c28-ffd4-80ef-1231-e225cbb56cdd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-12-30",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
+      "rank": 73,
       "id": "1561459727",
       "name": "写真 コラージュ - フォトフレーム 枠加工",
       "developer": "Daisuke Suzuki",
@@ -1288,13 +1176,13 @@
       ]
     },
     {
-      "rank": 81,
-      "id": "1444755520",
-      "name": "CAMERA0 - 無音高画質マナーカメラアプリ",
-      "developer": "minical Inc.",
-      "url": "https://apps.apple.com/jp/app/camera0-%E7%84%A1%E9%9F%B3%E9%AB%98%E7%94%BB%E8%B3%AA%E3%83%9E%E3%83%8A%E3%83%BC%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%A2%E3%83%97%E3%83%AA/id1444755520?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0a/0e/be/0a0ebe5b-942f-3509-9e7a-d88776383c65/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
-      "release_date": "2018-12-13",
+      "rank": 74,
+      "id": "6471662064",
+      "name": "KakaPic - AI動画作成と高画質AI写真館",
+      "developer": "盛河 徐",
+      "url": "https://apps.apple.com/jp/app/kakapic-ai%E5%8B%95%E7%94%BB%E4%BD%9C%E6%88%90%E3%81%A8%E9%AB%98%E7%94%BB%E8%B3%AAai%E5%86%99%E7%9C%9F%E9%A4%A8/id6471662064?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/dc/e8/eadce8f2-0d8e-49d9-f0dd-59d2e66c770d/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-16",
       "genres": [
         {
           "id": "6008",
@@ -1304,13 +1192,13 @@
       ]
     },
     {
-      "rank": 82,
-      "id": "6789843054",
-      "name": "Zoom Camera: DSLR Focus & Blur",
-      "developer": "Janki Panchani",
-      "url": "https://apps.apple.com/jp/app/zoom-camera-dslr-focus-blur/id6789843054?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/23/b3/bb23b388-9f0a-2e73-e01e-19614c6d2111/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-03",
+      "rank": 75,
+      "id": "6449580241",
+      "name": "Blackmagic Camera",
+      "developer": "Blackmagic Design Inc",
+      "url": "https://apps.apple.com/jp/app/blackmagic-camera/id6449580241?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/92/37/5e923705-edcf-bbab-d591-88bc376effc6/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-14",
       "genres": [
         {
           "id": "6008",
@@ -1320,23 +1208,7 @@
       ]
     },
     {
-      "rank": 83,
-      "id": "1470373330",
-      "name": "Remini - 高画質化するAI写真アプリ",
-      "developer": "Bending Spoons Apps ApS",
-      "url": "https://apps.apple.com/jp/app/remini-%E9%AB%98%E7%94%BB%E8%B3%AA%E5%8C%96%E3%81%99%E3%82%8Bai%E5%86%99%E7%9C%9F%E3%82%A2%E3%83%97%E3%83%AA/id1470373330?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e6/00/2ce600f2-e9ed-2af1-244e-680c58db77de/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-08-01",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
+      "rank": 76,
       "id": "1418399798",
       "name": "無音カメラ - むおんかめら & 高画質カメラ",
       "developer": "智帆 钟",
@@ -1352,23 +1224,7 @@
       ]
     },
     {
-      "rank": 85,
-      "id": "1545081495",
-      "name": "動画保存 / バックグラウンド再生 / iCap",
-      "developer": "Koichiro Umemiya",
-      "url": "https://apps.apple.com/jp/app/%E5%8B%95%E7%94%BB%E4%BF%9D%E5%AD%98-%E3%83%90%E3%83%83%E3%82%AF%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E5%86%8D%E7%94%9F-icap/id1545081495?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/5d/c0/455dc0ea-d35a-bf88-7830-4f43878d57a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-02-02",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
+      "rank": 77,
       "id": "1473574597",
       "name": "PowerDirector - AI動画編集アプリ",
       "developer": "CyberLink",
@@ -1384,151 +1240,7 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "904209370",
-      "name": "B612 - 日常をもっとおしゃれにするカメラ",
-      "developer": "SNOW Corporation",
-      "url": "https://apps.apple.com/jp/app/b612-%E6%97%A5%E5%B8%B8%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AB%E3%81%99%E3%82%8B%E3%82%AB%E3%83%A1%E3%83%A9/id904209370?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2d/ec/e52decc8-4e50-4f64-5471-bffe82119d10/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-08-12",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "438429273",
-      "name": "Phonto 写真文字入れ",
-      "developer": "youthhr",
-      "url": "https://apps.apple.com/jp/app/phonto-%E5%86%99%E7%9C%9F%E6%96%87%E5%AD%97%E5%85%A5%E3%82%8C/id438429273?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/c1/30/36c1301c-2ae5-e5ef-c0a0-6c7a8cd55d2b/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2011-05-24",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "425147617",
-      "name": "Play!Photo (プレイフォト)",
-      "developer": "DNP Photo Imaging Japan Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/play-photo-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%95%E3%82%A9%E3%83%88/id425147617?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/24/88/4e/24884e8f-6b39-cb34-6a6e-a686b0ec9463/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2011-04-17",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "6748743457",
-      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "url": "https://apps.apple.com/jp/app/deevid-ai-%E5%94%AF%E4%B8%80%E7%84%A1%E4%BA%8C%E3%81%AEai%E5%8B%95%E7%94%BB%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/id6748743457?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d9/3b/9fd93b61-c0d1-aa1f-df53-2cc4af9b081e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-07-30",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1102311118",
-      "name": "アルバス｜毎月8枚無料のましかく写真プリント・家族アルバム",
-      "developer": "ROLLCAKE Inc.",
-      "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%B9-%E6%AF%8E%E6%9C%888%E6%9E%9A%E7%84%A1%E6%96%99%E3%81%AE%E3%81%BE%E3%81%97%E3%81%8B%E3%81%8F%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%AE%B6%E6%97%8F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/id1102311118?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/d6/13/56d613c3-c739-1afb-02ce-2e14e47ac74d/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-06-02",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "1536076386",
-      "name": "YouCam Video : 動画加工・AI動画編集アプリ",
-      "developer": "PERFECT MOBILE CORP.",
-      "url": "https://apps.apple.com/jp/app/youcam-video-%E5%8B%95%E7%94%BB%E5%8A%A0%E5%B7%A5-ai%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86%E3%82%A2%E3%83%97%E3%83%AA/id1536076386?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/97/79/d59779ae-7de1-9a54-1699-1cdf44cde366/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-03",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "6811901999",
-      "name": "Sticker | 「好き」を集める、ステッカーコレクション",
-      "developer": "Suzuki Soya",
-      "url": "https://apps.apple.com/jp/app/sticker-%E5%A5%BD%E3%81%8D-%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B-%E3%82%B9%E3%83%86%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/id6811901999?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/6a/60/1a6a60f5-169c-b596-4dd6-37d36525c534/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-17",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "489191124",
-      "name": "Sony | Imaging Edge Mobile",
-      "developer": "Sony Corporation",
-      "url": "https://apps.apple.com/jp/app/sony-imaging-edge-mobile/id489191124?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/61/66/f361665a-68c2-3b6f-81e5-b825a3453634/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-01-09",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "1573791613",
-      "name": "Fontmaker - Font Keyboard App",
-      "developer": "Sociaaal LLC",
-      "url": "https://apps.apple.com/jp/app/fontmaker-font-keyboard-app/id1573791613?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/76/b7/9476b74a-bb7d-d7a1-a6d6-91c8580e32ff/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-07-26",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
+      "rank": 78,
       "id": "1665024375",
       "name": "Runway: AI Image & Video",
       "developer": "runwayml",
@@ -1544,7 +1256,151 @@
       ]
     },
     {
-      "rank": 97,
+      "rank": 79,
+      "id": "6748743457",
+      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "url": "https://apps.apple.com/jp/app/deevid-ai-%E5%94%AF%E4%B8%80%E7%84%A1%E4%BA%8C%E3%81%AEai%E5%8B%95%E7%94%BB%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/id6748743457?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d9/3b/9fd93b61-c0d1-aa1f-df53-2cc4af9b081e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-07-30",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "1459833443",
+      "name": "Alight Motion",
+      "developer": "Bending Spoons Apps ApS",
+      "url": "https://apps.apple.com/jp/app/alight-motion/id1459833443?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/3b/7c/8c3b7ce9-68ef-ca83-9be6-8a4d3a54fbd3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-21",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "1437880869",
+      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
+      "developer": "SNOW Corporation",
+      "url": "https://apps.apple.com/jp/app/soda-%E3%82%BD%E3%83%BC%E3%83%80-ai%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-%E8%A8%BA%E6%96%AD%E3%82%AB%E3%83%A1%E3%83%A9/id1437880869?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/3f/70/433f702f-c52c-3d3c-b7cd-df3afbfe6b98/GlobalAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-10-20",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1536076386",
+      "name": "YouCam Video : 動画加工・AI動画編集アプリ",
+      "developer": "PERFECT MOBILE CORP.",
+      "url": "https://apps.apple.com/jp/app/youcam-video-%E5%8B%95%E7%94%BB%E5%8A%A0%E5%B7%A5-ai%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86%E3%82%A2%E3%83%97%E3%83%AA/id1536076386?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/97/79/d59779ae-7de1-9a54-1699-1cdf44cde366/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-03",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1570093460",
+      "name": "OldRoll - レトロフィルムカメラ",
+      "developer": "梓杰 张",
+      "url": "https://apps.apple.com/jp/app/oldroll-%E3%83%AC%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%AB%E3%83%A1%E3%83%A9/id1570093460?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/57/41/da574135-f705-3044-ecac-08082fb047e5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-04",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "6763503159",
+      "name": "GigaFile FLY",
+      "developer": "GIGA FILE, K.K.",
+      "url": "https://apps.apple.com/jp/app/gigafile-fly/id6763503159?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/ba/6c/7bba6c41-2df2-9dc8-395e-b7ecbf19911f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-10",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "1545081495",
+      "name": "動画保存 / バックグラウンド再生 / iCap",
+      "developer": "Koichiro Umemiya",
+      "url": "https://apps.apple.com/jp/app/%E5%8B%95%E7%94%BB%E4%BF%9D%E5%AD%98-%E3%83%90%E3%83%83%E3%82%AF%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E5%86%8D%E7%94%9F-icap/id1545081495?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/b5/43/12b54394-da02-4d1c-1c32-c6148485f16e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-02-02",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1573791613",
+      "name": "Fontmaker - Font Keyboard App",
+      "developer": "Sociaaal LLC",
+      "url": "https://apps.apple.com/jp/app/fontmaker-font-keyboard-app/id1573791613?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/76/b7/9476b74a-bb7d-d7a1-a6d6-91c8580e32ff/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-07-26",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1470373330",
+      "name": "Remini - 高画質化するAI写真アプリ",
+      "developer": "Bending Spoons Apps ApS",
+      "url": "https://apps.apple.com/jp/app/remini-%E9%AB%98%E7%94%BB%E8%B3%AA%E5%8C%96%E3%81%99%E3%82%8Bai%E5%86%99%E7%9C%9F%E3%82%A2%E3%83%97%E3%83%AA/id1470373330?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e6/00/2ce600f2-e9ed-2af1-244e-680c58db77de/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-08-01",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
       "id": "804673932",
       "name": "店プリ - パレットプラザ お店プリント",
       "developer": "PLAZA CREATE CO.,LTD.",
@@ -1560,7 +1416,135 @@
       ]
     },
     {
-      "rank": 98,
+      "rank": 89,
+      "id": "1638320348",
+      "name": "Muse: リール & ストーリー & 動画編集",
+      "developer": "Bigrowth",
+      "url": "https://apps.apple.com/jp/app/muse-%E3%83%AA%E3%83%BC%E3%83%AB-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id1638320348?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/af/9c/78af9cb6-0009-bed2-bf3b-6a28dd516750/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-06",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "1102311118",
+      "name": "アルバス｜毎月8枚無料のましかく写真プリント・家族アルバム",
+      "developer": "ROLLCAKE Inc.",
+      "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%B9-%E6%AF%8E%E6%9C%888%E6%9E%9A%E7%84%A1%E6%96%99%E3%81%AE%E3%81%BE%E3%81%97%E3%81%8B%E3%81%8F%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E5%AE%B6%E6%97%8F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/id1102311118?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/d6/13/56d613c3-c739-1afb-02ce-2e14e47ac74d/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-06-02",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "438429273",
+      "name": "Phonto 写真文字入れ",
+      "developer": "youthhr",
+      "url": "https://apps.apple.com/jp/app/phonto-%E5%86%99%E7%9C%9F%E6%96%87%E5%AD%97%E5%85%A5%E3%82%8C/id438429273?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/c1/30/36c1301c-2ae5-e5ef-c0a0-6c7a8cd55d2b/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2011-05-24",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "425147617",
+      "name": "Play!Photo (プレイフォト)",
+      "developer": "DNP Photo Imaging Japan Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/play-photo-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%95%E3%82%A9%E3%83%88/id425147617?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/24/88/4e/24884e8f-6b39-cb34-6a6e-a686b0ec9463/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2011-04-17",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1097501468",
+      "name": "美肌証明写真",
+      "developer": "handyCloset Inc.",
+      "url": "https://apps.apple.com/jp/app/%E7%BE%8E%E8%82%8C%E8%A8%BC%E6%98%8E%E5%86%99%E7%9C%9F/id1097501468?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c8/32/a4c83271-67e9-967c-498f-426edbf236a6/Free-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-16",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "904209370",
+      "name": "B612 - 日常をもっとおしゃれにするカメラ",
+      "developer": "SNOW Corporation",
+      "url": "https://apps.apple.com/jp/app/b612-%E6%97%A5%E5%B8%B8%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AB%E3%81%99%E3%82%8B%E3%82%AB%E3%83%A1%E3%83%A9/id904209370?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2d/ec/e52decc8-4e50-4f64-5471-bffe82119d10/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-08-12",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "489191124",
+      "name": "Sony | Imaging Edge Mobile",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/jp/app/sony-imaging-edge-mobile/id489191124?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/61/66/f361665a-68c2-3b6f-81e5-b825a3453634/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-01-09",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1444755520",
+      "name": "CAMERA0 - 無音高画質マナーカメラアプリ",
+      "developer": "minical Inc.",
+      "url": "https://apps.apple.com/jp/app/camera0-%E7%84%A1%E9%9F%B3%E9%AB%98%E7%94%BB%E8%B3%AA%E3%83%9E%E3%83%8A%E3%83%BC%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%A2%E3%83%97%E3%83%AA/id1444755520?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0a/0e/be/0a0ebe5b-942f-3509-9e7a-d88776383c65/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png",
+      "release_date": "2018-12-13",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
       "id": "6478151677",
       "name": "TikTok Studio",
       "developer": "TikTok Ltd.",
@@ -1576,13 +1560,29 @@
       ]
     },
     {
+      "rank": 98,
+      "id": "6443481961",
+      "name": "ID-Spot",
+      "developer": "Dai Nippon Printing Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/id-spot/id6443481961?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/7f/83/0e7f83be-8ba5-63d2-38c9-8974f0052f0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-23",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E5%86%99%E7%9C%9F-%E3%83%93%E3%83%87%E3%82%AA/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 99,
-      "id": "1638320348",
-      "name": "Muse: リール & ストーリー & 動画編集",
-      "developer": "Bigrowth",
-      "url": "https://apps.apple.com/jp/app/muse-%E3%83%AA%E3%83%BC%E3%83%AB-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id1638320348?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/af/9c/78af9cb6-0009-bed2-bf3b-6a28dd516750/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-11-06",
+      "id": "1488430631",
+      "name": "VITA - 超簡単！動画編集",
+      "developer": "SNOW Corporation",
+      "url": "https://apps.apple.com/jp/app/vita-%E8%B6%85%E7%B0%A1%E5%8D%98-%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86/id1488430631?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/c0/c8/1bc0c802-301a-30a3-c5d4-f0ec0d576c1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-11-27",
       "genres": [
         {
           "id": "6008",

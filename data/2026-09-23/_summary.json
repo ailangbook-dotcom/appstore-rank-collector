@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "collected_at": "2026-09-23T00:10:37.846199+09:00",
+  "collected_at": "2026-09-23T21:03:41.117263+09:00",
   "chart": "top-free",
   "limit": 100,
   "countries": {
@@ -264,7 +264,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 99,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-23/de/productivity.json"
         },
@@ -328,7 +328,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 99,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-23/fr/productivity.json"
         },
@@ -422,7 +422,7 @@
         },
         "education": {
           "genre_id": 6017,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-23/ca/education.json"
         },
@@ -526,7 +526,7 @@
         },
         "utilities": {
           "genre_id": 6002,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-23/sg/utilities.json"
         },
@@ -712,7 +712,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 99,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-23/nl/productivity.json"
         },
@@ -776,7 +776,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 99,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-23/se/productivity.json"
         },

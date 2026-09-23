@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:13:05.714841+09:00",
+  "collected_at": "2026-09-23T21:06:05.985313+09:00",
   "date": "2026-09-23",
   "country": "hk",
   "chart": "top-free",
@@ -25,12 +25,12 @@
     },
     {
       "rank": 2,
-      "id": "1210638245",
-      "name": "AlipayHK (支付寶香港)",
-      "developer": "Alipay Payment Services (HK) Limited",
-      "url": "https://apps.apple.com/hk/app/alipayhk-%E6%94%AF%E4%BB%98%E5%AF%B6%E9%A6%99%E6%B8%AF/id1210638245?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/2f/48/762f48eb-b69b-6f76-655a-86b48ee2c9fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-05-24",
+      "id": "1114430602",
+      "name": "Octopus 八達通",
+      "developer": "Octopus Cards",
+      "url": "https://apps.apple.com/hk/app/octopus-%E5%85%AB%E9%81%94%E9%80%9A/id1114430602?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/89/d1/b289d128-f4fe-5d04-08f6-76f0d7644afd/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-08-01",
       "genres": [
         {
           "id": "6015",
@@ -41,12 +41,12 @@
     },
     {
       "rank": 3,
-      "id": "1114430602",
-      "name": "Octopus 八達通",
-      "developer": "Octopus Cards",
-      "url": "https://apps.apple.com/hk/app/octopus-%E5%85%AB%E9%81%94%E9%80%9A/id1114430602?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/89/d1/b289d128-f4fe-5d04-08f6-76f0d7644afd/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-08-01",
+      "id": "1210638245",
+      "name": "AlipayHK (支付寶香港)",
+      "developer": "Alipay Payment Services (HK) Limited",
+      "url": "https://apps.apple.com/hk/app/alipayhk-%E6%94%AF%E4%BB%98%E5%AF%B6%E9%A6%99%E6%B8%AF/id1210638245?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/2f/48/762f48eb-b69b-6f76-655a-86b48ee2c9fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-05-24",
       "genres": [
         {
           "id": "6015",
@@ -185,22 +185,6 @@
     },
     {
       "rank": 12,
-      "id": "1292514758",
-      "name": "AIA+ HK",
-      "developer": "AIA International Limited",
-      "url": "https://apps.apple.com/hk/app/aia-hk/id1292514758?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/25/3d/e6253d16-42cb-05e5-7a9f-44be12570248/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2017-12-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 13,
       "id": "445795688",
       "name": "SC Mobile Hong Kong",
       "developer": "Standard Chartered Bank",
@@ -216,7 +200,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "1327268470",
       "name": "OKX — 全球千萬用戶的加密資產交易首選",
       "developer": "OKX Inc.",
@@ -232,13 +216,29 @@
       ]
     },
     {
+      "rank": 14,
+      "id": "1292514758",
+      "name": "AIA+ HK",
+      "developer": "AIA International Limited",
+      "url": "https://apps.apple.com/hk/app/aia-hk/id1292514758?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/25/3d/e6253d16-42cb-05e5-7a9f-44be12570248/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2017-12-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 15,
-      "id": "1457929724",
-      "name": "Vantage:All-In-One Trading App",
-      "developer": "Vantage Global Prime PTY LTD",
-      "url": "https://apps.apple.com/hk/app/vantage-all-in-one-trading-app/id1457929724?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/b0/fb/07b0fbb9-4244-7249-9d37-ca853eb42b89/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2019-07-20",
+      "id": "1505743481",
+      "name": "Mox Bank",
+      "developer": "Mox Bank Limited",
+      "url": "https://apps.apple.com/hk/app/mox-bank/id1505743481?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ba/ec/e2baeccd-ff8f-03b0-318b-b763923d6213/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-27",
       "genres": [
         {
           "id": "6015",
@@ -265,12 +265,12 @@
     },
     {
       "rank": 17,
-      "id": "1505743481",
-      "name": "Mox Bank",
-      "developer": "Mox Bank Limited",
-      "url": "https://apps.apple.com/hk/app/mox-bank/id1505743481?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ba/ec/e2baeccd-ff8f-03b0-318b-b763923d6213/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-07-27",
+      "id": "1477150600",
+      "name": "ZA Bank",
+      "developer": "ZA Bank Limited",
+      "url": "https://apps.apple.com/hk/app/za-bank/id1477150600?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/1f/ff/0a1fff66-1add-89de-61a4-c42cea9c6677/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-18",
       "genres": [
         {
           "id": "6015",
@@ -297,70 +297,6 @@
     },
     {
       "rank": 19,
-      "id": "6468941332",
-      "name": "电子税务局",
-      "developer": "State Administration of Taxation",
-      "url": "https://apps.apple.com/hk/app/%E7%94%B5%E5%AD%90%E7%A8%8E%E5%8A%A1%E5%B1%80/id6468941332?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/8b/ea/188bea3d-07de-0940-a8ce-95dcb13eea8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-04-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
-      "id": "1477150600",
-      "name": "ZA Bank",
-      "developer": "ZA Bank Limited",
-      "url": "https://apps.apple.com/hk/app/za-bank/id1477150600?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/1f/ff/0a1fff66-1add-89de-61a4-c42cea9c6677/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-18",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "id": "454558592",
-      "name": "IBKR Mobile",
-      "developer": "Interactive Brokers LLC",
-      "url": "https://apps.apple.com/hk/app/ibkr-mobile/id454558592?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/eb/22/c4eb22fc-92e3-aad5-6d01-f219903b4904/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-08-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "id": "423514795",
-      "name": "中国工商银行",
-      "developer": "Industrial and Commercial Bank of China",
-      "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C/id423514795?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6e/49/c96e4981-d3a9-f9d0-cff5-4d36135fdc3b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-03-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 23,
       "id": "283646709",
       "name": "PayPal",
       "developer": "PayPal, Inc.",
@@ -376,13 +312,77 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 20,
+      "id": "6468941332",
+      "name": "电子税务局",
+      "developer": "State Administration of Taxation",
+      "url": "https://apps.apple.com/hk/app/%E7%94%B5%E5%AD%90%E7%A8%8E%E5%8A%A1%E5%B1%80/id6468941332?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/8b/ea/188bea3d-07de-0940-a8ce-95dcb13eea8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-04-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "423514795",
+      "name": "中国工商银行",
+      "developer": "Industrial and Commercial Bank of China",
+      "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C/id423514795?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6e/49/c96e4981-d3a9-f9d0-cff5-4d36135fdc3b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-03-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "454558592",
+      "name": "IBKR Mobile",
+      "developer": "Interactive Brokers LLC",
+      "url": "https://apps.apple.com/hk/app/ibkr-mobile/id454558592?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/eb/22/c4eb22fc-92e3-aad5-6d01-f219903b4904/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-08-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
       "id": "515651240",
       "name": "中国农业银行",
       "developer": "中国农业银行",
       "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E9%93%B6%E8%A1%8C/id515651240?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/1f/68/141f68e4-112d-40de-0e7a-d1c188d0ce41/AppIcon-Release-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/100x100bb.png",
       "release_date": "2012-04-11",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "1403690384",
+      "name": "BoC Pay+",
+      "developer": "Bank of China (Hong Kong) Limited",
+      "url": "https://apps.apple.com/hk/app/boc-pay/id1403690384?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/48/80/8148806c-bf4a-8d06-65af-ed8c85723714/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2018-07-30",
       "genres": [
         {
           "id": "6015",
@@ -409,86 +409,6 @@
     },
     {
       "rank": 26,
-      "id": "1403690384",
-      "name": "BoC Pay+",
-      "developer": "Bank of China (Hong Kong) Limited",
-      "url": "https://apps.apple.com/hk/app/boc-pay/id1403690384?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/48/80/8148806c-bf4a-8d06-65af-ed8c85723714/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2018-07-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "612261027",
-      "name": "Wise - 港幣匯款轉帳留學繳費投資理財",
-      "developer": "Wise Payments Ltd",
-      "url": "https://apps.apple.com/hk/app/wise-%E6%B8%AF%E5%B9%A3%E5%8C%AF%E6%AC%BE%E8%BD%89%E5%B8%B3%E7%95%99%E5%AD%B8%E7%B9%B3%E8%B2%BB%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/id612261027?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/8c/d6/038cd6f3-1b24-8b53-8fe4-7084faef627e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-10-03",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "id": "435695045",
-      "name": "myPrudential: 輕鬆管理您的保單",
-      "developer": "Prudential Hong Kong Limited",
-      "url": "https://apps.apple.com/hk/app/myprudential-%E8%BC%95%E9%AC%86%E7%AE%A1%E7%90%86%E6%82%A8%E7%9A%84%E4%BF%9D%E5%96%AE/id435695045?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/27/07/e92707c4-7d76-db7a-fa2b-5361991b1484/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2011-05-10",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "id": "645797935",
-      "name": "宏利香港及澳門",
-      "developer": "Manulife (International) Limited",
-      "url": "https://apps.apple.com/hk/app/%E5%AE%8F%E5%88%A9%E9%A6%99%E6%B8%AF%E5%8F%8A%E6%BE%B3%E9%96%80/id645797935?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/35/a8/0235a879-b3c3-2e71-75c4-13c6d602d0cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-07-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "id": "628054799",
-      "name": "Amex Hong Kong",
-      "developer": "American Express",
-      "url": "https://apps.apple.com/hk/app/amex-hong-kong/id628054799?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/2f/83/a22f83a8-6697-367f-01cc-094cc08075ce/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-04-04",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
       "id": "1456962787",
       "name": "Emma by AXA",
       "developer": "AXA China Region Insurance Company Limited",
@@ -504,13 +424,13 @@
       ]
     },
     {
-      "rank": 32,
-      "id": "1644947796",
-      "name": "sim Credit Card",
-      "developer": "sim Limited",
-      "url": "https://apps.apple.com/hk/app/sim-credit-card/id1644947796?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/26/64/7926642a-dac7-a9d1-d779-fd512e494f25/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-18",
+      "rank": 27,
+      "id": "435695045",
+      "name": "myPrudential: 輕鬆管理您的保單",
+      "developer": "Prudential Hong Kong Limited",
+      "url": "https://apps.apple.com/hk/app/myprudential-%E8%BC%95%E9%AC%86%E7%AE%A1%E7%90%86%E6%82%A8%E7%9A%84%E4%BF%9D%E5%96%AE/id435695045?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/27/07/e92707c4-7d76-db7a-fa2b-5361991b1484/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2011-05-10",
       "genres": [
         {
           "id": "6015",
@@ -520,7 +440,23 @@
       ]
     },
     {
-      "rank": 33,
+      "rank": 28,
+      "id": "645797935",
+      "name": "宏利香港及澳門",
+      "developer": "Manulife (International) Limited",
+      "url": "https://apps.apple.com/hk/app/%E5%AE%8F%E5%88%A9%E9%A6%99%E6%B8%AF%E5%8F%8A%E6%BE%B3%E9%96%80/id645797935?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/35/a8/0235a879-b3c3-2e71-75c4-13c6d602d0cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-07-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
       "id": "1463024118",
       "name": "香港盈立證券-港資科技券商No.1^",
       "developer": "uSmart Securities Limited",
@@ -536,13 +472,13 @@
       ]
     },
     {
-      "rank": 34,
-      "id": "392899425",
-      "name": "招商银行",
-      "developer": "招商银行",
-      "url": "https://apps.apple.com/hk/app/%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C/id392899425?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/ac/a0/86aca000-2f95-cedd-b1e8-f7eda1697143/AppIcon26-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-10-06",
+      "rank": 30,
+      "id": "1457929724",
+      "name": "Vantage:All-In-One Trading App",
+      "developer": "Vantage Global Prime PTY LTD",
+      "url": "https://apps.apple.com/hk/app/vantage-all-in-one-trading-app/id1457929724?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/b0/fb/07b0fbb9-4244-7249-9d37-ca853eb42b89/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-07-20",
       "genres": [
         {
           "id": "6015",
@@ -552,13 +488,13 @@
       ]
     },
     {
-      "rank": 35,
-      "id": "382581448",
-      "name": "DBS Card+ HK",
-      "developer": "DBS Bank (Hong Kong) Limited",
-      "url": "https://apps.apple.com/hk/app/dbs-card-hk/id382581448?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/11/68/f4116864-f3da-18ff-74aa-63c301282f5e/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-09-24",
+      "rank": 31,
+      "id": "612261027",
+      "name": "Wise - 港幣匯款轉帳留學繳費投資理財",
+      "developer": "Wise Payments Ltd",
+      "url": "https://apps.apple.com/hk/app/wise-%E6%B8%AF%E5%B9%A3%E5%8C%AF%E6%AC%BE%E8%BD%89%E5%B8%B3%E7%95%99%E5%AD%B8%E7%B9%B3%E8%B2%BB%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/id612261027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/88/e4/1788e485-3c00-4765-3b51-5e19b07eedc2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-10-03",
       "genres": [
         {
           "id": "6015",
@@ -568,199 +504,7 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "1493956050",
-      "name": "WeLab Bank - 香港數字銀行",
-      "developer": "Welab Bank Limited",
-      "url": "https://apps.apple.com/hk/app/welab-bank-%E9%A6%99%E6%B8%AF%E6%95%B8%E5%AD%97%E9%8A%80%E8%A1%8C/id1493956050?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c9/ec/edc9ec43-005d-ce1a-8c23-92a8970347fc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2020-06-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "1332612057",
-      "name": "AEON HK",
-      "developer": "AEON Credit Service (Asia) Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/aeon-hk/id1332612057?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/ad/ca/78adca4d-e02f-23dc-d99e-b65992b9a8d4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-01-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "6767813124",
-      "name": "大象銀行 EleBank",
-      "developer": "Ele Bank Limited",
-      "url": "https://apps.apple.com/hk/app/%E5%A4%A7%E8%B1%A1%E9%8A%80%E8%A1%8C-elebank/id6767813124?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/51/cc/2751ccbe-777d-92ee-f391-c3eb47b24703/Bank-Airstar-HK-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-09-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "1384798940",
-      "name": "imToken: BTC & ETH Wallet",
-      "developer": "IMTOKEN PTE. LTD.",
-      "url": "https://apps.apple.com/hk/app/imtoken-btc-eth-wallet/id1384798940?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/26/f1/b926f1a6-07ba-c6da-6f31-738021e0d40d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-06-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "381215704",
-      "name": "BEA Mobile 東亞手機銀行",
-      "developer": "The Bank of East Asia, Limited",
-      "url": "https://apps.apple.com/hk/app/bea-mobile-%E6%9D%B1%E4%BA%9E%E6%89%8B%E6%A9%9F%E9%8A%80%E8%A1%8C/id381215704?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/2b/e0/b22be055-d858-1d2d-ae57-6ca557eb73ef/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2010-07-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "1023600494",
-      "name": "Tiger Trade-港美股 期權 ETF 交易",
-      "developer": "Tiger Trade Technology Pte Ltd",
-      "url": "https://apps.apple.com/hk/app/tiger-trade-%E6%B8%AF%E7%BE%8E%E8%82%A1-%E6%9C%9F%E6%AC%8A-etf-%E4%BA%A4%E6%98%93/id1023600494?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/5d/da/545dda6a-bb9f-339b-4075-54ed50f206cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2015-08-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1276449806",
-      "name": "X Wallet",
-      "developer": "ZERO FINANCE HONG KONG LIMITED",
-      "url": "https://apps.apple.com/hk/app/x-wallet/id1276449806?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/b4/0b/78b40bc3-0ebf-7cb9-813b-f65b16b97c35/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-04-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "1236038032",
-      "name": "方德智投-港美股交易 & AI智能選股",
-      "developer": "Shanghai Shangjie Network Technology Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/%E6%96%B9%E5%BE%B7%E6%99%BA%E6%8A%95-%E6%B8%AF%E7%BE%8E%E8%82%A1%E4%BA%A4%E6%98%93-ai%E6%99%BA%E8%83%BD%E9%81%B8%E8%82%A1/id1236038032?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/02/c3/3902c307-34e1-d43a-6f0c-b4868cd07fab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-05-18",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "349866256",
-      "name": "tricount - 分攤團體帳單",
-      "developer": "Tricount",
-      "url": "https://apps.apple.com/hk/app/tricount-%E5%88%86%E6%94%A4%E5%9C%98%E9%AB%94%E5%B8%B3%E5%96%AE/id349866256?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2010-02-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "1557435421",
-      "name": "Webull: 一APP投資港股 美股 期權 ETF 基金",
-      "developer": "Webull Technologies Limited",
-      "url": "https://apps.apple.com/hk/app/webull-%E4%B8%80app%E6%8A%95%E8%B3%87%E6%B8%AF%E8%82%A1-%E7%BE%8E%E8%82%A1-%E6%9C%9F%E6%AC%8A-etf-%E5%9F%BA%E9%87%91/id1557435421?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/e4/2e/c9e42e40-7b38-6075-b3f3-88066707b446/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-03-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "373717372",
-      "name": "Citibank HK",
-      "developer": "CITIBANK (HONG KONG) LIMITED",
-      "url": "https://apps.apple.com/hk/app/citibank-hk/id373717372?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/e0/ea/b0e0eaf1-73f6-bd12-a647-a039cf55be07/AppIconHK-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2010-06-04",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "902344223",
-      "name": "28Hse.com 香港屋網",
-      "developer": "28Hse Ltd",
-      "url": "https://apps.apple.com/hk/app/28hse-com-%E9%A6%99%E6%B8%AF%E5%B1%8B%E7%B6%B2/id902344223?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/52/6b/7e526bf9-8a87-84f5-3964-6eb1f5988429/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2014-08-11",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
+      "rank": 32,
       "id": "1141722506",
       "name": "OmyCard",
       "developer": "Primecredit Ltd.",
@@ -776,13 +520,13 @@
       ]
     },
     {
-      "rank": 49,
-      "id": "1436002627",
-      "name": "个人所得税",
-      "developer": "State Administration of Taxation",
-      "url": "https://apps.apple.com/hk/app/%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E/id1436002627?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/ca/bb/1ecabb2f-fa07-e4be-a0d8-13e0c7494349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-24",
+      "rank": 33,
+      "id": "628054799",
+      "name": "Amex Hong Kong",
+      "developer": "American Express",
+      "url": "https://apps.apple.com/hk/app/amex-hong-kong/id628054799?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/2f/83/a22f83a8-6697-367f-01cc-094cc08075ce/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-04-04",
       "genres": [
         {
           "id": "6015",
@@ -792,7 +536,119 @@
       ]
     },
     {
-      "rank": 50,
+      "rank": 34,
+      "id": "392899425",
+      "name": "招商银行",
+      "developer": "招商银行",
+      "url": "https://apps.apple.com/hk/app/%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C/id392899425?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/de/de/06dedefb-0618-e2ad-b262-35a0a6ede3f4/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-10-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "1644947796",
+      "name": "sim Credit Card",
+      "developer": "sim Limited",
+      "url": "https://apps.apple.com/hk/app/sim-credit-card/id1644947796?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/26/64/7926642a-dac7-a9d1-d779-fd512e494f25/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1023600494",
+      "name": "Tiger Trade-港美股 期權 ETF 交易",
+      "developer": "Tiger Trade Technology Pte Ltd",
+      "url": "https://apps.apple.com/hk/app/tiger-trade-%E6%B8%AF%E7%BE%8E%E8%82%A1-%E6%9C%9F%E6%AC%8A-etf-%E4%BA%A4%E6%98%93/id1023600494?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/5d/da/545dda6a-bb9f-339b-4075-54ed50f206cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-08-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "1629355060",
+      "name": "星財富-港股美股 期權 全球理財 A股通 ETF 交易",
+      "developer": "Fosun International Securities Limited",
+      "url": "https://apps.apple.com/hk/app/%E6%98%9F%E8%B2%A1%E5%AF%8C-%E6%B8%AF%E8%82%A1%E7%BE%8E%E8%82%A1-%E6%9C%9F%E6%AC%8A-%E5%85%A8%E7%90%83%E7%90%86%E8%B2%A1-a%E8%82%A1%E9%80%9A-etf-%E4%BA%A4%E6%98%93/id1629355060?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/22/cc/9022cc67-6abb-0772-74e0-bc7c0bb808f7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2022-06-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "373717372",
+      "name": "Citibank HK",
+      "developer": "CITIBANK (HONG KONG) LIMITED",
+      "url": "https://apps.apple.com/hk/app/citibank-hk/id373717372?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/e0/ea/b0e0eaf1-73f6-bd12-a647-a039cf55be07/AppIconHK-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2010-06-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6767813124",
+      "name": "大象銀行 EleBank",
+      "developer": "Ele Bank Limited",
+      "url": "https://apps.apple.com/hk/app/%E5%A4%A7%E8%B1%A1%E9%8A%80%E8%A1%8C-elebank/id6767813124?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/51/cc/2751ccbe-777d-92ee-f391-c3eb47b24703/Bank-Airstar-HK-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-09-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "1493956050",
+      "name": "WeLab Bank - 香港數字銀行",
+      "developer": "Welab Bank Limited",
+      "url": "https://apps.apple.com/hk/app/welab-bank-%E9%A6%99%E6%B8%AF%E6%95%B8%E5%AD%97%E9%8A%80%E8%A1%8C/id1493956050?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c9/ec/edc9ec43-005d-ce1a-8c23-92a8970347fc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-06-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
       "id": "1470361790",
       "name": "MobileTmoney",
       "developer": "Tmoney Co., Ltd",
@@ -808,13 +664,13 @@
       ]
     },
     {
-      "rank": 51,
-      "id": "1503485004",
-      "name": "滙豐保險守滙您",
-      "developer": "HSBC Global Services (UK) Limited",
-      "url": "https://apps.apple.com/hk/app/%E6%BB%99%E8%B1%90%E4%BF%9D%E9%9A%AA%E5%AE%88%E6%BB%99%E6%82%A8/id1503485004?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/cb/77/34cb7797-52ea-c560-dc61-3638241f7eca/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-05-21",
+      "rank": 42,
+      "id": "902344223",
+      "name": "28Hse.com 香港屋網",
+      "developer": "28Hse Ltd",
+      "url": "https://apps.apple.com/hk/app/28hse-com-%E9%A6%99%E6%B8%AF%E5%B1%8B%E7%B6%B2/id902344223?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/52/6b/7e526bf9-8a87-84f5-3964-6eb1f5988429/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-11",
       "genres": [
         {
           "id": "6015",
@@ -824,7 +680,135 @@
       ]
     },
     {
-      "rank": 52,
+      "rank": 43,
+      "id": "1434519981",
+      "name": "建行(港澳)手機應用程式",
+      "developer": "中国建设银行",
+      "url": "https://apps.apple.com/hk/app/%E5%BB%BA%E8%A1%8C-%E6%B8%AF%E6%BE%B3-%E6%89%8B%E6%A9%9F%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/id1434519981?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/08/c2/d108c240-2492-29de-042d-dd9672a2f95f/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2018-11-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1384798940",
+      "name": "imToken: BTC & ETH Wallet",
+      "developer": "IMTOKEN PTE. LTD.",
+      "url": "https://apps.apple.com/hk/app/imtoken-btc-eth-wallet/id1384798940?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/26/f1/b926f1a6-07ba-c6da-6f31-738021e0d40d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-06-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1332612057",
+      "name": "AEON HK",
+      "developer": "AEON Credit Service (Asia) Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/aeon-hk/id1332612057?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/ad/ca/78adca4d-e02f-23dc-d99e-b65992b9a8d4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-01-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "349866256",
+      "name": "tricount - 分攤團體帳單",
+      "developer": "Tricount",
+      "url": "https://apps.apple.com/hk/app/tricount-%E5%88%86%E6%94%A4%E5%9C%98%E9%AB%94%E5%B8%B3%E5%96%AE/id349866256?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2010-02-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "1557435421",
+      "name": "Webull: 一APP投資港股 美股 期權 ETF 基金",
+      "developer": "Webull Technologies Limited",
+      "url": "https://apps.apple.com/hk/app/webull-%E4%B8%80app%E6%8A%95%E8%B3%87%E6%B8%AF%E8%82%A1-%E7%BE%8E%E8%82%A1-%E6%9C%9F%E6%AC%8A-etf-%E5%9F%BA%E9%87%91/id1557435421?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/e4/2e/c9e42e40-7b38-6075-b3f3-88066707b446/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-03-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1436002627",
+      "name": "个人所得税",
+      "developer": "State Administration of Taxation",
+      "url": "https://apps.apple.com/hk/app/%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E/id1436002627?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/ca/bb/1ecabb2f-fa07-e4be-a0d8-13e0c7494349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "1236038032",
+      "name": "方德智投-港美股交易 & AI智能選股",
+      "developer": "Shanghai Shangjie Network Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E6%96%B9%E5%BE%B7%E6%99%BA%E6%8A%95-%E6%B8%AF%E7%BE%8E%E8%82%A1%E4%BA%A4%E6%98%93-ai%E6%99%BA%E8%83%BD%E9%81%B8%E8%82%A1/id1236038032?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/02/c3/3902c307-34e1-d43a-6f0c-b4868cd07fab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-05-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "382581448",
+      "name": "DBS Card+ HK",
+      "developer": "DBS Bank (Hong Kong) Limited",
+      "url": "https://apps.apple.com/hk/app/dbs-card-hk/id382581448?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/11/68/f4116864-f3da-18ff-74aa-63c301282f5e/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-09-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
       "id": "1156875272",
       "name": "Suica",
       "developer": "East Japan Railway Company",
@@ -840,13 +824,29 @@
       ]
     },
     {
+      "rank": 52,
+      "id": "381215704",
+      "name": "BEA Mobile 東亞手機銀行",
+      "developer": "The Bank of East Asia, Limited",
+      "url": "https://apps.apple.com/hk/app/bea-mobile-%E6%9D%B1%E4%BA%9E%E6%89%8B%E6%A9%9F%E9%8A%80%E8%A1%8C/id381215704?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/2b/e0/b22be055-d858-1d2d-ae57-6ca557eb73ef/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2010-07-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 53,
-      "id": "787109400",
-      "name": "置業專家",
-      "developer": "Bank of China (Hong Kong) Limited",
-      "url": "https://apps.apple.com/hk/app/%E7%BD%AE%E6%A5%AD%E5%B0%88%E5%AE%B6/id787109400?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/83/bf/db83bf10-8686-8070-5413-1e7954473ea6/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.jpeg/100x100bb.png",
-      "release_date": "2014-01-19",
+      "id": "1276449806",
+      "name": "X Wallet",
+      "developer": "ZERO FINANCE HONG KONG LIMITED",
+      "url": "https://apps.apple.com/hk/app/x-wallet/id1276449806?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/b4/0b/78b40bc3-0ebf-7cb9-813b-f65b16b97c35/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-08",
       "genres": [
         {
           "id": "6015",
@@ -857,12 +857,12 @@
     },
     {
       "rank": 54,
-      "id": "1629355060",
-      "name": "星財富-港股美股 期權 全球理財 A股通 ETF 交易",
-      "developer": "Fosun International Securities Limited",
-      "url": "https://apps.apple.com/hk/app/%E6%98%9F%E8%B2%A1%E5%AF%8C-%E6%B8%AF%E8%82%A1%E7%BE%8E%E8%82%A1-%E6%9C%9F%E6%AC%8A-%E5%85%A8%E7%90%83%E7%90%86%E8%B2%A1-a%E8%82%A1%E9%80%9A-etf-%E4%BA%A4%E6%98%93/id1629355060?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/22/cc/9022cc67-6abb-0772-74e0-bc7c0bb808f7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2022-06-21",
+      "id": "552873970",
+      "name": "大新銀行Dah Sing Bank",
+      "developer": "Dah Sing Bank, Limited",
+      "url": "https://apps.apple.com/hk/app/%E5%A4%A7%E6%96%B0%E9%8A%80%E8%A1%8Cdah-sing-bank/id552873970?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b6/db/dcb6dbc7-c563-c3a6-acee-c4ca4f63eeda/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2012-10-17",
       "genres": [
         {
           "id": "6015",
@@ -889,118 +889,6 @@
     },
     {
       "rank": 56,
-      "id": "552873970",
-      "name": "大新銀行Dah Sing Bank",
-      "developer": "Dah Sing Bank, Limited",
-      "url": "https://apps.apple.com/hk/app/%E5%A4%A7%E6%96%B0%E9%8A%80%E8%A1%8Cdah-sing-bank/id552873970?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b6/db/dcb6dbc7-c563-c3a6-acee-c4ca4f63eeda/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2012-10-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "1434519981",
-      "name": "建行(港澳)手機應用程式",
-      "developer": "中国建设银行",
-      "url": "https://apps.apple.com/hk/app/%E5%BB%BA%E8%A1%8C-%E6%B8%AF%E6%BE%B3-%E6%89%8B%E6%A9%9F%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/id1434519981?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/08/c2/d108c240-2492-29de-042d-dd9672a2f95f/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2018-11-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "379407858",
-      "name": "中原地產 Centaline Property",
-      "developer": "Centaline Property Agency Limited",
-      "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E5%8E%9F%E5%9C%B0%E7%94%A2-centaline-property/id379407858?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/a4/f5/85a4f54b-1d94-bcef-da8f-920473828d2d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-07-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "1205990992",
-      "name": "TradingView - 股票、外匯、和比特幣圖表",
-      "developer": "TradingView",
-      "url": "https://apps.apple.com/hk/app/tradingview-%E8%82%A1%E7%A5%A8-%E5%A4%96%E5%8C%AF-%E5%92%8C%E6%AF%94%E7%89%B9%E5%B9%A3%E5%9C%96%E8%A1%A8/id1205990992?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/59/53/a65953c9-4e9f-07ad-854a-53eda0c02a10/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "6762756705",
-      "name": "輝立 Pro - IPO 孖展 暗盤 ETF 股票 證券交易",
-      "developer": "Phillip Securities (HK) Limited",
-      "url": "https://apps.apple.com/hk/app/%E8%BC%9D%E7%AB%8B-pro-ipo-%E5%AD%96%E5%B1%95-%E6%9A%97%E7%9B%A4-etf-%E8%82%A1%E7%A5%A8-%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93/id6762756705?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/18/b1/ea18b101-632f-9673-a0a6-98b30d003276/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-07-14",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "1294998195",
-      "name": "Gate: 購買比特幣、以太坊，加密貨幣交易所",
-      "developer": "GATE GLOBAL UAB",
-      "url": "https://apps.apple.com/hk/app/gate-%E8%B3%BC%E8%B2%B7%E6%AF%94%E7%89%B9%E5%B9%A3-%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80/id1294998195?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/41/e4/1641e497-9434-6457-8ecf-671ab41fa596/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-11-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "563163623",
-      "name": "繳費靈手機服務 PPS on Mobile",
-      "developer": "EPS Company (Hong Kong) Limited",
-      "url": "https://apps.apple.com/hk/app/%E7%B9%B3%E8%B2%BB%E9%9D%88%E6%89%8B%E6%A9%9F%E6%9C%8D%E5%8B%99-pps-on-mobile/id563163623?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/30/f5/5b30f56e-461a-e09f-ae67-22156a9b0292/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2012-10-16",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
       "id": "1294956074",
       "name": "inMotion 動感銀行",
       "developer": "China CITIC Bank International Limited",
@@ -1016,13 +904,13 @@
       ]
     },
     {
-      "rank": 64,
-      "id": "1441274976",
-      "name": "Blue Cross HK",
-      "developer": "Blue Cross (Asia-Pacific) Insurance Limited 藍十字 (亞太) 保險有限公司",
-      "url": "https://apps.apple.com/hk/app/blue-cross-hk/id1441274976?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/3a/18/743a1890-cb91-15a4-18dc-94d789250d78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-04-15",
+      "rank": 57,
+      "id": "1205990992",
+      "name": "TradingView - 股票、外匯、和比特幣圖表",
+      "developer": "TradingView",
+      "url": "https://apps.apple.com/hk/app/tradingview-%E8%82%A1%E7%A5%A8-%E5%A4%96%E5%8C%AF-%E5%92%8C%E6%AF%94%E7%89%B9%E5%B9%A3%E5%9C%96%E8%A1%A8/id1205990992?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/59/53/a65953c9-4e9f-07ad-854a-53eda0c02a10/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-24",
       "genres": [
         {
           "id": "6015",
@@ -1032,109 +920,13 @@
       ]
     },
     {
-      "rank": 65,
-      "id": "1505492952",
-      "name": "Octopus for Tourists",
-      "developer": "Octopus Cards",
-      "url": "https://apps.apple.com/hk/app/octopus-for-tourists/id1505492952?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/93/48/c593483f-46f9-d424-e765-ec5fe83d7c61/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2020-07-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "398453262",
-      "name": "掌上生活-招商银行信用卡",
-      "developer": "招商银行",
-      "url": "https://apps.apple.com/hk/app/%E6%8E%8C%E4%B8%8A%E7%94%9F%E6%B4%BB-%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C%E4%BF%A1%E7%94%A8%E5%8D%A1/id398453262?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/7e/5e/157e5eb3-0870-b8e6-4c65-e7b42e897c60/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-10-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "303191318",
-      "name": "同花顺-炒股、股票",
-      "developer": "Zhejiang Royalflush Cloud Software Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/%E5%90%8C%E8%8A%B1%E9%A1%BA-%E7%82%92%E8%82%A1-%E8%82%A1%E7%A5%A8/id303191318?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/cc/41/2ccc41a2-2f67-59fe-2698-b91ff6d7d47c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2009-04-20",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6742470706",
-      "name": "致富證券-47年港資零售券商No.1",
-      "developer": "Chief Securities Limited",
-      "url": "https://apps.apple.com/hk/app/%E8%87%B4%E5%AF%8C%E8%AD%89%E5%88%B8-47%E5%B9%B4%E6%B8%AF%E8%B3%87%E9%9B%B6%E5%94%AE%E5%88%B8%E5%95%86no-1/id6742470706?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/39/70/09397018-9818-1742-5e9c-e7eedf265ca4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-10-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "1472729964",
-      "name": "House730 智能樓盤地產平台",
-      "developer": "House730 Limited",
-      "url": "https://apps.apple.com/hk/app/house730-%E6%99%BA%E8%83%BD%E6%A8%93%E7%9B%A4%E5%9C%B0%E7%94%A2%E5%B9%B3%E5%8F%B0/id1472729964?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/93/3c/65933cea-0f47-6904-4859-84b5ddeac725/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2019-07-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "1442778704",
-      "name": "Bitget-比特幣、以太幣加密貨幣交易所",
-      "developer": "BG LIMITED",
-      "url": "https://apps.apple.com/hk/app/bitget-%E6%AF%94%E7%89%B9%E5%B9%A3-%E4%BB%A5%E5%A4%AA%E5%B9%A3%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80/id1442778704?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/b0/73/83b0733c-d420-8730-c2fc-735dd52f8b15/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2018-11-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1261295769",
-      "name": "香港滙豐投資全速易",
+      "rank": 58,
+      "id": "1503485004",
+      "name": "滙豐保險守滙您",
       "developer": "HSBC Global Services (UK) Limited",
-      "url": "https://apps.apple.com/hk/app/%E9%A6%99%E6%B8%AF%E6%BB%99%E8%B1%90%E6%8A%95%E8%B3%87%E5%85%A8%E9%80%9F%E6%98%93/id1261295769?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/b5/42/afb54293-7146-efd0-3407-77785b695c04/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-09-13",
+      "url": "https://apps.apple.com/hk/app/%E6%BB%99%E8%B1%90%E4%BF%9D%E9%9A%AA%E5%AE%88%E6%BB%99%E6%82%A8/id1503485004?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/cb/77/34cb7797-52ea-c560-dc61-3638241f7eca/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-05-21",
       "genres": [
         {
           "id": "6015",
@@ -1144,13 +936,13 @@
       ]
     },
     {
-      "rank": 72,
-      "id": "1341250080",
-      "name": "DBS digibank HK",
-      "developer": "DBS Bank (Hong Kong) Limited",
-      "url": "https://apps.apple.com/hk/app/dbs-digibank-hk/id1341250080?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/4e/0f/bc4e0f65-f5a7-6cd5-a0ba-a3671d21f0d5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-04-22",
+      "rank": 59,
+      "id": "1294998195",
+      "name": "Gate: 購買比特幣、以太坊，加密貨幣交易所",
+      "developer": "GATE GLOBAL UAB",
+      "url": "https://apps.apple.com/hk/app/gate-%E8%B3%BC%E8%B2%B7%E6%AF%94%E7%89%B9%E5%B9%A3-%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80/id1294998195?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/41/e4/1641e497-9434-6457-8ecf-671ab41fa596/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-11-02",
       "genres": [
         {
           "id": "6015",
@@ -1160,23 +952,7 @@
       ]
     },
     {
-      "rank": 73,
-      "id": "493489515",
-      "name": "邮储银行",
-      "developer": "中国邮政储蓄银行",
-      "url": "https://apps.apple.com/hk/app/%E9%82%AE%E5%82%A8%E9%93%B6%E8%A1%8C/id493489515?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/9e/26/3c9e264a-4ce6-a483-5bb3-ab9a4222b0c8/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-01-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
+      "rank": 60,
       "id": "1475070598",
       "name": "工銀亞洲",
       "developer": "Industrial and Commercial Bank of China",
@@ -1192,7 +968,247 @@
       ]
     },
     {
+      "rank": 61,
+      "id": "6762756705",
+      "name": "輝立 Pro - IPO 孖展 暗盤 ETF 股票 證券交易",
+      "developer": "Phillip Securities (HK) Limited",
+      "url": "https://apps.apple.com/hk/app/%E8%BC%9D%E7%AB%8B-pro-ipo-%E5%AD%96%E5%B1%95-%E6%9A%97%E7%9B%A4-etf-%E8%82%A1%E7%A5%A8-%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93/id6762756705?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/18/b1/ea18b101-632f-9673-a0a6-98b30d003276/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-07-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "1441274976",
+      "name": "Blue Cross HK",
+      "developer": "Blue Cross (Asia-Pacific) Insurance Limited 藍十字 (亞太) 保險有限公司",
+      "url": "https://apps.apple.com/hk/app/blue-cross-hk/id1441274976?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/3a/18/743a1890-cb91-15a4-18dc-94d789250d78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-04-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6742470706",
+      "name": "致富證券-47年港資零售券商No.1",
+      "developer": "Chief Securities Limited",
+      "url": "https://apps.apple.com/hk/app/%E8%87%B4%E5%AF%8C%E8%AD%89%E5%88%B8-47%E5%B9%B4%E6%B8%AF%E8%B3%87%E9%9B%B6%E5%94%AE%E5%88%B8%E5%95%86no-1/id6742470706?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/39/70/09397018-9818-1742-5e9c-e7eedf265ca4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "787109400",
+      "name": "置業專家",
+      "developer": "Bank of China (Hong Kong) Limited",
+      "url": "https://apps.apple.com/hk/app/%E7%BD%AE%E6%A5%AD%E5%B0%88%E5%AE%B6/id787109400?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/83/bf/db83bf10-8686-8070-5413-1e7954473ea6/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.jpeg/100x100bb.png",
+      "release_date": "2014-01-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1261295769",
+      "name": "HSBC HK 證券+",
+      "developer": "HSBC Global Services (UK) Limited",
+      "url": "https://apps.apple.com/hk/app/hsbc-hk-%E8%AD%89%E5%88%B8/id1261295769?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/ef/9f/1def9fd5-bc7a-d556-d6ec-bf037c3ad2e6/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-09-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1275497100",
+      "name": "中國人壽（海外）OneService App",
+      "developer": "China Life Trustees Limited",
+      "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A3%BD-%E6%B5%B7%E5%A4%96-oneservice-app/id1275497100?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/0c/38/dd0c3859-8bb1-7317-f4fa-e9d5c616348d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2017-10-11",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "379407858",
+      "name": "中原地產 Centaline Property",
+      "developer": "Centaline Property Agency Limited",
+      "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E5%8E%9F%E5%9C%B0%E7%94%A2-centaline-property/id379407858?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/43/8d/05438dc3-495b-076d-1dac-7709d99897c3/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-07-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1472729964",
+      "name": "House730 智能樓盤地產平台",
+      "developer": "House730 Limited",
+      "url": "https://apps.apple.com/hk/app/house730-%E6%99%BA%E8%83%BD%E6%A8%93%E7%9B%A4%E5%9C%B0%E7%94%A2%E5%B9%B3%E5%8F%B0/id1472729964?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/93/3c/65933cea-0f47-6904-4859-84b5ddeac725/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-07-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "563163623",
+      "name": "繳費靈手機服務 PPS on Mobile",
+      "developer": "EPS Company (Hong Kong) Limited",
+      "url": "https://apps.apple.com/hk/app/%E7%B9%B3%E8%B2%BB%E9%9D%88%E6%89%8B%E6%A9%9F%E6%9C%8D%E5%8B%99-pps-on-mobile/id563163623?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/30/f5/5b30f56e-461a-e09f-ae67-22156a9b0292/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2012-10-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "303191318",
+      "name": "同花顺-炒股、股票",
+      "developer": "Zhejiang Royalflush Cloud Software Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E5%90%8C%E8%8A%B1%E9%A1%BA-%E7%82%92%E8%82%A1-%E8%82%A1%E7%A5%A8/id303191318?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/cc/41/2ccc41a2-2f67-59fe-2698-b91ff6d7d47c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2009-04-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "1335907850",
+      "name": "My Sun Life HK",
+      "developer": "Sun Life Financial",
+      "url": "https://apps.apple.com/hk/app/my-sun-life-hk/id1335907850?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/96/7e/38967eae-e9d3-1f14-a302-99e1ce72f640/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-02-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "1505492952",
+      "name": "Octopus for Tourists",
+      "developer": "Octopus Cards",
+      "url": "https://apps.apple.com/hk/app/octopus-for-tourists/id1505492952?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/93/48/c593483f-46f9-d424-e765-ec5fe83d7c61/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1505282324",
+      "name": "平安數字銀行",
+      "developer": "Ping An Digital Bank (International) Limited",
+      "url": "https://apps.apple.com/hk/app/%E5%B9%B3%E5%AE%89%E6%95%B8%E5%AD%97%E9%8A%80%E8%A1%8C/id1505282324?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c0/2c/7bc02c5c-7fcb-fdcc-df41-9843f6874c04/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-06-23",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1341250080",
+      "name": "DBS digibank HK",
+      "developer": "DBS Bank (Hong Kong) Limited",
+      "url": "https://apps.apple.com/hk/app/dbs-digibank-hk/id1341250080?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/4e/0f/bc4e0f65-f5a7-6cd5-a0ba-a3671d21f0d5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-22",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 75,
+      "id": "398453262",
+      "name": "掌上生活-招商银行信用卡",
+      "developer": "招商银行",
+      "url": "https://apps.apple.com/hk/app/%E6%8E%8C%E4%B8%8A%E7%94%9F%E6%B4%BB-%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C%E4%BF%A1%E7%94%A8%E5%8D%A1/id398453262?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/7e/5e/157e5eb3-0870-b8e6-4c65-e7b42e897c60/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-10-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
       "id": "1321395920",
       "name": "香港滙豐Business Express",
       "developer": "The Hongkong and Shanghai Banking Corporation Ltd.",
@@ -1208,29 +1224,13 @@
       ]
     },
     {
-      "rank": 76,
+      "rank": 77,
       "id": "337876534",
       "name": "交通银行",
       "developer": "交通银行",
       "url": "https://apps.apple.com/hk/app/%E4%BA%A4%E9%80%9A%E9%93%B6%E8%A1%8C/id337876534?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/ab/bc/2cabbc36-27d3-cfe8-1d9b-d7fd98ce4162/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2009-11-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "1275497100",
-      "name": "中國人壽（海外）OneService App",
-      "developer": "China Life Trustees Limited",
-      "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A3%BD-%E6%B5%B7%E5%A4%96-oneservice-app/id1275497100?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/0c/38/dd0c3859-8bb1-7317-f4fa-e9d5c616348d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2017-10-11",
       "genres": [
         {
           "id": "6015",
@@ -1257,118 +1257,6 @@
     },
     {
       "rank": 79,
-      "id": "1488296980",
-      "name": "Bybit：購買比特幣和交易加密貨幣",
-      "developer": "Bybit Fintech Limited",
-      "url": "https://apps.apple.com/hk/app/bybit-%E8%B3%BC%E8%B2%B7%E6%AF%94%E7%89%B9%E5%B9%A3%E5%92%8C%E4%BA%A4%E6%98%93%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3/id1488296980?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/79/f0/f979f0da-416b-d769-4485-2fb63c6b42ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2020-01-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "6745219534",
-      "name": "NeedaCash 立達錢 - 信貸現金周轉貸款",
-      "developer": "FinVolution (HK) LIMITED",
-      "url": "https://apps.apple.com/hk/app/needacash-%E7%AB%8B%E9%81%94%E9%8C%A2-%E4%BF%A1%E8%B2%B8%E7%8F%BE%E9%87%91%E5%91%A8%E8%BD%89%E8%B2%B8%E6%AC%BE/id6745219534?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/16/9c/b1169c33-e3f6-a4eb-4ab2-d07b4869a9c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-08-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "413251709",
-      "name": "MetaTrader 5",
-      "developer": "MetaQuotes Software Corp.",
-      "url": "https://apps.apple.com/hk/app/metatrader-5/id413251709?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-01-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "1039761040",
-      "name": "利嘉閣真盤源",
-      "developer": "Ricacorp Properties Limited",
-      "url": "https://apps.apple.com/hk/app/%E5%88%A9%E5%98%89%E9%96%A3%E7%9C%9F%E7%9B%A4%E6%BA%90/id1039761040?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/85/9b/56859be1-7be4-4494-01e2-6e0e98250703/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2015-10-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "1505282324",
-      "name": "平安數字銀行",
-      "developer": "Ping An Digital Bank (International) Limited",
-      "url": "https://apps.apple.com/hk/app/%E5%B9%B3%E5%AE%89%E6%95%B8%E5%AD%97%E9%8A%80%E8%A1%8C/id1505282324?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c0/2c/7bc02c5c-7fcb-fdcc-df41-9843f6874c04/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2020-06-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "6444844009",
-      "name": "Fubon+ HK",
-      "developer": "Fubon Bank (Hong Kong) Limited",
-      "url": "https://apps.apple.com/hk/app/fubon-hk/id6444844009?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/10/94/501094ea-50b7-2ccb-2e9f-dd6421c1489a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-16",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "6450776956",
-      "name": "交通銀行(香港)手機銀行",
-      "developer": "BANK OF COMMUNICATIONS (HONG KONG) LIMITED",
-      "url": "https://apps.apple.com/hk/app/%E4%BA%A4%E9%80%9A%E9%8A%80%E8%A1%8C-%E9%A6%99%E6%B8%AF-%E6%89%8B%E6%A9%9F%E9%8A%80%E8%A1%8C/id6450776956?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/1e/2d/1a1e2d89-02ff-daea-f6cf-ca8fe425464c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-04-19",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
       "id": "1494094567",
       "name": "螞蟻銀行(香港)",
       "developer": "ANT BANK HONG KONG LIMITED",
@@ -1384,13 +1272,13 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "6792739085",
-      "name": "iCardRewardsHK - 香港信用卡優惠",
-      "developer": "Wai Ching Yuen",
-      "url": "https://apps.apple.com/hk/app/icardrewardshk-%E9%A6%99%E6%B8%AF%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%84%AA%E6%83%A0/id6792739085?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ed/28/a3ed2818-47a5-1f16-0ed4-e14b2dcc9996/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-22",
+      "rank": 80,
+      "id": "493489515",
+      "name": "邮储银行",
+      "developer": "中国邮政储蓄银行",
+      "url": "https://apps.apple.com/hk/app/%E9%82%AE%E5%82%A8%E9%93%B6%E8%A1%8C/id493489515?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/9e/26/3c9e264a-4ce6-a483-5bb3-ab9a4222b0c8/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-01-29",
       "genres": [
         {
           "id": "6015",
@@ -1400,7 +1288,71 @@
       ]
     },
     {
-      "rank": 88,
+      "rank": 81,
+      "id": "1442778704",
+      "name": "Bitget-比特幣、以太幣加密貨幣交易所",
+      "developer": "BG LIMITED",
+      "url": "https://apps.apple.com/hk/app/bitget-%E6%AF%94%E7%89%B9%E5%B9%A3-%E4%BB%A5%E5%A4%AA%E5%B9%A3%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80/id1442778704?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/b0/73/83b0733c-d420-8730-c2fc-735dd52f8b15/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2018-11-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1530529680",
+      "name": "K Cash",
+      "developer": "K Cash Limited",
+      "url": "https://apps.apple.com/hk/app/k-cash/id1530529680?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/f8/1c/07f81cd3-cfff-d1c2-f1a4-4b279fd9cde1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-09-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1488296980",
+      "name": "Bybit：購買比特幣和交易加密貨幣",
+      "developer": "Bybit Fintech Limited",
+      "url": "https://apps.apple.com/hk/app/bybit-%E8%B3%BC%E8%B2%B7%E6%AF%94%E7%89%B9%E5%B9%A3%E5%92%8C%E4%BA%A4%E6%98%93%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3/id1488296980?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/79/f0/f979f0da-416b-d769-4485-2fb63c6b42ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-01-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "6745219534",
+      "name": "NeedaCash 立達錢 - 信貸現金周轉貸款",
+      "developer": "FinVolution (HK) LIMITED",
+      "url": "https://apps.apple.com/hk/app/needacash-%E7%AB%8B%E9%81%94%E9%8C%A2-%E4%BF%A1%E8%B2%B8%E7%8F%BE%E9%87%91%E5%91%A8%E8%BD%89%E8%B2%B8%E6%AC%BE/id6745219534?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/16/9c/b1169c33-e3f6-a4eb-4ab2-d07b4869a9c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
       "id": "526663971",
       "name": "招商永隆銀行",
       "developer": "CMB Wing Lung Bank Limited",
@@ -1416,39 +1368,7 @@
       ]
     },
     {
-      "rank": 89,
-      "id": "1544747458",
-      "name": "BEA Mall",
-      "developer": "The Bank of East Asia, Limited",
-      "url": "https://apps.apple.com/hk/app/bea-mall/id1544747458?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c3/86/61c386e4-1ec1-1579-db4b-8a6aef1f1b6b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-09",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "423525686",
-      "name": "东方财富-股票、炒股、理财",
-      "developer": "东方财富信息股份有限公司",
-      "url": "https://apps.apple.com/hk/app/%E4%B8%9C%E6%96%B9%E8%B4%A2%E5%AF%8C-%E8%82%A1%E7%A5%A8-%E7%82%92%E8%82%A1-%E7%90%86%E8%B4%A2/id423525686?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/47/77/cf47775d-2bc8-5488-64b9-dc20708c4920/AppIcon-0-0-1x_U007ephone-0-11-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-03-21",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
+      "rank": 86,
       "id": "1313192931",
       "name": "BOCHK iGTB MOBILE",
       "developer": "Bank of China (Hong Kong) Limited",
@@ -1464,13 +1384,13 @@
       ]
     },
     {
-      "rank": 92,
-      "id": "1220329065",
-      "name": "HSBC UK Mobile Banking",
-      "developer": "HSBC Global Services (UK) Limited",
-      "url": "https://apps.apple.com/hk/app/hsbc-uk-mobile-banking/id1220329065?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/c6/30/f9c630cb-034b-aefd-84a6-f09c0a0fd59a/IconUK-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-10-24",
+      "rank": 87,
+      "id": "6444844009",
+      "name": "Fubon+ HK",
+      "developer": "Fubon Bank (Hong Kong) Limited",
+      "url": "https://apps.apple.com/hk/app/fubon-hk/id6444844009?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/10/94/501094ea-50b7-2ccb-2e9f-dd6421c1489a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-16",
       "genres": [
         {
           "id": "6015",
@@ -1480,13 +1400,13 @@
       ]
     },
     {
-      "rank": 93,
-      "id": "1335907850",
-      "name": "My Sun Life HK",
-      "developer": "Sun Life Financial",
-      "url": "https://apps.apple.com/hk/app/my-sun-life-hk/id1335907850?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/96/7e/38967eae-e9d3-1f14-a302-99e1ce72f640/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-02-04",
+      "rank": 88,
+      "id": "6450776956",
+      "name": "交通銀行(香港)手機銀行",
+      "developer": "BANK OF COMMUNICATIONS (HONG KONG) LIMITED",
+      "url": "https://apps.apple.com/hk/app/%E4%BA%A4%E9%80%9A%E9%8A%80%E8%A1%8C-%E9%A6%99%E6%B8%AF-%E6%89%8B%E6%A9%9F%E9%8A%80%E8%A1%8C/id6450776956?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/1e/2d/1a1e2d89-02ff-daea-f6cf-ca8fe425464c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-04-19",
       "genres": [
         {
           "id": "6015",
@@ -1496,77 +1416,13 @@
       ]
     },
     {
-      "rank": 94,
-      "id": "458023433",
-      "name": "Splitwise",
-      "developer": "Splitwise, Inc.",
-      "url": "https://apps.apple.com/hk/app/splitwise/id458023433?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/91/62/c69162ae-73b2-e166-9e3b-bfbaa8ea726c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-08-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "1085016815",
-      "name": "平安口袋银行-更懂您的智能银行",
-      "developer": "PingAn Bank",
-      "url": "https://apps.apple.com/hk/app/%E5%B9%B3%E5%AE%89%E5%8F%A3%E8%A2%8B%E9%93%B6%E8%A1%8C-%E6%9B%B4%E6%87%82%E6%82%A8%E7%9A%84%E6%99%BA%E8%83%BD%E9%93%B6%E8%A1%8C/id1085016815?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/73/90/647390dc-f1e8-9eb4-4e12-401200eab0ff/AppIcon-0-0-1x_U007ephone-0-11-0-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2016-04-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "6590609594",
-      "name": "邦民 Promise",
-      "developer": "Promise (Hong Kong) Co., Limited",
-      "url": "https://apps.apple.com/hk/app/%E9%82%A6%E6%B0%91-promise/id6590609594?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/d0/e5/55d0e5e3-464d-5732-1466-7ccd144bf22c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
-      "id": "1438144202",
-      "name": "MetaMask: Trade Crypto",
-      "developer": "MetaMask",
-      "url": "https://apps.apple.com/hk/app/metamask-trade-crypto/id1438144202?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/7e/50/527e500b-f2da-fba5-8b54-ab165b1a3b70/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-09-03",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "理財",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 98,
-      "id": "1117207965",
-      "name": "恒生商業流動應用程式",
+      "rank": 89,
+      "id": "1489143798",
+      "name": "恒生投資快",
       "developer": "Hang Seng Bank Limited",
-      "url": "https://apps.apple.com/hk/app/%E6%81%92%E7%94%9F%E5%95%86%E6%A5%AD%E6%B5%81%E5%8B%95%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/id1117207965?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/74/b8/7a74b87c-9465-4e31-c487-3406bf89fa3d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-07-17",
+      "url": "https://apps.apple.com/hk/app/%E6%81%92%E7%94%9F%E6%8A%95%E8%B3%87%E5%BF%AB/id1489143798?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6a/c5/156ac5f3-f50e-5592-38af-0be7ad60a1b1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-07",
       "genres": [
         {
           "id": "6015",
@@ -1576,7 +1432,7 @@
       ]
     },
     {
-      "rank": 99,
+      "rank": 90,
       "id": "1288339409",
       "name": "Trust: 加密货币 & 比特币钱包",
       "developer": "DApps Platform Software Services Ltd.",
@@ -1592,13 +1448,157 @@
       ]
     },
     {
-      "rank": 100,
+      "rank": 91,
+      "id": "1085016815",
+      "name": "平安口袋银行-更懂您的智能银行",
+      "developer": "PingAn Bank",
+      "url": "https://apps.apple.com/hk/app/%E5%B9%B3%E5%AE%89%E5%8F%A3%E8%A2%8B%E9%93%B6%E8%A1%8C-%E6%9B%B4%E6%87%82%E6%82%A8%E7%9A%84%E6%99%BA%E8%83%BD%E9%93%B6%E8%A1%8C/id1085016815?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/73/90/647390dc-f1e8-9eb4-4e12-401200eab0ff/AppIcon-0-0-1x_U007ephone-0-11-0-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2016-04-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1571652872",
+      "name": "數字人民幣",
+      "developer": "数字人民币运营管理中心有限公司",
+      "url": "https://apps.apple.com/hk/app/%E6%95%B8%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B9%A3/id1571652872?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/94/73/4e947352-2db0-188c-a106-cd783a4d8155/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "422844108",
+      "name": "中信银行",
+      "developer": "中信银行",
+      "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E4%BF%A1%E9%93%B6%E8%A1%8C/id422844108?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/c6/36/45c6364c-f560-0798-cab1-e5050bf4beca/AppIcon-1x_U007emarketing-0-4-0-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2011-03-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
       "id": "473909232",
       "name": "OCBC Hong Kong",
       "developer": "OCBC Bank (Hong Kong) Limited",
       "url": "https://apps.apple.com/hk/app/ocbc-hong-kong/id473909232?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/b0/60/e6b060b3-13d3-8502-eaf0-ce4fb0ab8e90/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2011-11-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1395301115",
+      "name": "Bitget Wallet：加密貨幣錢包，比特幣&穩定幣",
+      "developer": "BitKeep Global Inc.",
+      "url": "https://apps.apple.com/hk/app/bitget-wallet-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85-%E6%AF%94%E7%89%B9%E5%B9%A3-%E7%A9%A9%E5%AE%9A%E5%B9%A3/id1395301115?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/11/4a/35114afa-544b-2b5f-02e3-74c05c29d7bb/NewAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2018-09-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1220329065",
+      "name": "HSBC UK Mobile Banking",
+      "developer": "HSBC Global Services (UK) Limited",
+      "url": "https://apps.apple.com/hk/app/hsbc-uk-mobile-banking/id1220329065?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/f4/85/26f485cd-7cd3-3cad-b2f2-b690bd589c13/IconUK-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-10-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "1039761040",
+      "name": "利嘉閣真盤源",
+      "developer": "Ricacorp Properties Limited",
+      "url": "https://apps.apple.com/hk/app/%E5%88%A9%E5%98%89%E9%96%A3%E7%9C%9F%E7%9B%A4%E6%BA%90/id1039761040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/85/9b/56859be1-7be4-4494-01e2-6e0e98250703/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2015-10-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "1544747458",
+      "name": "BEA Mall",
+      "developer": "The Bank of East Asia, Limited",
+      "url": "https://apps.apple.com/hk/app/bea-mall/id1544747458?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c3/86/61c386e4-1ec1-1579-db4b-8a6aef1f1b6b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-09",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "1053808015",
+      "name": "拍住賞 by HKT",
+      "developer": "HKT Payment Limited",
+      "url": "https://apps.apple.com/hk/app/%E6%8B%8D%E4%BD%8F%E8%B3%9E-by-hkt/id1053808015?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/04/d4/6204d449-8e71-edb1-af1d-106c65a4883f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "理財",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%90%86%E8%B2%A1/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "413251709",
+      "name": "MetaTrader 5",
+      "developer": "MetaQuotes Software Corp.",
+      "url": "https://apps.apple.com/hk/app/metatrader-5/id413251709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-01-15",
       "genres": [
         {
           "id": "6015",

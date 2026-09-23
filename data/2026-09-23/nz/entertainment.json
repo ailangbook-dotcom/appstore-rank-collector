@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:13:49.510364+09:00",
+  "collected_at": "2026-09-23T21:06:51.537272+09:00",
   "date": "2026-09-23",
   "country": "nz",
   "chart": "top-free",
@@ -89,86 +89,6 @@
     },
     {
       "rank": 6,
-      "id": "1666653815",
-      "name": "HBO Max: Watch Movies & TV",
-      "developer": "WarnerMedia Global Digital Services, LLC",
-      "url": "https://apps.apple.com/nz/app/hbo-max-watch-movies-tv/id1666653815?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/a6/10/54a61045-95b0-4368-3aa0-77ecad9f5dd5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-06-15",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "id": "6670430706",
-      "name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "url": "https://apps.apple.com/nz/app/dramawave-dramas-reels/id6670430706?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-09-23",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "id": "6445905219",
-      "name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "url": "https://apps.apple.com/nz/app/dramabox-stream-drama-shorts/id6445905219?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/97/9f/07979f7c-ae2a-57c3-7bc2-59a9bbaac868/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "id": "583264123",
-      "name": "Ticketek NZ",
-      "developer": "Ticketek Pty Ltd",
-      "url": "https://apps.apple.com/nz/app/ticketek-nz/id583264123?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/8e/2e/398e2ef9-6967-d195-63f1-1056140e3cbe/AppIconProductionNZ-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2012-12-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "id": "363590051",
-      "name": "Netflix",
-      "developer": "Netflix, Inc.",
-      "url": "https://apps.apple.com/nz/app/netflix/id363590051?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/91/60/809160d5-8984-b3ae-7c9b-a8e5db927df2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2015-03-20",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 11,
       "id": "1446075923",
       "name": "Disney+",
       "developer": "Disney",
@@ -184,7 +104,23 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 7,
+      "id": "363590051",
+      "name": "Netflix",
+      "developer": "Netflix, Inc.",
+      "url": "https://apps.apple.com/nz/app/netflix/id363590051?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/91/60/809160d5-8984-b3ae-7c9b-a8e5db927df2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-03-20",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "id": "6758667154",
       "name": "VibeShort: AI Short Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
@@ -200,13 +136,13 @@
       ]
     },
     {
-      "rank": 13,
-      "id": "6504849169",
-      "name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "url": "https://apps.apple.com/nz/app/netshort-popular-dramas-tv/id6504849169?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/4b/46/ca4b4688-b276-0460-ac5a-b73f8ea9a85d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-07-13",
+      "rank": 9,
+      "id": "1666653815",
+      "name": "HBO Max: Watch Movies & TV",
+      "developer": "WarnerMedia Global Digital Services, LLC",
+      "url": "https://apps.apple.com/nz/app/hbo-max-watch-movies-tv/id1666653815?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/a6/10/54a61045-95b0-4368-3aa0-77ecad9f5dd5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-06-15",
       "genres": [
         {
           "id": "6016",
@@ -216,13 +152,13 @@
       ]
     },
     {
-      "rank": 14,
-      "id": "1636235979",
-      "name": "ReelShort - Stream Drama & TV",
-      "developer": "NewLeaf Publishing",
-      "url": "https://apps.apple.com/nz/app/reelshort-stream-drama-tv/id1636235979?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/28/2c/26282c66-9999-8579-4771-ff14ee341682/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-07",
+      "rank": 10,
+      "id": "6445905219",
+      "name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/dramabox-stream-drama-shorts/id6445905219?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/97/9f/07979f7c-ae2a-57c3-7bc2-59a9bbaac868/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-18",
       "genres": [
         {
           "id": "6016",
@@ -232,13 +168,13 @@
       ]
     },
     {
-      "rank": 15,
-      "id": "6778690858",
-      "name": "Cinema Draft",
-      "developer": "LUCKY AG, INC.",
-      "url": "https://apps.apple.com/nz/app/cinema-draft/id6778690858?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/5d/e0/025de0fd-1352-fb2b-df4b-26bcd5061c28/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-16",
+      "rank": 11,
+      "id": "583264123",
+      "name": "Ticketek NZ",
+      "developer": "Ticketek Pty Ltd",
+      "url": "https://apps.apple.com/nz/app/ticketek-nz/id583264123?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/8e/2e/398e2ef9-6967-d195-63f1-1056140e3cbe/AppIconProductionNZ-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-12",
       "genres": [
         {
           "id": "6016",
@@ -248,71 +184,7 @@
       ]
     },
     {
-      "rank": 16,
-      "id": "592636641",
-      "name": "TVNZ+",
-      "developer": "Television New Zealand Ltd",
-      "url": "https://apps.apple.com/nz/app/tvnz/id592636641?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/ed/ea/a7edea6e-dbba-a198-e590-3a3eb2751433/AppIcon-Prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2013-02-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "id": "6514312894",
-      "name": "FlickReels - AI Story & Drama",
-      "developer": "FARSUN PTE. LTD.",
-      "url": "https://apps.apple.com/nz/app/flickreels-ai-story-drama/id6514312894?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/40/84/9a4084f9-9e2c-8dcb-3015-54cdf2ee5def/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-07-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "id": "6768593043",
-      "name": "BlinkDrama - Short Dramas",
-      "developer": "Atlas Ventures Culture & Technology Limited",
-      "url": "https://apps.apple.com/nz/app/blinkdrama-short-dramas/id6768593043?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/2e/cf/972ecfe5-9000-fc79-9b76-4c67ad809c8e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "410896080",
-      "name": "PlayStation App",
-      "developer": "PlayStation Mobile Inc.",
-      "url": "https://apps.apple.com/nz/app/playstation-app/id410896080?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/8b/15/1f8b15f6-836e-4f85-9562-42f6945e7d41/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-03-10",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
+      "rank": 12,
       "id": "842963152",
       "name": "MyLotto",
       "developer": "Lotto NZ",
@@ -328,13 +200,141 @@
       ]
     },
     {
-      "rank": 21,
-      "id": "6738081517",
-      "name": "DramaReels: Dramas and Series",
+      "rank": 13,
+      "id": "6670430706",
+      "name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
-      "url": "https://apps.apple.com/nz/app/dramareels-dramas-and-series/id6738081517?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/ec/a5/ebeca5c3-d958-6bca-85dc-09e56cf90b96/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-12-10",
+      "url": "https://apps.apple.com/nz/app/dramawave-dramas-reels/id6670430706?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-23",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "6504849169",
+      "name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/netshort-popular-dramas-tv/id6504849169?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/4b/46/ca4b4688-b276-0460-ac5a-b73f8ea9a85d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "592636641",
+      "name": "TVNZ+",
+      "developer": "Television New Zealand Ltd",
+      "url": "https://apps.apple.com/nz/app/tvnz/id592636641?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/ed/ea/a7edea6e-dbba-a198-e590-3a3eb2751433/AppIcon-Prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2013-02-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "1636235979",
+      "name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "url": "https://apps.apple.com/nz/app/reelshort-stream-drama-tv/id1636235979?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/28/2c/26282c66-9999-8579-4771-ff14ee341682/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-08-07",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "6768593043",
+      "name": "BlinkDrama - Short Dramas",
+      "developer": "Atlas Ventures Culture & Technology Limited",
+      "url": "https://apps.apple.com/nz/app/blinkdrama-short-dramas/id6768593043?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/2e/cf/972ecfe5-9000-fc79-9b76-4c67ad809c8e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-29",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "410896080",
+      "name": "PlayStation App",
+      "developer": "PlayStation Mobile Inc.",
+      "url": "https://apps.apple.com/nz/app/playstation-app/id410896080?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/8b/15/1f8b15f6-836e-4f85-9562-42f6945e7d41/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-03-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "6514312894",
+      "name": "FlickReels - AI Story & Drama",
+      "developer": "FARSUN PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/flickreels-ai-story-drama/id6514312894?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/40/84/9a4084f9-9e2c-8dcb-3015-54cdf2ee5def/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-07-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "497702817",
+      "name": "Fever: Events & Tickets",
+      "developer": "Fever Labs, Inc.",
+      "url": "https://apps.apple.com/nz/app/fever-events-tickets/id497702817?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/70/ba/e670ba1d-3cb3-0ab2-72db-7806ecebed5d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2012-05-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "487922291",
+      "name": "Eventbrite",
+      "developer": "Eventbrite",
+      "url": "https://apps.apple.com/nz/app/eventbrite/id487922291?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c8/f7/22c8f7b1-cb93-db52-d703-6e36c6ff9067/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-18",
       "genres": [
         {
           "id": "6016",
@@ -361,22 +361,6 @@
     },
     {
       "rank": 23,
-      "id": "1580330718",
-      "name": "WePlay - Game and Party",
-      "developer": "WEJOY PTE. LTD.",
-      "url": "https://apps.apple.com/nz/app/weplay-game-and-party/id1580330718?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/7e/a9/697ea9c0-0f64-4a22-0177-d8f71a99c95a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-06",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
       "id": "6448176203",
       "name": "GoodShort - Short Dramas Hub",
       "developer": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD.",
@@ -392,151 +376,23 @@
       ]
     },
     {
+      "rank": 24,
+      "id": "936971630",
+      "name": "YouTube Kids",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/youtube-kids/id936971630?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/23/a7/1523a7b2-0ea3-3468-da60-c03c138ec395/logo_youtube_kids_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 25,
-      "id": "394881924",
-      "name": "Event Cinemas NZ",
-      "developer": "EVT Limited",
-      "url": "https://apps.apple.com/nz/app/event-cinemas-nz/id394881924?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/03/58/3a035834-b92d-6e06-7076-795e48e5aced/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2010-10-02",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "6768240254",
-      "name": "Drama: Watch Short Stories",
-      "developer": "Kuku Technologies Limited",
-      "url": "https://apps.apple.com/nz/app/drama-watch-short-stories/id6768240254?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d2/60/ffd260dc-f470-b64c-e2e8-1cb441dd8bef/appIconFreeDrama-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-09-01",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "497702817",
-      "name": "Fever: Events & Tickets",
-      "developer": "Fever Labs, Inc.",
-      "url": "https://apps.apple.com/nz/app/fever-events-tickets/id497702817?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/70/ba/e670ba1d-3cb3-0ab2-72db-7806ecebed5d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2012-05-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "id": "6746781192",
-      "name": "Imposter Who? - Word Game",
-      "developer": "Sokak Technologies Inc.",
-      "url": "https://apps.apple.com/nz/app/imposter-who-word-game/id6746781192?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/32/2e/6b322eb9-3350-910a-4b92-6801fc978917/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-06-05",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "id": "1541957275",
-      "name": "Sky Go – Companion App",
-      "developer": "Sky Network Television Limited",
-      "url": "https://apps.apple.com/nz/app/sky-go-companion-app/id1541957275?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a0/b9/6ba0b971-d12f-29e9-8fbf-cbd705c60655/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-03-01",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "id": "6758488784",
-      "name": "Soda Reels",
-      "developer": "STATION DEPART POINT",
-      "url": "https://apps.apple.com/nz/app/soda-reels/id6758488784?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/07/7e/40077e12-49a8-504b-5570-83af4253fa7d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
-      "id": "1571103348",
-      "name": "Timezone Fun App",
-      "developer": "Teeg",
-      "url": "https://apps.apple.com/nz/app/timezone-fun-app/id1571103348?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/f1/65/d6f165c0-61c8-f5c7-dff6-9349d37fe9dc/AppIcon-0-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-11-07",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
-      "id": "6596771144",
-      "name": "status - sims but social media",
-      "developer": "WishRoll Inc.",
-      "url": "https://apps.apple.com/nz/app/status-sims-but-social-media/id6596771144?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/b6/97/40b69761-3ca4-cb9b-97eb-37f1236c1c1b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-10-21",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
-      "id": "495369748",
-      "name": "Steam Mobile",
-      "developer": "Valve",
-      "url": "https://apps.apple.com/nz/app/steam-mobile/id495369748?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e1/8d/1de18df0-9f13-4bdb-728a-ddc7ecaf9849/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-01-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
       "id": "1562597628",
       "name": "Te Whare Kōrero",
       "developer": "Te Hiku Media",
@@ -552,7 +408,55 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 26,
+      "id": "1580330718",
+      "name": "WePlay - Game and Party",
+      "developer": "WEJOY PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/weplay-game-and-party/id1580330718?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/7e/a9/697ea9c0-0f64-4a22-0177-d8f71a99c95a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-06",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "394881924",
+      "name": "Event Cinemas NZ",
+      "developer": "EVT Limited",
+      "url": "https://apps.apple.com/nz/app/event-cinemas-nz/id394881924?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/03/58/3a035834-b92d-6e06-7076-795e48e5aced/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2010-10-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "1571103348",
+      "name": "Timezone Fun App",
+      "developer": "Teeg",
+      "url": "https://apps.apple.com/nz/app/timezone-fun-app/id1571103348?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/f1/65/d6f165c0-61c8-f5c7-dff6-9349d37fe9dc/AppIcon-0-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2021-11-07",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
       "id": "329913454",
       "name": "Crunchyroll",
       "developer": "Crunchyroll, LLC",
@@ -568,13 +472,13 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "6464002625",
-      "name": "ShortMax - Short Dramas & TV",
-      "developer": "SHORTTV LIMITED",
-      "url": "https://apps.apple.com/nz/app/shortmax-short-dramas-tv/id6464002625?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/9d/a5/f59da5d2-d870-2370-e022-8dc0a98ab993/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-11",
+      "rank": 30,
+      "id": "6746781192",
+      "name": "Imposter Who? - Word Game",
+      "developer": "Sokak Technologies Inc.",
+      "url": "https://apps.apple.com/nz/app/imposter-who-word-game/id6746781192?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/32/2e/6b322eb9-3350-910a-4b92-6801fc978917/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-06-05",
       "genres": [
         {
           "id": "6016",
@@ -584,7 +488,55 @@
       ]
     },
     {
-      "rank": 37,
+      "rank": 31,
+      "id": "6756250570",
+      "name": "Prank App - Voice Changer",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "url": "https://apps.apple.com/nz/app/prank-app-voice-changer/id6756250570?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/30/8f/3c308fd0-3c4b-a556-259e-d0d0c9459358/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "495369748",
+      "name": "Steam Mobile",
+      "developer": "Valve",
+      "url": "https://apps.apple.com/nz/app/steam-mobile/id495369748?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e1/8d/1de18df0-9f13-4bdb-728a-ddc7ecaf9849/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-01-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "893849629",
+      "name": "Neon TV",
+      "developer": "Lightbox New Zealand Limited",
+      "url": "https://apps.apple.com/nz/app/neon-tv/id893849629?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/2e/79/202e79cd-67b3-724f-f7c1-bb7a7f2b8d28/AppIcon-Appstore-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-07-30",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
       "id": "6468901311",
       "name": "Enjoy - AI Town",
       "developer": "Enjoy Global, Inc.",
@@ -600,13 +552,61 @@
       ]
     },
     {
+      "rank": 35,
+      "id": "6738081517",
+      "name": "DramaReels: Dramas and Series",
+      "developer": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/nz/app/dramareels-dramas-and-series/id6738081517?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/ec/a5/ebeca5c3-d958-6bca-85dc-09e56cf90b96/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-12-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "6768240254",
+      "name": "Drama: Watch Short Stories",
+      "developer": "Kuku Technologies Limited",
+      "url": "https://apps.apple.com/nz/app/drama-watch-short-stories/id6768240254?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d2/60/ffd260dc-f470-b64c-e2e8-1cb441dd8bef/appIconFreeDrama-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-09-01",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "6758488784",
+      "name": "Soda Reels",
+      "developer": "STATION DEPART POINT",
+      "url": "https://apps.apple.com/nz/app/soda-reels/id6758488784?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/07/7e/40077e12-49a8-504b-5570-83af4253fa7d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 38,
-      "id": "893849629",
-      "name": "Neon TV",
-      "developer": "Lightbox New Zealand Limited",
-      "url": "https://apps.apple.com/nz/app/neon-tv/id893849629?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/2e/79/202e79cd-67b3-724f-f7c1-bb7a7f2b8d28/AppIcon-Appstore-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-07-30",
+      "id": "6464002625",
+      "name": "ShortMax - Short Dramas & TV",
+      "developer": "SHORTTV LIMITED",
+      "url": "https://apps.apple.com/nz/app/shortmax-short-dramas-tv/id6464002625?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/9d/a5/f59da5d2-d870-2370-e022-8dc0a98ab993/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-11",
       "genres": [
         {
           "id": "6016",
@@ -633,118 +633,6 @@
     },
     {
       "rank": 40,
-      "id": "746894884",
-      "name": "Google TV: Watch Movies and TV",
-      "developer": "Google",
-      "url": "https://apps.apple.com/nz/app/google-tv-watch-movies-and-tv/id746894884?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/68/c3/6c68c3d5-2151-af9a-f08b-0ed76ed210ad/logo_google_tv_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-01-14",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "6503421271",
-      "name": "Vigloo - Premier Short Dramas",
-      "developer": "Spoonlabs, Inc.",
-      "url": "https://apps.apple.com/nz/app/vigloo-premier-short-dramas/id6503421271?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9c/b8/859cb8c2-c502-2cec-584d-719a0f6a8895/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-06-30",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1389775096",
-      "name": "teamLab",
-      "developer": "teamLab Inc.",
-      "url": "https://apps.apple.com/nz/app/teamlab/id1389775096?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ed/52/a4ed526c-106e-5b51-495f-a5a4deade52f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-06-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "936971630",
-      "name": "YouTube Kids",
-      "developer": "Google",
-      "url": "https://apps.apple.com/nz/app/youtube-kids/id936971630?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/23/a7/1523a7b2-0ea3-3468-da60-c03c138ec395/logo_youtube_kids_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2015-11-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "713771599",
-      "name": "ThreeNow",
-      "developer": "Mediaworks NZ Ltd.",
-      "url": "https://apps.apple.com/nz/app/threenow/id713771599?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/89/71/4689718f-2918-c035-199d-be8163f7bb78/AppIcon-Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-12-19",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "6756250570",
-      "name": "Prank App - Voice Changer",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "url": "https://apps.apple.com/nz/app/prank-app-voice-changer/id6756250570?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/30/8f/3c308fd0-3c4b-a556-259e-d0d0c9459358/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-10",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "6770413766",
-      "name": "Whispy AI: Cozy Chat",
-      "developer": "NEXBASE TECH PTE. LTD.",
-      "url": "https://apps.apple.com/nz/app/whispy-ai-cozy-chat/id6770413766?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/dd/4b/dadd4bf9-1e30-5d21-59f4-eef98c2351c2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-07-11",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
       "id": "6738098034",
       "name": "My Muse: Series & Drama Live",
       "developer": "Zereli Limited",
@@ -760,13 +648,13 @@
       ]
     },
     {
-      "rank": 48,
-      "id": "487922291",
-      "name": "Eventbrite",
-      "developer": "Eventbrite",
-      "url": "https://apps.apple.com/nz/app/eventbrite/id487922291?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/7a/d7/007ad739-4761-23c8-a21b-a608ddc4ddbb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2011-12-18",
+      "rank": 41,
+      "id": "746894884",
+      "name": "Google TV: Watch Movies and TV",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-tv-watch-movies-and-tv/id746894884?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/68/c3/6c68c3d5-2151-af9a-f08b-0ed76ed210ad/logo_google_tv_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-01-14",
       "genres": [
         {
           "id": "6016",
@@ -776,13 +664,13 @@
       ]
     },
     {
-      "rank": 49,
-      "id": "6759427444",
-      "name": "Tixel－Face Value Ticket Resale",
-      "developer": "Tixel PTY LTD",
-      "url": "https://apps.apple.com/nz/app/tixel-face-value-ticket-resale/id6759427444?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/44/5b/07445bf9-f877-7ad1-3ae9-3627ceaa7e48/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-06-24",
+      "rank": 42,
+      "id": "713771599",
+      "name": "ThreeNow",
+      "developer": "Mediaworks NZ Ltd.",
+      "url": "https://apps.apple.com/nz/app/threenow/id713771599?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/89/71/4689718f-2918-c035-199d-be8163f7bb78/AppIcon-Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-12-19",
       "genres": [
         {
           "id": "6016",
@@ -792,13 +680,13 @@
       ]
     },
     {
-      "rank": 50,
-      "id": "1044456188",
-      "name": "Patreon",
-      "developer": "Patreon",
-      "url": "https://apps.apple.com/nz/app/patreon/id1044456188?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/89/d0/8089d0f2-2df7-3633-929e-6cd8a9cabeac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-10-14",
+      "rank": 43,
+      "id": "6770413766",
+      "name": "Whispy AI: Cozy Chat",
+      "developer": "NEXBASE TECH PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/whispy-ai-cozy-chat/id6770413766?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/dd/4b/dadd4bf9-1e30-5d21-59f4-eef98c2351c2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-07-11",
       "genres": [
         {
           "id": "6016",
@@ -808,23 +696,7 @@
       ]
     },
     {
-      "rank": 51,
-      "id": "6757374961",
-      "name": "DramaLocal",
-      "developer": "SiHai",
-      "url": "https://apps.apple.com/nz/app/dramalocal/id6757374961?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/87/c6/d587c658-f2ad-3c52-968a-bbb59a7e3433/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
+      "rank": 44,
       "id": "886445756",
       "name": "Tubi: Stream Hit Movies & TV",
       "developer": "Tubi, Inc",
@@ -840,13 +712,13 @@
       ]
     },
     {
-      "rank": 53,
-      "id": "1448693888",
-      "name": "QuizTime - Trivia",
-      "developer": "Hundred Years Limited",
-      "url": "https://apps.apple.com/nz/app/quiztime-trivia/id1448693888?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/f1/1d/fef11d81-9d31-0c01-908c-9c8a218c88e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-05",
+      "rank": 45,
+      "id": "6596771144",
+      "name": "status - sims but social media",
+      "developer": "WishRoll Inc.",
+      "url": "https://apps.apple.com/nz/app/status-sims-but-social-media/id6596771144?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/b6/97/40b69761-3ca4-cb9b-97eb-37f1236c1c1b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-10-21",
       "genres": [
         {
           "id": "6016",
@@ -856,7 +728,7 @@
       ]
     },
     {
-      "rank": 54,
+      "rank": 46,
       "id": "447927790",
       "name": "HOYTS Cinemas New Zealand",
       "developer": "The Hoyts Corporation Pty. Ltd.",
@@ -872,76 +744,12 @@
       ]
     },
     {
-      "rank": 55,
-      "id": "679805463",
-      "name": "AXS Tickets",
-      "developer": "AXS",
-      "url": "https://apps.apple.com/nz/app/axs-tickets/id679805463?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/0c/0d/0e0c0dc2-62f1-c97b-080f-125a12041a17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2013-08-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "984355771",
-      "name": "MĀORI+",
-      "developer": "Maori Television Services",
-      "url": "https://apps.apple.com/nz/app/m%C4%81ori/id984355771?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/d2/71/12d2710c-e068-2c9f-77e0-c1954ad9c039/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2015-09-08",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "6465895541",
-      "name": "JoyReels - Enjoy Short Dramas",
-      "developer": "UREELS PTE.LTD.",
-      "url": "https://apps.apple.com/nz/app/joyreels-enjoy-short-dramas/id6465895541?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9e/ec/ab9eecf2-6023-d137-45f0-f08c381f5656/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-27",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "736179781",
-      "name": "XBOX",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/nz/app/xbox/id736179781?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/cf/e8/e2cfe83d-7774-b19d-9c71-4420b46b9944/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2013-11-19",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "6763498117",
-      "name": "StoryFlick",
-      "developer": "KIMO CULTURE CO., LIMITED",
-      "url": "https://apps.apple.com/nz/app/storyflick/id6763498117?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/dd/f5/f7ddf5dd-7b97-cb0e-cb3a-7d66b03640b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 47,
+      "id": "6759427444",
+      "name": "Tixel－Face Value Ticket Resale",
+      "developer": "Tixel PTY LTD",
+      "url": "https://apps.apple.com/nz/app/tixel-face-value-ticket-resale/id6759427444?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/44/5b/07445bf9-f877-7ad1-3ae9-3627ceaa7e48/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "release_date": "2026-06-24",
       "genres": [
         {
@@ -952,13 +760,13 @@
       ]
     },
     {
-      "rank": 60,
-      "id": "6502377927",
-      "name": "StardustTV - Short Drama&Movie",
-      "developer": "Hongxing Media Co., Limited",
-      "url": "https://apps.apple.com/nz/app/stardusttv-short-drama-movie/id6502377927?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/f2/49/39f249fe-5188-777e-9050-beb10b265d13/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-07-03",
+      "rank": 48,
+      "id": "6503421271",
+      "name": "Vigloo - Premier Short Dramas",
+      "developer": "Spoonlabs, Inc.",
+      "url": "https://apps.apple.com/nz/app/vigloo-premier-short-dramas/id6503421271?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9c/b8/859cb8c2-c502-2cec-584d-719a0f6a8895/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-06-30",
       "genres": [
         {
           "id": "6016",
@@ -968,13 +776,13 @@
       ]
     },
     {
-      "rank": 61,
-      "id": "1436192460",
-      "name": "PS Remote Play",
-      "developer": "PlayStation Mobile Inc.",
-      "url": "https://apps.apple.com/nz/app/ps-remote-play/id1436192460?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/30/47/e53047e7-2318-5ea8-51fc-a819317db64d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-03-08",
+      "rank": 49,
+      "id": "6757374961",
+      "name": "DramaLocal",
+      "developer": "SiHai",
+      "url": "https://apps.apple.com/nz/app/dramalocal/id6757374961?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/87/c6/d587c658-f2ad-3c52-968a-bbb59a7e3433/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-29",
       "genres": [
         {
           "id": "6016",
@@ -984,23 +792,7 @@
       ]
     },
     {
-      "rank": 62,
-      "id": "1538433480",
-      "name": "Pocket FM: Audio Dramas",
-      "developer": "Pocket FM Corp",
-      "url": "https://apps.apple.com/nz/app/pocket-fm-audio-dramas/id1538433480?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/18/d6/e018d679-0d46-999f-4e7b-dd876c6f5e99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-02",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
+      "rank": 50,
       "id": "6444946155",
       "name": "JustPlay: Earn Loyalty Rewards",
       "developer": "Gimica GmbH",
@@ -1016,7 +808,87 @@
       ]
     },
     {
-      "rank": 64,
+      "rank": 51,
+      "id": "679805463",
+      "name": "AXS Tickets",
+      "developer": "AXS",
+      "url": "https://apps.apple.com/nz/app/axs-tickets/id679805463?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/0c/0d/0e0c0dc2-62f1-c97b-080f-125a12041a17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2013-08-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "1541957275",
+      "name": "Sky Go – Companion App",
+      "developer": "Sky Network Television Limited",
+      "url": "https://apps.apple.com/nz/app/sky-go-companion-app/id1541957275?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a0/b9/6ba0b971-d12f-29e9-8fbf-cbd705c60655/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2021-03-01",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "984355771",
+      "name": "MĀORI+",
+      "developer": "Maori Television Services",
+      "url": "https://apps.apple.com/nz/app/m%C4%81ori/id984355771?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/d2/71/12d2710c-e068-2c9f-77e0-c1954ad9c039/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-09-08",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1389775096",
+      "name": "teamLab",
+      "developer": "teamLab Inc.",
+      "url": "https://apps.apple.com/nz/app/teamlab/id1389775096?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ed/52/a4ed526c-106e-5b51-495f-a5a4deade52f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-06-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "1044456188",
+      "name": "Patreon",
+      "developer": "Patreon",
+      "url": "https://apps.apple.com/nz/app/patreon/id1044456188?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/89/d0/8089d0f2-2df7-3633-929e-6cd8a9cabeac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-14",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
       "id": "1317978215",
       "name": "Colour by Number: Paint Games",
       "developer": "Wildlife Studios",
@@ -1032,13 +904,13 @@
       ]
     },
     {
-      "rank": 65,
-      "id": "6757948021",
-      "name": "Popia - AI Stories & Creators",
-      "developer": "METASTONE PTE. LTD.",
-      "url": "https://apps.apple.com/nz/app/popia-ai-stories-creators/id6757948021?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/e0/d4/bfe0d429-1276-bc99-08b3-db19d42a7219/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-29",
+      "rank": 57,
+      "id": "736179781",
+      "name": "XBOX",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/xbox/id736179781?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/cf/e8/e2cfe83d-7774-b19d-9c71-4420b46b9944/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2013-11-19",
       "genres": [
         {
           "id": "6016",
@@ -1048,311 +920,7 @@
       ]
     },
     {
-      "rank": 66,
-      "id": "941394815",
-      "name": "StudentCard",
-      "developer": "StudentCard NZ Limited",
-      "url": "https://apps.apple.com/nz/app/studentcard/id941394815?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/9c/59/0c9c5961-ff31-97ab-3801-307a46b76599/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2014-11-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "6756415022",
-      "name": "ToonShort -Popular Dramas & TV",
-      "developer": "HONG KONG TOONSHORT TECHNOLOGY LIMITED",
-      "url": "https://apps.apple.com/nz/app/toonshort-popular-dramas-tv/id6756415022?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/80/f6/cc80f6ee-d24b-3bf9-6e7f-70f1950c8373/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-19",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6444211700",
-      "name": "Reading Cinemas NZ",
-      "developer": "Reading International, Inc.",
-      "url": "https://apps.apple.com/nz/app/reading-cinemas-nz/id6444211700?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/68/4e/1e684e98-c4fb-3478-c854-d1157ea785eb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-11-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "6776180188",
-      "name": "MultiShorts",
-      "developer": "Mu Shahil A Rashid",
-      "url": "https://apps.apple.com/nz/app/multishorts/id6776180188?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b5/7c/f6b57c62-eb90-8ed8-d132-ae65c6a80a7d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "6745260515",
-      "name": "Shortical - Stream Dramas & TV",
-      "developer": "Short Entertainment",
-      "url": "https://apps.apple.com/nz/app/shortical-stream-dramas-tv/id6745260515?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/e9/a2/62e9a28b-2170-14d1-ed2a-71d9f6aec666/AppIcon_Live-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "release_date": "2025-07-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "947984433",
-      "name": "Amazon Fire TV",
-      "developer": "AMZN Mobile LLC",
-      "url": "https://apps.apple.com/nz/app/amazon-fire-tv/id947984433?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/fd/be/acfdbea9-3a60-e5c1-37f9-f0a5c9891dc9/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2017-11-07",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "6717572591",
-      "name": "pump.fun - speculate on trends",
-      "developer": "Maius Imperium Limited",
-      "url": "https://apps.apple.com/nz/app/pump-fun-speculate-on-trends/id6717572591?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/51/bf/5651bf09-f6f8-af6c-753f-7717b6668cf4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-10-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "1486159728",
-      "name": "LEGO® Builder: 3D Instructions",
-      "developer": "LEGO",
-      "url": "https://apps.apple.com/nz/app/lego-builder-3d-instructions/id1486159728?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/de/b0/10deb0c6-371a-4aa7-530e-e57d36de782d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-12-11",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "1544750895",
-      "name": "CHAI: Social AI Platform- Chat",
-      "developer": "Chai Research Corp.",
-      "url": "https://apps.apple.com/nz/app/chai-social-ai-platform-chat/id1544750895?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/55/48/df5548e1-5191-e98e-5efe-9ab7c5755d26/AppIcon-dark-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-03-31",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "1671705818",
-      "name": "Character AI: Chat, Talk, Text",
-      "developer": "Character.AI",
-      "url": "https://apps.apple.com/nz/app/character-ai-chat-talk-text/id1671705818?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/b9/93/ffb99398-7e14-5ff1-3782-6192f6cb7db6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-05-23",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "6478151552",
-      "name": "Pocket Saga - Short Dramas",
-      "developer": "Pocket FM Corp",
-      "url": "https://apps.apple.com/nz/app/pocket-saga-short-dramas/id6478151552?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/53/ae/0f53ae67-774c-ed68-f3b1-3226189b6c3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-09-24",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "342792525",
-      "name": "IMDb",
-      "developer": "IMDb",
-      "url": "https://apps.apple.com/nz/app/imdb/id342792525?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/14/fb/4114fb83-f30a-11c6-8592-2be6b377301f/IMDbAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-02-16",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "6800570309",
-      "name": "AI Duskheart",
-      "developer": "BLUEBERRY INDUSTRIES SDN. BHD.",
-      "url": "https://apps.apple.com/nz/app/ai-duskheart/id6800570309?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/8e/d1/ea8ed1bc-fb5e-bed8-8cb5-06f3a4f103c4/AppIcon-1x_U007ephone-0-1-0-85-220-0.jpeg/100x100bb.png",
-      "release_date": "2026-09-04",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "6761748236",
-      "name": "Heyyyy: Stories that text back",
-      "developer": "heyyyyAI Inc.",
-      "url": "https://apps.apple.com/nz/app/heyyyy-stories-that-text-back/id6761748236?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/9c/0f/e09c0ffb-2aee-df9e-f943-c8ba281a77b2/AppIcon-0-0-1x_U007epad-0-6-85-220.png/100x100bb.png",
-      "release_date": "2026-04-11",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "1048524688",
-      "name": "Delta - Game Emulator",
-      "developer": "Testut Tech",
-      "url": "https://apps.apple.com/nz/app/delta-game-emulator/id1048524688?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/08/91/ed089193-2334-fd9b-752e-fc330791ee48/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-04-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "6772791762",
-      "name": "CashFlicks",
-      "developer": "Shanghai Bitui Technology Co., Ltd.",
-      "url": "https://apps.apple.com/nz/app/cashflicks/id6772791762?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/3f/d0/863fd01e-910d-8e0c-d922-aa578882291c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-14",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "6800335013",
-      "name": "SB Line",
-      "developer": "Olena Mazur",
-      "url": "https://apps.apple.com/nz/app/sb-line/id6800335013?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/f1/7c/3af17c2b-90b2-4803-60d6-547646bb721c/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-09-04",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "383457673",
-      "name": "Plex: Discover Movies & Shows",
-      "developer": "Plex Inc.",
-      "url": "https://apps.apple.com/nz/app/plex-discover-movies-shows/id383457673?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/0b/5d/4b0b5d99-69ef-465e-1d33-a1c201c072c4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2010-08-31",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "6443956656",
-      "name": "The Chosen",
-      "developer": "Come and See Foundation, Inc",
-      "url": "https://apps.apple.com/nz/app/the-chosen/id6443956656?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dc/85/84dc8520-d54c-098e-4eb5-5ba43cfa1987/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-04",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
+      "rank": 58,
       "id": "1313147771",
       "name": "Tokyo Disney Resort App",
       "developer": "Oriental Land Co., Ltd.",
@@ -1368,151 +936,7 @@
       ]
     },
     {
-      "rank": 86,
-      "id": "6755859360",
-      "name": "Loopit - AI Playable Maker",
-      "developer": "SeedLeap Intelligent Technology Co., Ltd.",
-      "url": "https://apps.apple.com/nz/app/loopit-ai-playable-maker/id6755859360?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/18/33/901833e2-57c3-538f-d852-65af1200b0e4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "1562606431",
-      "name": "Sky My Account",
-      "developer": "Sky Network Television Limited",
-      "url": "https://apps.apple.com/nz/app/sky-my-account/id1562606431?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/5c/6c/555c6cf2-b709-14a2-ee94-c4aa596901bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-04-22",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "6764243030",
-      "name": "Vidy – Real-Time AI Model",
-      "developer": "SILICONWORLD PTE. LTD.",
-      "url": "https://apps.apple.com/nz/app/vidy-real-time-ai-model/id6764243030?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/d8/9c/33d89c09-e985-6fb5-520c-c119a929ceca/AppIconOV-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-14",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6768571224",
-      "name": "TizzChat: Craft Your World",
-      "developer": "NATUREAITECHNOLOGY PTE. LTD.",
-      "url": "https://apps.apple.com/nz/app/tizzchat-craft-your-world/id6768571224?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/a8/d1/87a8d1dd-19a7-b21a-7f3b-06e892bc07ca/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-08-20",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "6780336831",
-      "name": "MeowTok: AI Cat Translator",
-      "developer": "Guangzhou Chejuban Network Technology Co., Ltd.",
-      "url": "https://apps.apple.com/nz/app/meowtok-ai-cat-translator/id6780336831?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/7b/e0/6a7be03f-325e-7e17-b4da-8e304e1e5804/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-06-15",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "336978041",
-      "name": "Dailymotion: Social Videos",
-      "developer": "Dailymotion S.A.",
-      "url": "https://apps.apple.com/nz/app/dailymotion-social-videos/id336978041?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/2e/f7/c62ef730-a89f-7154-a8a9-68ae71ae08e1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2009-12-19",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "1241040030",
-      "name": "Battle.net",
-      "developer": "Blizzard Entertainment, Inc.",
-      "url": "https://apps.apple.com/nz/app/battle-net/id1241040030?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/97/fe/b097feb6-276a-e77c-dcb5-97fa054c5bda/AppIconGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-09-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "1412039719",
-      "name": "Yoto: Music, Stories, Sleep",
-      "developer": "Yoto Ltd",
-      "url": "https://apps.apple.com/nz/app/yoto-music-stories-sleep/id1412039719?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/64/68/af646872-6767-400e-d434-2a4701f04ee5/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "6774505916",
-      "name": "DramaPro",
-      "developer": "北京阅友科技有限公司",
-      "url": "https://apps.apple.com/nz/app/dramapro/id6774505916?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/c0/ba/57c0baef-6f51-f169-9f08-197bf0fa8532/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-11",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
+      "rank": 59,
       "id": "1077150310",
       "name": "Riot Mobile",
       "developer": "Riot Games",
@@ -1528,13 +952,13 @@
       ]
     },
     {
-      "rank": 96,
-      "id": "6749611503",
-      "name": "Seer Drama:Short & Mini Series",
-      "developer": "HONG KONG WANHONG INTERNATIONAL LIMITED",
-      "url": "https://apps.apple.com/nz/app/seer-drama-short-mini-series/id6749611503?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/40/ba/9c40bacf-7240-3370-c643-ecb66f41c04b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-08-11",
+      "rank": 60,
+      "id": "6444211700",
+      "name": "Reading Cinemas NZ",
+      "developer": "Reading International, Inc.",
+      "url": "https://apps.apple.com/nz/app/reading-cinemas-nz/id6444211700?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/68/4e/1e684e98-c4fb-3478-c854-d1157ea785eb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-13",
       "genres": [
         {
           "id": "6016",
@@ -1544,7 +968,455 @@
       ]
     },
     {
-      "rank": 97,
+      "rank": 61,
+      "id": "941394815",
+      "name": "StudentCard",
+      "developer": "StudentCard NZ Limited",
+      "url": "https://apps.apple.com/nz/app/studentcard/id941394815?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/9c/59/0c9c5961-ff31-97ab-3801-307a46b76599/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2014-11-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "6717572591",
+      "name": "pump.fun - speculate on trends",
+      "developer": "Maius Imperium Limited",
+      "url": "https://apps.apple.com/nz/app/pump-fun-speculate-on-trends/id6717572591?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/51/bf/5651bf09-f6f8-af6c-753f-7717b6668cf4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-10-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6776180188",
+      "name": "MultiShorts",
+      "developer": "Mu Shahil A Rashid",
+      "url": "https://apps.apple.com/nz/app/multishorts/id6776180188?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b5/7c/f6b57c62-eb90-8ed8-d132-ae65c6a80a7d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6465895541",
+      "name": "JoyReels - Enjoy Short Dramas",
+      "developer": "UREELS PTE.LTD.",
+      "url": "https://apps.apple.com/nz/app/joyreels-enjoy-short-dramas/id6465895541?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9e/ec/ab9eecf2-6023-d137-45f0-f08c381f5656/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-27",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6763498117",
+      "name": "StoryFlick",
+      "developer": "KIMO CULTURE CO., LIMITED",
+      "url": "https://apps.apple.com/nz/app/storyflick/id6763498117?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/dd/f5/f7ddf5dd-7b97-cb0e-cb3a-7d66b03640b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1544750895",
+      "name": "CHAI: Social AI Platform- Chat",
+      "developer": "Chai Research Corp.",
+      "url": "https://apps.apple.com/nz/app/chai-social-ai-platform-chat/id1544750895?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/85/52/d5855249-bc4d-b6ff-de50-80928a4de25d/AppIcon-dark-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-31",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "1538433480",
+      "name": "Pocket FM: Audio Dramas",
+      "developer": "Pocket FM Corp",
+      "url": "https://apps.apple.com/nz/app/pocket-fm-audio-dramas/id1538433480?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/79/1f/c3791f6f-5983-0630-2a35-6fa8da1d4ea7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1436192460",
+      "name": "PS Remote Play",
+      "developer": "PlayStation Mobile Inc.",
+      "url": "https://apps.apple.com/nz/app/ps-remote-play/id1436192460?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/30/47/e53047e7-2318-5ea8-51fc-a819317db64d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-03-08",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "1486159728",
+      "name": "LEGO® Builder: 3D Instructions",
+      "developer": "LEGO",
+      "url": "https://apps.apple.com/nz/app/lego-builder-3d-instructions/id1486159728?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/de/b0/10deb0c6-371a-4aa7-530e-e57d36de782d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-12-11",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "6761748236",
+      "name": "Heyyyy: Stories that text back",
+      "developer": "heyyyyAI Inc.",
+      "url": "https://apps.apple.com/nz/app/heyyyy-stories-that-text-back/id6761748236?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/9c/0f/e09c0ffb-2aee-df9e-f943-c8ba281a77b2/AppIcon-0-0-1x_U007epad-0-6-85-220.png/100x100bb.png",
+      "release_date": "2026-04-11",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6745260515",
+      "name": "Shortical - Stream Dramas & TV",
+      "developer": "Short Entertainment",
+      "url": "https://apps.apple.com/nz/app/shortical-stream-dramas-tv/id6745260515?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/61/dc/c161dcf8-ab0b-8573-6df3-999f0b83d343/AppIcon_Live-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "release_date": "2025-07-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "947984433",
+      "name": "Amazon Fire TV",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/nz/app/amazon-fire-tv/id947984433?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/fd/be/acfdbea9-3a60-e5c1-37f9-f0a5c9891dc9/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2017-11-07",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6443956656",
+      "name": "The Chosen",
+      "developer": "Come and See Foundation, Inc",
+      "url": "https://apps.apple.com/nz/app/the-chosen/id6443956656?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dc/85/84dc8520-d54c-098e-4eb5-5ba43cfa1987/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-04",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "6502377927",
+      "name": "StardustTV - Short Drama&Movie",
+      "developer": "Hongxing Media Co., Limited",
+      "url": "https://apps.apple.com/nz/app/stardusttv-short-drama-movie/id6502377927?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/32/10/ea32103f-337e-3001-64a4-5e891f0348c7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1412039719",
+      "name": "Yoto: Music, Stories, Sleep",
+      "developer": "Yoto Ltd",
+      "url": "https://apps.apple.com/nz/app/yoto-music-stories-sleep/id1412039719?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/64/68/af646872-6767-400e-d434-2a4701f04ee5/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1448693888",
+      "name": "QuizTime - Trivia",
+      "developer": "Hundred Years Limited",
+      "url": "https://apps.apple.com/nz/app/quiztime-trivia/id1448693888?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/f1/1d/fef11d81-9d31-0c01-908c-9c8a218c88e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-05",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6757948021",
+      "name": "Popia - AI Stories & Creators",
+      "developer": "METASTONE PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/popia-ai-stories-creators/id6757948021?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/e0/d4/bfe0d429-1276-bc99-08b3-db19d42a7219/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-29",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "1671705818",
+      "name": "Character AI: Chat, Talk, Text",
+      "developer": "Character.AI",
+      "url": "https://apps.apple.com/nz/app/character-ai-chat-talk-text/id1671705818?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/b9/93/ffb99398-7e14-5ff1-3782-6192f6cb7db6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-05-23",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "894546091",
+      "name": "WEBTOON: Manga, Comics, Manhwa",
+      "developer": "NAVER WEBTOON Ltd.",
+      "url": "https://apps.apple.com/nz/app/webtoon-manga-comics-manhwa/id894546091?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/15/55/241555e7-4af3-c3c6-97b6-a34148bb8112/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-07-12",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "6768571224",
+      "name": "TizzChat: Craft Your World",
+      "developer": "NATUREAITECHNOLOGY PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/tizzchat-craft-your-world/id6768571224?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/a8/d1/87a8d1dd-19a7-b21a-7f3b-06e892bc07ca/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-08-20",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6762513021",
+      "name": "ColdTrace: Cold Case Mystery",
+      "developer": "Saclic Studio",
+      "url": "https://apps.apple.com/nz/app/coldtrace-cold-case-mystery/id6762513021?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/56/bf/b656bf88-d5a2-fb2d-dfcb-86e3bf69e350/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-31",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "6478151552",
+      "name": "Pocket Saga - Short Dramas",
+      "developer": "Pocket FM Corp",
+      "url": "https://apps.apple.com/nz/app/pocket-saga-short-dramas/id6478151552?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/53/ae/0f53ae67-774c-ed68-f3b1-3226189b6c3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "6800570309",
+      "name": "AI Duskheart",
+      "developer": "BLUEBERRY INDUSTRIES SDN. BHD.",
+      "url": "https://apps.apple.com/nz/app/ai-duskheart/id6800570309?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/8e/d1/ea8ed1bc-fb5e-bed8-8cb5-06f3a4f103c4/AppIcon-1x_U007ephone-0-1-0-85-220-0.jpeg/100x100bb.png",
+      "release_date": "2026-09-04",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1048524688",
+      "name": "Delta - Game Emulator",
+      "developer": "Testut Tech",
+      "url": "https://apps.apple.com/nz/app/delta-game-emulator/id1048524688?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/08/91/ed089193-2334-fd9b-752e-fc330791ee48/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-04-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "383457673",
+      "name": "Plex: Discover Movies & Shows",
+      "developer": "Plex Inc.",
+      "url": "https://apps.apple.com/nz/app/plex-discover-movies-shows/id383457673?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/0b/5d/4b0b5d99-69ef-465e-1d33-a1c201c072c4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2010-08-31",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "6755428521",
+      "name": "Santa Prank Call: Voice AIChat",
+      "developer": "Vu Van Phong",
+      "url": "https://apps.apple.com/nz/app/santa-prank-call-voice-aichat/id6755428521?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/fa/f1/fffaf18b-36e1-e978-fe4a-f43f53ab9537/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-09",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "6755859360",
+      "name": "Loopit - AI Playable Maker",
+      "developer": "SeedLeap Intelligent Technology Co., Ltd.",
+      "url": "https://apps.apple.com/nz/app/loopit-ai-playable-maker/id6755859360?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/18/33/901833e2-57c3-538f-d852-65af1200b0e4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "1052817340",
+      "name": "Hayu: Reality TV Streaming",
+      "developer": "Universal Pictures Subscription Television Limited",
+      "url": "https://apps.apple.com/nz/app/hayu-reality-tv-streaming/id1052817340?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/9b/18/039b18cc-2d46-2a73-b24b-de59a1123e4f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-10-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
       "id": "6754301136",
       "name": "Swerve: AI Chat & Stories",
       "developer": "MSPW Labs, Inc.",
@@ -1560,13 +1432,141 @@
       ]
     },
     {
+      "rank": 90,
+      "id": "6772791762",
+      "name": "CashFlicks",
+      "developer": "Shanghai Bitui Technology Co., Ltd.",
+      "url": "https://apps.apple.com/nz/app/cashflicks/id6772791762?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/13/48/ee134820-43e9-f102-85c8-e5e2ba5fac6a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-14",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1241040030",
+      "name": "Battle.net",
+      "developer": "Blizzard Entertainment, Inc.",
+      "url": "https://apps.apple.com/nz/app/battle-net/id1241040030?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/97/fe/b097feb6-276a-e77c-dcb5-97fa054c5bda/AppIconGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-09-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "342792525",
+      "name": "IMDb",
+      "developer": "IMDb",
+      "url": "https://apps.apple.com/nz/app/imdb/id342792525?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/14/fb/4114fb83-f30a-11c6-8592-2be6b377301f/IMDbAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-02-16",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1562606431",
+      "name": "Sky My Account",
+      "developer": "Sky Network Television Limited",
+      "url": "https://apps.apple.com/nz/app/sky-my-account/id1562606431?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/5c/6c/555c6cf2-b709-14a2-ee94-c4aa596901bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-04-22",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6761250525",
+      "name": "HookDrama",
+      "developer": "Kin Ho CHIU",
+      "url": "https://apps.apple.com/nz/app/hookdrama/id6761250525?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/7e/35/047e359b-9057-398a-0e1b-ef53cdbcac78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-31",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "6450243852",
+      "name": "MoboReels - Short Dramas & TV",
+      "developer": "CHANGDU (HK) TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/nz/app/moboreels-short-dramas-tv/id6450243852?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/95/80/059580e5-365c-7b14-fde2-329a85adc9e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-07-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6780336831",
+      "name": "MeowTok: AI Cat Translator",
+      "developer": "Guangzhou Chejuban Network Technology Co., Ltd.",
+      "url": "https://apps.apple.com/nz/app/meowtok-ai-cat-translator/id6780336831?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/7b/e0/6a7be03f-325e-7e17-b4da-8e304e1e5804/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-06-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "1669091583",
+      "name": "Bluey: Let's Play!",
+      "developer": "Budge Studios",
+      "url": "https://apps.apple.com/nz/app/bluey-lets-play/id1669091583?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/0c/04/050c0421-9d73-5880-0610-66aa0edb8076/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-08-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/nz/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 98,
-      "id": "6741501595",
-      "name": "iDrama – Short Dramas & Reels",
-      "developer": "HK Good Drama Technology Limited",
-      "url": "https://apps.apple.com/nz/app/idrama-short-dramas-reels/id6741501595?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/87/bf/7a87bfd3-56e0-025a-281a-c5839f7c54f1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-02-12",
+      "id": "6756415022",
+      "name": "ToonShort -Popular Dramas & TV",
+      "developer": "HONG KONG TOONSHORT TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/nz/app/toonshort-popular-dramas-tv/id6756415022?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/80/f6/cc80f6ee-d24b-3bf9-6e7f-70f1950c8373/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-19",
       "genres": [
         {
           "id": "6016",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "454379421",
-      "name": "Ticketek AU",
-      "developer": "Ticketek Pty Ltd",
-      "url": "https://apps.apple.com/nz/app/ticketek-au/id454379421?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/09/58/890958fa-2363-6675-9787-7d96aa31ccfe/AppIconProduction-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2022-04-21",
+      "id": "6503272013",
+      "name": "Viggle AI: Meme Maker",
+      "developer": "WarpEngine",
+      "url": "https://apps.apple.com/nz/app/viggle-ai-meme-maker/id6503272013?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/72/c9/9772c96d-999f-b3fd-ddeb-ccce25a01a24/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-06-26",
       "genres": [
         {
           "id": "6016",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "6754134922",
-      "name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "url": "https://apps.apple.com/nz/app/pinedrama-short-dramas/id6754134922?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/b7/fb/98b7fbce-3ff4-9400-c352-db149a7aeec4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-09-17",
+      "id": "1325850754",
+      "name": "SkyCity",
+      "developer": "Skycity Entertainment Group Limited",
+      "url": "https://apps.apple.com/nz/app/skycity/id1325850754?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/f7/84/c2f7847d-1504-2c19-4544-671454b1ae37/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-02-06",
       "genres": [
         {
           "id": "6016",

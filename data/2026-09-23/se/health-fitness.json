@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:13:30.786448+09:00",
+  "collected_at": "2026-09-23T21:06:32.477726+09:00",
   "date": "2026-09-23",
   "country": "se",
   "chart": "top-free",
@@ -9,22 +9,6 @@
   "apps": [
     {
       "rank": 1,
-      "id": "6795255968",
-      "name": "Sundo – Streckkod & Tillsatser",
-      "developer": "Anton Koser",
-      "url": "https://apps.apple.com/se/app/sundo-streckkod-tillsatser/id6795255968?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/a7/42/11a74296-313b-0f6b-f3ab-e013a158b1d1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-14",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "id": "426826309",
       "name": "Strava: spring, cykla, vandra",
       "developer": "Strava, Inc.",
@@ -40,12 +24,28 @@
       ]
     },
     {
+      "rank": 2,
+      "id": "6795255968",
+      "name": "Sundo – Streckkod & Tillsatser",
+      "developer": "Anton Koser",
+      "url": "https://apps.apple.com/se/app/sundo-streckkod-tillsatser/id6795255968?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/a7/42/11a74296-313b-0f6b-f3ab-e013a158b1d1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-14",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 3,
       "id": "6443740936",
       "name": "Lyfta: Träningsapp för Gym",
       "developer": "Lindberg Development AS",
       "url": "https://apps.apple.com/se/app/lyfta-tr%C3%A4ningsapp-f%C3%B6r-gym/id6443740936?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/b5/dd/33b5ddb6-016e-aae2-985e-079bdd956e1f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/1f/c3/861fc3ea-037c-67b9-ee7a-d07637fba548/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "release_date": "2022-10-10",
       "genres": [
         {
@@ -61,7 +61,7 @@
       "name": "Stepler - Gå och få",
       "developer": "Stepler AB",
       "url": "https://apps.apple.com/se/app/stepler-g%C3%A5-och-f%C3%A5/id1451006880?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/76/79/16767946-9003-1a08-f01b-bfe1a854a485/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/5b/91/2d5b9188-5435-1be9-5b64-8d0b2f9069e0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "release_date": "2019-11-25",
       "genres": [
         {
@@ -185,6 +185,22 @@
     },
     {
       "rank": 12,
+      "id": "583446403",
+      "name": "Garmin Connect™",
+      "developer": "Garmin",
+      "url": "https://apps.apple.com/se/app/garmin-connect/id583446403?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/bf/17/c1bf1765-2b06-e4a7-fa3e-d697f5d5ca52/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-01-09",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
       "id": "1533463889",
       "name": "Actic",
       "developer": "Actic Sverige AB",
@@ -200,7 +216,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "544034483",
       "name": "Liberoklubben – Gravid & Baby",
       "developer": "Essity AB (publ)",
@@ -216,29 +232,13 @@
       ]
     },
     {
-      "rank": 14,
-      "id": "405075943",
-      "name": "AllTrails: trekking & vandring",
-      "developer": "AllTrails, Inc.",
-      "url": "https://apps.apple.com/se/app/alltrails-trekking-vandring/id405075943?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/03/0f/00030f57-e64c-dbb0-e6fc-57ebb681ce32/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-12-20",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 15,
-      "id": "583446403",
-      "name": "Garmin Connect™",
-      "developer": "Garmin",
-      "url": "https://apps.apple.com/se/app/garmin-connect/id583446403?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/bf/17/c1bf1765-2b06-e4a7-fa3e-d697f5d5ca52/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-01-09",
+      "id": "6779546212",
+      "name": "Calife: AI kaloriräknare",
+      "developer": "Core AI",
+      "url": "https://apps.apple.com/se/app/calife-ai-kalorir%C3%A4knare/id6779546212?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/2c/d3/5f2cd385-71bd-af2a-4fb5-f61655f8034b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-09",
       "genres": [
         {
           "id": "6013",
@@ -265,59 +265,11 @@
     },
     {
       "rank": 17,
-      "id": "6779546212",
-      "name": "Calife: AI kaloriräknare",
-      "developer": "Core AI",
-      "url": "https://apps.apple.com/se/app/calife-ai-kalorir%C3%A4knare/id6779546212?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/2c/d3/5f2cd385-71bd-af2a-4fb5-f61655f8034b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-09",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "id": "1037595083",
-      "name": "StepsApp Stegräknare",
-      "developer": "StepsApp GmbH",
-      "url": "https://apps.apple.com/se/app/stepsapp-stegr%C3%A4knare/id1037595083?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/d6/f9/64d6f942-1325-2d46-c948-99b7c3e3b15b/AppIconNew-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2015-10-10",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "1553273081",
-      "name": "Go Active!",
-      "developer": "BRP Systems AB",
-      "url": "https://apps.apple.com/se/app/go-active/id1553273081?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/c5/1a/62c51a12-32da-7325-6e0c-932a494a092d/AppIcon_actic-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-05-05",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
       "id": "6758021281",
       "name": "Wayk: Alarm Clock to Wake Up",
       "developer": "Dialed Labs Inc.",
       "url": "https://apps.apple.com/se/app/wayk-alarm-clock-to-wake-up/id6758021281?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/f1/a6c9f16e-bf69-00b0-c437-a2417514ad6b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/2a/cb/982acb57-7ee4-e02b-9b6f-5396f3f92a9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "release_date": "2026-02-03",
       "genres": [
         {
@@ -328,55 +280,55 @@
       ]
     },
     {
+      "rank": 18,
+      "id": "6754058817",
+      "name": "PulseGuard Ai",
+      "developer": "DIAMOND WHEEL LIMITED",
+      "url": "https://apps.apple.com/se/app/pulseguard-ai/id6754058817?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/cf/fe/2bcffe0e-6dd4-783d-29a5-d3a25e2f7132/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-17",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "405075943",
+      "name": "AllTrails: trekking & vandring",
+      "developer": "AllTrails, Inc.",
+      "url": "https://apps.apple.com/se/app/alltrails-trekking-vandring/id405075943?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/ad/aa/dfadaafb-4a16-df93-e587-ccdf4cc25b3c/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-12-20",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "1037595083",
+      "name": "StepsApp Stegräknare",
+      "developer": "StepsApp GmbH",
+      "url": "https://apps.apple.com/se/app/stepsapp-stegr%C3%A4knare/id1037595083?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/a7/d9/2da7d9dd-44bc-bf93-2d5c-2d0b1b307744/AppIconNew-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-10",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 21,
-      "id": "1272653109",
-      "name": "SATS",
-      "developer": "HFN",
-      "url": "https://apps.apple.com/se/app/sats/id1272653109?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/70/fe/0570fefa-aac6-4cf8-399d-b12e817ac400/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-08-29",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "id": "976506047",
-      "name": "Technogym - Tränare",
-      "developer": "Technogym",
-      "url": "https://apps.apple.com/se/app/technogym-tr%C3%A4nare/id976506047?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/0c/b2/610cb28b-3e93-fcb1-c1e4-bf631dfbbd52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-04-30",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "id": "6447434453",
-      "name": "Calo: AI-matkaloriräknare",
-      "developer": "Next Vision Limited",
-      "url": "https://apps.apple.com/se/app/calo-ai-matkalorir%C3%A4knare/id6447434453?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/61/69/f6616947-184d-2ff5-2e37-a9b43e081361/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-11",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
       "id": "1217864784",
       "name": "Wondr Bokningsapp",
       "developer": "Wondr",
@@ -392,13 +344,61 @@
       ]
     },
     {
+      "rank": 22,
+      "id": "6447434453",
+      "name": "Calo: AI-matkaloriräknare",
+      "developer": "Next Vision Limited",
+      "url": "https://apps.apple.com/se/app/calo-ai-matkalorir%C3%A4knare/id6447434453?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/b6/0d/b4b60d54-ec26-0373-afb0-5d5818fccf15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-11",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "1001572453",
+      "name": "hittaut",
+      "developer": "Svenska Orienteringsforbundet",
+      "url": "https://apps.apple.com/se/app/hittaut/id1001572453?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/b5/46/49b54697-d667-cb78-63f0-3bc95371d0e2/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2015-06-15",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "1553273081",
+      "name": "Go Active!",
+      "developer": "BRP Systems AB",
+      "url": "https://apps.apple.com/se/app/go-active/id1553273081?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/c5/1a/62c51a12-32da-7325-6e0c-932a494a092d/AppIcon_actic-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-05-05",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 25,
-      "id": "6753161422",
-      "name": "Cardiora: Blood Pressure",
-      "developer": "Tam Tran",
-      "url": "https://apps.apple.com/se/app/cardiora-blood-pressure/id6753161422?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/75/4b/34754beb-75d9-971f-f474-04bc58316f87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-10-08",
+      "id": "1022318229",
+      "name": "Twiik",
+      "developer": "Twiik Coaching Technologies AB",
+      "url": "https://apps.apple.com/se/app/twiik/id1022318229?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/43/94/0b4394cd-4dbc-8133-8cfb-e006241800c0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-08-03",
       "genres": [
         {
           "id": "6013",
@@ -409,12 +409,12 @@
     },
     {
       "rank": 26,
-      "id": "6468660073",
-      "name": "iCardiac: Hälsa, Rädda Hjärtat",
-      "developer": "BEGAMOB GLOBAL LIMITED",
-      "url": "https://apps.apple.com/se/app/icardiac-h%C3%A4lsa-r%C3%A4dda-hj%C3%A4rtat/id6468660073?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/39/60/b33960d2-6400-be6c-6d1b-098e8a504d47/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-10-16",
+      "id": "976506047",
+      "name": "Technogym - Tränare",
+      "developer": "Technogym",
+      "url": "https://apps.apple.com/se/app/technogym-tr%C3%A4nare/id976506047?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/0c/b2/610cb28b-3e93-fcb1-c1e4-bf631dfbbd52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-04-30",
       "genres": [
         {
           "id": "6013",
@@ -425,12 +425,12 @@
     },
     {
       "rank": 27,
-      "id": "1001572453",
-      "name": "hittaut",
-      "developer": "Svenska Orienteringsforbundet",
-      "url": "https://apps.apple.com/se/app/hittaut/id1001572453?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/b5/46/49b54697-d667-cb78-63f0-3bc95371d0e2/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2015-06-15",
+      "id": "6468660073",
+      "name": "iCardiac: Hälsa, Rädda Hjärtat",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/se/app/icardiac-h%C3%A4lsa-r%C3%A4dda-hj%C3%A4rtat/id6468660073?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/26/16/ca261610-7322-d3e7-79d6-c5f1f22dd09f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-10-16",
       "genres": [
         {
           "id": "6013",
@@ -457,12 +457,12 @@
     },
     {
       "rank": 29,
-      "id": "1264546236",
-      "name": "BetterMe Well-Being Coach",
-      "developer": "BetterMe Limited",
-      "url": "https://apps.apple.com/se/app/betterme-well-being-coach/id1264546236?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/24/46/d4244699-9837-c7ea-1f76-cb826132fed3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2017-08-22",
+      "id": "1272653109",
+      "name": "SATS",
+      "developer": "HFN",
+      "url": "https://apps.apple.com/se/app/sats/id1272653109?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/70/fe/0570fefa-aac6-4cf8-399d-b12e817ac400/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-08-29",
       "genres": [
         {
           "id": "6013",
@@ -473,12 +473,12 @@
     },
     {
       "rank": 30,
-      "id": "1491340863",
-      "name": "Napper: Sömnschema & dagbok",
-      "developer": "Napper AB",
-      "url": "https://apps.apple.com/se/app/napper-s%C3%B6mnschema-dagbok/id1491340863?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/24/04/a3240442-fd39-6329-4216-e9450a463cd9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-22",
+      "id": "6753161422",
+      "name": "Cardiora: Blood Pressure",
+      "developer": "Tam Tran",
+      "url": "https://apps.apple.com/se/app/cardiora-blood-pressure/id6753161422?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/75/4b/34754beb-75d9-971f-f474-04bc58316f87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-08",
       "genres": [
         {
           "id": "6013",
@@ -505,12 +505,12 @@
     },
     {
       "rank": 32,
-      "id": "555252645",
-      "name": "Polar Beat",
-      "developer": "Polar Electro",
-      "url": "https://apps.apple.com/se/app/polar-beat/id555252645?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/36/8d/e2368d84-c598-24fc-cf65-7ecf54ecb066/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2012-10-15",
+      "id": "1264546236",
+      "name": "BetterMe Well-Being Coach",
+      "developer": "BetterMe Limited",
+      "url": "https://apps.apple.com/se/app/betterme-well-being-coach/id1264546236?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/24/46/d4244699-9837-c7ea-1f76-cb826132fed3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2017-08-22",
       "genres": [
         {
           "id": "6013",
@@ -537,12 +537,12 @@
     },
     {
       "rank": 34,
-      "id": "1434229662",
-      "name": "StrengthLog – Workout Tracker",
-      "developer": "Styrkelabbet AB",
-      "url": "https://apps.apple.com/se/app/strengthlog-workout-tracker/id1434229662?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/12/3c/11123c46-3060-ec06-d1e0-8f05a0dd4722/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-11-06",
+      "id": "1491340863",
+      "name": "Napper: Sömnschema & dagbok",
+      "developer": "Napper AB",
+      "url": "https://apps.apple.com/se/app/napper-s%C3%B6mnschema-dagbok/id1491340863?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/24/04/a3240442-fd39-6329-4216-e9450a463cd9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-22",
       "genres": [
         {
           "id": "6013",
@@ -553,12 +553,12 @@
     },
     {
       "rank": 35,
-      "id": "6754058817",
-      "name": "PulseGuard Ai",
-      "developer": "DIAMOND WHEEL LIMITED",
-      "url": "https://apps.apple.com/se/app/pulseguard-ai/id6754058817?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/cf/fe/2bcffe0e-6dd4-783d-29a5-d3a25e2f7132/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-10-17",
+      "id": "6504434248",
+      "name": "Nutraware",
+      "developer": "Nutraware AB",
+      "url": "https://apps.apple.com/se/app/nutraware/id6504434248?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/b3/59/27b359ae-81ba-a0db-71a1-2db06df6a008/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-03",
       "genres": [
         {
           "id": "6013",
@@ -585,38 +585,6 @@
     },
     {
       "rank": 37,
-      "id": "1594204443",
-      "name": "Runna: Running Plans & Coach",
-      "developer": "Strava, Inc.",
-      "url": "https://apps.apple.com/se/app/runna-running-plans-coach/id1594204443?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/2e/cd/722ecd62-e72e-eb45-aec3-005ccff5cfd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-12-11",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "6504434248",
-      "name": "Nutraware",
-      "developer": "Nutraware AB",
-      "url": "https://apps.apple.com/se/app/nutraware/id6504434248?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/b3/59/27b359ae-81ba-a0db-71a1-2db06df6a008/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-03",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
       "id": "6754075317",
       "name": "ChillFit-träning för nybörjare",
       "developer": "Core AI",
@@ -632,167 +600,39 @@
       ]
     },
     {
+      "rank": 38,
+      "id": "1434229662",
+      "name": "StrengthLog – Workout Tracker",
+      "developer": "Styrkelabbet AB",
+      "url": "https://apps.apple.com/se/app/strengthlog-workout-tracker/id1434229662?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0f/66/e80f6660-85da-6283-b341-fa2078824e47/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-11-06",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6776474911",
+      "name": "Blood Pressure Jot: Tracker",
+      "developer": "HONGKONG HYCONVEY CO. ,LIMITED",
+      "url": "https://apps.apple.com/se/app/blood-pressure-jot-tracker/id6776474911?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1d/06/371d0683-a924-e680-87b4-c37205bd3113/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-06-11",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 40,
-      "id": "946099227",
-      "name": "Yazio: AI-kaloriräknare",
-      "developer": "YAZIO",
-      "url": "https://apps.apple.com/se/app/yazio-ai-kalorir%C3%A4knare/id946099227?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/21/7e/ab217ed9-211a-b407-8337-d5baa82baf41/Yettie_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-01-06",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "1462053445",
-      "name": "Gym Control",
-      "developer": "Gym Control AB",
-      "url": "https://apps.apple.com/se/app/gym-control/id1462053445?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/75/e6/8d75e663-6f42-d565-eeff-55675cff965e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2019-08-26",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1586939118",
-      "name": "Friskis Go",
-      "developer": "Friskis&Svettis Riks",
-      "url": "https://apps.apple.com/se/app/friskis-go/id1586939118?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/13/6f/bb136fc3-16b1-3f1c-c405-f3ee49e61d88/AppIcon-friskis-riks-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-02-10",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "6755142076",
-      "name": "Gymax: Muscle Workout Planner",
-      "developer": "Core AI",
-      "url": "https://apps.apple.com/se/app/gymax-muscle-workout-planner/id6755142076?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/d0/1d/b0d01d5d-4cd3-7daf-24a5-c7fbcba94745/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-26",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "6444719293",
-      "name": "Get Moving Challenge",
-      "developer": "Motionsplatsen AB",
-      "url": "https://apps.apple.com/se/app/get-moving-challenge/id6444719293?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/40/19/0c4019e3-c504-bfd4-8c0c-98bcb614459f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-01-15",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "6763286225",
-      "name": "Bina: Binaural Beats",
-      "developer": "ChatTrips d.o.o.",
-      "url": "https://apps.apple.com/se/app/bina-binaural-beats/id6763286225?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/e4/27/39e42759-b1b1-2b9f-9101-1c5ec532fb6c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-15",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "341232718",
-      "name": "MyFitnessPal: Kaloriräknare",
-      "developer": "MyFitnessPal, Inc.",
-      "url": "https://apps.apple.com/se/app/myfitnesspal-kalorir%C3%A4knare/id341232718?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/92/49/939249bd-df95-f1e2-3933-f232b837114c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2009-12-07",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "6463624817",
-      "name": "Mama Mia Hemma",
-      "developer": "S&A Prev AB",
-      "url": "https://apps.apple.com/se/app/mama-mia-hemma/id6463624817?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/f6/0c/11f60cbd-7ae2-05ff-ca86-7d1ec173d287/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2024-06-11",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "id": "6738832996",
-      "name": "Calz－Kaloriräknare AI",
-      "developer": "Wachanga LTD",
-      "url": "https://apps.apple.com/se/app/calz-kalorir%C3%A4knare-ai/id6738832996?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/25/80/f82580d4-b29b-d30e-33a1-fb0a6ee725a4/AppIcon_11-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-01-24",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "1136617388",
-      "name": "Promenad Stegräknare Goals GPS",
-      "developer": "AK Apptuitive GmbH",
-      "url": "https://apps.apple.com/se/app/promenad-stegr%C3%A4knare-goals-gps/id1136617388?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/99/b8/a699b80c-c845-32fe-e6d2-a3b33487b169/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2016-10-18",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
       "id": "1459096552",
       "name": "Menskoll, Mens app: Min cykel",
       "developer": "Aleksei Neiman",
@@ -808,13 +648,13 @@
       ]
     },
     {
-      "rank": 51,
-      "id": "462638897",
-      "name": "Google Health (Fitbit)",
-      "developer": "Google",
-      "url": "https://apps.apple.com/se/app/google-health-fitbit/id462638897?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/10/8d/d7108d32-732b-07e6-b154-dc9428157ff5/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2012-10-09",
+      "rank": 41,
+      "id": "1594204443",
+      "name": "Runna: Running Plans & Coach",
+      "developer": "Strava, Inc.",
+      "url": "https://apps.apple.com/se/app/runna-running-plans-coach/id1594204443?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/2e/cd/722ecd62-e72e-eb45-aec3-005ccff5cfd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-12-11",
       "genres": [
         {
           "id": "6013",
@@ -824,7 +664,87 @@
       ]
     },
     {
-      "rank": 52,
+      "rank": 42,
+      "id": "555252645",
+      "name": "Polar Beat",
+      "developer": "Polar Electro",
+      "url": "https://apps.apple.com/se/app/polar-beat/id555252645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/36/8d/e2368d84-c598-24fc-cf65-7ecf54ecb066/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-10-15",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "1462053445",
+      "name": "Gym Control",
+      "developer": "Gym Control AB",
+      "url": "https://apps.apple.com/se/app/gym-control/id1462053445?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/75/e6/8d75e663-6f42-d565-eeff-55675cff965e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2019-08-26",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "6755142076",
+      "name": "Gymax: Muscle Workout Planner",
+      "developer": "Core AI",
+      "url": "https://apps.apple.com/se/app/gymax-muscle-workout-planner/id6755142076?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/d0/1d/b0d01d5d-4cd3-7daf-24a5-c7fbcba94745/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-26",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1586939118",
+      "name": "Friskis Go",
+      "developer": "Friskis&Svettis Riks",
+      "url": "https://apps.apple.com/se/app/friskis-go/id1586939118?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/13/6f/bb136fc3-16b1-3f1c-c405-f3ee49e61d88/AppIcon-friskis-riks-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-02-10",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "6738832996",
+      "name": "Calz－Kaloriräknare AI",
+      "developer": "Wachanga LTD",
+      "url": "https://apps.apple.com/se/app/calz-kalorir%C3%A4knare-ai/id6738832996?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/25/80/f82580d4-b29b-d30e-33a1-fb0a6ee725a4/AppIcon_11-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-01-24",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
       "id": "447374873",
       "name": "komoot - hike, bike & run",
       "developer": "komoot GmbH",
@@ -840,13 +760,13 @@
       ]
     },
     {
-      "rank": 53,
-      "id": "6784181375",
-      "name": "Blood Pressure Touch: Log&Info",
-      "developer": "FOTURE MOTOR LIMITED",
-      "url": "https://apps.apple.com/se/app/blood-pressure-touch-log-info/id6784181375?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/a3/27/34a327ec-1cf3-885d-276c-bb9b1ee69464/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-02",
+      "rank": 48,
+      "id": "946099227",
+      "name": "Yazio: AI-kaloriräknare",
+      "developer": "YAZIO",
+      "url": "https://apps.apple.com/se/app/yazio-ai-kalorir%C3%A4knare/id946099227?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/21/7e/ab217ed9-211a-b407-8337-d5baa82baf41/Yettie_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-01-06",
       "genres": [
         {
           "id": "6013",
@@ -856,13 +776,13 @@
       ]
     },
     {
-      "rank": 54,
-      "id": "320606217",
-      "name": "Sleep Cycle - Sömn Recorder",
-      "developer": "Sleep Cycle AB",
-      "url": "https://apps.apple.com/se/app/sleep-cycle-s%C3%B6mn-recorder/id320606217?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/92/45/ac92458a-75f4-a916-434f-cfa12090c72e/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2009-07-23",
+      "rank": 49,
+      "id": "462638897",
+      "name": "Google Health (Fitbit)",
+      "developer": "Google",
+      "url": "https://apps.apple.com/se/app/google-health-fitbit/id462638897?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/10/8d/d7108d32-732b-07e6-b154-dc9428157ff5/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2012-10-09",
       "genres": [
         {
           "id": "6013",
@@ -872,103 +792,7 @@
       ]
     },
     {
-      "rank": 55,
-      "id": "6447674634",
-      "name": "Lively: Menstruation & Cykel",
-      "developer": "Lively Cycle, LLC",
-      "url": "https://apps.apple.com/se/app/lively-menstruation-cykel/id6447674634?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5e/4a/cf5e4ab7-394e-56c7-3a8f-938b48fddb7c/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-13",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "1380623834",
-      "name": "Kiplin",
-      "developer": "Kiplin",
-      "url": "https://apps.apple.com/se/app/kiplin/id1380623834?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0d/6e/e80d6ec7-9f76-5ee0-f249-82251390d6a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-13",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "529815782",
-      "name": "Växa och upptäcka världen",
-      "developer": "Domus Technica",
-      "url": "https://apps.apple.com/se/app/v%C3%A4xa-och-uppt%C3%A4cka-v%C3%A4rlden/id529815782?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/13/ad/5d13ad1a-811e-7fe2-db8b-1110136af9e3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2012-05-30",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "979101825",
-      "name": "StepUp Stegräknare & Pedometer",
-      "developer": "Pratik Stephen",
-      "url": "https://apps.apple.com/se/app/stepup-stegr%C3%A4knare-pedometer/id979101825?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3d/7a/d13d7acc-a272-a74c-3e8f-b3046d9df84f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-11-18",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "6751233363",
-      "name": "Neko Health",
-      "developer": "Neko Health AB",
-      "url": "https://apps.apple.com/se/app/neko-health/id6751233363?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/fc/14/0efc14fa-56f5-0ea1-84a5-b7198e8eb008/app-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-06-10",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "1621719397",
-      "name": "Stronger - Gym Workout Planner",
-      "developer": "Atlas Smart Technologies LTD",
-      "url": "https://apps.apple.com/se/app/stronger-gym-workout-planner/id1621719397?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/b3/65/87b36562-bd19-5a03-eea0-6fbefff09e73/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2022-05-30",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
+      "rank": 50,
       "id": "1027151285",
       "name": "Stegräknare - Promenad, Hälsa",
       "developer": "ITO Technologies, Inc.",
@@ -984,13 +808,189 @@
       ]
     },
     {
+      "rank": 51,
+      "id": "341232718",
+      "name": "MyFitnessPal: Kaloriräknare",
+      "developer": "MyFitnessPal, Inc.",
+      "url": "https://apps.apple.com/se/app/myfitnesspal-kalorir%C3%A4knare/id341232718?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/64/be/1964be77-d44f-29c3-7602-dcc246f0b7ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2009-12-07",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "6447674634",
+      "name": "Lively: Menstruation & Cykel",
+      "developer": "Lively Cycle, LLC",
+      "url": "https://apps.apple.com/se/app/lively-menstruation-cykel/id6447674634?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5e/4a/cf5e4ab7-394e-56c7-3a8f-938b48fddb7c/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-13",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "6463624817",
+      "name": "Mama Mia Hemma",
+      "developer": "S&A Prev AB",
+      "url": "https://apps.apple.com/se/app/mama-mia-hemma/id6463624817?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/f6/0c/11f60cbd-7ae2-05ff-ca86-7d1ec173d287/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2024-06-11",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1136617388",
+      "name": "Promenad Stegräknare Goals GPS",
+      "developer": "AK Apptuitive GmbH",
+      "url": "https://apps.apple.com/se/app/promenad-stegr%C3%A4knare-goals-gps/id1136617388?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/99/b8/a699b80c-c845-32fe-e6d2-a3b33487b169/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2016-10-18",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6763286225",
+      "name": "Bina: Binaural Beats",
+      "developer": "ChatTrips d.o.o.",
+      "url": "https://apps.apple.com/se/app/bina-binaural-beats/id6763286225?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/e4/27/39e42759-b1b1-2b9f-9101-1c5ec532fb6c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-15",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "765535549",
+      "name": "Natural Cycles: Preventivmedel",
+      "developer": "NaturalCycles Nordic AB",
+      "url": "https://apps.apple.com/se/app/natural-cycles-preventivmedel/id765535549?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/5d/83/195d83a2-a1c4-2ed1-0f2a-bc22322dd31e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2013-12-17",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1621719397",
+      "name": "Stronger - Gym Workout Planner",
+      "developer": "Atlas Smart Technologies LTD",
+      "url": "https://apps.apple.com/se/app/stronger-gym-workout-planner/id1621719397?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/b3/65/87b36562-bd19-5a03-eea0-6fbefff09e73/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2022-05-30",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "912947244",
+      "name": "ClassPass: Fitness, Spa, Salon",
+      "developer": "ClassPass, LLC",
+      "url": "https://apps.apple.com/se/app/classpass-fitness-spa-salon/id912947244?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/16/0e/e0160ed6-bea5-de55-c464-e64fedffea3c/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-12-17",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "6784181375",
+      "name": "Blood Pressure Touch: Log&Info",
+      "developer": "FOTURE MOTOR LIMITED",
+      "url": "https://apps.apple.com/se/app/blood-pressure-touch-log-info/id6784181375?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/a3/27/34a327ec-1cf3-885d-276c-bb9b1ee69464/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-02",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "698092608",
+      "name": "Oral-B",
+      "developer": "P&G Health Care",
+      "url": "https://apps.apple.com/se/app/oral-b/id698092608?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/d0/16/7dd016ac-8332-465a-6eb3-728713e95e7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-06-26",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "1513988468",
+      "name": "Bend: Daglig Stretch och Yoga",
+      "developer": "Bowery Digital",
+      "url": "https://apps.apple.com/se/app/bend-daglig-stretch-och-yoga/id1513988468?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/b7/63/14b7635e-0390-22a5-9899-3d20e38e5d7b/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-05-20",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 62,
-      "id": "6477569392",
-      "name": "Member 24",
-      "developer": "Member 24 AB",
-      "url": "https://apps.apple.com/se/app/member-24/id6477569392?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/9f/81/439f812e-701e-00ed-11f6-2a2328fe780d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-03-01",
+      "id": "6444719293",
+      "name": "Get Moving Challenge",
+      "developer": "Motionsplatsen AB",
+      "url": "https://apps.apple.com/se/app/get-moving-challenge/id6444719293?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/40/19/0c4019e3-c504-bfd4-8c0c-98bcb614459f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-01-15",
       "genres": [
         {
           "id": "6013",
@@ -1017,54 +1017,6 @@
     },
     {
       "rank": 64,
-      "id": "1556005270",
-      "name": "Semper STEP",
-      "developer": "Semper AB",
-      "url": "https://apps.apple.com/se/app/semper-step/id1556005270?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/a4/ab/67a4ab4a-495d-6eea-4765-49fa3d4dd55f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2021-03-05",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "1528595748",
-      "name": "Finch: Self-Care Pet",
-      "developer": "Finch Care Public Benefit Corporation",
-      "url": "https://apps.apple.com/se/app/finch-self-care-pet/id1528595748?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/f9/c0/11f9c06d-d586-9f47-64ed-cb199d41b8e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-12",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "1316004998",
-      "name": "Da Fit",
-      "developer": "MO YOUNG LIMITED",
-      "url": "https://apps.apple.com/se/app/da-fit/id1316004998?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/f8/0e/b2f80e0e-3f27-25a5-dd50-205124538d1f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2017-11-22",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
       "id": "387771637",
       "name": "Nike Run Club: Löparcoach",
       "developer": "Nike, Inc",
@@ -1080,13 +1032,61 @@
       ]
     },
     {
+      "rank": 65,
+      "id": "6756713738",
+      "name": "VitalLog Tracker",
+      "developer": "Walrus Holdings(Hong Kong)Limited",
+      "url": "https://apps.apple.com/se/app/vitallog-tracker/id6756713738?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/80/62/298062bb-785b-106d-3e57-9b33b26c84b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-22",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6751233363",
+      "name": "Neko Health",
+      "developer": "Neko Health AB",
+      "url": "https://apps.apple.com/se/app/neko-health/id6751233363?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/fc/14/0efc14fa-56f5-0ea1-84a5-b7198e8eb008/app-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-06-10",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "1528595748",
+      "name": "Finch: Self-Care Pet",
+      "developer": "Finch Care Public Benefit Corporation",
+      "url": "https://apps.apple.com/se/app/finch-self-care-pet/id1528595748?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/f9/c0/11f9c06d-d586-9f47-64ed-cb199d41b8e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-12",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 68,
-      "id": "765535549",
-      "name": "Natural Cycles: Preventivmedel",
-      "developer": "NaturalCycles Nordic AB",
-      "url": "https://apps.apple.com/se/app/natural-cycles-preventivmedel/id765535549?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/5d/83/195d83a2-a1c4-2ed1-0f2a-bc22322dd31e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2013-12-17",
+      "id": "347184248",
+      "name": "Kaloriräknaren av fatsecret",
+      "developer": "fatsecret",
+      "url": "https://apps.apple.com/se/app/kalorir%C3%A4knaren-av-fatsecret/id347184248?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/0f/f1/410ff14f-cb57-efef-ce8a-6be8a4d41cc8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2009-12-22",
       "genres": [
         {
           "id": "6013",
@@ -1097,12 +1097,12 @@
     },
     {
       "rank": 69,
-      "id": "698092608",
-      "name": "Oral-B",
-      "developer": "P&G Health Care",
-      "url": "https://apps.apple.com/se/app/oral-b/id698092608?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/d0/16/7dd016ac-8332-465a-6eb3-728713e95e7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-06-26",
+      "id": "1327856381",
+      "name": "Medley-appen",
+      "developer": "Medley",
+      "url": "https://apps.apple.com/se/app/medley-appen/id1327856381?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/11/73/b71173ff-52bd-48bd-df89-a3de8ebdef95/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-02-15",
       "genres": [
         {
           "id": "6013",
@@ -1113,12 +1113,12 @@
     },
     {
       "rank": 70,
-      "id": "912947244",
-      "name": "ClassPass: Fitness, Spa, Salon",
-      "developer": "ClassPass, LLC",
-      "url": "https://apps.apple.com/se/app/classpass-fitness-spa-salon/id912947244?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/16/0e/e0160ed6-bea5-de55-c464-e64fedffea3c/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-12-17",
+      "id": "320606217",
+      "name": "Sleep Cycle - Sömn Recorder",
+      "developer": "Sleep Cycle AB",
+      "url": "https://apps.apple.com/se/app/sleep-cycle-s%C3%B6mn-recorder/id320606217?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/92/45/ac92458a-75f4-a916-434f-cfa12090c72e/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2009-07-23",
       "genres": [
         {
           "id": "6013",
@@ -1129,12 +1129,12 @@
     },
     {
       "rank": 71,
-      "id": "6448081563",
-      "name": "Liftoff: Rankade Träningspass",
-      "developer": "Liftoff Labs Inc.",
-      "url": "https://apps.apple.com/se/app/liftoff-rankade-tr%C3%A4ningspass/id6448081563?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/78/18/fd7818a5-b891-bd1f-6760-f0f6648b8e2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-10-30",
+      "id": "6480417616",
+      "name": "Cal AI - Calorie Tracker",
+      "developer": "Viral Development LLC",
+      "url": "https://apps.apple.com/se/app/cal-ai-calorie-tracker/id6480417616?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/ba/89/10ba893d-a39e-2475-eb06-990ed295c780/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-04-08",
       "genres": [
         {
           "id": "6013",
@@ -1161,70 +1161,6 @@
     },
     {
       "rank": 73,
-      "id": "1078037686",
-      "name": "Bruce Studios",
-      "developer": "IM WITH BRUCE AB",
-      "url": "https://apps.apple.com/se/app/bruce-studios/id1078037686?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/90/fc/3f90fc00-35c6-1441-7969-15ececf0de9b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-04-28",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "6444737095",
-      "name": "StressWatch: AI Stress Monitor",
-      "developer": "One Hundred Bad Ideas Limited",
-      "url": "https://apps.apple.com/se/app/stresswatch-ai-stress-monitor/id6444737095?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/14/c4/5c14c489-ccac-273e-6286-533cffa93fe5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-26",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "6480417616",
-      "name": "Cal AI - Calorie Tracker",
-      "developer": "Viral Development LLC",
-      "url": "https://apps.apple.com/se/app/cal-ai-calorie-tracker/id6480417616?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/81/78/1981780f-0f70-66ca-765c-1af40664add0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-04-08",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "1445174667",
-      "name": "Safe Place",
-      "developer": "Rädda Barnen",
-      "url": "https://apps.apple.com/se/app/safe-place/id1445174667?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/b2/58/93b25830-56e3-b6ee-d73f-5b603dd2baee/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-12-07",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
       "id": "6742904990",
       "name": "Heartica: Pulsmätare och EKG",
       "developer": "Faliane Ltd.",
@@ -1240,13 +1176,13 @@
       ]
     },
     {
-      "rank": 78,
-      "id": "1086733270",
-      "name": "Solarieappen",
-      "developer": "Bitlla AB",
-      "url": "https://apps.apple.com/se/app/solarieappen/id1086733270?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/72/36/d8723617-ff43-f616-dcef-1f32bd8cfc0f/solarieappenAppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2016-03-11",
+      "rank": 74,
+      "id": "1078037686",
+      "name": "Bruce Studios",
+      "developer": "IM WITH BRUCE AB",
+      "url": "https://apps.apple.com/se/app/bruce-studios/id1078037686?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/90/fc/3f90fc00-35c6-1441-7969-15ececf0de9b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-28",
       "genres": [
         {
           "id": "6013",
@@ -1256,13 +1192,13 @@
       ]
     },
     {
-      "rank": 79,
-      "id": "1124297113",
-      "name": "Intervall Timer □",
-      "developer": "Float Tech, LLC",
-      "url": "https://apps.apple.com/se/app/intervall-timer/id1124297113?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/c2/82/3dc282ec-0fd1-1b15-7362-83bdfdafa93e/IntervalTimer-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-06-21",
+      "rank": 75,
+      "id": "6477569392",
+      "name": "Member 24",
+      "developer": "Member 24 AB",
+      "url": "https://apps.apple.com/se/app/member-24/id6477569392?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/9f/81/439f812e-701e-00ed-11f6-2a2328fe780d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-01",
       "genres": [
         {
           "id": "6013",
@@ -1272,13 +1208,13 @@
       ]
     },
     {
-      "rank": 80,
-      "id": "1327856381",
-      "name": "Medley-appen",
-      "developer": "Medley",
-      "url": "https://apps.apple.com/se/app/medley-appen/id1327856381?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/11/73/b71173ff-52bd-48bd-df89-a3de8ebdef95/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-02-15",
+      "rank": 76,
+      "id": "6444737095",
+      "name": "StressWatch: AI Stress Monitor",
+      "developer": "One Hundred Bad Ideas Limited",
+      "url": "https://apps.apple.com/se/app/stresswatch-ai-stress-monitor/id6444737095?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/14/c4/5c14c489-ccac-273e-6286-533cffa93fe5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-26",
       "genres": [
         {
           "id": "6013",
@@ -1288,215 +1224,7 @@
       ]
     },
     {
-      "rank": 81,
-      "id": "6776474911",
-      "name": "Blood Pressure Jot: Tracker",
-      "developer": "HONGKONG HYCONVEY CO. ,LIMITED",
-      "url": "https://apps.apple.com/se/app/blood-pressure-jot-tracker/id6776474911?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1d/06/371d0683-a924-e680-87b4-c37205bd3113/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-06-11",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "347184248",
-      "name": "Kaloriräknaren av fatsecret",
-      "developer": "fatsecret",
-      "url": "https://apps.apple.com/se/app/kalorir%C3%A4knaren-av-fatsecret/id347184248?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/0f/f1/410ff14f-cb57-efef-ce8a-6be8a4d41cc8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2009-12-22",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "717172678",
-      "name": "Polar Flow",
-      "developer": "Polar Electro",
-      "url": "https://apps.apple.com/se/app/polar-flow/id717172678?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/da/ff/dcdaffae-ca41-1952-3430-6aa33c04d74e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2013-10-28",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "1532900106",
-      "name": "T1D",
-      "developer": "Together Against Diabetes",
-      "url": "https://apps.apple.com/se/app/t1d/id1532900106?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/21/bc/6d21bc1f-1e61-76ff-70ec-909b872e1d68/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-26",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "1376288953",
-      "name": "Challengize",
-      "developer": "Challengize AB",
-      "url": "https://apps.apple.com/se/app/challengize/id1376288953?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/a0/1e/07a01efe-7942-8a75-402c-04e80fdee7fe/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-08-28",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
-      "id": "1322364290",
-      "name": "EGYM Fitness",
-      "developer": "EGYM INC",
-      "url": "https://apps.apple.com/se/app/egym-fitness/id1322364290?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/86/a0/d686a033-401f-5282-0cd0-9fd08c6e9693/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-12-19",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "6736515500",
-      "name": "Libresse Menskalender",
-      "developer": "Essity AB (publ)",
-      "url": "https://apps.apple.com/se/app/libresse-menskalender/id6736515500?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ae/c0/b3aec08d-0b14-c044-ffda-5f6f5333b902/appicon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2025-05-06",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "6472631698",
-      "name": "INTVL",
-      "developer": "INTVL PTY LTD",
-      "url": "https://apps.apple.com/se/app/intvl/id6472631698?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/23/91/f6239187-877c-bc17-9f1e-5dec2a36bef5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-02-10",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6775405596",
-      "name": "IKSU",
-      "developer": "IKSU Halsa AB",
-      "url": "https://apps.apple.com/se/app/iksu/id6775405596?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/28/60/4c286008-917a-2ec0-8805-8b60698ac661/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-06-29",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "1513988468",
-      "name": "Bend: Daglig Stretch och Yoga",
-      "developer": "Bowery Digital",
-      "url": "https://apps.apple.com/se/app/bend-daglig-stretch-och-yoga/id1513988468?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/b7/63/14b7635e-0390-22a5-9899-3d20e38e5d7b/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-05-20",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1047722007",
-      "name": "PhysiApp",
-      "developer": "Physitrack PLC",
-      "url": "https://apps.apple.com/se/app/physiapp/id1047722007?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/0d/25/6f0d2590-41ff-a986-9f4c-203ab1375f07/appIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-12-01",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "6474598021",
-      "name": "Blodtrycksapp Blodtrycksmätare",
-      "developer": "AKRURA PTE. LTD",
-      "url": "https://apps.apple.com/se/app/blodtrycksapp-blodtrycksm%C3%A4tare/id6474598021?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/5c/b3/df5cb336-5b95-cfac-e358-ba0b10392723/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2024-01-05",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "1312991660",
-      "name": "TanExpress",
-      "developer": "Bitlla AB",
-      "url": "https://apps.apple.com/se/app/tanexpress/id1312991660?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/9d/ea/049deaeb-97e3-bc2b-e30f-965fd7d6dddf/tanexpressAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2017-11-15",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Hälsa och motion",
-          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
+      "rank": 77,
       "id": "6474852610",
       "name": "HUAWEI Health: Europe",
       "developer": "Aspiegel SE",
@@ -1512,13 +1240,13 @@
       ]
     },
     {
-      "rank": 95,
-      "id": "6756713738",
-      "name": "VitalLog Tracker",
-      "developer": "Walrus Holdings(Hong Kong)Limited",
-      "url": "https://apps.apple.com/se/app/vitallog-tracker/id6756713738?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/80/62/298062bb-785b-106d-3e57-9b33b26c84b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-22",
+      "rank": 78,
+      "id": "1556005270",
+      "name": "Semper STEP",
+      "developer": "Semper AB",
+      "url": "https://apps.apple.com/se/app/semper-step/id1556005270?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/a4/ab/67a4ab4a-495d-6eea-4765-49fa3d4dd55f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-05",
       "genres": [
         {
           "id": "6013",
@@ -1528,13 +1256,13 @@
       ]
     },
     {
-      "rank": 96,
-      "id": "884923678",
-      "name": "InBody",
-      "developer": "InBody Co., Ltd.",
-      "url": "https://apps.apple.com/se/app/inbody/id884923678?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/09/5a/12095a21-b006-e69d-bec1-8f2fbb4930d1/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
-      "release_date": "2014-06-28",
+      "rank": 79,
+      "id": "529815782",
+      "name": "Växa och upptäcka världen",
+      "developer": "Domus Technica",
+      "url": "https://apps.apple.com/se/app/v%C3%A4xa-och-uppt%C3%A4cka-v%C3%A4rlden/id529815782?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/13/ad/5d13ad1a-811e-7fe2-db8b-1110136af9e3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-05-30",
       "genres": [
         {
           "id": "6013",
@@ -1544,13 +1272,13 @@
       ]
     },
     {
-      "rank": 97,
-      "id": "1556384698",
-      "name": "Nutrition Data Kost & Träning",
-      "developer": "Vaia Digital AB",
-      "url": "https://apps.apple.com/se/app/nutrition-data-kost-tr%C3%A4ning/id1556384698?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/12/57/bd12574d-8552-c9a8-30cc-33871d615000/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-03-25",
+      "rank": 80,
+      "id": "979101825",
+      "name": "StepUp Stegräknare & Pedometer",
+      "developer": "Pratik Stephen",
+      "url": "https://apps.apple.com/se/app/stepup-stegr%C3%A4knare-pedometer/id979101825?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/a4/63/f9a463a6-7df1-7940-a051-5aa1ef2bd26c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-18",
       "genres": [
         {
           "id": "6013",
@@ -1560,7 +1288,151 @@
       ]
     },
     {
-      "rank": 98,
+      "rank": 81,
+      "id": "1322364290",
+      "name": "EGYM Fitness",
+      "developer": "EGYM INC",
+      "url": "https://apps.apple.com/se/app/egym-fitness/id1322364290?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/86/a0/d686a033-401f-5282-0cd0-9fd08c6e9693/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-12-19",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "301521403",
+      "name": "Nike Training Club",
+      "developer": "Nike, Inc",
+      "url": "https://apps.apple.com/se/app/nike-training-club/id301521403?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9f/77/ab9f77b6-732e-00d6-223b-69f784ef5012/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2009-03-26",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1086733270",
+      "name": "Solarieappen",
+      "developer": "Bitlla AB",
+      "url": "https://apps.apple.com/se/app/solarieappen/id1086733270?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/72/36/d8723617-ff43-f616-dcef-1f32bd8cfc0f/solarieappenAppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2016-03-11",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1445174667",
+      "name": "Safe Place",
+      "developer": "Rädda Barnen",
+      "url": "https://apps.apple.com/se/app/safe-place/id1445174667?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/b2/58/93b25830-56e3-b6ee-d73f-5b603dd2baee/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-12-07",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "1047722007",
+      "name": "PhysiApp",
+      "developer": "Physitrack PLC",
+      "url": "https://apps.apple.com/se/app/physiapp/id1047722007?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/0d/25/6f0d2590-41ff-a986-9f4c-203ab1375f07/appIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-01",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "6448081563",
+      "name": "Liftoff: Rankade Träningspass",
+      "developer": "Liftoff Labs Inc.",
+      "url": "https://apps.apple.com/se/app/liftoff-rankade-tr%C3%A4ningspass/id6448081563?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/78/18/fd7818a5-b891-bd1f-6760-f0f6648b8e2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-10-30",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1532900106",
+      "name": "T1D",
+      "developer": "Together Against Diabetes",
+      "url": "https://apps.apple.com/se/app/t1d/id1532900106?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/21/bc/6d21bc1f-1e61-76ff-70ec-909b872e1d68/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-26",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "1568568917",
+      "name": "Vibes",
+      "developer": "Speed Baby AB",
+      "url": "https://apps.apple.com/se/app/vibes/id1568568917?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/b0/c3/0ab0c355-14b0-bfc9-446f-5d789411a362/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-13",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "6736515500",
+      "name": "Libresse Menskalender",
+      "developer": "Essity AB (publ)",
+      "url": "https://apps.apple.com/se/app/libresse-menskalender/id6736515500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ae/c0/b3aec08d-0b14-c044-ffda-5f6f5333b902/appicon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-05-06",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
       "id": "6739025809",
       "name": "Health Monitor: Sugar & BP",
       "developer": "Shanghai Dacheng Employment Agency",
@@ -1576,13 +1448,141 @@
       ]
     },
     {
+      "rank": 91,
+      "id": "1124297113",
+      "name": "Intervall Timer □",
+      "developer": "Float Tech, LLC",
+      "url": "https://apps.apple.com/se/app/intervall-timer/id1124297113?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/c2/82/3dc282ec-0fd1-1b15-7362-83bdfdafa93e/IntervalTimer-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-06-21",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "6443466211",
+      "name": "OneLab",
+      "developer": "OneLab AB",
+      "url": "https://apps.apple.com/se/app/onelab/id6443466211?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/b8/6f/91b86f8c-bf80-8912-99ca-18b1c1d3d7d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-16",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6667098452",
+      "name": "Pilates at Home, Wall Pilates",
+      "developer": "Prutvi",
+      "url": "https://apps.apple.com/se/app/pilates-at-home-wall-pilates/id6667098452?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/cc/54/a9cc5461-97ee-8d39-f160-58b37fe15886/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-07",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6472631698",
+      "name": "INTVL",
+      "developer": "INTVL PTY LTD",
+      "url": "https://apps.apple.com/se/app/intvl/id6472631698?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/23/91/f6239187-877c-bc17-9f1e-5dec2a36bef5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-02-10",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1316004998",
+      "name": "Da Fit",
+      "developer": "MO YOUNG LIMITED",
+      "url": "https://apps.apple.com/se/app/da-fit/id1316004998?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/f8/0e/b2f80e0e-3f27-25a5-dd50-205124538d1f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2017-11-22",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6775405596",
+      "name": "IKSU",
+      "developer": "IKSU Halsa AB",
+      "url": "https://apps.apple.com/se/app/iksu/id6775405596?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/28/60/4c286008-917a-2ec0-8805-8b60698ac661/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-06-29",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "986271591",
+      "name": "M3softwareFit - Member",
+      "developer": "M3Software",
+      "url": "https://apps.apple.com/se/app/m3softwarefit-member/id986271591?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/e7/2b/14e72b25-1de8-4155-61f0-7ede79159521/M3Software-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2015-06-11",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "6474598021",
+      "name": "Blodtrycksapp Blodtrycksmätare",
+      "developer": "AKRURA PTE. LTD",
+      "url": "https://apps.apple.com/se/app/blodtrycksapp-blodtrycksm%C3%A4tare/id6474598021?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/5c/b3/df5cb336-5b95-cfac-e358-ba0b10392723/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2024-01-05",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Hälsa och motion",
+          "url": "https://apps.apple.com/se/genre/ios-h%C3%A4lsa-och-motion/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 99,
-      "id": "6480119395",
-      "name": "Soundscape: Sömn & Fokus",
-      "developer": "Soundscape",
-      "url": "https://apps.apple.com/se/app/soundscape-s%C3%B6mn-fokus/id6480119395?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/18/4e/8e184eab-f03f-e5b0-7b0b-76d9bb848a1a/SoundscapeIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-08-22",
+      "id": "6504535443",
+      "name": "Befit: Gym Workout Tracker",
+      "developer": "3Apps Solutions",
+      "url": "https://apps.apple.com/se/app/befit-gym-workout-tracker/id6504535443?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/4c/03/2e4c031d-bc8a-c920-cab1-bdaf7881185e/LiquidGlass-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-01-04",
       "genres": [
         {
           "id": "6013",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "301521403",
-      "name": "Nike Training Club",
-      "developer": "Nike, Inc",
-      "url": "https://apps.apple.com/se/app/nike-training-club/id301521403?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9f/77/ab9f77b6-732e-00d6-223b-69f784ef5012/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2009-03-26",
+      "id": "1556384698",
+      "name": "Nutrition Data Kost & Träning",
+      "developer": "Vaia Digital AB",
+      "url": "https://apps.apple.com/se/app/nutrition-data-kost-tr%C3%A4ning/id1556384698?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/12/57/bd12574d-8552-c9a8-30cc-33871d615000/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2021-03-25",
       "genres": [
         {
           "id": "6013",

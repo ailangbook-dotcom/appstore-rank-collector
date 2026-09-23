@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:13:40.941386+09:00",
+  "collected_at": "2026-09-23T21:06:42.854419+09:00",
   "date": "2026-09-23",
   "country": "nz",
   "chart": "top-free",
@@ -41,38 +41,6 @@
     },
     {
       "rank": 3,
-      "id": "6448248393",
-      "name": "NZTA Waka Kotahi",
-      "developer": "NZTA",
-      "url": "https://apps.apple.com/nz/app/nzta-waka-kotahi/id6448248393?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/70/ee/4b70eef5-3bfe-4864-9b27-f2456076c79b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-07-30",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "id": "535886823",
-      "name": "Google Chrome",
-      "developer": "Google",
-      "url": "https://apps.apple.com/nz/app/google-chrome/id535886823?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/f5/a8/78f5a8c8-bdb2-e403-2c67-4e0dc9bfb43c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-06-28",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "id": "6738798827",
       "name": "The AA (NZ)",
       "developer": "The New Zealand Automobile Association Incorporated",
@@ -88,13 +56,45 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "id": "535886823",
+      "name": "Google Chrome",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-chrome/id535886823?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/1f/c9/de1fc9f1-2ce1-2c7c-e89c-8e033feefb6f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-06-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "id": "370880990",
       "name": "My One NZ",
       "developer": "One New Zealand Group Limited",
       "url": "https://apps.apple.com/nz/app/my-one-nz/id370880990?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/37/b7/e237b77a-2d81-36da-17f4-a54c4ce22c40/OneIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
       "release_date": "2010-10-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "6448248393",
+      "name": "NZTA Waka Kotahi",
+      "developer": "NZTA",
+      "url": "https://apps.apple.com/nz/app/nzta-waka-kotahi/id6448248393?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/70/ee/4b70eef5-3bfe-4864-9b27-f2456076c79b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-07-30",
       "genres": [
         {
           "id": "6002",
@@ -125,7 +125,7 @@
       "name": "NZ Post",
       "developer": "New Zealand Post Limited",
       "url": "https://apps.apple.com/nz/app/nz-post/id352814700?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/27/3e/e3273efd-87c3-f7c4-78d6-f9c266a23ce8/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/98/0c/93980cd7-f138-e002-02aa-e315db66be65/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
       "release_date": "2010-01-29",
       "genres": [
         {
@@ -153,22 +153,6 @@
     },
     {
       "rank": 10,
-      "id": "1203636332",
-      "name": "Data Clock",
-      "developer": "2degrees Mobile",
-      "url": "https://apps.apple.com/nz/app/data-clock/id1203636332?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/b8/a8/1bb8a8ef-a439-f11a-6c1b-3fdbe8f8aa1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-02",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 11,
       "id": "6444350335",
       "name": "Mercury App",
       "developer": "Mercury NZ Ltd.",
@@ -184,7 +168,39 @@
       ]
     },
     {
+      "rank": 11,
+      "id": "6800211040",
+      "name": "CarTV - M3U IPTV Player & Cast",
+      "developer": "Lyntra Technology Ltd",
+      "url": "https://apps.apple.com/nz/app/cartv-m3u-iptv-player-cast/id6800211040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/db/ae/0adbae72-9161-59bf-79d6-6bdb7728fe78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 12,
+      "id": "1203636332",
+      "name": "Data Clock",
+      "developer": "2degrees Mobile",
+      "url": "https://apps.apple.com/nz/app/data-clock/id1203636332?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/b8/a8/1bb8a8ef-a439-f11a-6c1b-3fdbe8f8aa1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-02",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
       "id": "1168502924",
       "name": "Sony | Sound Connect",
       "developer": "Sony Corporation",
@@ -200,7 +216,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "6747144284",
       "name": "Powershop Lab NZ",
       "developer": "Powershop",
@@ -216,7 +232,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "1510944943",
       "name": "Cleanup: Clean Storage Space",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
@@ -232,29 +248,13 @@
       ]
     },
     {
-      "rank": 15,
-      "id": "1186159417",
-      "name": "TP-Link Deco",
-      "developer": "TP-Link Systems Inc.",
-      "url": "https://apps.apple.com/nz/app/tp-link-deco/id1186159417?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/c6/92/f0c69235-e2e9-578f-7400-b0b44289ba1a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-11",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 16,
-      "id": "6758564907",
-      "name": "VitalScan: Wellness Mirror",
-      "developer": "CyberNex Networks Limited",
-      "url": "https://apps.apple.com/nz/app/vitalscan-wellness-mirror/id6758564907?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/ea/d6/c8ead6a1-5506-af11-5087-87bcfa57027f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-03",
+      "id": "1198042891",
+      "name": "AT Park",
+      "developer": "Auckland Council",
+      "url": "https://apps.apple.com/nz/app/at-park/id1198042891?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/76/86/90768636-07f4-a579-371a-121e82195171/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-03-05",
       "genres": [
         {
           "id": "6002",
@@ -265,12 +265,12 @@
     },
     {
       "rank": 17,
-      "id": "926099138",
-      "name": "Skinny Mobile",
-      "developer": "Spark New Zealand Trading Limited",
-      "url": "https://apps.apple.com/nz/app/skinny-mobile/id926099138?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/9c/03/d59c03cc-d463-c20a-7d16-6d6165547d52/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2014-10-21",
+      "id": "1085174774",
+      "name": "Contact Energy",
+      "developer": "Contact Energy Ltd",
+      "url": "https://apps.apple.com/nz/app/contact-energy/id1085174774?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/f5/68/9df56864-6a2e-17dc-df81-a0326d1a601a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2016-03-16",
       "genres": [
         {
           "id": "6002",
@@ -281,12 +281,12 @@
     },
     {
       "rank": 18,
-      "id": "1085174774",
-      "name": "Contact Energy",
-      "developer": "Contact Energy Ltd",
-      "url": "https://apps.apple.com/nz/app/contact-energy/id1085174774?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/f5/68/9df56864-6a2e-17dc-df81-a0326d1a601a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2016-03-16",
+      "id": "1186159417",
+      "name": "TP-Link Deco",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/nz/app/tp-link-deco/id1186159417?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/c6/92/f0c69235-e2e9-578f-7400-b0b44289ba1a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-11",
       "genres": [
         {
           "id": "6002",
@@ -313,12 +313,12 @@
     },
     {
       "rank": 20,
-      "id": "1198042891",
-      "name": "AT Park",
-      "developer": "Auckland Council",
-      "url": "https://apps.apple.com/nz/app/at-park/id1198042891?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/76/86/90768636-07f4-a579-371a-121e82195171/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-03-05",
+      "id": "926099138",
+      "name": "Skinny Mobile",
+      "developer": "Spark New Zealand Trading Limited",
+      "url": "https://apps.apple.com/nz/app/skinny-mobile/id926099138?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/9c/03/d59c03cc-d463-c20a-7d16-6d6165547d52/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2014-10-21",
       "genres": [
         {
           "id": "6002",
@@ -329,6 +329,22 @@
     },
     {
       "rank": 21,
+      "id": "6758564907",
+      "name": "VitalScan: Wellness Mirror",
+      "developer": "CyberNex Networks Limited",
+      "url": "https://apps.apple.com/nz/app/vitalscan-wellness-mirror/id6758564907?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/ea/d6/c8ead6a1-5506-af11-5087-87bcfa57027f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
       "id": "1601562987",
       "name": "TP-Link Aginet",
       "developer": "TP-Link Systems Inc.",
@@ -344,29 +360,13 @@
       ]
     },
     {
-      "rank": 22,
-      "id": "1539090879",
-      "name": "TV Remote - Universal Control",
-      "developer": "EVOLLY.APP",
-      "url": "https://apps.apple.com/nz/app/tv-remote-universal-control/id1539090879?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b6/2a/ebb62a10-8f54-3171-e009-8568a6bc1ea5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 23,
-      "id": "599496594",
-      "name": "TP-Link Tether",
-      "developer": "TP-Link Systems Inc.",
-      "url": "https://apps.apple.com/nz/app/tp-link-tether/id599496594?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ae/c7/47aec7ae-7c0d-f12d-e0cb-7d96ef966d88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-05-16",
+      "id": "1516235668",
+      "name": "Brother Mobile Connect",
+      "developer": "Brother Industries, LTD.",
+      "url": "https://apps.apple.com/nz/app/brother-mobile-connect/id1516235668?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2f/1d/8a2f1dc2-0eb7-3ae3-9d9d-44b1370069d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-31",
       "genres": [
         {
           "id": "6002",
@@ -393,86 +393,6 @@
     },
     {
       "rank": 25,
-      "id": "1516235668",
-      "name": "Brother Mobile Connect",
-      "developer": "Brother Industries, LTD.",
-      "url": "https://apps.apple.com/nz/app/brother-mobile-connect/id1516235668?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2f/1d/8a2f1dc2-0eb7-3ae3-9d9d-44b1370069d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-31",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "671350293",
-      "name": "Powershop NZ",
-      "developer": "Powershop",
-      "url": "https://apps.apple.com/nz/app/powershop-nz/id671350293?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/35/57/24355771-d091-1ca3-9cb0-e4f6f34b5d9c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-08-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "1437005085",
-      "name": "Proton VPN: Fast & Secure",
-      "developer": "Proton AG",
-      "url": "https://apps.apple.com/nz/app/proton-vpn-fast-secure/id1437005085?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f2/63/abf26323-cb7a-5977-fad6-a6434bf904df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-11-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "id": "6444912481",
-      "name": "UK ETA",
-      "developer": "Home Office",
-      "url": "https://apps.apple.com/nz/app/uk-eta/id6444912481?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f1/79/dff179a7-c0c3-7e49-b9e0-65c87a6fd9f8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-10-23",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "id": "1439422220",
-      "name": "TV Remote",
-      "developer": "KRAFTWERK 9 LTD",
-      "url": "https://apps.apple.com/nz/app/tv-remote/id1439422220?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/12/95/5d129529-c8e8-c0a4-c6ae-ca4bad71b4d3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-08",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
       "id": "6745645076",
       "name": "Meridian Energy NZ",
       "developer": "Meridian Energy",
@@ -488,13 +408,13 @@
       ]
     },
     {
-      "rank": 31,
-      "id": "938033081",
-      "name": "myGov",
-      "developer": "Services Australia",
-      "url": "https://apps.apple.com/nz/app/mygov/id938033081?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/aa/5f/91aa5f27-8e15-7309-3f27-52b9f7d393a9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-06",
+      "rank": 26,
+      "id": "599496594",
+      "name": "TP-Link Tether",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/nz/app/tp-link-tether/id599496594?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ae/c7/47aec7ae-7c0d-f12d-e0cb-7d96ef966d88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-05-16",
       "genres": [
         {
           "id": "6002",
@@ -504,7 +424,7 @@
       ]
     },
     {
-      "rank": 32,
+      "rank": 27,
       "id": "1317652970",
       "name": "Connect IQ™ Store",
       "developer": "Garmin",
@@ -520,13 +440,13 @@
       ]
     },
     {
-      "rank": 33,
-      "id": "1443698968",
-      "name": "Grid Connect",
-      "developer": "Arlec Australia Pty Ltd",
-      "url": "https://apps.apple.com/nz/app/grid-connect/id1443698968?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/05/45/390545bd-fdab-9745-13cb-5e0ef77bee80/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-21",
+      "rank": 28,
+      "id": "1539090879",
+      "name": "TV Remote - Universal Control",
+      "developer": "EVOLLY.APP",
+      "url": "https://apps.apple.com/nz/app/tv-remote-universal-control/id1539090879?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b6/2a/ebb62a10-8f54-3171-e009-8568a6bc1ea5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-19",
       "genres": [
         {
           "id": "6002",
@@ -536,13 +456,13 @@
       ]
     },
     {
-      "rank": 34,
-      "id": "6780915191",
-      "name": "Screen Mirroring & CastConnect",
-      "developer": "Janki Panchani",
-      "url": "https://apps.apple.com/nz/app/screen-mirroring-castconnect/id6780915191?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b2/fe/dcb2fe77-c89f-97aa-e3bc-3283c3d867e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-20",
+      "rank": 29,
+      "id": "938033081",
+      "name": "myGov",
+      "developer": "Services Australia",
+      "url": "https://apps.apple.com/nz/app/mygov/id938033081?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/aa/5f/91aa5f27-8e15-7309-3f27-52b9f7d393a9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-06",
       "genres": [
         {
           "id": "6002",
@@ -552,7 +472,7 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 30,
       "id": "1537177988",
       "name": "Starlink",
       "developer": "SpaceX",
@@ -568,13 +488,13 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "1411869974",
-      "name": "Opera Browser with VPN",
-      "developer": "Opera Norway AS",
-      "url": "https://apps.apple.com/nz/app/opera-browser-with-vpn/id1411869974?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/40/47/e84047c3-6196-ece8-23b9-72a7483946ef/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-01",
+      "rank": 31,
+      "id": "6444912481",
+      "name": "UK ETA",
+      "developer": "Home Office",
+      "url": "https://apps.apple.com/nz/app/uk-eta/id6444912481?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f1/79/dff179a7-c0c3-7e49-b9e0-65c87a6fd9f8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-10-23",
       "genres": [
         {
           "id": "6002",
@@ -584,13 +504,13 @@
       ]
     },
     {
-      "rank": 37,
-      "id": "1052879175",
-      "name": "Brave AI Web Browser & Search",
-      "developer": "Brave Software",
-      "url": "https://apps.apple.com/nz/app/brave-ai-web-browser-search/id1052879175?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/01/d1/a001d104-a525-41a3-3ef6-12e14dd78a3c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-02-19",
+      "rank": 32,
+      "id": "1437005085",
+      "name": "Proton VPN: Fast & Secure",
+      "developer": "Proton AG",
+      "url": "https://apps.apple.com/nz/app/proton-vpn-fast-secure/id1437005085?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f2/63/abf26323-cb7a-5977-fad6-a6434bf904df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-11-12",
       "genres": [
         {
           "id": "6002",
@@ -600,135 +520,7 @@
       ]
     },
     {
-      "rank": 38,
-      "id": "6471257645",
-      "name": "Screen Mirroring App: Smart TV",
-      "developer": "Desidari Holding Ltd.",
-      "url": "https://apps.apple.com/nz/app/screen-mirroring-app-smart-tv/id6471257645?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/2a/3e/402a3eb7-b4ea-4bc4-6efa-1131c9e5b1d5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-11-23",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "6792095420",
-      "name": "Chromecast TV Cast & Mirror",
-      "developer": "Ozuna Limited",
-      "url": "https://apps.apple.com/nz/app/chromecast-tv-cast-mirror/id6792095420?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/64/b7/d064b7ec-4b18-9959-7a28-e74bdd5ca72c/Icon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-06",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "424094430",
-      "name": "AED Locations",
-      "developer": "Able Technology Limited",
-      "url": "https://apps.apple.com/nz/app/aed-locations/id424094430?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/df/86/24df861d-3b5e-d8a5-5872-9499862038e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2011-03-11",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "6480077263",
-      "name": "Epic Games",
-      "developer": "Epic Games Inc.",
-      "url": "https://apps.apple.com/nz/app/epic-games/id6480077263?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/f7/2b/c1f72ba6-c578-e57f-f474-a29149ba3399/AppIcon-Companion-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-18",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "6477382010",
-      "name": "Universal TV Remote Control＊",
-      "developer": "VISARGERD, S.L.",
-      "url": "https://apps.apple.com/nz/app/universal-tv-remote-control/id6477382010?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/c8/51/88c85165-723a-4c5b-e05e-9c4866bb7b25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-11-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "6751522311",
-      "name": "Govt.nz – NZ Government",
-      "developer": "New Zealand Government",
-      "url": "https://apps.apple.com/nz/app/govt-nz-nz-government/id6751522311?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/1d/00/b51d00cf-eaac-8b13-aaf6-2e4252d68a4b/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-12-09",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "1571429529",
-      "name": "Samsung Smart Switch Mobile",
-      "developer": "Samsung Electronics Co., Ltd.",
-      "url": "https://apps.apple.com/nz/app/samsung-smart-switch-mobile/id1571429529?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/32/3b/7c323b30-eefb-e2ac-7d93-1b5807f4d01d/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-06-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "1182184397",
-      "name": "NETGEAR Orbi - WiFi System App",
-      "developer": "NETGEAR",
-      "url": "https://apps.apple.com/nz/app/netgear-orbi-wifi-system-app/id1182184397?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/f4/ea/3bf4ea3f-8127-0653-f4f6-26d986c62372/AppIconOrbi-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-12-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
+      "rank": 33,
       "id": "1379995791",
       "name": "Kiwi Central",
       "developer": "Electric Kiwi Ltd",
@@ -744,13 +536,13 @@
       ]
     },
     {
-      "rank": 47,
-      "id": "1523826729",
-      "name": "TV Cast for Chromecast !",
-      "developer": "EVOLLY.APP",
-      "url": "https://apps.apple.com/nz/app/tv-cast-for-chromecast/id1523826729?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/83/9b/ce839b68-ad41-2220-3b59-275b973f4685/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-08-17",
+      "rank": 34,
+      "id": "1052879175",
+      "name": "Brave AI Web Browser & Search",
+      "developer": "Brave Software",
+      "url": "https://apps.apple.com/nz/app/brave-ai-web-browser-search/id1052879175?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/01/d1/a001d104-a525-41a3-3ef6-12e14dd78a3c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-02-19",
       "genres": [
         {
           "id": "6002",
@@ -760,7 +552,7 @@
       ]
     },
     {
-      "rank": 48,
+      "rank": 35,
       "id": "977890881",
       "name": "Parkable",
       "developer": "Translate Digital Limited",
@@ -776,13 +568,13 @@
       ]
     },
     {
-      "rank": 49,
-      "id": "6448163027",
-      "name": "Love8 - App for Couples",
-      "developer": "Chongqing Daole Er Technology Co., Ltd",
-      "url": "https://apps.apple.com/nz/app/love8-app-for-couples/id6448163027?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ba/66/a3ba66bf-0ea9-41e6-8175-96067e91cbfe/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-05-08",
+      "rank": 36,
+      "id": "424094430",
+      "name": "AED Locations",
+      "developer": "Able Technology Limited",
+      "url": "https://apps.apple.com/nz/app/aed-locations/id424094430?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/df/86/24df861d-3b5e-d8a5-5872-9499862038e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-03-11",
       "genres": [
         {
           "id": "6002",
@@ -792,263 +584,7 @@
       ]
     },
     {
-      "rank": 50,
-      "id": "1150085200",
-      "name": "Google Family Link",
-      "developer": "Google",
-      "url": "https://apps.apple.com/nz/app/google-family-link/id1150085200?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/03/95/d9039544-5477-3907-da14-74196066c62b/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2017-10-18",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "503716230",
-      "name": "My Optus",
-      "developer": "Optus Mobile",
-      "url": "https://apps.apple.com/nz/app/my-optus/id503716230?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/fa/27/37fa27a5-90bf-cafe-4ff0-de8fab8bb16d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-03-05",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "6740986424",
-      "name": "Rockgas",
-      "developer": "Rockgas Limited",
-      "url": "https://apps.apple.com/nz/app/rockgas/id6740986424?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/26/cd/2226cdc7-86c2-7027-e890-e1b7ca1920a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-09-01",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1433852322",
-      "name": "Mirabella Genio",
-      "developer": "John Hoang",
-      "url": "https://apps.apple.com/nz/app/mirabella-genio/id1433852322?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/9c/dc/529cdc80-00bf-051c-9fef-29a56e8f90dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-08-24",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "1403367428",
-      "name": "Countdown App",
-      "developer": "Find Appiness LLC",
-      "url": "https://apps.apple.com/nz/app/countdown-app/id1403367428?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/07/49/72074986-582a-e5c8-90d0-fe91fb20d8da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "543829966",
-      "name": "My Telstra",
-      "developer": "Telstra Corporation Ltd",
-      "url": "https://apps.apple.com/nz/app/my-telstra/id543829966?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/ba/39/87ba3906-47ea-2bea-8c81-cae72afd327d/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-07-25",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "1034649547",
-      "name": "Tuya: Smart Life, Smart Living",
-      "developer": "Tuya Smart Inc.",
-      "url": "https://apps.apple.com/nz/app/tuya-smart-life-smart-living/id1034649547?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/ba/ab/96baabf0-8df2-7962-287c-a8540941d545/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-11-06",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "989804926",
-      "name": "Firefox Fast & Private Browser",
-      "developer": "Mozilla",
-      "url": "https://apps.apple.com/nz/app/firefox-fast-private-browser/id989804926?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/78/6f/ca786fee-a215-32fb-a580-4d4ccbb93e83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-09-03",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "1625671285",
-      "name": "Bambu Handy",
-      "developer": "上海轮廓科技有限公司",
-      "url": "https://apps.apple.com/nz/app/bambu-handy/id1625671285?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/35/0b/a6350b4c-a750-8101-1bb9-31e225bde96f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-07-14",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "6776652843",
-      "name": "JBL Headphones & Portable",
-      "developer": "DV SISTEMI d.o.o.",
-      "url": "https://apps.apple.com/nz/app/jbl-headphones-portable/id6776652843?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/56/fd/4456fd81-d947-a4d9-5fbd-becdb132afc4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-07-20",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "6746845735",
-      "name": "Pocket - AI Personal Assistant",
-      "developer": "Open Vision Engineering, Inc",
-      "url": "https://apps.apple.com/nz/app/pocket-ai-personal-assistant/id6746845735?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/d2/b5/e3d2b59c-2828-d9a9-88fc-f915877f026e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-08-15",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "473879501",
-      "name": "My Vodafone Australia",
-      "developer": "Vodafone Hutchison Australia",
-      "url": "https://apps.apple.com/nz/app/my-vodafone-australia/id473879501?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/ce/ab/bfceab4e-b1b1-cd22-cd45-f0691bad783c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-06-23",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "6504182653",
-      "name": "UniRemote: Universal TV Remote",
-      "developer": "Kanatom Limited",
-      "url": "https://apps.apple.com/nz/app/uniremote-universal-tv-remote/id6504182653?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/11/13/d7111380-23b1-d5a4-84f1-179f725932f1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-08-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "6754900760",
-      "name": "Authenticator App - 2FA MFA",
-      "developer": "BEGAMOB GLOBAL LIMITED",
-      "url": "https://apps.apple.com/nz/app/authenticator-app-2fa-mfa/id6754900760?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c1/ed/ddc1edde-6453-0a23-e087-fd72bf5c5c60/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-11-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "6466572513",
-      "name": "Rocket Mobile NZ",
-      "developer": "MyRepublic Ltd",
-      "url": "https://apps.apple.com/nz/app/rocket-mobile-nz/id6466572513?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/07/63/0d0763dc-59e5-3ebb-fd30-a70e3d86f6b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2023-11-22",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "6748551704",
-      "name": "Screen Mirroring + Cast To TV",
-      "developer": "CoreBit Solutions",
-      "url": "https://apps.apple.com/nz/app/screen-mirroring-cast-to-tv/id6748551704?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/56/ad/3756adfc-e17f-be60-3617-4d85b5950900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
+      "rank": 37,
       "id": "6446836171",
       "name": "mySigen",
       "developer": "Sigenergy Technology Co., Ltd.",
@@ -1064,7 +600,199 @@
       ]
     },
     {
-      "rank": 67,
+      "rank": 38,
+      "id": "671350293",
+      "name": "Powershop NZ",
+      "developer": "Powershop",
+      "url": "https://apps.apple.com/nz/app/powershop-nz/id671350293?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/35/57/24355771-d091-1ca3-9cb0-e4f6f34b5d9c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-08-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "1439422220",
+      "name": "TV Remote",
+      "developer": "KRAFTWERK 9 LTD",
+      "url": "https://apps.apple.com/nz/app/tv-remote/id1439422220?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/12/95/5d129529-c8e8-c0a4-c6ae-ca4bad71b4d3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "6471257645",
+      "name": "Screen Mirroring App: Smart TV",
+      "developer": "Desidari Holding Ltd.",
+      "url": "https://apps.apple.com/nz/app/screen-mirroring-app-smart-tv/id6471257645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/2a/3e/402a3eb7-b4ea-4bc4-6efa-1131c9e5b1d5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "503716230",
+      "name": "My Optus",
+      "developer": "Optus Mobile",
+      "url": "https://apps.apple.com/nz/app/my-optus/id503716230?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/fa/27/37fa27a5-90bf-cafe-4ff0-de8fab8bb16d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-03-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "1411869974",
+      "name": "Opera Browser with VPN",
+      "developer": "Opera Norway AS",
+      "url": "https://apps.apple.com/nz/app/opera-browser-with-vpn/id1411869974?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/40/47/e84047c3-6196-ece8-23b9-72a7483946ef/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "6780915191",
+      "name": "Screen Mirroring & CastConnect",
+      "developer": "Janki Panchani",
+      "url": "https://apps.apple.com/nz/app/screen-mirroring-castconnect/id6780915191?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b2/fe/dcb2fe77-c89f-97aa-e3bc-3283c3d867e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "6792095420",
+      "name": "Chromecast TV Cast & Mirror",
+      "developer": "Ozuna Limited",
+      "url": "https://apps.apple.com/nz/app/chromecast-tv-cast-mirror/id6792095420?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/64/b7/d064b7ec-4b18-9959-7a28-e74bdd5ca72c/Icon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "6480077263",
+      "name": "Epic Games",
+      "developer": "Epic Games Inc.",
+      "url": "https://apps.apple.com/nz/app/epic-games/id6480077263?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/f7/2b/c1f72ba6-c578-e57f-f474-a29149ba3399/AppIcon-Companion-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1182184397",
+      "name": "NETGEAR Orbi - WiFi System App",
+      "developer": "NETGEAR",
+      "url": "https://apps.apple.com/nz/app/netgear-orbi-wifi-system-app/id1182184397?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/f4/ea/3bf4ea3f-8127-0653-f4f6-26d986c62372/AppIconOrbi-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-12-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "1403367428",
+      "name": "Countdown App",
+      "developer": "Find Appiness LLC",
+      "url": "https://apps.apple.com/nz/app/countdown-app/id1403367428?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/07/49/72074986-582a-e5c8-90d0-fe91fb20d8da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1571429529",
+      "name": "Samsung Smart Switch Mobile",
+      "developer": "Samsung Electronics Co., Ltd.",
+      "url": "https://apps.apple.com/nz/app/samsung-smart-switch-mobile/id1571429529?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/32/3b/7c323b30-eefb-e2ac-7d93-1b5807f4d01d/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "6740986424",
+      "name": "Rockgas",
+      "developer": "Rockgas Limited",
+      "url": "https://apps.apple.com/nz/app/rockgas/id6740986424?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/26/cd/2226cdc7-86c2-7027-e890-e1b7ca1920a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
       "id": "6741199545",
       "name": "Blood Pressure Monitor: Health",
       "developer": "lighten",
@@ -1080,311 +808,7 @@
       ]
     },
     {
-      "rank": 68,
-      "id": "448142450",
-      "name": "Truecaller: Caller ID & Block",
-      "developer": "True Software Scandinavia AB",
-      "url": "https://apps.apple.com/nz/app/truecaller-caller-id-block/id448142450?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/39/cb/a739cbee-acbb-1f19-e86b-0a67e07fb457/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2011-07-11",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "663592361",
-      "name": "DuckDuckGo, optional Duck.ai",
-      "developer": "DuckDuckGo, Inc.",
-      "url": "https://apps.apple.com/nz/app/duckduckgo-optional-duck-ai/id663592361?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/56/f4/7e56f463-48c1-6af8-4fd1-60ea92d030c3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2013-06-27",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "6680185053",
-      "name": "QR scanner * Barcode scanner",
-      "developer": "Tech Nest",
-      "url": "https://apps.apple.com/nz/app/qr-scanner-barcode-scanner/id6680185053?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/cc/8d/95cc8da4-67e8-1b38-3b08-dbcb3d4cd6f1/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-10-01",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1564419343",
-      "name": "Dreamehome",
-      "developer": "Dreame Innovation Technology (Suzhou) Co., Ltd.",
-      "url": "https://apps.apple.com/nz/app/dreamehome/id1564419343?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/0b/49/1c0b49bb-0448-82bd-1014-91d2d21c4646/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-10-21",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "1602061522",
-      "name": "Authenticator ·",
-      "developer": "SMM service, s.r.o.",
-      "url": "https://apps.apple.com/nz/app/authenticator/id1602061522?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/c2/60/86c260fa-5cd4-4dcb-1731-8652894fe2b7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2022-02-17",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "300704847",
-      "name": "Speedtest Internet & WiFi Test",
-      "developer": "Ookla",
-      "url": "https://apps.apple.com/nz/app/speedtest-internet-wifi-test/id300704847?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/6f/65/756f65aa-ba4d-f3c9-23a2-fcdf0291dbd1/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2009-01-03",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "6749626621",
-      "name": "Fake GPS & Location Changer",
-      "developer": "Irina Zhukova",
-      "url": "https://apps.apple.com/nz/app/fake-gps-location-changer/id6749626621?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/70/b2/4770b216-6cc5-1d67-7f12-30c5bf169cbd/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2025-08-14",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "853487949",
-      "name": "SignOnSite",
-      "developer": "SignOnSite",
-      "url": "https://apps.apple.com/nz/app/signonsite/id853487949?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/25/4c/52254c06-1b53-9246-faa6-147b366c3cac/AppIcon-release-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-04-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "1583884012",
-      "name": "Swipewipe: Photo Storage",
-      "developer": "MWM",
-      "url": "https://apps.apple.com/nz/app/swipewipe-photo-storage/id1583884012?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/86/bc/3d86bc15-3882-c6a3-1535-dd112248fe40/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-03-05",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "1492400299",
-      "name": "BYD AUTO",
-      "developer": "BYD Auto Industry Company Limited",
-      "url": "https://apps.apple.com/nz/app/byd-auto/id1492400299?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/f9/87/26f987c8-88ee-be71-35ec-eabe8458b903/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2022-11-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "377854149",
-      "name": "Snap Send Solve",
-      "developer": "Snap Send Solve Pty Ltd",
-      "url": "https://apps.apple.com/nz/app/snap-send-solve/id377854149?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/55/03/2b5503ac-925e-1845-43ec-9ffe17309e15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2010-07-30",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "6786565891",
-      "name": "Locato: Family GPS Locator",
-      "developer": "Servaym Limited",
-      "url": "https://apps.apple.com/nz/app/locato-family-gps-locator/id6786565891?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ad/5b/fbad5b8d-b96e-952e-911e-d874b48709ed/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "1119032181",
-      "name": "Antenno",
-      "developer": "Datacom Solutions Limited",
-      "url": "https://apps.apple.com/nz/app/antenno/id1119032181?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/9b/2b/8e9b2b82-2ced-77a1-7159-e3c3caaa232c/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2016-11-22",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "1501689728",
-      "name": "Player GR Music Streamer iPlay",
-      "developer": "Minh Duong Nguyen",
-      "url": "https://apps.apple.com/nz/app/player-gr-music-streamer-iplay/id1501689728?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/04/b2/9f/04b29f52-5ffc-0de6-c666-7028f314fc37/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2020-03-06",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "1468092377",
-      "name": "Hours Tracker: Time Calculator",
-      "developer": "Appostrophe AB",
-      "url": "https://apps.apple.com/nz/app/hours-tracker-time-calculator/id1468092377?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/64/3d/73643d7a-9dea-18e2-d98c-319c2edcb973/AppIcon-1-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2019-06-20",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "1575330471",
-      "name": "Free VPN - Fast & Secure Proxy",
-      "developer": "Free VPN LTD (Apps)",
-      "url": "https://apps.apple.com/nz/app/free-vpn-fast-secure-proxy/id1575330471?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/3f/e2/983fe2c2-dfec-5172-c205-eec4f8316fdf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-07-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "6785424413",
-      "name": "Authenticator App Vault+",
-      "developer": "NEUXMIND (HK) LIMITED",
-      "url": "https://apps.apple.com/nz/app/authenticator-app-vault/id6785424413?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/fb/76/89fb7633-4787-b734-14f6-43275ad9003f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "1470499037",
-      "name": "Tailscale",
-      "developer": "Tailscale Inc.",
-      "url": "https://apps.apple.com/nz/app/tailscale/id1470499037?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/55/91/89559131-ac8a-ec9c-a989-f3ed188b3f5a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-07",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
-      "id": "1013961111",
-      "name": "Blink Home Monitor",
-      "developer": "Immedia Semiconductor",
-      "url": "https://apps.apple.com/nz/app/blink-home-monitor/id1013961111?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/65/e9/8a65e9b7-aed3-3944-bc84-29db6205e6b4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-06-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
+      "rank": 51,
       "id": "879997168",
       "name": "PayStay",
       "developer": "Orikan Group Pty Ltd",
@@ -1400,13 +824,13 @@
       ]
     },
     {
-      "rank": 88,
-      "id": "1252962749",
-      "name": "NFC Tools",
-      "developer": "wakdev",
-      "url": "https://apps.apple.com/nz/app/nfc-tools/id1252962749?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/d6/e5/d2d6e50c-a171-32fb-79aa-6f979e68da4e/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-19",
+      "rank": 52,
+      "id": "1602061522",
+      "name": "Authenticator ·",
+      "developer": "SMM service, s.r.o.",
+      "url": "https://apps.apple.com/nz/app/authenticator/id1602061522?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/c2/60/86c260fa-5cd4-4dcb-1731-8652894fe2b7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2022-02-17",
       "genres": [
         {
           "id": "6002",
@@ -1416,13 +840,13 @@
       ]
     },
     {
-      "rank": 89,
-      "id": "6764276890",
-      "name": "Scan QRCode: QR & Barcode",
-      "developer": "Fuzhou Xuanlong Technology Co., Ltd.",
-      "url": "https://apps.apple.com/nz/app/scan-qrcode-qr-barcode/id6764276890?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/0c/1e/bc0c1e8f-c9b1-c62f-8d68-5d04a5a98b41/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-04-30",
+      "rank": 53,
+      "id": "1443698968",
+      "name": "Grid Connect",
+      "developer": "Arlec Australia Pty Ltd",
+      "url": "https://apps.apple.com/nz/app/grid-connect/id1443698968?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/05/45/390545bd-fdab-9745-13cb-5e0ef77bee80/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-21",
       "genres": [
         {
           "id": "6002",
@@ -1432,13 +856,77 @@
       ]
     },
     {
-      "rank": 90,
-      "id": "1494564197",
-      "name": "Screen Mirroring - TV Cast Air",
+      "rank": 54,
+      "id": "989804926",
+      "name": "Firefox Fast & Private Browser",
+      "developer": "Mozilla",
+      "url": "https://apps.apple.com/nz/app/firefox-fast-private-browser/id989804926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/78/6f/ca786fee-a215-32fb-a580-4d4ccbb93e83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-09-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6477382010",
+      "name": "Universal TV Remote Control＊",
+      "developer": "VISARGERD, S.L.",
+      "url": "https://apps.apple.com/nz/app/universal-tv-remote-control/id6477382010?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/c8/51/88c85165-723a-4c5b-e05e-9c4866bb7b25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "6751522311",
+      "name": "Govt.nz – NZ Government",
+      "developer": "New Zealand Government",
+      "url": "https://apps.apple.com/nz/app/govt-nz-nz-government/id6751522311?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/1d/00/b51d00cf-eaac-8b13-aaf6-2e4252d68a4b/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-12-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "6680185053",
+      "name": "QR scanner * Barcode scanner",
+      "developer": "Tech Nest",
+      "url": "https://apps.apple.com/nz/app/qr-scanner-barcode-scanner/id6680185053?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/cc/8d/95cc8da4-67e8-1b38-3b08-dbcb3d4cd6f1/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-10-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1523826729",
+      "name": "TV Cast for Chromecast !",
       "developer": "EVOLLY.APP",
-      "url": "https://apps.apple.com/nz/app/screen-mirroring-tv-cast-air/id1494564197?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/da/8f/23da8f2b-00af-1b4b-90bc-8aef7a7f4258/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-02-05",
+      "url": "https://apps.apple.com/nz/app/tv-cast-for-chromecast/id1523826729?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/83/9b/ce839b68-ad41-2220-3b59-275b973f4685/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-08-17",
       "genres": [
         {
           "id": "6002",
@@ -1448,13 +936,13 @@
       ]
     },
     {
-      "rank": 91,
-      "id": "479119656",
-      "name": "amaysim",
-      "developer": "amaysim Mobile Pty Ltd",
-      "url": "https://apps.apple.com/nz/app/amaysim/id479119656?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/c5/fb/fbc5fbb1-99b9-044d-498d-80da8685a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2011-12-06",
+      "rank": 59,
+      "id": "1433852322",
+      "name": "Mirabella Genio",
+      "developer": "John Hoang",
+      "url": "https://apps.apple.com/nz/app/mirabella-genio/id1433852322?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/9c/dc/529cdc80-00bf-051c-9fef-29a56e8f90dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-08-24",
       "genres": [
         {
           "id": "6002",
@@ -1464,13 +952,13 @@
       ]
     },
     {
-      "rank": 92,
-      "id": "6474010687",
-      "name": "Remote for Samsung TV Smart",
-      "developer": "Controlla TV LTD.",
-      "url": "https://apps.apple.com/nz/app/remote-for-samsung-tv-smart/id6474010687?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/b9/56/8fb956b5-5bf6-8010-faa5-f5ad0453e864/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-02-06",
+      "rank": 60,
+      "id": "1034649547",
+      "name": "Tuya: Smart Life, Smart Living",
+      "developer": "Tuya Smart Inc.",
+      "url": "https://apps.apple.com/nz/app/tuya-smart-life-smart-living/id1034649547?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/ba/ab/96baabf0-8df2-7962-287c-a8540941d545/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-06",
       "genres": [
         {
           "id": "6002",
@@ -1480,13 +968,13 @@
       ]
     },
     {
-      "rank": 93,
-      "id": "6450103220",
-      "name": "Contact Mobile NZ",
-      "developer": "Contact Energy Ltd",
-      "url": "https://apps.apple.com/nz/app/contact-mobile-nz/id6450103220?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/fa/5b/c6fa5be8-d888-c1f5-987b-033ed85b5809/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2023-07-04",
+      "rank": 61,
+      "id": "1564419343",
+      "name": "Dreamehome",
+      "developer": "Dreame Innovation Technology (Suzhou) Co., Ltd.",
+      "url": "https://apps.apple.com/nz/app/dreamehome/id1564419343?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/ff/b8/bbffb8f2-4c45-6fb1-d27b-a1c08c854a2f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-10-21",
       "genres": [
         {
           "id": "6002",
@@ -1496,7 +984,263 @@
       ]
     },
     {
-      "rank": 94,
+      "rank": 62,
+      "id": "6448163027",
+      "name": "Love8 - App for Couples",
+      "developer": "Chongqing Daole Er Technology Co., Ltd",
+      "url": "https://apps.apple.com/nz/app/love8-app-for-couples/id6448163027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ba/66/a3ba66bf-0ea9-41e6-8175-96067e91cbfe/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-05-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "1150085200",
+      "name": "Google Family Link",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-family-link/id1150085200?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/03/95/d9039544-5477-3907-da14-74196066c62b/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-10-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "904805306",
+      "name": "Parki",
+      "developer": "Parki Phone Payment Systems",
+      "url": "https://apps.apple.com/nz/app/parki/id904805306?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/6f/42/496f42b5-01f4-ebac-c2b2-e218c02e31a2/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+      "release_date": "2015-07-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6754900760",
+      "name": "Authenticator App - 2FA MFA",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/nz/app/authenticator-app-2fa-mfa/id6754900760?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/f0/e6/ccf0e664-50d0-263b-585b-9894be2cae50/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6748551704",
+      "name": "Screen Mirroring + Cast To TV",
+      "developer": "CoreBit Solutions",
+      "url": "https://apps.apple.com/nz/app/screen-mirroring-cast-to-tv/id6748551704?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/56/ad/3756adfc-e17f-be60-3617-4d85b5950900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6759697123",
+      "name": "SmartClean AI: Storage Cleaner",
+      "developer": "AMOBEAR GROUP",
+      "url": "https://apps.apple.com/nz/app/smartclean-ai-storage-cleaner/id6759697123?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/06/ee/af06ee03-c9fb-1310-fb9e-47b62922d98c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "724596345",
+      "name": "McAfee: Stay Secure & Private",
+      "developer": "McAfee, LLC.",
+      "url": "https://apps.apple.com/nz/app/mcafee-stay-secure-private/id724596345?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/19/67/f01967ba-5eb5-ed93-97ee-a7421a37ff05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-01-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "448142450",
+      "name": "Truecaller: Caller ID & Block",
+      "developer": "True Software Scandinavia AB",
+      "url": "https://apps.apple.com/nz/app/truecaller-caller-id-block/id448142450?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/39/cb/a739cbee-acbb-1f19-e86b-0a67e07fb457/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2011-07-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "6776652843",
+      "name": "JBL Headphones & Portable",
+      "developer": "DV SISTEMI d.o.o.",
+      "url": "https://apps.apple.com/nz/app/jbl-headphones-portable/id6776652843?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/56/fd/4456fd81-d947-a4d9-5fbd-becdb132afc4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-07-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "853487949",
+      "name": "SignOnSite",
+      "developer": "SignOnSite",
+      "url": "https://apps.apple.com/nz/app/signonsite/id853487949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/25/4c/52254c06-1b53-9246-faa6-147b366c3cac/AppIcon-release-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-04-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6746845735",
+      "name": "Pocket - AI Personal Assistant",
+      "developer": "Open Vision Engineering, Inc",
+      "url": "https://apps.apple.com/nz/app/pocket-ai-personal-assistant/id6746845735?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/d2/b5/e3d2b59c-2828-d9a9-88fc-f915877f026e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-15",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "543829966",
+      "name": "My Telstra",
+      "developer": "Telstra Corporation Ltd",
+      "url": "https://apps.apple.com/nz/app/my-telstra/id543829966?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/ba/39/87ba3906-47ea-2bea-8c81-cae72afd327d/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-07-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1467607116",
+      "name": "KiwiPark",
+      "developer": "KIWI PARKING 2018 LIMITED",
+      "url": "https://apps.apple.com/nz/app/kiwipark/id1467607116?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/57/3d/35573dab-b12c-7772-3f06-73ef05b10131/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-09-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1119032181",
+      "name": "Antenno",
+      "developer": "Datacom Solutions Limited",
+      "url": "https://apps.apple.com/nz/app/antenno/id1119032181?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/9b/2b/8e9b2b82-2ced-77a1-7159-e3c3caaa232c/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2016-11-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1394930704",
+      "name": "Kogan Smarter Home",
+      "developer": "KOGAN.COM PTY LTD",
+      "url": "https://apps.apple.com/nz/app/kogan-smarter-home/id1394930704?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/49/53/57495333-f19c-0e22-55f8-10d4ebbf9faa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-07-26",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6478774005",
+      "name": "Monitoring Pro",
+      "developer": "New Zealand Computing Solutions",
+      "url": "https://apps.apple.com/nz/app/monitoring-pro/id6478774005?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/1c/d6/4c1cd656-2671-8e49-c676-983279518925/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
       "id": "1480383173",
       "name": "Fonts Art: Keyboard for iPhone",
       "developer": "AIBY",
@@ -1512,7 +1256,87 @@
       ]
     },
     {
-      "rank": 95,
+      "rank": 79,
+      "id": "6450103220",
+      "name": "Contact Mobile NZ",
+      "developer": "Contact Energy Ltd",
+      "url": "https://apps.apple.com/nz/app/contact-mobile-nz/id6450103220?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/fa/5b/c6fa5be8-d888-c1f5-987b-033ed85b5809/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2023-07-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "6474010687",
+      "name": "Remote for Samsung TV Smart",
+      "developer": "Controlla TV LTD.",
+      "url": "https://apps.apple.com/nz/app/remote-for-samsung-tv-smart/id6474010687?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/b9/56/8fb956b5-5bf6-8010-faa5-f5ad0453e864/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-02-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6466572513",
+      "name": "Rocket Mobile NZ",
+      "developer": "MyRepublic Ltd",
+      "url": "https://apps.apple.com/nz/app/rocket-mobile-nz/id6466572513?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/07/63/0d0763dc-59e5-3ebb-fd30-a70e3d86f6b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1252962749",
+      "name": "NFC Tools",
+      "developer": "wakdev",
+      "url": "https://apps.apple.com/nz/app/nfc-tools/id1252962749?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/d6/e5/d2d6e50c-a171-32fb-79aa-6f979e68da4e/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1583884012",
+      "name": "Swipewipe: Photo Storage",
+      "developer": "MWM",
+      "url": "https://apps.apple.com/nz/app/swipewipe-photo-storage/id1583884012?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/4f/a7/6a4fa7a2-4046-27e6-df6b-35315ebe3bec/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-03-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
       "id": "1670570711",
       "name": "Yale Home",
       "developer": "Assa Abloy Ltd",
@@ -1528,13 +1352,13 @@
       ]
     },
     {
-      "rank": 96,
-      "id": "1661733229",
-      "name": "LocalSend",
-      "developer": "Tien Do Nam",
-      "url": "https://apps.apple.com/nz/app/localsend/id1661733229?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/88/39/ef88398c-00e7-8733-37bb-4aacb1f9043d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-30",
+      "rank": 85,
+      "id": "1476665061",
+      "name": "Kogan Mobile New Zealand",
+      "developer": "KOGAN.COM PTY LTD",
+      "url": "https://apps.apple.com/nz/app/kogan-mobile-new-zealand/id1476665061?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/97/8a/d4978aa4-2e9d-72a9-78bb-11e582bdfcde/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/100x100bb.png",
+      "release_date": "2019-09-02",
       "genres": [
         {
           "id": "6002",
@@ -1544,7 +1368,7 @@
       ]
     },
     {
-      "rank": 97,
+      "rank": 86,
       "id": "6670321276",
       "name": "Screen Mirroring | Cast to TV",
       "developer": "Ozuna Limited",
@@ -1560,13 +1384,189 @@
       ]
     },
     {
+      "rank": 87,
+      "id": "6742432059",
+      "name": "Wipe Neat: Cleanup Storage",
+      "developer": "HAHA TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/nz/app/wipe-neat-cleanup-storage/id6742432059?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c8/1a/ccc81a82-6511-0fed-8d72-f800e3904464/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2025-03-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6803936108",
+      "name": "iClixa: AI Phone Cleaner",
+      "developer": "Innovexa OU",
+      "url": "https://apps.apple.com/nz/app/iclixa-ai-phone-cleaner/id6803936108?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/a1/3c/8aa13c99-7bc7-a0d9-74fc-703349658e34/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "300704847",
+      "name": "Speedtest Internet & WiFi Test",
+      "developer": "Ookla",
+      "url": "https://apps.apple.com/nz/app/speedtest-internet-wifi-test/id300704847?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/6f/65/756f65aa-ba4d-f3c9-23a2-fcdf0291dbd1/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2009-01-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "1497659804",
+      "name": "E-LOK Smart",
+      "developer": "William Howie",
+      "url": "https://apps.apple.com/nz/app/e-lok-smart/id1497659804?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/fb/70/97fb7084-80e7-38a4-a6ff-4c418eb55679/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-02-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6760708122",
+      "name": "Document PDF Scanner.",
+      "developer": "Majin FX",
+      "url": "https://apps.apple.com/nz/app/document-pdf-scanner/id6760708122?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/34/73/443473cc-9893-07e1-cf27-639f0a23f8f1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-03-26",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "473879501",
+      "name": "My Vodafone Australia",
+      "developer": "Vodafone Hutchison Australia",
+      "url": "https://apps.apple.com/nz/app/my-vodafone-australia/id473879501?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/ce/ab/bfceab4e-b1b1-cd22-cd45-f0691bad783c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1013961111",
+      "name": "Blink Home Monitor",
+      "developer": "Immedia Semiconductor",
+      "url": "https://apps.apple.com/nz/app/blink-home-monitor/id1013961111?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/65/e9/8a65e9b7-aed3-3944-bc84-29db6205e6b4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-06-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6504182653",
+      "name": "UniRemote: Universal TV Remote",
+      "developer": "Kanatom Limited",
+      "url": "https://apps.apple.com/nz/app/uniremote-universal-tv-remote/id6504182653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/4b/52/1c4b5278-6d31-7ed4-514a-b2b4b87f3a56/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-08-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "6756670415",
+      "name": "Roll Bill Man",
+      "developer": "Marco Nicolo Lund Nielsen",
+      "url": "https://apps.apple.com/nz/app/roll-bill-man/id6756670415?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/02/47/4302473c-1936-aace-274f-69674995234e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "663592361",
+      "name": "DuckDuckGo, optional Duck.ai",
+      "developer": "DuckDuckGo, Inc.",
+      "url": "https://apps.apple.com/nz/app/duckduckgo-optional-duck-ai/id663592361?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/56/f4/7e56f463-48c1-6af8-4fd1-60ea92d030c3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2013-06-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6761097664",
+      "name": "PDF Reader: Edit & Sign",
+      "developer": "Quynh Trang Pham Doan",
+      "url": "https://apps.apple.com/nz/app/pdf-reader-edit-sign/id6761097664?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/f9/48/ecf948cc-4085-297b-046e-6f8d70635e51/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/nz/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 98,
-      "id": "6448165553",
-      "name": "Speedometer GPS: Speed Tracker",
-      "developer": "LightApps OU",
-      "url": "https://apps.apple.com/nz/app/speedometer-gps-speed-tracker/id6448165553?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/d7/09/c5d70918-b3e2-524c-8be3-5adf8c4eaceb/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-05-22",
+      "id": "1625671285",
+      "name": "Bambu Handy",
+      "developer": "上海轮廓科技有限公司",
+      "url": "https://apps.apple.com/nz/app/bambu-handy/id1625671285?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/35/0b/a6350b4c-a750-8101-1bb9-31e225bde96f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-07-14",
       "genres": [
         {
           "id": "6002",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "6449985960",
-      "name": "JB Hi-Fi Mobile",
-      "developer": "Telstra Corporation Ltd",
-      "url": "https://apps.apple.com/nz/app/jb-hi-fi-mobile/id6449985960?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/fb/86/d7fb86ef-3014-59e2-4a77-735a777fe7df/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2023-07-26",
+      "id": "377854149",
+      "name": "Snap Send Solve",
+      "developer": "Snap Send Solve Pty Ltd",
+      "url": "https://apps.apple.com/nz/app/snap-send-solve/id377854149?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/55/03/2b5503ac-925e-1845-43ec-9ffe17309e15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2010-07-30",
       "genres": [
         {
           "id": "6002",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "1529106085",
-      "name": "Screen mirror・Smart View Cast",
-      "developer": "toggle apps",
-      "url": "https://apps.apple.com/nz/app/screen-mirror-smart-view-cast/id1529106085?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/12/13/531213ef-fbed-2cd0-2cf4-7188f8d5b1cd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-02-17",
+      "id": "1575330471",
+      "name": "Free VPN - Fast & Secure Proxy",
+      "developer": "Free VPN LTD (Apps)",
+      "url": "https://apps.apple.com/nz/app/free-vpn-fast-secure-proxy/id1575330471?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/3f/e2/983fe2c2-dfec-5172-c205-eec4f8316fdf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-13",
       "genres": [
         {
           "id": "6002",

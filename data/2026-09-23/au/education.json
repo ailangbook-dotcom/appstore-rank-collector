@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:12:23.363553+09:00",
+  "collected_at": "2026-09-23T21:05:21.817513+09:00",
   "date": "2026-09-23",
   "country": "au",
   "chart": "top-free",
@@ -13,7 +13,7 @@
       "name": "Duolingo: Language & Chess",
       "developer": "Duolingo",
       "url": "https://apps.apple.com/au/app/duolingo-language-chess/id570060128?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/ee/1d/c7ee1d8c-9928-98bf-318a-0713e0351998/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/45/89/7b458987-7c39-1816-e5a7-33093aaa9741/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "release_date": "2012-11-13",
       "genres": [
         {
@@ -41,6 +41,22 @@
     },
     {
       "rank": 3,
+      "id": "1318604128",
+      "name": "OWNA Childcare App",
+      "developer": "Owna",
+      "url": "https://apps.apple.com/au/app/owna-childcare-app/id1318604128?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/9a/a9/639aa95c-3629-070a-d4e8-0f488ec77a0d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-12-02",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "id": "1436550381",
       "name": "myLearners",
       "developer": "VicRoads",
@@ -56,29 +72,13 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "1564189151",
       "name": "Solid Starts: Baby First Foods",
       "developer": "SolidStarts LLC",
       "url": "https://apps.apple.com/au/app/solid-starts-baby-first-foods/id1564189151?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/c0/2a/95c02a68-5a5d-e05c-4feb-1da84fa202e8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "release_date": "2021-05-10",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "id": "1318604128",
-      "name": "OWNA Childcare App",
-      "developer": "Owna",
-      "url": "https://apps.apple.com/au/app/owna-childcare-app/id1318604128?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/9a/a9/639aa95c-3629-070a-d4e8-0f488ec77a0d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-12-02",
       "genres": [
         {
           "id": "6017",
@@ -105,22 +105,6 @@
     },
     {
       "rank": 7,
-      "id": "1445023295",
-      "name": "Deepstash: Smarter Every Day!",
-      "developer": "Brainstash, Inc",
-      "url": "https://apps.apple.com/au/app/deepstash-smarter-every-day/id1445023295?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/48/af/1c48af96-8093-e16c-3d8e-f53382bdd337/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-02-23",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "id": "1500375099",
       "name": "Xap Smile - For Guardians",
       "developer": "Xap Technologies Pty Ltd",
@@ -136,13 +120,29 @@
       ]
     },
     {
+      "rank": 8,
+      "id": "1445023295",
+      "name": "Deepstash: Smarter Every Day!",
+      "developer": "Brainstash, Inc",
+      "url": "https://apps.apple.com/au/app/deepstash-smarter-every-day/id1445023295?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/48/af/1c48af96-8093-e16c-3d8e-f53382bdd337/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-02-23",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 9,
-      "id": "480883488",
-      "name": "Canvas by Instructure",
-      "developer": "Instructure Inc.",
-      "url": "https://apps.apple.com/au/app/canvas-by-instructure/id480883488?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-12-08",
+      "id": "1636435277",
+      "name": "Reed Events",
+      "developer": "Reed Graduation Services Pty Ltd",
+      "url": "https://apps.apple.com/au/app/reed-events/id1636435277?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/7b/68/187b6801-6f1d-1ed4-c9d6-9f288ba0bdc5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-08-07",
       "genres": [
         {
           "id": "6017",
@@ -153,12 +153,12 @@
     },
     {
       "rank": 10,
-      "id": "1084540807",
-      "name": "Vocabulary - Learn words daily",
-      "developer": "Monkey Taps",
-      "url": "https://apps.apple.com/au/app/vocabulary-learn-words-daily/id1084540807?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4a/30/aa4a3053-3882-3c83-c79a-518d4e3686d2/0_voc-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2016-02-19",
+      "id": "480883488",
+      "name": "Canvas by Instructure",
+      "developer": "Instructure Inc.",
+      "url": "https://apps.apple.com/au/app/canvas-by-instructure/id480883488?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-12-08",
       "genres": [
         {
           "id": "6017",
@@ -185,70 +185,6 @@
     },
     {
       "rank": 12,
-      "id": "1482780647",
-      "name": "Imprint: Visual Micro Learning",
-      "developer": "Polywise, Inc.",
-      "url": "https://apps.apple.com/au/app/imprint-visual-micro-learning/id1482780647?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/06/d9/3706d958-2598-adec-3938-b594f8aa1e4e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-02-21",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "id": "778415974",
-      "name": "Compass School Manager",
-      "developer": "Compass Operations Pty Ltd",
-      "url": "https://apps.apple.com/au/app/compass-school-manager/id778415974?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/95/c3/1a95c3c7-3f92-f82c-d567-f1c78dce0f8a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-12-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "id": "1636435277",
-      "name": "Reed Events",
-      "developer": "Reed Graduation Services Pty Ltd",
-      "url": "https://apps.apple.com/au/app/reed-events/id1636435277?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/7b/68/187b6801-6f1d-1ed4-c9d6-9f288ba0bdc5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-07",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
-      "id": "1196524622",
-      "name": "Minecraft Education",
-      "developer": "Mojang",
-      "url": "https://apps.apple.com/au/app/minecraft-education/id1196524622?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/7f/a9/267fa986-efa4-2900-6eb8-adefdbee7c1d/AppIcon-edu-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "release_date": "2018-09-06",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
       "id": "1133029596",
       "name": "Storypark for Families",
       "developer": "Storypark",
@@ -264,13 +200,13 @@
       ]
     },
     {
-      "rank": 17,
-      "id": "924620788",
-      "name": "Google Classroom",
-      "developer": "Google",
-      "url": "https://apps.apple.com/au/app/google-classroom/id924620788?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/0b/37/150b37f8-8734-c760-5f94-ee8372edc843/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2015-01-13",
+      "rank": 13,
+      "id": "1482780647",
+      "name": "Imprint: Visual Micro Learning",
+      "developer": "Polywise, Inc.",
+      "url": "https://apps.apple.com/au/app/imprint-visual-micro-learning/id1482780647?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/06/d9/3706d958-2598-adec-3938-b594f8aa1e4e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-02-21",
       "genres": [
         {
           "id": "6017",
@@ -280,7 +216,55 @@
       ]
     },
     {
-      "rank": 18,
+      "rank": 14,
+      "id": "778415974",
+      "name": "Compass School Manager",
+      "developer": "Compass Operations Pty Ltd",
+      "url": "https://apps.apple.com/au/app/compass-school-manager/id778415974?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/95/c3/1a95c3c7-3f92-f82c-d567-f1c78dce0f8a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-12-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "1084540807",
+      "name": "Vocabulary - Learn words daily",
+      "developer": "Monkey Taps",
+      "url": "https://apps.apple.com/au/app/vocabulary-learn-words-daily/id1084540807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/cc/73/2bcc737d-5d13-bb55-fb73-33b80f6c5ceb/0_voc-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-02-19",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "6479973037",
+      "name": "Auslan Wiz - Sign Language",
+      "developer": "SignLab AS",
+      "url": "https://apps.apple.com/au/app/auslan-wiz-sign-language/id6479973037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/c8/32/e0c83233-f9c8-d165-4f90-854de3b6b756/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-05-22",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
       "id": "1420774608",
       "name": "Flexischools",
       "developer": "InLoop Pty Ltd",
@@ -296,13 +280,29 @@
       ]
     },
     {
+      "rank": 18,
+      "id": "1196524622",
+      "name": "Minecraft Education",
+      "developer": "Mojang",
+      "url": "https://apps.apple.com/au/app/minecraft-education/id1196524622?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/7f/a9/267fa986-efa4-2900-6eb8-adefdbee7c1d/AppIcon-edu-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "release_date": "2018-09-06",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 19,
-      "id": "1480651764",
-      "name": "SharkSmart WA",
-      "developer": "Department of Primary Industries and Regional Development",
-      "url": "https://apps.apple.com/au/app/sharksmart-wa/id1480651764?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/fe/60/a2fe6007-fcbf-c910-ac99-e792985ea13a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2019-10-24",
+      "id": "924620788",
+      "name": "Google Classroom",
+      "developer": "Google",
+      "url": "https://apps.apple.com/au/app/google-classroom/id924620788?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/0b/37/150b37f8-8734-c760-5f94-ee8372edc843/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-13",
       "genres": [
         {
           "id": "6017",
@@ -329,12 +329,12 @@
     },
     {
       "rank": 21,
-      "id": "1208138685",
-      "name": "Toca Boca World: Game & Play",
-      "developer": "Toca Boca AB",
-      "url": "https://apps.apple.com/au/app/toca-boca-world-game-play/id1208138685?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/11/bc/4211bc7e-8593-c666-52fd-5adc7429d67f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-21",
+      "id": "6475737561",
+      "name": "iNaturalist",
+      "developer": "iNaturalist",
+      "url": "https://apps.apple.com/au/app/inaturalist/id6475737561?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/86/5d/de865dcd-8926-8807-36b7-bfec3958c87d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-09",
       "genres": [
         {
           "id": "6017",
@@ -361,22 +361,6 @@
     },
     {
       "rank": 23,
-      "id": "1366891626",
-      "name": "PTE Exam Practice - APEUni",
-      "developer": "Shenzhen Apeuni Educational Technology Co., Ltd.",
-      "url": "https://apps.apple.com/au/app/pte-exam-practice-apeuni/id1366891626?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/79/7c/99797c14-d8cc-fb23-76ad-030aadeac7fa/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-04-22",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
       "id": "875063456",
       "name": "Elevate - Brain Training",
       "developer": "The Mind Company",
@@ -392,44 +376,28 @@
       ]
     },
     {
+      "rank": 24,
+      "id": "1208138685",
+      "name": "Toca Boca World: Game & Play",
+      "developer": "Toca Boca AB",
+      "url": "https://apps.apple.com/au/app/toca-boca-world-game-play/id1208138685?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/11/bc/4211bc7e-8593-c666-52fd-5adc7429d67f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-21",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 25,
-      "id": "6479973037",
-      "name": "Auslan Wiz - Sign Language",
-      "developer": "SignLab AS",
-      "url": "https://apps.apple.com/au/app/auslan-wiz-sign-language/id6479973037?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/c8/32/e0c83233-f9c8-d165-4f90-854de3b6b756/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-05-22",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "6475737561",
-      "name": "iNaturalist",
-      "developer": "iNaturalist",
-      "url": "https://apps.apple.com/au/app/inaturalist/id6475737561?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/86/5d/de865dcd-8926-8807-36b7-bfec3958c87d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-09-09",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
       "id": "6463097826",
       "name": "School Bytes for Parents",
       "developer": "School Bytes Learning Pty. Ltd.",
       "url": "https://apps.apple.com/au/app/school-bytes-for-parents/id6463097826?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/4d/75/4b4d759a-75ae-b041-d4f2-19fbd3cfa93c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9b/0b/7f9b0bff-082d-9d2a-ac59-a893fd2791e3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "release_date": "2023-10-05",
       "genres": [
         {
@@ -440,23 +408,7 @@
       ]
     },
     {
-      "rank": 28,
-      "id": "1352790442",
-      "name": "Preply: Language Learning App",
-      "developer": "Preply Inc.",
-      "url": "https://apps.apple.com/au/app/preply-language-learning-app/id1352790442?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/c7/94/52c79406-5282-fdf8-d3ef-954a746a4fb5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-06-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
+      "rank": 26,
       "id": "1624701477",
       "name": "Praktika – AI Language Tutor",
       "developer": "Praktika.ai Company",
@@ -472,55 +424,55 @@
       ]
     },
     {
+      "rank": 27,
+      "id": "1366891626",
+      "name": "PTE Exam Practice - APEUni",
+      "developer": "Shenzhen Apeuni Educational Technology Co., Ltd.",
+      "url": "https://apps.apple.com/au/app/pte-exam-practice-apeuni/id1366891626?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/79/7c/99797c14-d8cc-fb23-76ad-030aadeac7fa/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-04-22",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "1489681763",
+      "name": "aXcelerate Learner",
+      "developer": "aXcelerate",
+      "url": "https://apps.apple.com/au/app/axcelerate-learner/id1489681763?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/42/07/5e42077c-6e31-b62c-47a7-669463531fb2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-05-17",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "6781227577",
+      "name": "Ziggy: Learn ASL Sign Language",
+      "developer": "OneDegree Labs",
+      "url": "https://apps.apple.com/au/app/ziggy-learn-asl-sign-language/id6781227577?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/60/ee/f060ee7f-60e3-0ce3-f9dc-9fdf7e4b3f86/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-21",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 30,
-      "id": "1109164108",
-      "name": "Kidsoft",
-      "developer": "NumeroPro Pty Ltd",
-      "url": "https://apps.apple.com/au/app/kidsoft/id1109164108?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/d2/00/4bd200d1-7073-0008-b389-0520ef136b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-04-27",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
-      "id": "1403783779",
-      "name": "Ling: Language Learning",
-      "developer": "SIMYA LABS COMPANY LIMITED",
-      "url": "https://apps.apple.com/au/app/ling-language-learning/id1403783779?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/e5/c8/4ae5c8bb-afdb-4b15-4bec-8dbd7d824a24/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-12-28",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
-      "id": "1552362495",
-      "name": "Driving Test Routes",
-      "developer": "Route-Led Group Limited",
-      "url": "https://apps.apple.com/au/app/driving-test-routes/id1552362495?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/76/e9/1676e9a1-b034-b7a4-99ab-b00686c84df7/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-03-01",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
       "id": "6670786037",
       "name": "Госуслуги Моя школа",
       "developer": "Минкомсвязь РФ",
@@ -536,13 +488,61 @@
       ]
     },
     {
+      "rank": 31,
+      "id": "6740192624",
+      "name": "BetterSpeak: AI Language Tutor",
+      "developer": "HUBX",
+      "url": "https://apps.apple.com/au/app/betterspeak-ai-language-tutor/id6740192624?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/7f/c6/b17fc68c-f380-f18c-887d-ad58c6917408/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-08-08",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1352790442",
+      "name": "Preply: Language Learning App",
+      "developer": "Preply Inc.",
+      "url": "https://apps.apple.com/au/app/preply-language-learning-app/id1352790442?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/c7/94/52c79406-5282-fdf8-d3ef-954a746a4fb5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-06-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "1480651764",
+      "name": "SharkSmart WA",
+      "developer": "Department of Primary Industries and Regional Development",
+      "url": "https://apps.apple.com/au/app/sharksmart-wa/id1480651764?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/fe/60/a2fe6007-fcbf-c910-ac99-e792985ea13a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-10-24",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 34,
-      "id": "546473125",
-      "name": "Quizlet: AI-powered flashcards",
-      "developer": "Quizlet Inc",
-      "url": "https://apps.apple.com/au/app/quizlet-ai-powered-flashcards/id546473125?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/bc/dc/9dbcdcef-c449-5a78-0726-4c82724567e4/AppIcon-production-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-08-08",
+      "id": "1109164108",
+      "name": "Kidsoft",
+      "developer": "NumeroPro Pty Ltd",
+      "url": "https://apps.apple.com/au/app/kidsoft/id1109164108?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/d2/00/4bd200d1-7073-0008-b389-0520ef136b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-04-27",
       "genres": [
         {
           "id": "6017",
@@ -553,12 +553,12 @@
     },
     {
       "rank": 35,
-      "id": "6802480306",
-      "name": "infant app",
-      "developer": "Deakin University",
-      "url": "https://apps.apple.com/au/app/infant-app/id6802480306?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/e4/c4/c8e4c433-1c5a-d5f5-7aa4-a3df09ec368d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-09-04",
+      "id": "546473125",
+      "name": "Quizlet: AI-powered flashcards",
+      "developer": "Quizlet Inc",
+      "url": "https://apps.apple.com/au/app/quizlet-ai-powered-flashcards/id546473125?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/a2/23/8ca22373-6f52-5c7e-2dff-890b6a52b982/AppIcon-production-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-08-08",
       "genres": [
         {
           "id": "6017",
@@ -585,12 +585,12 @@
     },
     {
       "rank": 37,
-      "id": "1019442026",
-      "name": "Simply Piano: Learn Piano Fast",
-      "developer": "Simply Ltd",
-      "url": "https://apps.apple.com/au/app/simply-piano-learn-piano-fast/id1019442026?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7d/32/cf7d323c-d35b-c99b-2fea-c9848cb57e9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-09-01",
+      "id": "1403783779",
+      "name": "Ling: Language Learning",
+      "developer": "SIMYA LABS COMPANY LIMITED",
+      "url": "https://apps.apple.com/au/app/ling-language-learning/id1403783779?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/e5/c8/4ae5c8bb-afdb-4b15-4bec-8dbd7d824a24/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-12-28",
       "genres": [
         {
           "id": "6017",
@@ -601,12 +601,12 @@
     },
     {
       "rank": 38,
-      "id": "915621811",
-      "name": "SharkSmart",
-      "developer": "NSW Department of Primary Industries",
-      "url": "https://apps.apple.com/au/app/sharksmart/id915621811?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5b/87/8a5b87f4-26ca-2b09-5a95-7dccf1a662f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2014-09-13",
+      "id": "6736968474",
+      "name": "Training Desk",
+      "developer": "Allens Training Pty Ltd",
+      "url": "https://apps.apple.com/au/app/training-desk/id6736968474?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/4d/11/f04d11c6-4e9b-ac70-8eb0-67d05ad47d29/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-10-28",
       "genres": [
         {
           "id": "6017",
@@ -617,6 +617,22 @@
     },
     {
       "rank": 39,
+      "id": "1552362495",
+      "name": "Driving Test Routes",
+      "developer": "Route-Led Group Limited",
+      "url": "https://apps.apple.com/au/app/driving-test-routes/id1552362495?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/76/e9/1676e9a1-b034-b7a4-99ab-b00686c84df7/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-03-01",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
       "id": "726696040",
       "name": "ABC Reading Eggs Learn to Read",
       "developer": "Blake eLearning",
@@ -632,29 +648,13 @@
       ]
     },
     {
-      "rank": 40,
-      "id": "6773548270",
-      "name": "LearnUp: Speak & Learn English",
-      "developer": "BEGAMOB GLOBAL LIMITED",
-      "url": "https://apps.apple.com/au/app/learnup-speak-learn-english/id6773548270?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/90/66/df906627-169a-42e2-c0ec-df2e404e02b2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-23",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 41,
-      "id": "1476695335",
-      "name": "Simply Guitar - Learn Guitar",
-      "developer": "Simply Ltd",
-      "url": "https://apps.apple.com/au/app/simply-guitar-learn-guitar/id1476695335?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/83/f2/8083f223-13a0-6bd9-a1aa-cf397a8674f7/AppIconIOS26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2020-01-26",
+      "id": "6743074605",
+      "name": "YayTalk: Learn & Speak English",
+      "developer": "IdeaLabs",
+      "url": "https://apps.apple.com/au/app/yaytalk-learn-speak-english/id6743074605?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/f1/8a/37f18ab8-fa37-7ebc-df44-370b2234478a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-28",
       "genres": [
         {
           "id": "6017",
@@ -665,22 +665,6 @@
     },
     {
       "rank": 42,
-      "id": "6472039857",
-      "name": "Nail Salon Games for Kids 2-5",
-      "developer": "JMH Developers OU",
-      "url": "https://apps.apple.com/au/app/nail-salon-games-for-kids-2-5/id6472039857?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/a7/45/e0a745d6-de51-225c-4132-20eacf1634c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-12-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
       "id": "6736654449",
       "name": "Micro Learning - SmartyMe",
       "developer": "ApexTech Ltd",
@@ -696,13 +680,29 @@
       ]
     },
     {
+      "rank": 43,
+      "id": "1019442026",
+      "name": "Simply Piano: Learn Piano Fast",
+      "developer": "Simply Ltd",
+      "url": "https://apps.apple.com/au/app/simply-piano-learn-piano-fast/id1019442026?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7d/32/cf7d323c-d35b-c99b-2fea-c9848cb57e9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-09-01",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 44,
-      "id": "6736968474",
-      "name": "Training Desk",
-      "developer": "Allens Training Pty Ltd",
-      "url": "https://apps.apple.com/au/app/training-desk/id6736968474?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/4d/11/f04d11c6-4e9b-ac70-8eb0-67d05ad47d29/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-10-28",
+      "id": "1171287648",
+      "name": "Roundtrip Learner Logbook",
+      "developer": "Eat More Pixels",
+      "url": "https://apps.apple.com/au/app/roundtrip-learner-logbook/id1171287648?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/91/17/f291170e-5a28-a6b7-4bd6-3287d9e777f3/AppIcon-0-0-1x_U007emarketing-0-3-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-20",
       "genres": [
         {
           "id": "6017",
@@ -729,12 +729,12 @@
     },
     {
       "rank": 46,
-      "id": "1458716890",
-      "name": "Stellarium Mobile - Star Map",
-      "developer": "Noctua Software Ltd",
-      "url": "https://apps.apple.com/au/app/stellarium-mobile-star-map/id1458716890?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/d5/2e/a9d52e53-32d9-821c-cc76-2499293c8768/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-04-07",
+      "id": "6773548270",
+      "name": "LearnUp: Speak & Learn English",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/au/app/learnup-speak-learn-english/id6773548270?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/90/66/df906627-169a-42e2-c0ec-df2e404e02b2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-23",
       "genres": [
         {
           "id": "6017",
@@ -745,102 +745,6 @@
     },
     {
       "rank": 47,
-      "id": "6743074605",
-      "name": "YayTalk: Learn & Speak English",
-      "developer": "IdeaLabs",
-      "url": "https://apps.apple.com/au/app/yaytalk-learn-speak-english/id6743074605?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/f1/8a/37f18ab8-fa37-7ebc-df44-370b2234478a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-04-28",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "id": "379968583",
-      "name": "Busuu: Language Learning",
-      "developer": "Busuu Limited",
-      "url": "https://apps.apple.com/au/app/busuu-language-learning/id379968583?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/87/64/d6876444-07fe-dda0-3275-3277023523f1/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "release_date": "2010-09-21",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "1527399597",
-      "name": "PlantIn: Plant Care Identifier",
-      "developer": "Vortemol Limited",
-      "url": "https://apps.apple.com/au/app/plantin-plant-care-identifier/id1527399597?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/f1/e7/0df1e781-a1fb-3851-188a-f2509dd934cc/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-08-14",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "id": "1171287648",
-      "name": "Roundtrip Learner Logbook",
-      "developer": "Eat More Pixels",
-      "url": "https://apps.apple.com/au/app/roundtrip-learner-logbook/id1171287648?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/91/17/f291170e-5a28-a6b7-4bd6-3287d9e777f3/AppIcon-0-0-1x_U007emarketing-0-3-0-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-20",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "1441909643",
-      "name": "YPT - Study Group",
-      "developer": "UnCheon Baek",
-      "url": "https://apps.apple.com/au/app/ypt-study-group/id1441909643?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/e3/f2/93e3f2a7-1625-0d52-52f1-025c1a5fe048/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-16",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "1112069606",
-      "name": "Damstra Learn - Learner",
-      "developer": "Ideagen Limited",
-      "url": "https://apps.apple.com/au/app/damstra-learn-learner/id1112069606?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/d5/f3/80d5f3a3-1b1a-3a4b-4434-6163906da194/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-05-24",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
       "id": "552602056",
       "name": "ClassDojo",
       "developer": "ClassDojo, Inc.",
@@ -856,39 +760,7 @@
       ]
     },
     {
-      "rank": 54,
-      "id": "6443614190",
-      "name": "PTE Practice & AI Mock Tests",
-      "developer": "Language Academy PTE NAATI Experts",
-      "url": "https://apps.apple.com/au/app/pte-practice-ai-mock-tests/id6443614190?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/d9/75/e3d9757e-6c1a-9b6f-53a9-6a9d37c96828/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-22",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "1592048869",
-      "name": "BrainTrack",
-      "developer": "Dementia Australia Limited",
-      "url": "https://apps.apple.com/au/app/braintrack/id1592048869?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/d4/0a/ced40a48-25d9-1553-6ed1-cb407b8b46fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-28",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
+      "rank": 48,
       "id": "1002043426",
       "name": "Lingokids: Games & Shows",
       "developer": "Monkimun Inc",
@@ -904,247 +776,7 @@
       ]
     },
     {
-      "rank": 57,
-      "id": "1610516671",
-      "name": "Gizmo: AI Tutor",
-      "developer": "Save All",
-      "url": "https://apps.apple.com/au/app/gizmo-ai-tutor/id1610516671?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/2c/1a/6a2c1a00-ade4-e9a8-6cc4-dfa6804bf96e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-02-17",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "1405735469",
-      "name": "Pimsleur | Language Learning",
-      "developer": "Simon & Schuster",
-      "url": "https://apps.apple.com/au/app/pimsleur-language-learning/id1405735469?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/4c/55/214c554a-a1e0-0c4c-fc2f-e1589c1b8302/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-08-06",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "959883039",
-      "name": "Yousician: Learn & Play Guitar",
-      "developer": "Yousician Ltd",
-      "url": "https://apps.apple.com/au/app/yousician-learn-play-guitar/id959883039?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/ba/d3/b5bad325-1c71-61f4-8dce-c88ce344648d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-02-26",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "930565184",
-      "name": "Seesaw",
-      "developer": "Seesaw Learning, Inc.",
-      "url": "https://apps.apple.com/au/app/seesaw/id930565184?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/e7/f0/29e7f0a5-43a7-38de-aebc-ebe5fc72dd71/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2014-11-10",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "413936865",
-      "name": "SkyView® Lite",
-      "developer": "Terminal Eleven LLC",
-      "url": "https://apps.apple.com/au/app/skyview-lite/id413936865?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/9e/00/1b9e0020-e262-ab57-97fb-521965c8d9a5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2011-03-04",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "1370980287",
-      "name": "Australian Citizenship Test(s)",
-      "developer": "Wei Zhang",
-      "url": "https://apps.apple.com/au/app/australian-citizenship-test-s/id1370980287?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/45/96/2045965c-2a83-d6b4-f330-3a68ee7c500f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2018-04-21",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "6781227577",
-      "name": "Ziggy: Learn ASL Sign Language",
-      "developer": "OneDegree Labs",
-      "url": "https://apps.apple.com/au/app/ziggy-learn-asl-sign-language/id6781227577?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/31/04/fb3104b6-531e-a855-bb16-e5299104ba12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-07-21",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "1552708303",
-      "name": "Speak English with Loora AI",
-      "developer": "Loora A.I LTD",
-      "url": "https://apps.apple.com/au/app/speak-english-with-loora-ai/id1552708303?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6a/8d/0c6a8d1a-c8f3-1192-96aa-87efa20bfa48/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2021-04-02",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "451719402",
-      "name": "Kids Colouring Drawing Games",
-      "developer": "KidloLand Kids & Toddler Games",
-      "url": "https://apps.apple.com/au/app/kids-colouring-drawing-games/id451719402?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/fc/c5/e3fcc5da-24c5-ecf7-68d8-e5883481e9eb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2011-10-21",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "6447939054",
-      "name": "Supernova AI Spoken English",
-      "developer": "L8 Cones Interactive Private Limited",
-      "url": "https://apps.apple.com/au/app/supernova-ai-spoken-english/id6447939054?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4d/77/9a4d7760-6490-4734-3999-dbd174e4c125/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-09-11",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "1238744022",
-      "name": "Sentral for Parents",
-      "developer": "Sentral for Parents",
-      "url": "https://apps.apple.com/au/app/sentral-for-parents/id1238744022?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/52/73/9c52739b-7497-bd26-fd88-765551e05852/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2017-05-22",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "1546796934",
-      "name": "Rock Identifier: Stone ID",
-      "developer": "Next Vision Limited",
-      "url": "https://apps.apple.com/au/app/rock-identifier-stone-id/id1546796934?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/1a/ae/3a1aae6c-fb86-22a5-f22e-6e501d7a7d3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-26",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "557130558",
-      "name": "HelloTalk - Language Learning",
-      "developer": "HELLOTALK FOREIGN LANGUAGE EXCHANGE LEARNING TALK CHAT APP",
-      "url": "https://apps.apple.com/au/app/hellotalk-language-learning/id557130558?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/63/83/1563830d-5623-5a6a-e782-672ad537a00d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2012-12-15",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "6740192624",
-      "name": "BetterSpeak: AI Language Tutor",
-      "developer": "HUBX",
-      "url": "https://apps.apple.com/au/app/betterspeak-ai-language-tutor/id6740192624?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/7f/c6/b17fc68c-f380-f18c-887d-ad58c6917408/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-08-08",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "6745815058",
-      "name": "Gleam: Social Intelligence",
-      "developer": "C137",
-      "url": "https://apps.apple.com/au/app/gleam-social-intelligence/id6745815058?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/c3/25/45c325f4-c679-8f46-de65-b8a2c103d643/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-05-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
+      "rank": 49,
       "id": "6755150818",
       "name": "Abide-Daily Scripture Study",
       "developer": "LEARNOVELTY TECH SDN. BHD.",
@@ -1160,13 +792,381 @@
       ]
     },
     {
+      "rank": 50,
+      "id": "1476695335",
+      "name": "Simply Guitar - Learn Guitar",
+      "developer": "Simply Ltd",
+      "url": "https://apps.apple.com/au/app/simply-guitar-learn-guitar/id1476695335?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/83/f2/8083f223-13a0-6bd9-a1aa-cf397a8674f7/AppIconIOS26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-01-26",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1112069606",
+      "name": "Damstra Learn - Learner",
+      "developer": "Ideagen Limited",
+      "url": "https://apps.apple.com/au/app/damstra-learn-learner/id1112069606?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/24/eb/1b24ebf8-b0ce-ce27-10c5-758d678f3132/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-05-24",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "915621811",
+      "name": "SharkSmart",
+      "developer": "NSW Department of Primary Industries",
+      "url": "https://apps.apple.com/au/app/sharksmart/id915621811?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5b/87/8a5b87f4-26ca-2b09-5a95-7dccf1a662f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-09-13",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1441909643",
+      "name": "YPT - Study Group",
+      "developer": "UnCheon Baek",
+      "url": "https://apps.apple.com/au/app/ypt-study-group/id1441909643?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/e3/f2/93e3f2a7-1625-0d52-52f1-025c1a5fe048/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-16",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6472039857",
+      "name": "Nail Salon Games for Kids 2-5",
+      "developer": "JMH Developers OU",
+      "url": "https://apps.apple.com/au/app/nail-salon-games-for-kids-2-5/id6472039857?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/a7/45/e0a745d6-de51-225c-4132-20eacf1634c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-12-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "379968583",
+      "name": "Busuu: Language Learning",
+      "developer": "Busuu Limited",
+      "url": "https://apps.apple.com/au/app/busuu-language-learning/id379968583?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/87/64/d6876444-07fe-dda0-3275-3277023523f1/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2010-09-21",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1527399597",
+      "name": "PlantIn: Plant Care Identifier",
+      "developer": "Vortemol Limited",
+      "url": "https://apps.apple.com/au/app/plantin-plant-care-identifier/id1527399597?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/f1/e7/0df1e781-a1fb-3851-188a-f2509dd934cc/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-08-14",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "6443614190",
+      "name": "PTE Practice & AI Mock Tests",
+      "developer": "Language Academy PTE NAATI Experts",
+      "url": "https://apps.apple.com/au/app/pte-practice-ai-mock-tests/id6443614190?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/d9/75/e3d9757e-6c1a-9b6f-53a9-6a9d37c96828/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-22",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "6802480306",
+      "name": "infant app",
+      "developer": "Deakin University",
+      "url": "https://apps.apple.com/au/app/infant-app/id6802480306?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/e4/c4/c8e4c433-1c5a-d5f5-7aa4-a3df09ec368d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-09-04",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "6745815058",
+      "name": "Gleam: Social Intelligence",
+      "developer": "C137",
+      "url": "https://apps.apple.com/au/app/gleam-social-intelligence/id6745815058?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/a6/35/1ba63574-bc9c-350c-0cb0-98c7ef6bfc97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-05-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "1370980287",
+      "name": "Australian Citizenship Test(s)",
+      "developer": "Wei Zhang",
+      "url": "https://apps.apple.com/au/app/australian-citizenship-test-s/id1370980287?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/45/96/2045965c-2a83-d6b4-f330-3a68ee7c500f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2018-04-21",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "1552708303",
+      "name": "Speak English with Loora AI",
+      "developer": "Loora A.I LTD",
+      "url": "https://apps.apple.com/au/app/speak-english-with-loora-ai/id1552708303?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6a/8d/0c6a8d1a-c8f3-1192-96aa-87efa20bfa48/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2021-04-02",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "1476035637",
+      "name": "Applaydu: Talk & Play",
+      "developer": "FERRERO TRADING LUX S.A.",
+      "url": "https://apps.apple.com/au/app/applaydu-talk-play/id1476035637?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/38/d9/f238d93d-7711-7755-6620-39e52c621a31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-05",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "959883039",
+      "name": "Yousician: Learn & Play Guitar",
+      "developer": "Yousician Ltd",
+      "url": "https://apps.apple.com/au/app/yousician-learn-play-guitar/id959883039?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/ba/d3/b5bad325-1c71-61f4-8dce-c88ce344648d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-02-26",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "1546796934",
+      "name": "Rock Identifier: Stone ID",
+      "developer": "Next Vision Limited",
+      "url": "https://apps.apple.com/au/app/rock-identifier-stone-id/id1546796934?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/6a/cd/3e6acd4d-c54e-3382-0c18-6941b3da529e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-26",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "543437097",
+      "name": "ClassCover",
+      "developer": "Class Cover Pty Ltd",
+      "url": "https://apps.apple.com/au/app/classcover/id543437097?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/0a/4e/d70a4efc-4af7-d422-bfe9-98366b2bf827/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-08-01",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1257686328",
+      "name": "Citizenship Test AU 2026 (New)",
+      "developer": "Pineapple Studio Pty Ltd",
+      "url": "https://apps.apple.com/au/app/citizenship-test-au-2026-new/id1257686328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/92/1b/5d921b4f-3f64-385b-5f80-9dcfbb09d5c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2017-07-12",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "1610516671",
+      "name": "Gizmo: AI Tutor",
+      "developer": "Save All",
+      "url": "https://apps.apple.com/au/app/gizmo-ai-tutor/id1610516671?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/2c/1a/6a2c1a00-ade4-e9a8-6cc4-dfa6804bf96e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-02-17",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "6742813819",
+      "name": "NeuroBoost-IQ Enhance&CogniFit",
+      "developer": "FunJoy Group",
+      "url": "https://apps.apple.com/au/app/neuroboost-iq-enhance-cognifit/id6742813819?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5e/c9/4b5ec9aa-cc0b-9ac0-6ab5-713c80afd7c2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-06",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "1592048869",
+      "name": "BrainTrack",
+      "developer": "Dementia Australia Limited",
+      "url": "https://apps.apple.com/au/app/braintrack/id1592048869?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/d4/0a/ced40a48-25d9-1553-6ed1-cb407b8b46fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-08-28",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1238744022",
+      "name": "Sentral for Parents",
+      "developer": "Sentral for Parents",
+      "url": "https://apps.apple.com/au/app/sentral-for-parents/id1238744022?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/52/73/9c52739b-7497-bd26-fd88-765551e05852/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2017-05-22",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6747540490",
+      "name": "Auslearn: Learn Auslan",
+      "developer": "DECLAN JON BENGTSON",
+      "url": "https://apps.apple.com/au/app/auslearn-learn-auslan/id6747540490?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/fc/dd/d5fcddca-0c02-dc9b-1126-f08c2c692904/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-06-20",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "1627501632",
+      "name": "Stimuler- English Speaking App",
+      "developer": "Stimuler Private Limited",
+      "url": "https://apps.apple.com/au/app/stimuler-english-speaking-app/id1627501632?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/99/18/e8991815-f579-6ad0-332e-9c943fec4774/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-06-03",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 73,
-      "id": "1451295827",
-      "name": "Impulse - Test Your Brain & IQ",
-      "developer": "GMRD Apps Limited",
-      "url": "https://apps.apple.com/au/app/impulse-test-your-brain-iq/id1451295827?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/06/df/1606dfaa-b57a-4000-23df-f7affb2c6e98/AppIcon_Head-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-19",
+      "id": "930565184",
+      "name": "Seesaw",
+      "developer": "Seesaw Learning, Inc.",
+      "url": "https://apps.apple.com/au/app/seesaw/id930565184?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/e7/f0/29e7f0a5-43a7-38de-aebc-ebe5fc72dd71/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-11-10",
       "genres": [
         {
           "id": "6017",
@@ -1177,12 +1177,12 @@
     },
     {
       "rank": 74,
-      "id": "1489681763",
-      "name": "aXcelerate Learner",
-      "developer": "aXcelerate",
-      "url": "https://apps.apple.com/au/app/axcelerate-learner/id1489681763?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/42/07/5e42077c-6e31-b62c-47a7-669463531fb2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-05-17",
+      "id": "1451295827",
+      "name": "Impulse - Test Your Brain & IQ",
+      "developer": "GMRD Apps Limited",
+      "url": "https://apps.apple.com/au/app/impulse-test-your-brain-iq/id1451295827?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/06/df/1606dfaa-b57a-4000-23df-f7affb2c6e98/AppIcon_Head-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-19",
       "genres": [
         {
           "id": "6017",
@@ -1209,38 +1209,6 @@
     },
     {
       "rank": 76,
-      "id": "6740720452",
-      "name": "Sovi.AI - AI Study Companion",
-      "developer": "Edgewise PTE",
-      "url": "https://apps.apple.com/au/app/sovi-ai-ai-study-companion/id6740720452?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/56/3b/da563bb5-0387-b20e-cf84-aa35a6ef4328/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-02-05",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "1257686328",
-      "name": "Citizenship Test AU 2026 (New)",
-      "developer": "Pineapple Studio Pty Ltd",
-      "url": "https://apps.apple.com/au/app/citizenship-test-au-2026-new/id1257686328?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/92/1b/5d921b4f-3f64-385b-5f80-9dcfbb09d5c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2017-07-12",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
       "id": "455625815",
       "name": "ClickView",
       "developer": "ClickView",
@@ -1256,13 +1224,45 @@
       ]
     },
     {
+      "rank": 77,
+      "id": "1458716890",
+      "name": "Stellarium Mobile - Star Map",
+      "developer": "Noctua Software Ltd",
+      "url": "https://apps.apple.com/au/app/stellarium-mobile-star-map/id1458716890?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/d5/2e/a9d52e53-32d9-821c-cc76-2499293c8768/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-04-07",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "6447939054",
+      "name": "Supernova AI Spoken English",
+      "developer": "L8 Cones Interactive Private Limited",
+      "url": "https://apps.apple.com/au/app/supernova-ai-spoken-english/id6447939054?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4d/77/9a4d7760-6490-4734-3999-dbd174e4c125/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-09-11",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 79,
-      "id": "6747540490",
-      "name": "Auslearn: Learn Auslan",
-      "developer": "DECLAN JON BENGTSON",
-      "url": "https://apps.apple.com/au/app/auslearn-learn-auslan/id6747540490?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/fc/dd/d5fcddca-0c02-dc9b-1126-f08c2c692904/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-06-20",
+      "id": "413936865",
+      "name": "SkyView® Lite",
+      "developer": "Terminal Eleven LLC",
+      "url": "https://apps.apple.com/au/app/skyview-lite/id413936865?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/9e/00/1b9e0020-e262-ab57-97fb-521965c8d9a5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-03-04",
       "genres": [
         {
           "id": "6017",
@@ -1273,70 +1273,6 @@
     },
     {
       "rank": 80,
-      "id": "1627501632",
-      "name": "Stimuler- English Speaking App",
-      "developer": "Stimuler Private Limited",
-      "url": "https://apps.apple.com/au/app/stimuler-english-speaking-app/id1627501632?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/99/18/e8991815-f579-6ad0-332e-9c943fec4774/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-06-03",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "6742813819",
-      "name": "NeuroBoost-IQ Enhance&CogniFit",
-      "developer": "FunJoy Group",
-      "url": "https://apps.apple.com/au/app/neuroboost-iq-enhance-cognifit/id6742813819?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5e/c9/4b5ec9aa-cc0b-9ac0-6ab5-713c80afd7c2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-06",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "6780309160",
-      "name": "Hourly Kana: Learn Japanese",
-      "developer": "Radish Retail, LLC",
-      "url": "https://apps.apple.com/au/app/hourly-kana-learn-japanese/id6780309160?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/31/90/bc319011-ef6a-2073-27e1-0f983e3f2524/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-02",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "1639875485",
-      "name": "Simply Draw: Learn to Draw",
-      "developer": "Simply Ltd",
-      "url": "https://apps.apple.com/au/app/simply-draw-learn-to-draw/id1639875485?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/a9/ab/52a9aba3-039d-d9df-376c-16a4ccaf32cb/AppIcon-production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-11-15",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
       "id": "600547573",
       "name": "PlantNet",
       "developer": "Cirad-France",
@@ -1352,13 +1288,77 @@
       ]
     },
     {
+      "rank": 81,
+      "id": "557130558",
+      "name": "HelloTalk - Language Learning",
+      "developer": "HELLOTALK FOREIGN LANGUAGE EXCHANGE LEARNING TALK CHAT APP",
+      "url": "https://apps.apple.com/au/app/hellotalk-language-learning/id557130558?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/f8/5e/c1f85e28-8f63-1dda-7ae6-ae7f9b777e79/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-15",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1639875485",
+      "name": "Simply Draw: Learn to Draw",
+      "developer": "Simply Ltd",
+      "url": "https://apps.apple.com/au/app/simply-draw-learn-to-draw/id1639875485?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/a9/ab/52a9aba3-039d-d9df-376c-16a4ccaf32cb/AppIcon-production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-11-15",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "451719402",
+      "name": "Kids Colouring Drawing Games",
+      "developer": "KidloLand Kids & Toddler Games",
+      "url": "https://apps.apple.com/au/app/kids-colouring-drawing-games/id451719402?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/fc/c5/e3fcc5da-24c5-ecf7-68d8-e5883481e9eb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-21",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1405735469",
+      "name": "Pimsleur | Language Learning",
+      "developer": "Simon & Schuster",
+      "url": "https://apps.apple.com/au/app/pimsleur-language-learning/id1405735469?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/4c/55/214c554a-a1e0-0c4c-fc2f-e1589c1b8302/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-08-06",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 85,
-      "id": "6802173844",
-      "name": "Suncoast Christian College App",
-      "developer": "Christian Outreach Centre (AU)",
-      "url": "https://apps.apple.com/au/app/suncoast-christian-college-app/id6802173844?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/36/ca/5136ca4d-a1fd-c260-1bab-45f664dcb9d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-17",
+      "id": "1564657118",
+      "name": "ArtWorkout: Draw・Paint・Sketch",
+      "developer": "Aleksandr Ulitin",
+      "url": "https://apps.apple.com/au/app/artworkout-draw-paint-sketch/id1564657118?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/f8/3b/fbf83b72-ef6d-5bd0-ceb5-6cc178de9db0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-04-29",
       "genres": [
         {
           "id": "6017",
@@ -1369,12 +1369,12 @@
     },
     {
       "rank": 86,
-      "id": "543437097",
-      "name": "ClassCover",
-      "developer": "Class Cover Pty Ltd",
-      "url": "https://apps.apple.com/au/app/classcover/id543437097?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/0a/4e/d70a4efc-4af7-d422-bfe9-98366b2bf827/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-08-01",
+      "id": "1378467217",
+      "name": "Khan Academy Kids",
+      "developer": "Khan Academy",
+      "url": "https://apps.apple.com/au/app/khan-academy-kids/id1378467217?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/ce/92/12ce925e-f0d0-6167-4dc6-8085abaed20e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-08-05",
       "genres": [
         {
           "id": "6017",
@@ -1385,12 +1385,12 @@
     },
     {
       "rank": 87,
-      "id": "1476035637",
-      "name": "Applaydu: Talk & Play",
-      "developer": "FERRERO TRADING LUX S.A.",
-      "url": "https://apps.apple.com/au/app/applaydu-talk-play/id1476035637?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/38/d9/f238d93d-7711-7755-6620-39e52c621a31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-05",
+      "id": "6768394254",
+      "name": "Toca Boca Jr Kitchen NETFLIX",
+      "developer": "Netflix, Inc.",
+      "url": "https://apps.apple.com/au/app/toca-boca-jr-kitchen-netflix/id6768394254?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/c0/97/ddc0974c-739a-4da9-9379-4d472bea283c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-21",
       "genres": [
         {
           "id": "6017",
@@ -1401,6 +1401,22 @@
     },
     {
       "rank": 88,
+      "id": "6479639235",
+      "name": "Airlearn - Language Learning",
+      "developer": "UNACADEMY INC",
+      "url": "https://apps.apple.com/au/app/airlearn-language-learning/id6479639235?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/b1/c8/89b1c8b7-14db-80e5-3803-c6cc22f1b60c/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-04-23",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
       "id": "1223397201",
       "name": "Kiddopia: Kids Learning Games",
       "developer": "Kiddopia, Inc.",
@@ -1416,7 +1432,23 @@
       ]
     },
     {
-      "rank": 89,
+      "rank": 90,
+      "id": "6780309160",
+      "name": "Hourly Kana: Learn Japanese",
+      "developer": "Radish Retail, LLC",
+      "url": "https://apps.apple.com/au/app/hourly-kana-learn-japanese/id6780309160?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/31/90/bc319011-ef6a-2073-27e1-0f983e3f2524/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-02",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
       "id": "943869618",
       "name": "Toca Boca Jr: Fun Kids Games",
       "developer": "Piknik",
@@ -1432,45 +1464,13 @@
       ]
     },
     {
-      "rank": 90,
-      "id": "6511242367",
-      "name": "Paladin: Learn History",
-      "developer": "DEEPSTASH SRL",
-      "url": "https://apps.apple.com/au/app/paladin-learn-history/id6511242367?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/78/c9/6b78c998-a1a1-ed68-1975-d7f34ae04426/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-09-20",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "6749684855",
-      "name": "Midoo: Learn English & Spanish",
-      "developer": "Vakhtan Gobronidze",
-      "url": "https://apps.apple.com/au/app/midoo-learn-english-spanish/id6749684855?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e0/dd/8ae0dd95-8b5d-e4e9-bb85-808ecb3b9b97/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-08-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 92,
-      "id": "6798336788",
-      "name": "Concrete LCA",
-      "developer": "Grant Freeman",
-      "url": "https://apps.apple.com/au/app/concrete-lca/id6798336788?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/41/81/a84181c4-ba21-f152-1ec9-ee323f36cc0a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-08",
+      "id": "1474248135",
+      "name": "Bebi: Baby Games for Toddler",
+      "developer": "Bebi Family Games",
+      "url": "https://apps.apple.com/au/app/bebi-baby-games-for-toddler/id1474248135?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/88/5e/61885e8f-e0a4-b699-1499-e0a5c452458f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-07-29",
       "genres": [
         {
           "id": "6017",
@@ -1497,12 +1497,12 @@
     },
     {
       "rank": 94,
-      "id": "1378467217",
-      "name": "Khan Academy Kids",
-      "developer": "Khan Academy",
-      "url": "https://apps.apple.com/au/app/khan-academy-kids/id1378467217?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/ce/92/12ce925e-f0d0-6167-4dc6-8085abaed20e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-08-05",
+      "id": "6740720452",
+      "name": "Sovi.AI - AI Study Companion",
+      "developer": "Edgewise PTE",
+      "url": "https://apps.apple.com/au/app/sovi-ai-ai-study-companion/id6740720452?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/23/dc/3b23dc5b-4f39-5bd8-8bb0-a56cf1cbd362/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-02-05",
       "genres": [
         {
           "id": "6017",
@@ -1513,12 +1513,12 @@
     },
     {
       "rank": 95,
-      "id": "889034501",
-      "name": "ProctorExam",
-      "developer": "Procwise",
-      "url": "https://apps.apple.com/au/app/proctorexam/id889034501?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/5c/80/685c801b-6391-d69d-e3da-fa6805ac69f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-07-30",
+      "id": "6767127029",
+      "name": "Citizenship Test AU 2026 [New]",
+      "developer": "Holy Traction",
+      "url": "https://apps.apple.com/au/app/citizenship-test-au-2026-new/id6767127029?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/6c/78/ca6c78e0-d83f-2be3-4e50-7482848ddfcb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-13",
       "genres": [
         {
           "id": "6017",
@@ -1545,43 +1545,11 @@
     },
     {
       "rank": 97,
-      "id": "1542535191",
-      "name": "Star Guide: Night Sky Map",
-      "developer": "Star register",
-      "url": "https://apps.apple.com/au/app/star-guide-night-sky-map/id1542535191?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/9e/b5/f29eb589-986a-d05c-4ed8-6470438d0c03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-30",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 98,
-      "id": "1460579936",
-      "name": "Falou - Fast language learning",
-      "developer": "Moymer",
-      "url": "https://apps.apple.com/au/app/falou-fast-language-learning/id1460579936?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/ad/93/1cad9361-61c8-e30c-f22b-0ed475c9b483/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-07-26",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Education",
-          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 99,
       "id": "1550204730",
       "name": "Pok Pok | Montessori Preschool",
       "developer": "Pok Pok",
       "url": "https://apps.apple.com/au/app/pok-pok-montessori-preschool/id1550204730?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ca/bd/4acabd15-a678-ef53-eaf0-8c5ea8d3966e/AppIcon_September-0-0-1x_U007emarketing-0-11-0-sRGB-0-512MB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/45/16/d44516ee-f9aa-f2e1-d4e3-1c06200f8388/AppIcon_September-0-0-1x_U007emarketing-0-11-0-sRGB-0-512MB-85-220.png/100x100bb.png",
       "release_date": "2021-05-19",
       "genres": [
         {
@@ -1592,13 +1560,45 @@
       ]
     },
     {
+      "rank": 98,
+      "id": "533412119",
+      "name": "ABC Kids Games for Toddler 2+",
+      "developer": "KidloLand Kids & Toddler Games",
+      "url": "https://apps.apple.com/au/app/abc-kids-games-for-toddler-2/id533412119?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/2f/a9/982fa908-e4a2-4436-b1b7-7cc817e1b5a4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2012-07-28",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "469863705",
+      "name": "Khan Academy",
+      "developer": "Khan Academy",
+      "url": "https://apps.apple.com/au/app/khan-academy/id469863705?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/5a/03/ca5a03ca-7830-10c6-9cc3-cf2a2ce60f05/AppIconDefault-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-03-11",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Education",
+          "url": "https://apps.apple.com/au/genre/ios-education/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 100,
-      "id": "6746772941",
-      "name": "Netflix Playground",
-      "developer": "Netflix, Inc.",
-      "url": "https://apps.apple.com/au/app/netflix-playground/id6746772941?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/1b/e4/3e1be4bb-de13-352d-be72-b48bf0a85b26/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-06",
+      "id": "6511242367",
+      "name": "Paladin: Learn History",
+      "developer": "DEEPSTASH SRL",
+      "url": "https://apps.apple.com/au/app/paladin-learn-history/id6511242367?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/78/c9/6b78c998-a1a1-ed68-1975-d7f34ae04426/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-09-20",
       "genres": [
         {
           "id": "6017",

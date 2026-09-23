@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:12:04.304353+09:00",
+  "collected_at": "2026-09-23T21:05:03.783292+09:00",
   "date": "2026-09-23",
   "country": "ca",
   "chart": "top-free",
@@ -9,12 +9,12 @@
   "apps": [
     {
       "rank": 1,
-      "id": "1500855883",
-      "name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "url": "https://apps.apple.com/ca/app/capcut-photo-video-editor/id1500855883?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/7d/61/a97d6162-c9cb-8fa3-d671-dae8538cb974/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-04-14",
+      "id": "6745820631",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "url": "https://apps.apple.com/ca/app/shots-photo-video-generator/id6745820631?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-04",
       "genres": [
         {
           "id": "6008",
@@ -25,12 +25,12 @@
     },
     {
       "rank": 2,
-      "id": "6738967378",
-      "name": "Edits: Video Editor",
-      "developer": "Instagram, Inc.",
-      "url": "https://apps.apple.com/ca/app/edits-video-editor/id6738967378?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6d/2f/1c6d2f88-0ecc-6c76-71bf-07beeb50b4c1/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-04-22",
+      "id": "1500855883",
+      "name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "url": "https://apps.apple.com/ca/app/capcut-photo-video-editor/id1500855883?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/7d/61/a97d6162-c9cb-8fa3-d671-dae8538cb974/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-04-14",
       "genres": [
         {
           "id": "6008",
@@ -57,12 +57,12 @@
     },
     {
       "rank": 4,
-      "id": "544007664",
-      "name": "YouTube",
-      "developer": "Google",
-      "url": "https://apps.apple.com/ca/app/youtube/id544007664?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/b1/78/13b17848-b698-3724-af84-0b284dd4c54e/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2012-09-11",
+      "id": "6738967378",
+      "name": "Edits: Video Editor",
+      "developer": "Instagram, Inc.",
+      "url": "https://apps.apple.com/ca/app/edits-video-editor/id6738967378?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6d/2f/1c6d2f88-0ecc-6c76-71bf-07beeb50b4c1/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-04-22",
       "genres": [
         {
           "id": "6008",
@@ -89,6 +89,38 @@
     },
     {
       "rank": 6,
+      "id": "544007664",
+      "name": "YouTube",
+      "developer": "Google",
+      "url": "https://apps.apple.com/ca/app/youtube/id544007664?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/b1/78/13b17848-b698-3724-af84-0b284dd4c54e/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-09-11",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "447188370",
+      "name": "Snapchat",
+      "developer": "Snap, Inc.",
+      "url": "https://apps.apple.com/ca/app/snapchat/id447188370?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/21/58/372158fe-98a6-5e2f-2a43-feb2ca74619a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-07-13",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "id": "962194608",
       "name": "Google Photos: Backup & Edit",
       "developer": "Google",
@@ -104,45 +136,13 @@
       ]
     },
     {
-      "rank": 7,
-      "id": "447188370",
-      "name": "Snapchat",
-      "developer": "Snap, Inc.",
-      "url": "https://apps.apple.com/ca/app/snapchat/id447188370?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/58/e2/3658e212-8c4e-c3ec-c664-f52519b74a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2011-07-13",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "id": "1289057196",
       "name": "Photo Collage Maker: SCRL",
       "developer": "Appostrophe AB",
       "url": "https://apps.apple.com/ca/app/photo-collage-maker-scrl/id1289057196?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/ea/10/0eea109c-25ee-f906-0bd5-0c306e6fc6a8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/59/71/5d5971f8-f918-6dd5-dbe4-5957e700e7a1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2017-10-17",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "id": "6745820631",
-      "name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "url": "https://apps.apple.com/ca/app/shots-photo-video-generator/id6745820631?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-04",
       "genres": [
         {
           "id": "6008",
@@ -189,7 +189,7 @@
       "name": "Twitch: Live Streaming",
       "developer": "Twitch Interactive, Inc.",
       "url": "https://apps.apple.com/ca/app/twitch-live-streaming/id460177396?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/74/5e/d1745e19-8ced-0316-26a1-b259803e1efd/TwitchAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/6e/fe/ac6efeff-c9ff-0262-9559-b063412bac53/TwitchAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "release_date": "2011-10-26",
       "genres": [
         {
@@ -297,22 +297,6 @@
     },
     {
       "rank": 19,
-      "id": "1149994032",
-      "name": "Facetune: Video & Photo Editor",
-      "developer": "Lightricks Ltd.",
-      "url": "https://apps.apple.com/ca/app/facetune-video-photo-editor/id1149994032?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/e1/8e/81e18e81-9a59-dd39-09fd-5458adb27f1a/AppIconLiquidGlass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-11-24",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
       "id": "1477796092",
       "name": "Epson Smart Panel",
       "developer": "Seiko Epson Corporation",
@@ -328,135 +312,7 @@
       ]
     },
     {
-      "rank": 21,
-      "id": "6446202561",
-      "name": "KICK - Live Streaming",
-      "developer": "Kick Streaming",
-      "url": "https://apps.apple.com/ca/app/kick-live-streaming/id6446202561?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/a7/8c/3ea78cdf-1929-36b5-802d-b49091f4abea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-03-26",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "id": "878783582",
-      "name": "Lightroom: AI Photo Editor",
-      "developer": "Adobe Inc.",
-      "url": "https://apps.apple.com/ca/app/lightroom-ai-photo-editor/id878783582?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/72/2a/4c722a35-cad2-509c-dff1-4f720ab886b8/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2014-06-21",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "id": "621574163",
-      "name": "Amazon Photos: Photo & Video",
-      "developer": "AMZN Mobile LLC",
-      "url": "https://apps.apple.com/ca/app/amazon-photos-photo-video/id621574163?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ad/f5/99adf5f9-e5f0-12af-e549-111368642c66/AppIconRelease-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2013-05-09",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "id": "6449580241",
-      "name": "Blackmagic Camera",
-      "developer": "Blackmagic Design Inc",
-      "url": "https://apps.apple.com/ca/app/blackmagic-camera/id6449580241?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/47/8e/1c478ee4-c909-d459-1904-aa9443e4d1bb/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-14",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "id": "650377962",
-      "name": "VLC media player",
-      "developer": "VideoLAN",
-      "url": "https://apps.apple.com/ca/app/vlc-media-player/id650377962?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/7c/225a7c89-472a-8fa7-fe11-ed6aaa8a5c21/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-07-19",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "6478151677",
-      "name": "TikTok Studio",
-      "developer": "TikTok Ltd.",
-      "url": "https://apps.apple.com/ca/app/tiktok-studio/id6478151677?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/eb/34/8ceb34a0-f28c-5245-906f-ad3a1acdfcc1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-06-20",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "6740760807",
-      "name": "Kapi Cam - Y2K & CCD Camera",
-      "developer": "TETRAS.AI HONGKONG CO., LIMITED",
-      "url": "https://apps.apple.com/ca/app/kapi-cam-y2k-ccd-camera/id6740760807?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/3b/58/f83b5815-5cf6-1e8b-66ef-0f09ba485458/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-03",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "id": "439438619",
-      "name": "Snapseed: Photo Editor",
-      "developer": "Google",
-      "url": "https://apps.apple.com/ca/app/snapseed-photo-editor/id439438619?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/f0/56/94f05670-bf0d-66d9-42c2-039016617b92/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2011-06-06",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
+      "rank": 20,
       "id": "6755756425",
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
@@ -472,13 +328,13 @@
       ]
     },
     {
-      "rank": 30,
-      "id": "1644042837",
-      "name": "Hypic - Photo Editor & AI Art",
-      "developer": "Bytedance Pte. Ltd",
-      "url": "https://apps.apple.com/ca/app/hypic-photo-editor-ai-art/id1644042837?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/bf/a2/9abfa2a5-17e7-44ed-5da1-0e11efea8624/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-01-31",
+      "rank": 21,
+      "id": "1149994032",
+      "name": "Facetune: Video & Photo Editor",
+      "developer": "Lightricks Ltd.",
+      "url": "https://apps.apple.com/ca/app/facetune-video-photo-editor/id1149994032?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/e1/8e/81e18e81-9a59-dd39-09fd-5458adb27f1a/AppIconLiquidGlass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-11-24",
       "genres": [
         {
           "id": "6008",
@@ -488,23 +344,7 @@
       ]
     },
     {
-      "rank": 31,
-      "id": "1665024375",
-      "name": "Runway: AI Image & Video",
-      "developer": "runwayml",
-      "url": "https://apps.apple.com/ca/app/runway-ai-image-video/id1665024375?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/91/b2/7f91b2ea-c080-8dee-918e-b6b59cf6837b/runway-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2023-04-18",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
+      "rank": 22,
       "id": "6758041184",
       "name": "Dance AI - Video Generator",
       "developer": "DeePix AI",
@@ -520,13 +360,13 @@
       ]
     },
     {
-      "rank": 33,
-      "id": "1541407007",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "url": "https://apps.apple.com/ca/app/captions-ai-edits-your-video/id1541407007?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/04/f2/7e04f293-b8e4-ac92-ca32-6959771a913d/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-12-01",
+      "rank": 23,
+      "id": "1658822260",
+      "name": "Momo: AI Photo & Video Maker",
+      "developer": "SCALEUP YAZILIM HIZMETLERI",
+      "url": "https://apps.apple.com/ca/app/momo-ai-photo-video-maker/id1658822260?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/f5/63/fdf5634e-ae2e-ded1-f132-e8492bcfe889/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-12-31",
       "genres": [
         {
           "id": "6008",
@@ -536,12 +376,156 @@
       ]
     },
     {
-      "rank": 34,
+      "rank": 24,
+      "id": "6449580241",
+      "name": "Blackmagic Camera",
+      "developer": "Blackmagic Design Inc",
+      "url": "https://apps.apple.com/ca/app/blackmagic-camera/id6449580241?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/92/37/5e923705-edcf-bbab-d591-88bc376effc6/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-14",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "878783582",
+      "name": "Lightroom: AI Photo Editor",
+      "developer": "Adobe Inc.",
+      "url": "https://apps.apple.com/ca/app/lightroom-ai-photo-editor/id878783582?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/72/2a/4c722a35-cad2-509c-dff1-4f720ab886b8/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2014-06-21",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "621574163",
+      "name": "Amazon Photos: Photo & Video",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/ca/app/amazon-photos-photo-video/id621574163?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ad/f5/99adf5f9-e5f0-12af-e549-111368642c66/AppIconRelease-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2013-05-09",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "650377962",
+      "name": "VLC media player",
+      "developer": "VideoLAN",
+      "url": "https://apps.apple.com/ca/app/vlc-media-player/id650377962?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/7c/225a7c89-472a-8fa7-fe11-ed6aaa8a5c21/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-07-19",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "6756965785",
+      "name": "AI Video Generator - Vixel",
+      "developer": "FENIX MOBILE YAZILIM A.S.",
+      "url": "https://apps.apple.com/ca/app/ai-video-generator-vixel/id6756965785?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/4c/3f/494c3feb-7b2d-f897-ebbe-295d70172fad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-23",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "6478151677",
+      "name": "TikTok Studio",
+      "developer": "TikTok Ltd.",
+      "url": "https://apps.apple.com/ca/app/tiktok-studio/id6478151677?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/eb/34/8ceb34a0-f28c-5245-906f-ad3a1acdfcc1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-06-20",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "6446202561",
+      "name": "KICK - Live Streaming",
+      "developer": "Kick Streaming",
+      "url": "https://apps.apple.com/ca/app/kick-live-streaming/id6446202561?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/a7/8c/3ea78cdf-1929-36b5-802d-b49091f4abea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-03-26",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "439438619",
+      "name": "Snapseed: Photo Editor",
+      "developer": "Google",
+      "url": "https://apps.apple.com/ca/app/snapseed-photo-editor/id439438619?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/f0/56/94f05670-bf0d-66d9-42c2-039016617b92/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2011-06-06",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1018368216",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "url": "https://apps.apple.com/ca/app/cantina-ai-video-characters/id1018368216?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/bd/d8/44bdd80f-a283-439f-4818-1c043af880fc/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-08-18",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
       "id": "1422471180",
       "name": "Dazz Cam - Vintage Camera",
       "developer": "DAZZ PTE. LTD.",
       "url": "https://apps.apple.com/ca/app/dazz-cam-vintage-camera/id1422471180?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/c8/2a/9ac82aa8-89bf-36ae-e50a-f18ce446e0c0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/8b/f5/9f8bf50c-e446-accc-918d-bc55ddfa6ab9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2018-08-17",
       "genres": [
         {
@@ -552,13 +536,29 @@
       ]
     },
     {
+      "rank": 34,
+      "id": "1665024375",
+      "name": "Runway: AI Image & Video",
+      "developer": "runwayml",
+      "url": "https://apps.apple.com/ca/app/runway-ai-image-video/id1665024375?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/91/b2/7f91b2ea-c080-8dee-918e-b6b59cf6837b/runway-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2023-04-18",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 35,
-      "id": "1018368216",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "url": "https://apps.apple.com/ca/app/cantina-ai-video-characters/id1018368216?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/bd/d8/44bdd80f-a283-439f-4818-1c043af880fc/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-08-18",
+      "id": "588013838",
+      "name": "VSCO: Photo Editor",
+      "developer": "Visual Supply Company",
+      "url": "https://apps.apple.com/ca/app/vsco-photo-editor/id588013838?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/e7/66/1ce766f5-79f9-a675-9a84-6bea44f29d77/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-06-06",
       "genres": [
         {
           "id": "6008",
@@ -585,12 +585,12 @@
     },
     {
       "rank": 37,
-      "id": "1638320348",
-      "name": "Muse Reel Maker & Video Editor",
-      "developer": "Bigrowth",
-      "url": "https://apps.apple.com/ca/app/muse-reel-maker-video-editor/id1638320348?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/af/9c/78af9cb6-0009-bed2-bf3b-6a28dd516750/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-11-06",
+      "id": "1644042837",
+      "name": "Hypic - Photo Editor & AI Art",
+      "developer": "Bytedance Pte. Ltd",
+      "url": "https://apps.apple.com/ca/app/hypic-photo-editor-ai-art/id1644042837?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/2e/17/f22e1794-536f-7df4-6cbe-2aa9016de9e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-01-31",
       "genres": [
         {
           "id": "6008",
@@ -601,70 +601,6 @@
     },
     {
       "rank": 38,
-      "id": "588013838",
-      "name": "VSCO: Photo Editor",
-      "developer": "Visual Supply Company",
-      "url": "https://apps.apple.com/ca/app/vsco-photo-editor/id588013838?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/e7/66/1ce766f5-79f9-a675-9a84-6bea44f29d77/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-06-06",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "517539894",
-      "name": "PhotoCircle",
-      "developer": "PhotoCircle, Inc.",
-      "url": "https://apps.apple.com/ca/app/photocircle/id517539894?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/33/d2/2533d272-4f63-90ba-5760-765d6ecd3c73/AppIcon-Prod-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-04-19",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "1325756279",
-      "name": "Prequel: Photo & Video Filters",
-      "developer": "Prequel Inc.",
-      "url": "https://apps.apple.com/ca/app/prequel-photo-video-filters/id1325756279?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/aa/24/09aa24f6-340a-1f33-93ac-4b74ae67f9f5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2018-03-28",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "997362197",
-      "name": "InShot - Video Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "url": "https://apps.apple.com/ca/app/inshot-video-editor/id997362197?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/5d/bf/4a5dbf34-7466-6a89-4f05-36f048950540/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-06-11",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
       "id": "1634361180",
       "name": "Vids AI: Reels & Stories Maker",
       "developer": "Viral Vision Ltd.",
@@ -680,7 +616,7 @@
       ]
     },
     {
-      "rank": 43,
+      "rank": 39,
       "id": "1343581380",
       "name": "VN: Photo & Video Editor",
       "developer": "Ubiquiti Labs, LLC",
@@ -696,13 +632,77 @@
       ]
     },
     {
+      "rank": 40,
+      "id": "997362197",
+      "name": "InShot - Video Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "url": "https://apps.apple.com/ca/app/inshot-video-editor/id997362197?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/8e/c5/618ec504-087e-b893-95e8-61e06914d6ea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-06-11",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "1638320348",
+      "name": "Muse Reel Maker & Video Editor",
+      "developer": "Bigrowth",
+      "url": "https://apps.apple.com/ca/app/muse-reel-maker-video-editor/id1638320348?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/af/9c/78af9cb6-0009-bed2-bf3b-6a28dd516750/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-06",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "1541407007",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "url": "https://apps.apple.com/ca/app/captions-ai-edits-your-video/id1541407007?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/04/f2/7e04f293-b8e4-ac92-ca32-6959771a913d/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-12-01",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "1325756279",
+      "name": "Prequel: Photo & Video Filters",
+      "developer": "Prequel Inc.",
+      "url": "https://apps.apple.com/ca/app/prequel-photo-video-filters/id1325756279?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/aa/24/09aa24f6-340a-1f33-93ac-4b74ae67f9f5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2018-03-28",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 44,
-      "id": "6478868302",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "url": "https://apps.apple.com/ca/app/ai-video-ai-video-generator/id6478868302?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/15/a5/4a15a5ef-52b5-056e-4e9f-8cfd7368157b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-03-29",
+      "id": "517539894",
+      "name": "PhotoCircle",
+      "developer": "PhotoCircle, Inc.",
+      "url": "https://apps.apple.com/ca/app/photocircle/id517539894?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/eb/ad/c0ebadfe-7fc5-bdbb-53d9-c98cab6d6e87/AppIcon-Prod-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-04-19",
       "genres": [
         {
           "id": "6008",
@@ -713,12 +713,12 @@
     },
     {
       "rank": 45,
-      "id": "936799728",
-      "name": "Popsa | Print Your Photos",
-      "developer": "Popsa",
-      "url": "https://apps.apple.com/ca/app/popsa-print-your-photos/id936799728?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/72/38/82723822-0648-d728-f0c0-611ddf83a3e3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2015-06-09",
+      "id": "6740760807",
+      "name": "Kapi Cam - Y2K & CCD Camera",
+      "developer": "TETRAS.AI HONGKONG CO., LIMITED",
+      "url": "https://apps.apple.com/ca/app/kapi-cam-y2k-ccd-camera/id6740760807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/3b/58/f83b5815-5cf6-1e8b-66ef-0f09ba485458/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-03",
       "genres": [
         {
           "id": "6008",
@@ -729,12 +729,12 @@
     },
     {
       "rank": 46,
-      "id": "1518008441",
-      "name": "Medal - Game Clipping",
-      "developer": "Medal B.V.",
-      "url": "https://apps.apple.com/ca/app/medal-game-clipping/id1518008441?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/b3/57/dab35761-ce21-bd62-d1ef-a617cb284411/MedalIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-12-03",
+      "id": "1179744119",
+      "name": "Frameo",
+      "developer": "Frameo A/S",
+      "url": "https://apps.apple.com/ca/app/frameo/id1179744119?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/1d/d9/1a1dd9ea-a5c6-e1d7-2951-a8c53a2c5621/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-12-08",
       "genres": [
         {
           "id": "6008",
@@ -745,12 +745,12 @@
     },
     {
       "rank": 47,
-      "id": "1179744119",
-      "name": "Frameo",
-      "developer": "Frameo A/S",
-      "url": "https://apps.apple.com/ca/app/frameo/id1179744119?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/1d/d9/1a1dd9ea-a5c6-e1d7-2951-a8c53a2c5621/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2016-12-08",
+      "id": "1518008441",
+      "name": "Medal - Game Clipping",
+      "developer": "Medal B.V.",
+      "url": "https://apps.apple.com/ca/app/medal-game-clipping/id1518008441?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/b3/57/dab35761-ce21-bd62-d1ef-a617cb284411/MedalIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-12-03",
       "genres": [
         {
           "id": "6008",
@@ -777,102 +777,6 @@
     },
     {
       "rank": 49,
-      "id": "592331499",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "url": "https://apps.apple.com/ca/app/beautycam-digicam-photo-editor/id592331499?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/4b/fa/f64bfa96-bdac-c752-4e32-25655239469b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2013-01-27",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "id": "990062908",
-      "name": "Aura Frames",
-      "developer": "Aura Home, Inc.",
-      "url": "https://apps.apple.com/ca/app/aura-frames/id990062908?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/e0/0d/93e00de9-9a6d-1a1c-2170-bb43e0a48bb6/Aura-icon-ios-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-07-19",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "530957474",
-      "name": "Collage Maker ◇",
-      "developer": "VIDEO EDITOR PTE. LTD.",
-      "url": "https://apps.apple.com/ca/app/collage-maker/id530957474?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/60/9d/66609d8c-2930-7f78-e94a-fdc8f528cf47/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-06-15",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "6443709020",
-      "name": "Retro — Photos with Friends",
-      "developer": "Lone Palm Labs, Inc.",
-      "url": "https://apps.apple.com/ca/app/retro-photos-with-friends/id6443709020?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/d7/40/5cd7407a-a8ae-6d65-e69d-3fd667a2686e/AppIcon-Chrome-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-07-13",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1438779037",
-      "name": "Skylight App",
-      "developer": "Skylight Frame",
-      "url": "https://apps.apple.com/ca/app/skylight-app/id1438779037?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/41/50/e2415041-3b3b-8407-8b2f-64eda1396414/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-10-15",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "1479649251",
-      "name": "DJI Fly",
-      "developer": "DJI",
-      "url": "https://apps.apple.com/ca/app/dji-fly/id1479649251?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/7c/4b/437c4b3a-a87f-461a-cc2b-8e59c0bbec78/Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-11-10",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
       "id": "448639966",
       "name": "PicCollage: Magic Photo Editor",
       "developer": "Cardinal Blue",
@@ -888,55 +792,103 @@
       ]
     },
     {
+      "rank": 50,
+      "id": "936799728",
+      "name": "Popsa | Print Your Photos",
+      "developer": "Popsa",
+      "url": "https://apps.apple.com/ca/app/popsa-print-your-photos/id936799728?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/72/38/82723822-0648-d728-f0c0-611ddf83a3e3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-06-09",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1438779037",
+      "name": "Skylight App",
+      "developer": "Skylight Frame",
+      "url": "https://apps.apple.com/ca/app/skylight-app/id1438779037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/41/50/e2415041-3b3b-8407-8b2f-64eda1396414/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-10-15",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "1479649251",
+      "name": "DJI Fly",
+      "developer": "DJI",
+      "url": "https://apps.apple.com/ca/app/dji-fly/id1479649251?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/7c/4b/437c4b3a-a87f-461a-cc2b-8e59c0bbec78/Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-11-10",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "990062908",
+      "name": "Aura Frames",
+      "developer": "Aura Home, Inc.",
+      "url": "https://apps.apple.com/ca/app/aura-frames/id990062908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/e0/0d/93e00de9-9a6d-1a1c-2170-bb43e0a48bb6/Aura-icon-ios-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-07-19",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "530957474",
+      "name": "Collage Maker ◇",
+      "developer": "VIDEO EDITOR PTE. LTD.",
+      "url": "https://apps.apple.com/ca/app/collage-maker/id530957474?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/60/9d/66609d8c-2930-7f78-e94a-fdc8f528cf47/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-06-15",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "592331499",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "url": "https://apps.apple.com/ca/app/beautycam-digicam-photo-editor/id592331499?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/4b/fa/f64bfa96-bdac-c752-4e32-25655239469b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-01-27",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 56,
-      "id": "944097177",
-      "name": "Canon Camera Connect",
-      "developer": "Canon Inc.",
-      "url": "https://apps.apple.com/ca/app/canon-camera-connect/id944097177?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/2f/5f/982f5ff1-aef3-7da0-bcba-f9bac426c45f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-01-06",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "1573791613",
-      "name": "Fontmaker - Font Keyboard App",
-      "developer": "Sociaaal LLC",
-      "url": "https://apps.apple.com/ca/app/fontmaker-font-keyboard-app/id1573791613?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/76/b7/9476b74a-bb7d-d7a1-a6d6-91c8580e32ff/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-07-26",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "6778837255",
-      "name": "SorAI - AI Video Generator",
-      "developer": "DES GRADNJE d.o.o.",
-      "url": "https://apps.apple.com/ca/app/sorai-ai-video-generator/id6778837255?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/0f/91/f30f9181-a0b9-70ea-75d0-4eab23bfede8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-07-16",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
       "id": "1455009060",
       "name": "Photoroom: AI Photo Editor",
       "developer": "Photoroom",
@@ -952,13 +904,13 @@
       ]
     },
     {
-      "rank": 60,
-      "id": "1658822260",
-      "name": "Momo: AI Photo & Video Maker",
-      "developer": "SCALEUP YAZILIM HIZMETLERI",
-      "url": "https://apps.apple.com/ca/app/momo-ai-photo-video-maker/id1658822260?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/f5/63/fdf5634e-ae2e-ded1-f132-e8492bcfe889/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-12-31",
+      "rank": 57,
+      "id": "6443709020",
+      "name": "Retro — Photos with Friends",
+      "developer": "Lone Palm Labs, Inc.",
+      "url": "https://apps.apple.com/ca/app/retro-photos-with-friends/id6443709020?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/d7/40/5cd7407a-a8ae-6d65-e69d-3fd667a2686e/AppIcon-Chrome-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-07-13",
       "genres": [
         {
           "id": "6008",
@@ -968,13 +920,13 @@
       ]
     },
     {
-      "rank": 61,
-      "id": "6447604690",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "url": "https://apps.apple.com/ca/app/ai-photo-video-editor-enhance/id6447604690?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/0d/d1/810dd1e0-26a9-c25e-92bd-e17ff61cdc04/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-27",
+      "rank": 58,
+      "id": "944097177",
+      "name": "Canon Camera Connect",
+      "developer": "Canon Inc.",
+      "url": "https://apps.apple.com/ca/app/canon-camera-connect/id944097177?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/2f/5f/982f5ff1-aef3-7da0-bcba-f9bac426c45f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-06",
       "genres": [
         {
           "id": "6008",
@@ -984,71 +936,7 @@
       ]
     },
     {
-      "rank": 62,
-      "id": "6743162587",
-      "name": "ElevenLabs: AI Generator",
-      "developer": "ElevenLabs, Inc.",
-      "url": "https://apps.apple.com/ca/app/elevenlabs-ai-generator/id6743162587?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/77/d9/a077d960-10a0-cf50-48c5-94ac670a7f56/AppIcon-Prod-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2025-06-24",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "314439840",
-      "name": "Groupsy by Photobucket",
-      "developer": "Photobucket.com",
-      "url": "https://apps.apple.com/ca/app/groupsy-by-photobucket/id314439840?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e3/9d/71e39dc3-cf82-c599-60a5-a5e88e026aad/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2009-06-08",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "6469552837",
-      "name": "Final Cut Camera",
-      "developer": "Apple",
-      "url": "https://apps.apple.com/ca/app/final-cut-camera/id6469552837?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/e2/c2/11e2c2d3-0a16-d772-582e-1001ab35f987/finalcutcamera-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-06-20",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "416048305",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "url": "https://apps.apple.com/ca/app/meitu-ai-photo-video-editor/id416048305?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/8c/2f/948c2f51-68e3-f083-e97e-41ad21f4685d/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2011-02-14",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
+      "rank": 59,
       "id": "1087803190",
       "name": "Hik-Connect - for End user",
       "developer": "Hangzhou Hikvision Digital Technology Co., Ltd.",
@@ -1064,13 +952,125 @@
       ]
     },
     {
+      "rank": 60,
+      "id": "6778837255",
+      "name": "SorAI - AI Video Generator",
+      "developer": "DES GRADNJE d.o.o.",
+      "url": "https://apps.apple.com/ca/app/sorai-ai-video-generator/id6778837255?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/0f/91/f30f9181-a0b9-70ea-75d0-4eab23bfede8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-07-16",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "1491299654",
+      "name": "Insta360",
+      "developer": "Insta360",
+      "url": "https://apps.apple.com/ca/app/insta360/id1491299654?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f9/a4/14f9a498-ee9d-2ae4-15b6-a96f5f0453aa/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2020-01-16",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "974748812",
+      "name": "GIPHY: The GIF Search Engine",
+      "developer": "Giphy, Inc.",
+      "url": "https://apps.apple.com/ca/app/giphy-the-gif-search-engine/id974748812?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/cd/94/c6cd9417-2378-450a-77bf-cfc1e734459d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-03-25",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6457366208",
+      "name": "Esti: Vintage Camera Filters",
+      "developer": "Prequel Inc.",
+      "url": "https://apps.apple.com/ca/app/esti-vintage-camera-filters/id6457366208?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/c0/a5/11c0a51f-950f-6bfa-2b49-e0878a996d85/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-10-25",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6743162587",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "url": "https://apps.apple.com/ca/app/elevenlabs-ai-voice-generator/id6743162587?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/43/0e/84430ee9-d5ff-452d-b0eb-b7a0688841ad/AppIcon-Prod-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-06-24",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6767802142",
+      "name": "PixVerse Lite",
+      "developer": "AIVORA PTE. LTD.",
+      "url": "https://apps.apple.com/ca/app/pixverse-lite/id6767802142?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/24/2e/d4242e47-667d-d304-5a51-01192533ac2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-27",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1573791613",
+      "name": "Fontmaker - Font Keyboard App",
+      "developer": "Sociaaal LLC",
+      "url": "https://apps.apple.com/ca/app/fontmaker-font-keyboard-app/id1573791613?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/76/b7/9476b74a-bb7d-d7a1-a6d6-91c8580e32ff/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-07-26",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 67,
-      "id": "998411110",
-      "name": "Airbrush: Face Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "url": "https://apps.apple.com/ca/app/airbrush-face-photo-editor/id998411110?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/c3/35/1cc335c0-fcd2-1273-623f-948be92ca3bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2015-10-07",
+      "id": "1598997500",
+      "name": "Video Lite",
+      "developer": "Video Lite, Inc.",
+      "url": "https://apps.apple.com/ca/app/video-lite/id1598997500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/39/b7/8139b7e9-5541-2247-0702-7e929bf229fd/AppIcon.Bolt.TV.Light-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2021-12-08",
       "genres": [
         {
           "id": "6008",
@@ -1097,12 +1097,12 @@
     },
     {
       "rank": 69,
-      "id": "6477182657",
-      "name": "Leica LUX - Pro Manual Camera",
-      "developer": "Leica Camera AG",
-      "url": "https://apps.apple.com/ca/app/leica-lux-pro-manual-camera/id6477182657?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/a7/74/bfa77425-02c2-7b2c-fea1-75c87564ba1e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-06-05",
+      "id": "6447604690",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "url": "https://apps.apple.com/ca/app/ai-photo-video-editor-enhance/id6447604690?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/0d/d1/810dd1e0-26a9-c25e-92bd-e17ff61cdc04/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-27",
       "genres": [
         {
           "id": "6008",
@@ -1113,12 +1113,12 @@
     },
     {
       "rank": 70,
-      "id": "1598997500",
-      "name": "Video Lite",
-      "developer": "Video Lite, Inc.",
-      "url": "https://apps.apple.com/ca/app/video-lite/id1598997500?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/39/b7/8139b7e9-5541-2247-0702-7e929bf229fd/AppIcon.Bolt.TV.Light-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2021-12-08",
+      "id": "998411110",
+      "name": "Airbrush: Face Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "url": "https://apps.apple.com/ca/app/airbrush-face-photo-editor/id998411110?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/c3/35/1cc335c0-fcd2-1273-623f-948be92ca3bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-07",
       "genres": [
         {
           "id": "6008",
@@ -1145,6 +1145,38 @@
     },
     {
       "rank": 72,
+      "id": "6742757464",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "url": "https://apps.apple.com/ca/app/adobe-premiere-ai-video-editor/id6742757464?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/21/50/99215087-85b8-4a77-3362-6add10faea9e/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-09-30",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6469552837",
+      "name": "Final Cut Camera",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/ca/app/final-cut-camera/id6469552837?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/e2/c2/11e2c2d3-0a16-d772-582e-1001ab35f987/finalcutcamera-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-06-20",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
       "id": "1489090807",
       "name": "Viidure",
       "developer": "Shenzhen Xiaozhen Technology Co.,Ltd.",
@@ -1160,45 +1192,13 @@
       ]
     },
     {
-      "rank": 73,
-      "id": "974748812",
-      "name": "GIPHY: The GIF Search Engine",
-      "developer": "Giphy, Inc.",
-      "url": "https://apps.apple.com/ca/app/giphy-the-gif-search-engine/id974748812?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/cd/94/c6cd9417-2378-450a-77bf-cfc1e734459d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-03-25",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "6457366208",
-      "name": "Esti: Vintage Camera Filters",
-      "developer": "Prequel Inc.",
-      "url": "https://apps.apple.com/ca/app/esti-vintage-camera-filters/id6457366208?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/c0/a5/11c0a51f-950f-6bfa-2b49-e0878a996d85/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-10-25",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 75,
-      "id": "1491299654",
-      "name": "Insta360",
-      "developer": "Insta360",
-      "url": "https://apps.apple.com/ca/app/insta360/id1491299654?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f9/a4/14f9a498-ee9d-2ae4-15b6-a96f5f0453aa/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2020-01-16",
+      "id": "6477182657",
+      "name": "Leica LUX - Pro Manual Camera",
+      "developer": "Leica Camera AG",
+      "url": "https://apps.apple.com/ca/app/leica-lux-pro-manual-camera/id6477182657?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/a7/74/bfa77425-02c2-7b2c-fea1-75c87564ba1e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-06-05",
       "genres": [
         {
           "id": "6008",
@@ -1225,214 +1225,6 @@
     },
     {
       "rank": 77,
-      "id": "6466298983",
-      "name": "Retake AI Face & Selfie Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "url": "https://apps.apple.com/ca/app/retake-ai-face-selfie-editor/id6466298983?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/a1/e1/5aa1e120-62e2-c279-89cb-e758a524134b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-10-01",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "6767802142",
-      "name": "PixVerse Lite",
-      "developer": "AIVORA PTE. LTD.",
-      "url": "https://apps.apple.com/ca/app/pixverse-lite/id6767802142?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/24/2e/d4242e47-667d-d304-5a51-01192533ac2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-27",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "373311252",
-      "name": "TouchRetouch: Remove Objects",
-      "developer": "ADVA Soft GmbH",
-      "url": "https://apps.apple.com/ca/app/touchretouch-remove-objects/id373311252?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/38/f6/0838f689-e194-3df2-9f38-a9aff67563f9/AppIconBasic-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2010-06-08",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "6742757464",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "url": "https://apps.apple.com/ca/app/adobe-premiere-ai-video-editor/id6742757464?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/21/50/99215087-85b8-4a77-3362-6add10faea9e/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-09-30",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "781383622",
-      "name": "Huji Cam",
-      "developer": "Manhole, Inc.",
-      "url": "https://apps.apple.com/ca/app/huji-cam/id781383622?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/30/88/49308847-8fa6-7b11-340b-fbf98354304a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-28",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "6742491720",
-      "name": "iFizz, AI Hair Try On & Dance",
-      "developer": "少涛 周",
-      "url": "https://apps.apple.com/ca/app/ifizz-ai-hair-try-on-dance/id6742491720?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a1/92/37a192c7-2e79-9b44-a39c-9bbecddb14f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-04",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "863844475",
-      "name": "YouCam Makeup: Face Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "url": "https://apps.apple.com/ca/app/youcam-makeup-face-editor/id863844475?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/97/8c/42978cc8-fe44-2ad0-b2b0-1e33cc937e7e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2014-08-12",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "1459833443",
-      "name": "Alight Motion",
-      "developer": "Bending Spoons Apps ApS",
-      "url": "https://apps.apple.com/ca/app/alight-motion/id1459833443?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/3b/7c/8c3b7ce9-68ef-ca83-9be6-8a4d3a54fbd3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-21",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "1579215073",
-      "name": "Blur Background Photo Effect",
-      "developer": "Shiho Sadamizu",
-      "url": "https://apps.apple.com/ca/app/blur-background-photo-effect/id1579215073?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/5e/1b/c85e1b5f-4193-9b77-0275-eb8fa613c34e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2021-08-17",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
-      "id": "6711356409",
-      "name": "AI Video Generator - HeyGen",
-      "developer": "HeyGen Technology Inc",
-      "url": "https://apps.apple.com/ca/app/ai-video-generator-heygen/id6711356409?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/b1/7c/3db17c29-9d43-40a1-f832-f3fafed125f1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-10-13",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "331975235",
-      "name": "Photoshop Express Photo Editor",
-      "developer": "Adobe Inc.",
-      "url": "https://apps.apple.com/ca/app/photoshop-express-photo-editor/id331975235?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/ea/41/6aea415d-a3c1-b7db-52cc-1bd0315895af/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2009-10-08",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "1037784828",
-      "name": "Photo Scanner App by Photomyne",
-      "developer": "Photomyne LTD",
-      "url": "https://apps.apple.com/ca/app/photo-scanner-app-by-photomyne/id1037784828?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/b1/72/32b17292-6c02-d6d0-c29e-e96e87a05a69/AppIconLite-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
-      "release_date": "2015-10-09",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6471394316",
-      "name": "invideo AI: AI Video Generator",
-      "developer": "Invideo Inc",
-      "url": "https://apps.apple.com/ca/app/invideo-ai-ai-video-generator/id6471394316?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/06/05/de060537-b740-594e-0a08-8921af6374a2/prodAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-11-15",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
       "id": "6451396274",
       "name": "VideoGPT - AI Video Generator",
       "developer": "ElevenThirteen LLC",
@@ -1448,13 +1240,13 @@
       ]
     },
     {
-      "rank": 91,
-      "id": "1594288016",
-      "name": "Wink: Video Enhancer & Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "url": "https://apps.apple.com/ca/app/wink-video-enhancer-editor/id1594288016?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/b7/d4/8ab7d4eb-b152-31dd-0eb5-b1aa8e3f8ad7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-12-17",
+      "rank": 78,
+      "id": "6711356409",
+      "name": "AI Video Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "url": "https://apps.apple.com/ca/app/ai-video-generator-heygen/id6711356409?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/b1/7c/3db17c29-9d43-40a1-f832-f3fafed125f1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-10-13",
       "genres": [
         {
           "id": "6008",
@@ -1464,7 +1256,39 @@
       ]
     },
     {
-      "rank": 92,
+      "rank": 79,
+      "id": "781383622",
+      "name": "Huji Cam",
+      "developer": "Manhole, Inc.",
+      "url": "https://apps.apple.com/ca/app/huji-cam/id781383622?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/30/88/49308847-8fa6-7b11-340b-fbf98354304a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-28",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "416048305",
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "url": "https://apps.apple.com/ca/app/meitu-ai-photo-video-editor/id416048305?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/8c/2f/948c2f51-68e3-f083-e97e-41ad21f4685d/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2011-02-14",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
       "id": "6758437998",
       "name": "ProCleaner - Clean Storage",
       "developer": "Talvion Tech L.L.C-FZ",
@@ -1480,7 +1304,199 @@
       ]
     },
     {
+      "rank": 82,
+      "id": "863844475",
+      "name": "YouCam Makeup: Face Editor",
+      "developer": "PERFECT MOBILE CORP.",
+      "url": "https://apps.apple.com/ca/app/youcam-makeup-face-editor/id863844475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/97/8c/42978cc8-fe44-2ad0-b2b0-1e33cc937e7e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-12",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "331975235",
+      "name": "Photoshop Express Photo Editor",
+      "developer": "Adobe Inc.",
+      "url": "https://apps.apple.com/ca/app/photoshop-express-photo-editor/id331975235?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/ea/41/6aea415d-a3c1-b7db-52cc-1bd0315895af/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2009-10-08",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "314439840",
+      "name": "Groupsy by Photobucket",
+      "developer": "Photobucket.com",
+      "url": "https://apps.apple.com/ca/app/groupsy-by-photobucket/id314439840?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e3/9d/71e39dc3-cf82-c599-60a5-a5e88e026aad/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2009-06-08",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6471394316",
+      "name": "invideo AI: AI Video Generator",
+      "developer": "Invideo Inc",
+      "url": "https://apps.apple.com/ca/app/invideo-ai-ai-video-generator/id6471394316?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/06/05/de060537-b740-594e-0a08-8921af6374a2/prodAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-11-15",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "6466298983",
+      "name": "Retake AI Face & Selfie Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "url": "https://apps.apple.com/ca/app/retake-ai-face-selfie-editor/id6466298983?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/a1/e1/5aa1e120-62e2-c279-89cb-e758a524134b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-10-01",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "373311252",
+      "name": "TouchRetouch: Remove Objects",
+      "developer": "ADVA Soft GmbH",
+      "url": "https://apps.apple.com/ca/app/touchretouch-remove-objects/id373311252?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/38/f6/0838f689-e194-3df2-9f38-a9aff67563f9/AppIconBasic-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2010-06-08",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6742491720",
+      "name": "iFizz, AI Hair Try On & Dance",
+      "developer": "少涛 周",
+      "url": "https://apps.apple.com/ca/app/ifizz-ai-hair-try-on-dance/id6742491720?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/d8/04/7cd804a6-a86a-eae3-a351-8131c4d621a8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-04",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "1579215073",
+      "name": "Blur Background Photo Effect",
+      "developer": "Shiho Sadamizu",
+      "url": "https://apps.apple.com/ca/app/blur-background-photo-effect/id1579215073?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/5e/1b/c85e1b5f-4193-9b77-0275-eb8fa613c34e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2021-08-17",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "1459833443",
+      "name": "Alight Motion",
+      "developer": "Bending Spoons Apps ApS",
+      "url": "https://apps.apple.com/ca/app/alight-motion/id1459833443?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/3b/7c/8c3b7ce9-68ef-ca83-9be6-8a4d3a54fbd3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-21",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1532482376",
+      "name": "Polycam 3D Scanner, LiDAR, 360",
+      "developer": "Polycam Inc.",
+      "url": "https://apps.apple.com/ca/app/polycam-3d-scanner-lidar-360/id1532482376?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/ea/d0/c7ead0cf-cf16-2b1e-9dec-390847ab3a58/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2020-09-28",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1540719743",
+      "name": "Toonapp: AI Photo & Video Art",
+      "developer": "Lyrebird Studio",
+      "url": "https://apps.apple.com/ca/app/toonapp-ai-photo-video-art/id1540719743?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/de/d7/eeded7cd-13d5-2a9a-5b71-6d8790bd8603/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-05",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 93,
+      "id": "6444498218",
+      "name": "Merkury Smart",
+      "developer": "Merkury Innovations LLC",
+      "url": "https://apps.apple.com/ca/app/merkury-smart/id6444498218?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/56/19/92561927-d8c1-d747-db1a-f3d7ee6fdf0c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-21",
+      "genres": [
+        {
+          "id": "6008",
+          "name": "Photo & Video",
+          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
       "id": "6443517019",
       "name": "Reel Maker, Video Editor・BEAT",
       "developer": "Onelight Apps CY Ltd",
@@ -1496,13 +1512,13 @@
       ]
     },
     {
-      "rank": 94,
-      "id": "6756965785",
-      "name": "AI Video Generator - Vixel",
-      "developer": "FENIX MOBILE YAZILIM A.S.",
-      "url": "https://apps.apple.com/ca/app/ai-video-generator-vixel/id6756965785?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/4c/3f/494c3feb-7b2d-f897-ebbe-295d70172fad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-23",
+      "rank": 95,
+      "id": "6748627650",
+      "name": "Chatlulu:Video&Photo Editor",
+      "developer": "Hong Kong Endless Flow Technology Limited",
+      "url": "https://apps.apple.com/ca/app/chatlulu-video-photo-editor/id6748627650?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ed/8e/f8ed8ea2-fd4c-7d64-ef3f-0687b8067b11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-05",
       "genres": [
         {
           "id": "6008",
@@ -1512,7 +1528,7 @@
       ]
     },
     {
-      "rank": 95,
+      "rank": 96,
       "id": "6476327393",
       "name": "YouTube Create",
       "developer": "Google",
@@ -1528,29 +1544,13 @@
       ]
     },
     {
-      "rank": 96,
-      "id": "6744956129",
-      "name": "Mapvia: My Travel Map",
-      "developer": "nguyen hiep",
-      "url": "https://apps.apple.com/ca/app/mapvia-my-travel-map/id6744956129?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/88/ba/2788bae0-561c-cb7b-af5a-71c722d5dfbc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-04-28",
-      "genres": [
-        {
-          "id": "6008",
-          "name": "Photo & Video",
-          "url": "https://apps.apple.com/ca/genre/ios-photo-video/id6008?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 97,
-      "id": "6749879609",
-      "name": "Fotura: AI PhotoKit",
-      "developer": "Thanh Nguyen Duy",
-      "url": "https://apps.apple.com/ca/app/fotura-ai-photokit/id6749879609?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ae/4b/b4ae4b8c-c734-23f9-c7e6-a04cc0f6f740/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-08-14",
+      "id": "1594288016",
+      "name": "Wink: Video Enhancer & Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "url": "https://apps.apple.com/ca/app/wink-video-enhancer-editor/id1594288016?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/b7/d4/8ab7d4eb-b152-31dd-0eb5-b1aa8e3f8ad7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-12-17",
       "genres": [
         {
           "id": "6008",
@@ -1561,12 +1561,12 @@
     },
     {
       "rank": 98,
-      "id": "1470373330",
-      "name": "Remini - AI Photo Editor",
-      "developer": "Bending Spoons Apps ApS",
-      "url": "https://apps.apple.com/ca/app/remini-ai-photo-editor/id1470373330?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e6/00/2ce600f2-e9ed-2af1-244e-680c58db77de/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-08-01",
+      "id": "6743615403",
+      "name": "OpusClip - AI video clipping",
+      "developer": "OpusClip",
+      "url": "https://apps.apple.com/ca/app/opusclip-ai-video-clipping/id6743615403?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/66/e8/8b66e8eb-fe37-aca0-0be4-284715509270/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-10",
       "genres": [
         {
           "id": "6008",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "561350520",
-      "name": "GoPro Quik",
-      "developer": "GoPro, Inc.",
-      "url": "https://apps.apple.com/ca/app/gopro-quik/id561350520?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/8d/d4/998dd44f-a5dd-f4bc-1ef0-ea8e12438f74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-10-08",
+      "id": "1454762989",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "url": "https://apps.apple.com/ca/app/instories-ai-photo-video/id1454762989?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/57/95/da5795d5-61f3-caf7-d9e4-b2b66d2f2e2f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2019-03-10",
       "genres": [
         {
           "id": "6008",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "785638228",
-      "name": "Photo Collage",
-      "developer": "Lyam Apps",
-      "url": "https://apps.apple.com/ca/app/photo-collage/id785638228?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/c4/d7/efc4d714-8e61-e43e-a2ce-5c76f0fb550c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-05-06",
+      "id": "509987785",
+      "name": "Collage Maker Edit Pic Jointer",
+      "developer": "Mosaic S.r.l.",
+      "url": "https://apps.apple.com/ca/app/collage-maker-edit-pic-jointer/id509987785?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/c8/4f/d4c84f4a-60ea-44b4-ffdf-a62d3b63843a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-03-20",
       "genres": [
         {
           "id": "6008",

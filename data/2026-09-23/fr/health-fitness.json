@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:11:52.256642+09:00",
+  "collected_at": "2026-09-23T21:04:51.758531+09:00",
   "date": "2026-09-23",
   "country": "fr",
   "chart": "top-free",
@@ -13,7 +13,7 @@
       "name": "Carte Vitale",
       "developer": "GIE SESAM Vitale",
       "url": "https://apps.apple.com/fr/app/carte-vitale/id1458351041?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/0a/29/db0a29ab-7e22-e57e-2aa5-98bd5eb1fa40/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ac/a2/beaca21b-9b1c-b183-7f7d-5b319caa19c3/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
       "release_date": "2019-10-18",
       "genres": [
         {
@@ -105,6 +105,22 @@
     },
     {
       "rank": 7,
+      "id": "1038369065",
+      "name": "Flo : calendrier menstruel",
+      "developer": "FLO HEALTH UK LIMITED",
+      "url": "https://apps.apple.com/fr/app/flo-calendrier-menstruel/id1038369065?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/bc/82/4bbc8292-a1be-5241-c7df-d984b94553c1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-10-03",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "id": "1633296501",
       "name": "Macadam: Compteur de Pas",
       "developer": "MACADAM TECHNOLOGIES, S.L.",
@@ -120,29 +136,13 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "946099227",
       "name": "Yazio: Compteur de Calories IA",
       "developer": "YAZIO",
       "url": "https://apps.apple.com/fr/app/yazio-compteur-de-calories-ia/id946099227?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/21/7e/ab217ed9-211a-b407-8337-d5baa82baf41/Yettie_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2015-01-06",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "id": "1038369065",
-      "name": "Flo : calendrier menstruel",
-      "developer": "FLO HEALTH UK LIMITED",
-      "url": "https://apps.apple.com/fr/app/flo-calendrier-menstruel/id1038369065?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/bc/82/4bbc8292-a1be-5241-c7df-d984b94553c1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-10-03",
       "genres": [
         {
           "id": "6013",
@@ -169,12 +169,12 @@
     },
     {
       "rank": 11,
-      "id": "1514794906",
-      "name": "Fitness Park App",
-      "developer": "Fitness Park developpement",
-      "url": "https://apps.apple.com/fr/app/fitness-park-app/id1514794906?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/e0/81/68e0814e-9dbd-14c8-2705-d5905752e5f9/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-06-05",
+      "id": "1064020872",
+      "name": "Foodvisor - Calorie et Régime",
+      "developer": "Foodvisor",
+      "url": "https://apps.apple.com/fr/app/foodvisor-calorie-et-r%C3%A9gime/id1064020872?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/b3/f5/b1b3f5b1-7dd5-cfe4-ec0d-e8c5f3951ca3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-02-12",
       "genres": [
         {
           "id": "6013",
@@ -185,12 +185,12 @@
     },
     {
       "rank": 12,
-      "id": "1064020872",
-      "name": "Foodvisor - Calorie et Régime",
-      "developer": "Foodvisor",
-      "url": "https://apps.apple.com/fr/app/foodvisor-calorie-et-r%C3%A9gime/id1064020872?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/b3/f5/b1b3f5b1-7dd5-cfe4-ec0d-e8c5f3951ca3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-02-12",
+      "id": "1514794906",
+      "name": "Fitness Park App",
+      "developer": "Fitness Park developpement",
+      "url": "https://apps.apple.com/fr/app/fitness-park-app/id1514794906?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/e0/81/68e0814e-9dbd-14c8-2705-d5905752e5f9/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-06-05",
       "genres": [
         {
           "id": "6013",
@@ -221,7 +221,7 @@
       "name": "AllTrails Rando Sentiers Carte",
       "developer": "AllTrails, Inc.",
       "url": "https://apps.apple.com/fr/app/alltrails-rando-sentiers-carte/id405075943?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/03/0f/00030f57-e64c-dbb0-e6fc-57ebb681ce32/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/ad/aa/dfadaafb-4a16-df93-e587-ccdf4cc25b3c/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2010-12-20",
       "genres": [
         {
@@ -281,12 +281,12 @@
     },
     {
       "rank": 18,
-      "id": "515900420",
-      "name": "RespiRelax+",
-      "developer": "Les Thermes d'Allevard",
-      "url": "https://apps.apple.com/fr/app/respirelax/id515900420?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/01/81/e7018163-c60d-3743-4a0e-31313dc452ad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2012-04-06",
+      "id": "941222646",
+      "name": "Petit BamBou: Méditation",
+      "developer": "FeelVeryBien SAS",
+      "url": "https://apps.apple.com/fr/app/petit-bambou-m%C3%A9ditation/id941222646?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/de/b4/b0deb4de-1109-c14b-359b-d62eef8d4bec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-12-14",
       "genres": [
         {
           "id": "6013",
@@ -297,12 +297,12 @@
     },
     {
       "rank": 19,
-      "id": "583446403",
-      "name": "Garmin Connect™",
-      "developer": "Garmin",
-      "url": "https://apps.apple.com/fr/app/garmin-connect/id583446403?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/bf/17/c1bf1765-2b06-e4a7-fa3e-d697f5d5ca52/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-01-09",
+      "id": "6808932056",
+      "name": "Winterarc - Défi 90 jours",
+      "developer": "Victor Gassmann",
+      "url": "https://apps.apple.com/fr/app/winterarc-d%C3%A9fi-90-jours/id6808932056?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/47/37/1947377d-4aa8-c660-327c-a57f1b94659a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-16",
       "genres": [
         {
           "id": "6013",
@@ -313,22 +313,6 @@
     },
     {
       "rank": 20,
-      "id": "6448081563",
-      "name": "Liftoff: Heavy Workout Planner",
-      "developer": "Liftoff Labs Inc.",
-      "url": "https://apps.apple.com/fr/app/liftoff-heavy-workout-planner/id6448081563?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/78/18/fd7818a5-b891-bd1f-6760-f0f6648b8e2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-07-25",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
       "id": "1669524120",
       "name": "MGEN",
       "developer": "MGEN Union",
@@ -344,13 +328,29 @@
       ]
     },
     {
+      "rank": 21,
+      "id": "515900420",
+      "name": "RespiRelax+",
+      "developer": "Les Thermes d'Allevard",
+      "url": "https://apps.apple.com/fr/app/respirelax/id515900420?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/01/81/e7018163-c60d-3743-4a0e-31313dc452ad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2012-04-06",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 22,
-      "id": "1421025002",
-      "name": "EGYM Wellpass",
-      "developer": "EGYM Wellpass GmbH",
-      "url": "https://apps.apple.com/fr/app/egym-wellpass/id1421025002?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/82/8a/3a828a9d-e45a-c0ac-5a7f-c8ef34562d93/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-12-12",
+      "id": "583446403",
+      "name": "Garmin Connect™",
+      "developer": "Garmin",
+      "url": "https://apps.apple.com/fr/app/garmin-connect/id583446403?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/bf/17/c1bf1765-2b06-e4a7-fa3e-d697f5d5ca52/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-01-09",
       "genres": [
         {
           "id": "6013",
@@ -361,12 +361,12 @@
     },
     {
       "rank": 23,
-      "id": "976506047",
-      "name": "Technogym app: fitness & sport",
-      "developer": "Technogym",
-      "url": "https://apps.apple.com/fr/app/technogym-app-fitness-sport/id976506047?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/0c/b2/610cb28b-3e93-fcb1-c1e4-bf631dfbbd52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-04-30",
+      "id": "6448081563",
+      "name": "Liftoff: Heavy Workout Planner",
+      "developer": "Liftoff Labs Inc.",
+      "url": "https://apps.apple.com/fr/app/liftoff-heavy-workout-planner/id6448081563?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/78/18/fd7818a5-b891-bd1f-6760-f0f6648b8e2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-07-25",
       "genres": [
         {
           "id": "6013",
@@ -393,6 +393,22 @@
     },
     {
       "rank": 25,
+      "id": "976506047",
+      "name": "Technogym app: fitness & sport",
+      "developer": "Technogym",
+      "url": "https://apps.apple.com/fr/app/technogym-app-fitness-sport/id976506047?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/0c/b2/610cb28b-3e93-fcb1-c1e4-bf631dfbbd52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-04-30",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
       "id": "495106186",
       "name": "Decathlon Coach: Sport/Running",
       "developer": "Decathlon",
@@ -408,29 +424,13 @@
       ]
     },
     {
-      "rank": 26,
-      "id": "6443740936",
-      "name": "Lyfta : Carnet de Musculation",
-      "developer": "Lindberg Development AS",
-      "url": "https://apps.apple.com/fr/app/lyfta-carnet-de-musculation/id6443740936?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/b5/dd/33b5ddb6-016e-aae2-985e-079bdd956e1f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-10-10",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 27,
-      "id": "941222646",
-      "name": "Petit BamBou: Méditation",
-      "developer": "FeelVeryBien SAS",
-      "url": "https://apps.apple.com/fr/app/petit-bambou-m%C3%A9ditation/id941222646?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/de/b4/b0deb4de-1109-c14b-359b-d62eef8d4bec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-12-14",
+      "id": "1421025002",
+      "name": "EGYM Wellpass",
+      "developer": "EGYM Wellpass GmbH",
+      "url": "https://apps.apple.com/fr/app/egym-wellpass/id1421025002?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/f9/ce/bdf9ce72-58d2-c331-a618-311ef1470736/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-12-12",
       "genres": [
         {
           "id": "6013",
@@ -441,12 +441,12 @@
     },
     {
       "rank": 28,
-      "id": "1380623834",
-      "name": "Kiplin",
-      "developer": "Kiplin",
-      "url": "https://apps.apple.com/fr/app/kiplin/id1380623834?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0d/6e/e80d6ec7-9f76-5ee0-f249-82251390d6a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-13",
+      "id": "6443740936",
+      "name": "Lyfta : Carnet de Musculation",
+      "developer": "Lindberg Development AS",
+      "url": "https://apps.apple.com/fr/app/lyfta-carnet-de-musculation/id6443740936?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/1f/c3/861fc3ea-037c-67b9-ee7a-d07637fba548/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-10",
       "genres": [
         {
           "id": "6013",
@@ -457,12 +457,12 @@
     },
     {
       "rank": 29,
-      "id": "6784181375",
-      "name": "Blood Pressure Touch: Log&Info",
-      "developer": "FOTURE MOTOR LIMITED",
-      "url": "https://apps.apple.com/fr/app/blood-pressure-touch-log-info/id6784181375?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/a3/27/34a327ec-1cf3-885d-276c-bb9b1ee69464/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-02",
+      "id": "1037595083",
+      "name": "StepsApp Podomètre",
+      "developer": "StepsApp GmbH",
+      "url": "https://apps.apple.com/fr/app/stepsapp-podom%C3%A8tre/id1037595083?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/a7/d9/2da7d9dd-44bc-bf93-2d5c-2d0b1b307744/AppIconNew-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-10",
       "genres": [
         {
           "id": "6013",
@@ -473,12 +473,12 @@
     },
     {
       "rank": 30,
-      "id": "912947244",
-      "name": "ClassPass: Fitness, Spa, Salon",
-      "developer": "ClassPass, LLC",
-      "url": "https://apps.apple.com/fr/app/classpass-fitness-spa-salon/id912947244?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/16/0e/e0160ed6-bea5-de55-c464-e64fedffea3c/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-12-17",
+      "id": "876080126",
+      "name": "Motivation - Citations",
+      "developer": "Monkey Taps",
+      "url": "https://apps.apple.com/fr/app/motivation-citations/id876080126?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/af/e4/89afe4fa-289b-3c02-ce96-038643eb9e56/0_motivation-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-05-13",
       "genres": [
         {
           "id": "6013",
@@ -489,12 +489,12 @@
     },
     {
       "rank": 31,
-      "id": "6741707862",
-      "name": "Welmi - Compteur de calories",
-      "developer": "T-SHAPED APPS LTD",
-      "url": "https://apps.apple.com/fr/app/welmi-compteur-de-calories/id6741707862?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/69/96/4d6996b0-0869-e688-e189-9967e5f18ac3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-02-28",
+      "id": "912947244",
+      "name": "ClassPass: Fitness, Spa, Salon",
+      "developer": "ClassPass, LLC",
+      "url": "https://apps.apple.com/fr/app/classpass-fitness-spa-salon/id912947244?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/16/0e/e0160ed6-bea5-de55-c464-e64fedffea3c/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-12-17",
       "genres": [
         {
           "id": "6013",
@@ -521,12 +521,12 @@
     },
     {
       "rank": 33,
-      "id": "1037595083",
-      "name": "StepsApp Podomètre",
-      "developer": "StepsApp GmbH",
-      "url": "https://apps.apple.com/fr/app/stepsapp-podom%C3%A8tre/id1037595083?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/d6/f9/64d6f942-1325-2d46-c948-99b7c3e3b15b/AppIconNew-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2015-10-10",
+      "id": "6741707862",
+      "name": "Welmi - Compteur de calories",
+      "developer": "T-SHAPED APPS LTD",
+      "url": "https://apps.apple.com/fr/app/welmi-compteur-de-calories/id6741707862?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/74/d4/e274d42a-d395-2610-16a9-1a32e1cfe7fc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-02-28",
       "genres": [
         {
           "id": "6013",
@@ -537,12 +537,12 @@
     },
     {
       "rank": 34,
-      "id": "6480122926",
-      "name": "EXO, Sport = Argent + Cadeau",
-      "developer": "EXO",
-      "url": "https://apps.apple.com/fr/app/exo-sport-argent-cadeau/id6480122926?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/1e/1f/001e1f5c-4719-35cb-09d7-824f9d894faa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2024-08-19",
+      "id": "1380623834",
+      "name": "Kiplin",
+      "developer": "Kiplin",
+      "url": "https://apps.apple.com/fr/app/kiplin/id1380623834?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0d/6e/e80d6ec7-9f76-5ee0-f249-82251390d6a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-13",
       "genres": [
         {
           "id": "6013",
@@ -569,22 +569,6 @@
     },
     {
       "rank": 36,
-      "id": "1134599112",
-      "name": "OpenRunner – Vélo rando trail",
-      "developer": "Openrunner",
-      "url": "https://apps.apple.com/fr/app/openrunner-v%C3%A9lo-rando-trail/id1134599112?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/25/18/3a25184a-c1c5-7191-c478-482e0ab02573/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2017-06-01",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
       "id": "1545327508",
       "name": "Malakoff Humanis",
       "developer": "Malakoff Humanis",
@@ -600,71 +584,23 @@
       ]
     },
     {
+      "rank": 37,
+      "id": "6480122926",
+      "name": "EXO, Sport = Argent + Cadeau",
+      "developer": "EXO",
+      "url": "https://apps.apple.com/fr/app/exo-sport-argent-cadeau/id6480122926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/1e/1f/001e1f5c-4719-35cb-09d7-824f9d894faa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2024-08-19",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 38,
-      "id": "6444737095",
-      "name": "StressWatch : Moniteur VFC IA",
-      "developer": "One Hundred Bad Ideas Limited",
-      "url": "https://apps.apple.com/fr/app/stresswatch-moniteur-vfc-ia/id6444737095?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/14/c4/5c14c489-ccac-273e-6286-533cffa93fe5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-26",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "1597264549",
-      "name": "Kiprun Pacer Courir Running",
-      "developer": "Decathlon",
-      "url": "https://apps.apple.com/fr/app/kiprun-pacer-courir-running/id1597264549?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/ba/9f/faba9f51-f47f-d0cf-c15b-7d08f58a3cb4/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-09-28",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "1370422527",
-      "name": "Harmonie & moi",
-      "developer": "Harmonie Mutuelle",
-      "url": "https://apps.apple.com/fr/app/harmonie-moi/id1370422527?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/44/6f/2a446f22-90c5-34c5-83a7-8975eae31b86/AppIcon-PROD-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-08-03",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "1276113963",
-      "name": "INCI Beauty",
-      "developer": "INCI Beauty",
-      "url": "https://apps.apple.com/fr/app/inci-beauty/id1276113963?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/58/0e/fa580e2e-1003-bffd-c0e9-43a520c3bdc1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2017-11-08",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
       "id": "424225812",
       "name": "GENERATION - Espace assuré",
       "developer": "Génération SAS",
@@ -680,13 +616,13 @@
       ]
     },
     {
-      "rank": 43,
-      "id": "336599882",
-      "name": "adidas Running : traqueur GPS",
-      "developer": "adidas",
-      "url": "https://apps.apple.com/fr/app/adidas-running-traqueur-gps/id336599882?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d4/a1/57d4a1d5-d98a-edec-3fc5-84e94359fce6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2009-11-23",
+      "rank": 39,
+      "id": "1370422527",
+      "name": "Harmonie & moi",
+      "developer": "Harmonie Mutuelle",
+      "url": "https://apps.apple.com/fr/app/harmonie-moi/id1370422527?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/44/6f/2a446f22-90c5-34c5-83a7-8975eae31b86/AppIcon-PROD-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-08-03",
       "genres": [
         {
           "id": "6013",
@@ -696,7 +632,7 @@
       ]
     },
     {
-      "rank": 44,
+      "rank": 40,
       "id": "387771637",
       "name": "Nike Run Club : running, santé",
       "developer": "Nike, Inc",
@@ -712,13 +648,13 @@
       ]
     },
     {
-      "rank": 45,
-      "id": "1611158928",
-      "name": "MindDay: thérapie et bien-être",
-      "developer": "mindDay SAS",
-      "url": "https://apps.apple.com/fr/app/mindday-th%C3%A9rapie-et-bien-%C3%AAtre/id1611158928?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/d6/ca/dad6ca5a-dc8d-42da-ce52-5b63d7535f93/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-09-15",
+      "rank": 41,
+      "id": "1134599112",
+      "name": "OpenRunner – Vélo rando trail",
+      "developer": "Openrunner",
+      "url": "https://apps.apple.com/fr/app/openrunner-v%C3%A9lo-rando-trail/id1134599112?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/25/18/3a25184a-c1c5-7191-c478-482e0ab02573/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2017-06-01",
       "genres": [
         {
           "id": "6013",
@@ -728,7 +664,23 @@
       ]
     },
     {
-      "rank": 46,
+      "rank": 42,
+      "id": "336599882",
+      "name": "adidas Running : traqueur GPS",
+      "developer": "adidas",
+      "url": "https://apps.apple.com/fr/app/adidas-running-traqueur-gps/id336599882?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d4/a1/57d4a1d5-d98a-edec-3fc5-84e94359fce6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2009-11-23",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
       "id": "657189652",
       "name": "Clue calendrier des règles",
       "developer": "BioWink GmbH",
@@ -744,13 +696,61 @@
       ]
     },
     {
+      "rank": 44,
+      "id": "6444737095",
+      "name": "StressWatch : Moniteur VFC IA",
+      "developer": "One Hundred Bad Ideas Limited",
+      "url": "https://apps.apple.com/fr/app/stresswatch-moniteur-vfc-ia/id6444737095?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/14/c4/5c14c489-ccac-273e-6286-533cffa93fe5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-26",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1597264549",
+      "name": "Kiprun Pacer Courir Running",
+      "developer": "Decathlon",
+      "url": "https://apps.apple.com/fr/app/kiprun-pacer-courir-running/id1597264549?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/ba/9f/faba9f51-f47f-d0cf-c15b-7d08f58a3cb4/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-09-28",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1276113963",
+      "name": "INCI Beauty",
+      "developer": "INCI Beauty",
+      "url": "https://apps.apple.com/fr/app/inci-beauty/id1276113963?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/58/0e/fa580e2e-1003-bffd-c0e9-43a520c3bdc1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2017-11-08",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 47,
-      "id": "1493500777",
-      "name": "Mi Fitness (Xiaomi Wear Lite)",
-      "developer": "Beijing Xiaomi Co., Ltd",
-      "url": "https://apps.apple.com/fr/app/mi-fitness-xiaomi-wear-lite/id1493500777?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/cd/34/89cd3481-c88b-7115-80b0-9a98a7b752fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-07-08",
+      "id": "830490545",
+      "name": "PRO BTP Santé",
+      "developer": "PROBTP",
+      "url": "https://apps.apple.com/fr/app/pro-btp-sant%C3%A9/id830490545?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/60/a6/6c60a64b-3882-897b-3c93-2a2d938bc57d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-05-08",
       "genres": [
         {
           "id": "6013",
@@ -777,12 +777,12 @@
     },
     {
       "rank": 49,
-      "id": "341232718",
-      "name": "MyFitnessPal: compte-calories",
-      "developer": "MyFitnessPal, Inc.",
-      "url": "https://apps.apple.com/fr/app/myfitnesspal-compte-calories/id341232718?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/92/49/939249bd-df95-f1e2-3933-f232b837114c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2009-12-07",
+      "id": "1493500777",
+      "name": "Mi Fitness (Xiaomi Wear Lite)",
+      "developer": "Beijing Xiaomi Co., Ltd",
+      "url": "https://apps.apple.com/fr/app/mi-fitness-xiaomi-wear-lite/id1493500777?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/cd/34/89cd3481-c88b-7115-80b0-9a98a7b752fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-08",
       "genres": [
         {
           "id": "6013",
@@ -809,38 +809,6 @@
     },
     {
       "rank": 51,
-      "id": "347184248",
-      "name": "Compteur de Calories fatsecret",
-      "developer": "fatsecret",
-      "url": "https://apps.apple.com/fr/app/compteur-de-calories-fatsecret/id347184248?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/0f/f1/410ff14f-cb57-efef-ce8a-6be8a4d41cc8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2009-12-22",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "830490545",
-      "name": "PRO BTP Santé",
-      "developer": "PROBTP",
-      "url": "https://apps.apple.com/fr/app/pro-btp-sant%C3%A9/id830490545?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/60/a6/6c60a64b-3882-897b-3c93-2a2d938bc57d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-05-08",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
       "id": "1136617388",
       "name": "Course à pied Marche Goals GPS",
       "developer": "AK Apptuitive GmbH",
@@ -856,87 +824,7 @@
       ]
     },
     {
-      "rank": 54,
-      "id": "1313192037",
-      "name": "Entraînement à la Maison",
-      "developer": "Leap Health",
-      "url": "https://apps.apple.com/fr/app/entra%C3%AEnement-%C3%A0-la-maison/id1313192037?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/e4/bf/20e4bf9a-add6-0293-dd91-c81854315375/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-11-17",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "876080126",
-      "name": "Motivation - Citations",
-      "developer": "Monkey Taps",
-      "url": "https://apps.apple.com/fr/app/motivation-citations/id876080126?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/d5/ef/d8d5efc7-2d47-de9e-3918-bdc4e9660216/0_motivation-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-05-13",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "6473911234",
-      "name": "l’Orange bleue",
-      "developer": "Orange Bleue",
-      "url": "https://apps.apple.com/fr/app/lorange-bleue/id6473911234?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/05/f4/a805f412-3c38-13ad-8499-150bd1b953b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-03-22",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "1114387800",
-      "name": "Fitness & Exercice Musculation",
-      "developer": "FITNESS ONLINE MChJ",
-      "url": "https://apps.apple.com/fr/app/fitness-exercice-musculation/id1114387800?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/4c/02/834c02b7-c62b-2e5f-dc0b-ed4fee18d2e8/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "release_date": "2016-09-15",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "6447434453",
-      "name": "Calo: compte-calories",
-      "developer": "Next Vision Limited",
-      "url": "https://apps.apple.com/fr/app/calo-compte-calories/id6447434453?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/61/69/f6616947-184d-2ff5-2e37-a9b43e081361/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-11",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
+      "rank": 52,
       "id": "6754075317",
       "name": "ChillFit: Fitness débutant",
       "developer": "Core AI",
@@ -952,7 +840,39 @@
       ]
     },
     {
-      "rank": 60,
+      "rank": 53,
+      "id": "1313192037",
+      "name": "Entraînement à la Maison",
+      "developer": "Leap Health",
+      "url": "https://apps.apple.com/fr/app/entra%C3%AEnement-%C3%A0-la-maison/id1313192037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/e4/bf/20e4bf9a-add6-0293-dd91-c81854315375/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-11-17",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6784181375",
+      "name": "Blood Pressure Touch: Log&Info",
+      "developer": "FOTURE MOTOR LIMITED",
+      "url": "https://apps.apple.com/fr/app/blood-pressure-touch-log-info/id6784181375?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/a3/27/34a327ec-1cf3-885d-276c-bb9b1ee69464/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-02",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
       "id": "600446812",
       "name": "Podomètre Pacer: Suivi de Pas",
       "developer": "Pacer Health, Inc",
@@ -968,13 +888,93 @@
       ]
     },
     {
+      "rank": 56,
+      "id": "1114387800",
+      "name": "Fitness & Exercice Musculation",
+      "developer": "FITNESS ONLINE MChJ",
+      "url": "https://apps.apple.com/fr/app/fitness-exercice-musculation/id1114387800?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/4c/02/834c02b7-c62b-2e5f-dc0b-ed4fee18d2e8/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "release_date": "2016-09-15",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1611158928",
+      "name": "MindDay: thérapie et bien-être",
+      "developer": "mindDay SAS",
+      "url": "https://apps.apple.com/fr/app/mindday-th%C3%A9rapie-et-bien-%C3%AAtre/id1611158928?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/d6/ca/dad6ca5a-dc8d-42da-ce52-5b63d7535f93/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-09-15",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "6447434453",
+      "name": "Calo: compte-calories",
+      "developer": "Next Vision Limited",
+      "url": "https://apps.apple.com/fr/app/calo-compte-calories/id6447434453?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/b6/0d/b4b60d54-ec26-0373-afb0-5d5818fccf15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-11",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "341232718",
+      "name": "MyFitnessPal: compte-calories",
+      "developer": "MyFitnessPal, Inc.",
+      "url": "https://apps.apple.com/fr/app/myfitnesspal-compte-calories/id341232718?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/64/be/1964be77-d44f-29c3-7602-dcc246f0b7ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2009-12-07",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "347184248",
+      "name": "Compteur de Calories fatsecret",
+      "developer": "fatsecret",
+      "url": "https://apps.apple.com/fr/app/compteur-de-calories-fatsecret/id347184248?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/0f/f1/410ff14f-cb57-efef-ce8a-6be8a4d41cc8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2009-12-22",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 61,
-      "id": "6747375157",
-      "name": "SnapCal: AI Calorie Counter",
-      "developer": "Scan App",
-      "url": "https://apps.apple.com/fr/app/snapcal-ai-calorie-counter/id6747375157?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/06/c5/c106c5d6-92a1-ea83-ce81-cba04dae58ab/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-07-08",
+      "id": "1543340610",
+      "name": "RENPHO Health",
+      "developer": "Joicom corporation",
+      "url": "https://apps.apple.com/fr/app/renpho-health/id1543340610?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ac/3a/84ac3a19-5fdf-70e9-f5e6-5e28f0cde962/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-12-20",
       "genres": [
         {
           "id": "6013",
@@ -985,12 +985,12 @@
     },
     {
       "rank": 62,
-      "id": "6767152997",
-      "name": "WOMY · Cycle Nutrition Sport",
-      "developer": "Louka Bianchi",
-      "url": "https://apps.apple.com/fr/app/womy-cycle-nutrition-sport/id6767152997?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/50/02/e05002ca-220f-6f13-48d6-6172e516a8cf/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-07-22",
+      "id": "1279716547",
+      "name": "Minuteur Plus – Workouts Timer",
+      "developer": "ArGames",
+      "url": "https://apps.apple.com/fr/app/minuteur-plus-workouts-timer/id1279716547?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/da/f1/41daf1a5-f19e-77f2-f8b1-05e6c5da78d6/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-10-01",
       "genres": [
         {
           "id": "6013",
@@ -1001,12 +1001,12 @@
     },
     {
       "rank": 63,
-      "id": "1582437445",
-      "name": "Keepcool",
-      "developer": "DG DEVELOPPEMENT",
-      "url": "https://apps.apple.com/fr/app/keepcool/id1582437445?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/31/aa/a431aad1-00cb-7a76-4416-1dc5c599465a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-28",
+      "id": "6473911234",
+      "name": "l’Orange bleue",
+      "developer": "Orange Bleue",
+      "url": "https://apps.apple.com/fr/app/lorange-bleue/id6473911234?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/05/f4/a805f412-3c38-13ad-8499-150bd1b953b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-22",
       "genres": [
         {
           "id": "6013",
@@ -1033,86 +1033,6 @@
     },
     {
       "rank": 65,
-      "id": "1279716547",
-      "name": "Minuteur Plus – Workouts Timer",
-      "developer": "ArGames",
-      "url": "https://apps.apple.com/fr/app/minuteur-plus-workouts-timer/id1279716547?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/da/f1/41daf1a5-f19e-77f2-f8b1-05e6c5da78d6/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-10-01",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "1543340610",
-      "name": "RENPHO Health",
-      "developer": "Joicom corporation",
-      "url": "https://apps.apple.com/fr/app/renpho-health/id1543340610?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ac/3a/84ac3a19-5fdf-70e9-f5e6-5e28f0cde962/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-12-20",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "6474852610",
-      "name": "HUAWEI Health: Europe",
-      "developer": "Aspiegel SE",
-      "url": "https://apps.apple.com/fr/app/huawei-health-europe/id6474852610?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/e4/22/d2e42296-9098-4bcd-58e5-3fc86a36ab1e/healthlogo_app_release-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-06-29",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6754222840",
-      "name": "Micron: Compteur de Calories",
-      "developer": "Micron SAS",
-      "url": "https://apps.apple.com/fr/app/micron-compteur-de-calories/id6754222840?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/a7/91/13a791ba-8d1f-ee91-8b8f-da227ad16263/app-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-10-23",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "1264546236",
-      "name": "BetterMe Well-Being Coach",
-      "developer": "BetterMe Limited",
-      "url": "https://apps.apple.com/fr/app/betterme-well-being-coach/id1264546236?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/24/46/d4244699-9837-c7ea-1f76-cb826132fed3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2017-08-22",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
       "id": "6779546212",
       "name": "Calife : Compte-calories IA",
       "developer": "Core AI",
@@ -1128,13 +1048,13 @@
       ]
     },
     {
-      "rank": 71,
-      "id": "1491340863",
-      "name": "Napper: Horaires de sommeil",
-      "developer": "Napper AB",
-      "url": "https://apps.apple.com/fr/app/napper-horaires-de-sommeil/id1491340863?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/24/04/a3240442-fd39-6329-4216-e9450a463cd9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-22",
+      "rank": 66,
+      "id": "1582437445",
+      "name": "Keepcool",
+      "developer": "DG DEVELOPPEMENT",
+      "url": "https://apps.apple.com/fr/app/keepcool/id1582437445?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/31/aa/a431aad1-00cb-7a76-4416-1dc5c599465a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-08-28",
       "genres": [
         {
           "id": "6013",
@@ -1144,7 +1064,39 @@
       ]
     },
     {
-      "rank": 72,
+      "rank": 67,
+      "id": "6754222840",
+      "name": "Micron: Compteur de Calories",
+      "developer": "Micron SAS",
+      "url": "https://apps.apple.com/fr/app/micron-compteur-de-calories/id6754222840?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/a7/91/13a791ba-8d1f-ee91-8b8f-da227ad16263/app-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-10-23",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "6772944583",
+      "name": "Gymtone - Programme Muscu Gym",
+      "developer": "T-SHAPED APPS LTD",
+      "url": "https://apps.apple.com/fr/app/gymtone-programme-muscu-gym/id6772944583?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/69/18/466918a7-aea3-5c82-a30d-e573c09252df/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-23",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
       "id": "1316004998",
       "name": "Da Fit",
       "developer": "MO YOUNG LIMITED",
@@ -1160,13 +1112,13 @@
       ]
     },
     {
-      "rank": 73,
-      "id": "6809485696",
-      "name": "Fibi - AI Gym Coach",
-      "developer": "Joris Riviere",
-      "url": "https://apps.apple.com/fr/app/fibi-ai-gym-coach/id6809485696?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/49/4b/47494b98-08d9-2b10-bd33-88b873dec9c5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-16",
+      "rank": 70,
+      "id": "6767152997",
+      "name": "WOMY · Cycle Nutrition Sport",
+      "developer": "Louka Bianchi",
+      "url": "https://apps.apple.com/fr/app/womy-cycle-nutrition-sport/id6767152997?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/50/02/e05002ca-220f-6f13-48d6-6172e516a8cf/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-07-22",
       "genres": [
         {
           "id": "6013",
@@ -1176,13 +1128,13 @@
       ]
     },
     {
-      "rank": 74,
-      "id": "6667098452",
-      "name": "Pilates au Mur - Fitness",
-      "developer": "Prutvi",
-      "url": "https://apps.apple.com/fr/app/pilates-au-mur-fitness/id6667098452?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/cc/54/a9cc5461-97ee-8d39-f160-58b37fe15886/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-09-07",
+      "rank": 71,
+      "id": "1264546236",
+      "name": "BetterMe Well-Being Coach",
+      "developer": "BetterMe Limited",
+      "url": "https://apps.apple.com/fr/app/betterme-well-being-coach/id1264546236?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/24/46/d4244699-9837-c7ea-1f76-cb826132fed3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2017-08-22",
       "genres": [
         {
           "id": "6013",
@@ -1192,87 +1144,7 @@
       ]
     },
     {
-      "rank": 75,
-      "id": "6444959855",
-      "name": "Côté santé",
-      "developer": "AG2R LA MONDIALE",
-      "url": "https://apps.apple.com/fr/app/c%C3%B4t%C3%A9-sant%C3%A9/id6444959855?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/76/27/4276273c-39b2-b979-3c40-37f10616906d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-04",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "1547249944",
-      "name": "SPART",
-      "developer": "Vipali",
-      "url": "https://apps.apple.com/fr/app/spart/id1547249944?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/b8/59/34b859a0-c269-e9c8-99a2-d348e1390b85/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-04-02",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "6443545842",
-      "name": "MH Pay",
-      "developer": "Malakoff Humanis",
-      "url": "https://apps.apple.com/fr/app/mh-pay/id6443545842?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/ff/15/cbff15df-94ac-ba25-8e17-e4047ce67722/AppIcon-Release-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2023-01-21",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "301521403",
-      "name": "Nike Training Club",
-      "developer": "Nike, Inc",
-      "url": "https://apps.apple.com/fr/app/nike-training-club/id301521403?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9f/77/ab9f77b6-732e-00d6-223b-69f784ef5012/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2011-01-13",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "6757885382",
-      "name": "Solaia: Équilibre hormonal",
-      "developer": "Solaia LLC",
-      "url": "https://apps.apple.com/fr/app/solaia-%C3%A9quilibre-hormonal/id6757885382?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/a8/cc/36a8ccba-ebd2-f916-79d0-3d404527e159/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-27",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
+      "rank": 72,
       "id": "320606217",
       "name": "Sleep Cycle - Suivi de Sommeil",
       "developer": "Sleep Cycle AB",
@@ -1288,13 +1160,13 @@
       ]
     },
     {
-      "rank": 81,
-      "id": "1462036306",
-      "name": "OuiLive",
-      "developer": "Oui Sports",
-      "url": "https://apps.apple.com/fr/app/ouilive/id1462036306?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/12/f7/8112f796-6ac2-f3cb-9ec5-a1b463eea335/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2019-05-04",
+      "rank": 73,
+      "id": "1491340863",
+      "name": "Napper: Horaires de sommeil",
+      "developer": "Napper AB",
+      "url": "https://apps.apple.com/fr/app/napper-horaires-de-sommeil/id1491340863?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/24/04/a3240442-fd39-6329-4216-e9450a463cd9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-22",
       "genres": [
         {
           "id": "6013",
@@ -1304,13 +1176,13 @@
       ]
     },
     {
-      "rank": 82,
-      "id": "1539392952",
-      "name": "Vivinter",
-      "developer": "SIACI SAINT HONORE",
-      "url": "https://apps.apple.com/fr/app/vivinter/id1539392952?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/ea/6b/c3ea6b14-8b9b-f1be-dc93-6b9b3d803536/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2020-12-16",
+      "rank": 74,
+      "id": "6474852610",
+      "name": "HUAWEI Health: Europe",
+      "developer": "Aspiegel SE",
+      "url": "https://apps.apple.com/fr/app/huawei-health-europe/id6474852610?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/e4/22/d2e42296-9098-4bcd-58e5-3fc86a36ab1e/healthlogo_app_release-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-06-29",
       "genres": [
         {
           "id": "6013",
@@ -1320,7 +1192,7 @@
       ]
     },
     {
-      "rank": 83,
+      "rank": 75,
       "id": "1669413773",
       "name": "LazyFit: Entraînement débutant",
       "developer": "Next Vision Limited",
@@ -1336,7 +1208,71 @@
       ]
     },
     {
-      "rank": 84,
+      "rank": 76,
+      "id": "301521403",
+      "name": "Nike Training Club",
+      "developer": "Nike, Inc",
+      "url": "https://apps.apple.com/fr/app/nike-training-club/id301521403?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9f/77/ab9f77b6-732e-00d6-223b-69f784ef5012/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2011-01-13",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6667098452",
+      "name": "Pilates au Mur - Fitness",
+      "developer": "Prutvi",
+      "url": "https://apps.apple.com/fr/app/pilates-au-mur-fitness/id6667098452?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/cc/54/a9cc5461-97ee-8d39-f160-58b37fe15886/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-07",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "6480417616",
+      "name": "Cal AI - Calorie Tracker",
+      "developer": "Viral Development LLC",
+      "url": "https://apps.apple.com/fr/app/cal-ai-calorie-tracker/id6480417616?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/ba/89/10ba893d-a39e-2475-eb06-990ed295c780/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-04-08",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "1547249944",
+      "name": "SPART",
+      "developer": "Vipali",
+      "url": "https://apps.apple.com/fr/app/spart/id1547249944?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/b8/59/34b859a0-c269-e9c8-99a2-d348e1390b85/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-04-02",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
       "id": "1446622227",
       "name": "Sos Médecins",
       "developer": "SOS MEDECINS",
@@ -1352,13 +1288,77 @@
       ]
     },
     {
-      "rank": 85,
+      "rank": 81,
+      "id": "542701020",
+      "name": "Withings",
+      "developer": "Withings",
+      "url": "https://apps.apple.com/fr/app/withings/id542701020?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/99/60/809960c2-b573-feb7-a980-8f93bdbb2427/AppIcon-Release-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-07-26",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "6757885382",
+      "name": "Solaia: Équilibre hormonal",
+      "developer": "Solaia LLC",
+      "url": "https://apps.apple.com/fr/app/solaia-%C3%A9quilibre-hormonal/id6757885382?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/a8/cc/36a8ccba-ebd2-f916-79d0-3d404527e159/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-27",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "6444959855",
+      "name": "Côté santé",
+      "developer": "AG2R LA MONDIALE",
+      "url": "https://apps.apple.com/fr/app/c%C3%B4t%C3%A9-sant%C3%A9/id6444959855?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/76/27/4276273c-39b2-b979-3c40-37f10616906d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-04",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
       "id": "6446962176",
       "name": "Running & Trail - Campus Coach",
       "developer": "Campus Coach",
       "url": "https://apps.apple.com/fr/app/running-trail-campus-coach/id6446962176?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/f8/68/60f86856-14a2-974c-175f-8a3ab51ed5cd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "release_date": "2024-03-28",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "1513988468",
+      "name": "Bend: Etirements et Souplesse",
+      "developer": "Bowery Digital",
+      "url": "https://apps.apple.com/fr/app/bend-etirements-et-souplesse/id1513988468?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/b7/63/14b7635e-0390-22a5-9899-3d20e38e5d7b/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-05-20",
       "genres": [
         {
           "id": "6013",
@@ -1385,12 +1385,12 @@
     },
     {
       "rank": 87,
-      "id": "6742904990",
-      "name": "Heartica: Fréquence cardiaque",
-      "developer": "Faliane Ltd.",
-      "url": "https://apps.apple.com/fr/app/heartica-fr%C3%A9quence-cardiaque/id6742904990?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/8b/36/528b3657-7ef1-04b0-5b37-20f2c6522e44/MainAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2025-04-16",
+      "id": "6756713738",
+      "name": "VitalLog Tracker",
+      "developer": "Walrus Holdings(Hong Kong)Limited",
+      "url": "https://apps.apple.com/fr/app/vitallog-tracker/id6756713738?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/80/62/298062bb-785b-106d-3e57-9b33b26c84b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-22",
       "genres": [
         {
           "id": "6013",
@@ -1401,134 +1401,6 @@
     },
     {
       "rank": 88,
-      "id": "1576719848",
-      "name": "Boditrax 2.0",
-      "developer": "Boditrax Technologies Ltd",
-      "url": "https://apps.apple.com/fr/app/boditrax-2-0/id1576719848?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/43/da/e443daaf-35ef-8cc3-8002-0f9139483a08/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-05-25",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "971023427",
-      "name": "Sweatcoin・Podometre et Marche",
-      "developer": "Sweatco Ltd",
-      "url": "https://apps.apple.com/fr/app/sweatcoin-podometre-et-marche/id971023427?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/2a/45/fd2a45c9-c6fa-9741-e0d2-bd26cded225b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-11-05",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "6456176249",
-      "name": "Bevel : Coach Santé IA",
-      "developer": "Finerpoint, Inc",
-      "url": "https://apps.apple.com/fr/app/bevel-coach-sant%C3%A9-ia/id6456176249?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/54/4e/3b544e90-bb38-64a7-0e12-5326e8883ce1/AppIconFlatAuto-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2024-01-08",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "542701020",
-      "name": "Withings",
-      "developer": "Withings",
-      "url": "https://apps.apple.com/fr/app/withings/id542701020?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/99/60/809960c2-b573-feb7-a980-8f93bdbb2427/AppIcon-Release-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-07-26",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "6770570604",
-      "name": "Stance: Coach Sportif IA",
-      "developer": "Ysamihal Labs",
-      "url": "https://apps.apple.com/fr/app/stance-coach-sportif-ia/id6770570604?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/45/fa/9945fa5e-a766-f6f4-0e7e-6862fd5ac0fe/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-07-31",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "462638897",
-      "name": "Google Health (Fitbit)",
-      "developer": "Google",
-      "url": "https://apps.apple.com/fr/app/google-health-fitbit/id462638897?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/10/8d/d7108d32-732b-07e6-b154-dc9428157ff5/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2012-05-14",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "933944389",
-      "name": "WHOOP",
-      "developer": "WHOOP",
-      "url": "https://apps.apple.com/fr/app/whoop/id933944389?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/30/ab/4630ab76-01da-e3f8-2b21-aeea358c1fae/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2015-10-26",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "6737475990",
-      "name": "Fitness Camp: Sport, Nutrition",
-      "developer": "Fitness Camp",
-      "url": "https://apps.apple.com/fr/app/fitness-camp-sport-nutrition/id6737475990?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/32/87/04328749-7953-8041-daa0-a27220a8c088/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-01-11",
-      "genres": [
-        {
-          "id": "6013",
-          "name": "Forme et santé",
-          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
       "id": "1592071845",
       "name": "Mercer ma santé",
       "developer": "Mercer",
@@ -1544,13 +1416,141 @@
       ]
     },
     {
+      "rank": 89,
+      "id": "6770570604",
+      "name": "Stance: Coach Sportif IA",
+      "developer": "Ysamihal Labs",
+      "url": "https://apps.apple.com/fr/app/stance-coach-sportif-ia/id6770570604?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/45/fa/9945fa5e-a766-f6f4-0e7e-6862fd5ac0fe/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-31",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6746164787",
+      "name": "Kotcha - Running & Trail",
+      "developer": "PaceUp",
+      "url": "https://apps.apple.com/fr/app/kotcha-running-trail/id6746164787?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/91/52/59915243-677f-6c30-4986-0869e298b4f8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-23",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1576719848",
+      "name": "Boditrax 2.0",
+      "developer": "Boditrax Technologies Ltd",
+      "url": "https://apps.apple.com/fr/app/boditrax-2-0/id1576719848?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/43/da/e443daaf-35ef-8cc3-8002-0f9139483a08/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-05-25",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1539392952",
+      "name": "Vivinter",
+      "developer": "SIACI SAINT HONORE",
+      "url": "https://apps.apple.com/fr/app/vivinter/id1539392952?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/ea/6b/c3ea6b14-8b9b-f1be-dc93-6b9b3d803536/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-16",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6742904990",
+      "name": "Heartica: Fréquence cardiaque",
+      "developer": "Faliane Ltd.",
+      "url": "https://apps.apple.com/fr/app/heartica-fr%C3%A9quence-cardiaque/id6742904990?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/8b/36/528b3657-7ef1-04b0-5b37-20f2c6522e44/MainAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2025-04-16",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "1281546572",
+      "name": "Activ’Dos",
+      "developer": "l'Assurance Maladie",
+      "url": "https://apps.apple.com/fr/app/activdos/id1281546572?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/4c/78/e84c7895-c0bf-e45c-1c83-288cabc380c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2017-11-15",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "933944389",
+      "name": "WHOOP",
+      "developer": "WHOOP",
+      "url": "https://apps.apple.com/fr/app/whoop/id933944389?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/30/ab/4630ab76-01da-e3f8-2b21-aeea358c1fae/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-26",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "462638897",
+      "name": "Google Health (Fitbit)",
+      "developer": "Google",
+      "url": "https://apps.apple.com/fr/app/google-health-fitbit/id462638897?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/10/8d/d7108d32-732b-07e6-b154-dc9428157ff5/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2012-05-14",
+      "genres": [
+        {
+          "id": "6013",
+          "name": "Forme et santé",
+          "url": "https://apps.apple.com/fr/genre/ios-forme-et-sant%C3%A9/id6013?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 97,
-      "id": "6447674634",
-      "name": "Lively ~ Cycle Syncing, Period",
-      "developer": "Lively Cycle, LLC",
-      "url": "https://apps.apple.com/fr/app/lively-cycle-syncing-period/id6447674634?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5e/4a/cf5e4ab7-394e-56c7-3a8f-938b48fddb7c/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-13",
+      "id": "1356621554",
+      "name": "bsport",
+      "developer": "BSPORT",
+      "url": "https://apps.apple.com/fr/app/bsport/id1356621554?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/03/b3/1803b35b-017b-576c-de90-ce82a38634fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-03-21",
       "genres": [
         {
           "id": "6013",
@@ -1561,12 +1561,12 @@
     },
     {
       "rank": 98,
-      "id": "1032267351",
-      "name": "Mon Calendrier Cycle Menstruel",
-      "developer": "SimpleInnovation LLC",
-      "url": "https://apps.apple.com/fr/app/mon-calendrier-cycle-menstruel/id1032267351?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/95/3d/6f953d81-8dde-0a4c-f0e9-9c0a5c4a0af4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-08-27",
+      "id": "1537401282",
+      "name": "Hélium",
+      "developer": "Hélium SAS",
+      "url": "https://apps.apple.com/fr/app/h%C3%A9lium/id1537401282?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/2d/d7/772dd795-3791-e2d5-243b-1d00f0a18bd2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-05",
       "genres": [
         {
           "id": "6013",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "1562907818",
-      "name": "Grity - Sport & Nutrition",
-      "developer": "G&G",
-      "url": "https://apps.apple.com/fr/app/grity-sport-nutrition/id1562907818?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/4e/7c/a34e7c45-8a96-a89f-1546-ea8469506c88/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-10-14",
+      "id": "1552083946",
+      "name": "Treely for Teams",
+      "developer": "cedric soubrie",
+      "url": "https://apps.apple.com/fr/app/treely-for-teams/id1552083946?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/21/44/a3214463-6550-41ec-f157-6e650e6e7935/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-06-28",
       "genres": [
         {
           "id": "6013",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "1627212190",
-      "name": "AÉSIO mutuelle",
-      "developer": "AESIO MUTUELLE",
-      "url": "https://apps.apple.com/fr/app/a%C3%A9sio-mutuelle/id1627212190?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/83/59/e2835952-fc13-d8a0-ba7e-7ba5ece05f2d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-07-07",
+      "id": "971023427",
+      "name": "Sweatcoin・Podometre et Marche",
+      "developer": "Sweatco Ltd",
+      "url": "https://apps.apple.com/fr/app/sweatcoin-podometre-et-marche/id971023427?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/2a/45/fd2a45c9-c6fa-9741-e0d2-bd26cded225b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-11-05",
       "genres": [
         {
           "id": "6013",

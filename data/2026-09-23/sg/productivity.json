@@ -1,0 +1,1595 @@
+{
+  "collected_at": "2026-09-23T21:13:08.709870+09:00",
+  "date": "2026-09-23",
+  "country": "sg",
+  "chart": "top-free",
+  "category": "productivity",
+  "genre_id": 6007,
+  "count": 99,
+  "apps": [
+    {
+      "rank": 1,
+      "id": "1558240027",
+      "name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/sg/app/meta-ai/id1558240027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/60/4b/ed604be3-8e57-4050-fc7c-7085de72117e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2024-04-11",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "6448311069",
+      "name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "url": "https://apps.apple.com/sg/app/chatgpt/id6448311069?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/9a/0e/e69a0e54-a15f-4b2a-cb42-84788edb896e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2023-05-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "6477489729",
+      "name": "Google Gemini",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-gemini/id6477489729?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/75/6424752a-af65-db93-99bf-c2bfa225814e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "1370293473",
+      "name": "VPN - Super Unlimited Proxy ™",
+      "developer": "Mobile Jump Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/vpn-super-unlimited-proxy/id1370293473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/9c/7a/5a9c7ae2-7f1e-2ff0-9639-2ab6438dfa56/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-05-15",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "983156458",
+      "name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-authenticator/id983156458?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/26/ad/8026adff-d8e1-15e4-3366-be76b24250b9/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2015-05-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "6473753684",
+      "name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "url": "https://apps.apple.com/sg/app/claude-by-anthropic/id6473753684?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/98/52/4e9852f9-553a-5c52-3097-3417caedb04b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-05-01",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "422689480",
+      "name": "Gmail - Email by Google",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/gmail-email-by-google/id422689480?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/23/5b/1c235b02-cc54-62a0-6519-37a5dc594042/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-11-02",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "1584952674",
+      "name": "MyICA Mobile",
+      "developer": "Immigration & Checkpoints Authority of Singapore",
+      "url": "https://apps.apple.com/sg/app/myica-mobile/id1584952674?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/20/2e/c7202e2e-d3c3-1b55-3ada-87efd4096bfc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-04-25",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "1365309175",
+      "name": "Turbo VPN Private Browser",
+      "developer": "INNOVATIVE CONNECTING PTE.LIMITED",
+      "url": "https://apps.apple.com/sg/app/turbo-vpn-private-browser/id1365309175?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/d8/c9/3cd8c948-88f0-4b9e-1e91-5dd5ea45380f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "541164041",
+      "name": "Microsoft Copilot",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-copilot/id541164041?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/94/ed/6994ed6d-80ae-35ff-3451-b9d8b81412b4/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2013-06-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "507874739",
+      "name": "Google Drive – online backup",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-drive-online-backup/id507874739?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/35/8f/85358fbf-cd4f-4109-70f1-d9bd7d33c815/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-06-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "1619937291",
+      "name": "OneNS",
+      "developer": "MINDEF/SAF",
+      "url": "https://apps.apple.com/sg/app/onens/id1619937291?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/48/66/b048660e-8af9-89b9-1fe7-f54d427f7b5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-08",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "1383218758",
+      "name": "LifeSG",
+      "developer": "Government Technology Agency",
+      "url": "https://apps.apple.com/sg/app/lifesg/id1383218758?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/5e/09/a15e0950-fd0b-3a66-4972-9ba4fd4cfac7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-06-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "842849113",
+      "name": "Google Sheets",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-sheets/id842849113?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6d/0e/0c6d0e14-0378-8171-2f59-f24ced83647b/sheets_2026q3_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2014-04-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "951937596",
+      "name": "Microsoft Outlook",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-outlook/id951937596?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/3c/fb/6b3cfb63-046d-d649-dd21-195dc41e1702/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "1340660807",
+      "name": "Singpass",
+      "developer": "Government Technology Agency",
+      "url": "https://apps.apple.com/sg/app/singpass/id1340660807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/8c/bc/7f8cbcdd-3071-7c0e-168f-550486e91304/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "586683407",
+      "name": "Microsoft Excel",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-excel/id586683407?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/45/60/ea456044-ceba-33ed-954f-ae4c0c995ba7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "586447913",
+      "name": "Microsoft Word",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-word/id586447913?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/df/03/7bdf03c2-8138-1f76-1bad-0887528db5f7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "6670324846",
+      "name": "Grok - AI Assistant",
+      "developer": "X Corp.",
+      "url": "https://apps.apple.com/sg/app/grok-ai-assistant/id6670324846?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/61/4a/47614a6d-8ef6-b575-07d3-a2540f019cd4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2025-01-06",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "6474522003",
+      "name": "PARKMAX @ JOHOR",
+      "developer": "SOUTHMAX SDN BHD",
+      "url": "https://apps.apple.com/sg/app/parkmax-johor/id6474522003?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/50/ec/6f50ec1a-247f-b71b-01a5-6de8727aeec7/AppIcon-appparkmax-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "388627783",
+      "name": "CamScanner - PDF Scanner App",
+      "developer": "INTSIG Information Co., Ltd",
+      "url": "https://apps.apple.com/sg/app/camscanner-pdf-scanner-app/id388627783?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-08-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "842842640",
+      "name": "Google Docs",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-docs/id842842640?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/35/5e/ed355ede-caab-a179-2482-6fa54f1a5dac/docs_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2014-04-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "6451431247",
+      "name": "Dola: Smart AI Assistant",
+      "developer": "SPRING(SG)PTE.LTD.",
+      "url": "https://apps.apple.com/sg/app/dola-smart-ai-assistant/id6451431247?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/e6/78/2ae678a7-3b3f-4c0a-6cc8-f1ba0a0b31d1/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-10-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "6794501026",
+      "name": "Grok Bot",
+      "developer": "X Corp.",
+      "url": "https://apps.apple.com/sg/app/grok-bot/id6794501026?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/c0/79/b0c07956-bbc2-f0d9-e5b2-0d0d92ec5bbc/app-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-08-11",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "909319292",
+      "name": "Google Calendar: Get Organised",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-calendar-get-organised/id909319292?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/1d/4f/791d4f62-3d60-b064-1ec8-21d555501c5d/calendar_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-03-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "477537958",
+      "name": "Microsoft OneDrive",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-onedrive/id477537958?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/9c/cf/819ccf5f-dbdd-c3be-5b27-48fcb063983b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "6793045240",
+      "name": "MUSE AI: Get Work Done",
+      "developer": "MUSEPULSE TECHNOLOGIES PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/muse-ai-get-work-done/id6793045240?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/39/cb/7a39cbce-00df-fa3c-2e1c-144939bfb2b6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-01",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "6443686328",
+      "name": "Link to Windows",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/link-to-windows/id6443686328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a8/23/42a823bb-5e0b-b5cd-3a48-cc0744ec37a3/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-02-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "1074964262",
+      "name": "MyJio: For Everything Jio",
+      "developer": "JIO PLATFORMS LIMITED",
+      "url": "https://apps.apple.com/sg/app/myjio-for-everything-jio/id1074964262?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/e6/b3/b0e6b34c-39b1-9d83-c634-c5bfff1cba3b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-05-26",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "6737597349",
+      "name": "DeepSeek - AI Assistant",
+      "developer": "杭州深度求索人工智能基础技术研究有限公司",
+      "url": "https://apps.apple.com/sg/app/deepseek-ai-assistant/id6737597349?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/1f/00/501f008c-b53d-7535-506a-f276dc45300b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-01-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "1509453185",
+      "name": "TeraBox: 1TB Cloud & AI Space",
+      "developer": "FLEXTECH INC.",
+      "url": "https://apps.apple.com/sg/app/terabox-1tb-cloud-ai-space/id1509453185?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/65/9c/63659ceb-e631-456e-f378-45962b0a985f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2020-04-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "947274394",
+      "name": "OneService-Serving Your Estate",
+      "developer": "Ministry of National Development",
+      "url": "https://apps.apple.com/sg/app/oneservice-serving-your-estate/id947274394?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/ed/ee/56edeed1-ad76-f1de-ac37-bdda1c85974e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-01-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "586449534",
+      "name": "Microsoft PowerPoint",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-powerpoint/id586449534?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cb/61/9ecb61c1-a1fd-6c35-4cbc-a413d468d074/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "879478102",
+      "name": "Google Slides",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-slides/id879478102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/d9/63/99d9630a-b616-eb44-5d28-06e8daf37da4/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-26",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "6753334251",
+      "name": "JI Pass",
+      "developer": "JTC Corporation",
+      "url": "https://apps.apple.com/sg/app/ji-pass/id6753334251?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/02/98/7e0298e2-1079-f8aa-c0a2-ace5c2574397/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1096521618",
+      "name": "INFOTECH HRMS",
+      "developer": "INFO-TECH SYSTEMS LTD",
+      "url": "https://apps.apple.com/sg/app/infotech-hrms/id1096521618?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/ee/dc/10eedc50-bc0d-b05e-bbe8-035e66f96b72/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-04-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "6737527615",
+      "name": "Gemini Notebook",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/gemini-notebook/id6737527615?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/c8/72/1bc872f8-4b9c-8192-6986-e20f3257b312/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2025-05-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "1391782046",
+      "name": "Surfshark VPN: Fast & Secure",
+      "developer": "SURFSHARK LTD",
+      "url": "https://apps.apple.com/sg/app/surfshark-vpn-fast-secure/id1391782046?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/dd/6d/c7dd6d37-d842-47c6-13d4-edaa0147c996/iOS_AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-08-01",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "1320618078",
+      "name": "DigiLocker",
+      "developer": "National e-Governance Division",
+      "url": "https://apps.apple.com/sg/app/digilocker/id1320618078?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/5c/f6/c75cf694-a378-2c79-9f8e-7d3964ccf32d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-10-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "1558990521",
+      "name": "SafeGuardian",
+      "developer": "MINDEF/SAF",
+      "url": "https://apps.apple.com/sg/app/safeguardian/id1558990521?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/07/80/a907805c-ce17-93c4-f300-f84d757a3dd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-09",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "6783832092",
+      "name": "PTE Asia",
+      "developer": "CLOSERSTILL MEDIA TECNOLOGIA SL.",
+      "url": "https://apps.apple.com/sg/app/pte-asia/id6783832092?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/50/e4/8c50e4f7-2aab-e514-0d92-d41fb56d2a11/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "6670175056",
+      "name": "Summary - AI Note Taker",
+      "developer": "Labhouse Mobile",
+      "url": "https://apps.apple.com/sg/app/summary-ai-note-taker/id6670175056?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/0e/cf/a50ecf2e-33a3-ab26-1a00-945aafe6f4f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-12-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "327630330",
+      "name": "Dropbox: Cloud File Storage",
+      "developer": "Dropbox, Inc.",
+      "url": "https://apps.apple.com/sg/app/dropbox-cloud-file-storage/id327630330?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/fe/9e/a2fe9e67-b56e-c59a-7d74-8c7877f56248/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2009-09-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "6775716318",
+      "name": "WipeUp: Phone Storage Cleaner",
+      "developer": "Pal Patel",
+      "url": "https://apps.apple.com/sg/app/wipeup-phone-storage-cleaner/id6775716318?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/51/b0/5151b03e-2532-0d10-8dd5-f95a1a26668e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1232780281",
+      "name": "Notion: notes, tasks, AI",
+      "developer": "Notion Labs, Incorporated",
+      "url": "https://apps.apple.com/sg/app/notion-notes-tasks-ai/id1232780281?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/38/60/ab386088-0576-40a1-a898-fbed2356b3d2/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "577586159",
+      "name": "Yahoo Mail - Organised Email",
+      "developer": "Yahoo",
+      "url": "https://apps.apple.com/sg/app/yahoo-mail-organised-email/id577586159?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/04/96/e3049685-953f-33b8-413a-1834dc37736c/MailAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "952578473",
+      "name": "TimeTree: Shared Calendar",
+      "developer": "TimeTree, Inc.",
+      "url": "https://apps.apple.com/sg/app/timetree-shared-calendar/id952578473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/d9/70/27d970af-4d6d-02dc-3dcd-bd3e02a0c9be/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-03-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "547166701",
+      "name": "百度网盘",
+      "developer": "Beijing Duyou Science and Technology Co.,Ltd.",
+      "url": "https://apps.apple.com/sg/app/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/id547166701?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/2a/c3/522ac3b7-a0ec-a226-d8f0-9f1d0c7efca2/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-01-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "1091505266",
+      "name": "Microsoft SharePoint",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-sharepoint/id1091505266?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/13/31/ba133196-43a4-23d6-99c6-8215d1cf0479/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-20",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "410395246",
+      "name": "Microsoft OneNote",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-onenote/id410395246?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/b7/e1/75b7e17f-ed42-cc5d-b6a5-4f6404ab784c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-12",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1451784328",
+      "name": "Google One",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-one/id1451784328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/fb/5d/5ffb5da6-607f-9ef3-10eb-dce91e72ca7e/logo_one_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-17",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "6739429409",
+      "name": "Granola - AI Meeting Notes",
+      "developer": "Granola inc",
+      "url": "https://apps.apple.com/sg/app/granola-ai-meeting-notes/id6739429409?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/85/59/af8559d1-961b-30d2-3f99-950893333c4e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1358107315",
+      "name": "Ringtones Maker - the ring app",
+      "developer": "苏娟 陈",
+      "url": "https://apps.apple.com/sg/app/ringtones-maker-the-ring-app/id1358107315?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/21/91/ec2191c8-07a5-8b3d-8bf9-208055e94f01/ling_logo-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-03-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1570134612",
+      "name": "Translator GO: AI Translate",
+      "developer": "MATdev",
+      "url": "https://apps.apple.com/sg/app/translator-go-ai-translate/id1570134612?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/29/26/68292617-942e-194c-2e8e-45e63df798fa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-06-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "1582750372",
+      "name": "VNeID",
+      "developer": "Trung tâm dữ liệu quốc gia về dân cư",
+      "url": "https://apps.apple.com/sg/app/vneid/id1582750372?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/01/b6/d301b604-c26e-a6ae-5fbc-8c571d2d2118/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1025707485",
+      "name": "VPN Proxy Master - Unlimited",
+      "developer": "ALL Connected Co.,Ltd",
+      "url": "https://apps.apple.com/sg/app/vpn-proxy-master-unlimited/id1025707485?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/33/2f/fb332fbb-5cd3-5492-3a63-30ccb8080d6f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-31",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "364901807",
+      "name": "Documents: File Manager & Docs",
+      "developer": "Readdle Technologies Limited",
+      "url": "https://apps.apple.com/sg/app/documents-file-manager-docs/id364901807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/a7/1d/88a71daf-585a-6c1e-a975-4ac2ca7c3626/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2010-04-01",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1491101673",
+      "name": "WPS Office-AI Doc, PDF, Sheet",
+      "developer": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
+      "url": "https://apps.apple.com/sg/app/wps-office-ai-doc-pdf-sheet/id1491101673?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/48/cc/0048cc58-2e19-183b-53d6-7e69ced41252/US_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "6447682225",
+      "name": "eGovPH",
+      "developer": "DICT eGovernment",
+      "url": "https://apps.apple.com/sg/app/egovph/id6447682225?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e0/d4/01e0d4be-106a-8a8c-f49d-fc9ec4de4a88/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2023-05-31",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "1329488106",
+      "name": "Workpal for SG Public Service",
+      "developer": "Government Technology Agency",
+      "url": "https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/79/ac/7579ac22-9956-1aef-d12a-d0c3e200fbed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-01-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6474233312",
+      "name": "Kimi - Kimi K3 is Live",
+      "developer": "Moonshot AI",
+      "url": "https://apps.apple.com/sg/app/kimi-kimi-k3-is-live/id6474233312?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/c5/1d/afc51d35-0ed3-ba63-6b8c-45a7428fa3fd/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-02-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "6758457625",
+      "name": "Focustown: Pomodoro Timer",
+      "developer": "Second Round Inc.",
+      "url": "https://apps.apple.com/sg/app/focustown-pomodoro-timer/id6758457625?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/19/e3/1d19e3c1-5989-ed88-2a1d-7832d392d9bf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-06",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "725215120",
+      "name": "SHAREit: Transfer, Share Files",
+      "developer": "SHAREit Technologies Co. Ltd",
+      "url": "https://apps.apple.com/sg/app/shareit-transfer-share-files/id725215120?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/ca/10/d3ca1074-c175-831c-80d9-4c30a2485963/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-10-31",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6450364080",
+      "name": "Plaud: AI Note Taker",
+      "developer": "PLAUD LLC",
+      "url": "https://apps.apple.com/sg/app/plaud-ai-note-taker/id6450364080?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ca/9e/adca9edf-8ab4-d8f3-3a74-eff06ac94c7c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-10-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1359104615",
+      "name": "NIIMBOT",
+      "developer": "WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO., LTD",
+      "url": "https://apps.apple.com/sg/app/niimbot/id1359104615?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/75/d7/1f75d769-be55-bd0f-f2e6-801c0589917b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-09",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6497229487",
+      "name": "Wispr Flow: AI Voice Keyboard",
+      "developer": "Wispr AI, Inc.",
+      "url": "https://apps.apple.com/sg/app/wispr-flow-ai-voice-keyboard/id6497229487?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/bb/8d/65bb8d1d-285e-a58b-e2a7-512e40918660/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-05-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "469284907",
+      "name": "HP",
+      "developer": "HP Inc.",
+      "url": "https://apps.apple.com/sg/app/hp/id469284907?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/91/0b/e9910bdd-e8fd-ef1e-b29b-d9d83d88dbb9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1483965969",
+      "name": "Kiwi VPN Ultimate, VPN Private",
+      "developer": "TIMON SOFTWARE CO., LTD",
+      "url": "https://apps.apple.com/sg/app/kiwi-vpn-ultimate-vpn-private/id1483965969?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/ea/0f/b1ea0f29-17e1-31c9-1e29-594fc48d8cf8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-11-17",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6757145209",
+      "name": "豆宝国际版 - 生活工作问题，豆宝为了解疑答惑",
+      "developer": "宇轩 纪",
+      "url": "https://apps.apple.com/sg/app/%E8%B1%86%E5%AE%9D%E5%9B%BD%E9%99%85%E7%89%88-%E7%94%9F%E6%B4%BB%E5%B7%A5%E4%BD%9C%E9%97%AE%E9%A2%98-%E8%B1%86%E5%AE%9D%E4%B8%BA%E4%BA%86%E8%A7%A3%E7%96%91%E7%AD%94%E6%83%91/id6757145209?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/e1/22/76e12219-b313-c0d3-3de2-152ad380058f/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-01-06",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1276437113",
+      "name": "Otter Transcribe Voice Notes",
+      "developer": "Otter.ai, Inc.",
+      "url": "https://apps.apple.com/sg/app/otter-transcribe-voice-notes/id1276437113?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/33/5e/33335ecd-a76f-041d-c4e4-c27d932f4749/otter-logo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-02-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6765715035",
+      "name": "Qianwen 千问 AI- Smart Assistant",
+      "developer": "Corbin Winslow",
+      "url": "https://apps.apple.com/sg/app/qianwen-%E5%8D%83%E9%97%AE-ai-smart-assistant/id6765715035?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/70/94/5270941f-eb10-474b-075e-32808d2d85a1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-06-08",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "1668000334",
+      "name": "Perplexity - AI Search & Chat",
+      "developer": "Perplexity AI, Inc.",
+      "url": "https://apps.apple.com/sg/app/perplexity-ai-search-chat/id1668000334?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/0f/95/660f957e-f598-1f23-1475-1881df5f24af/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "496889629",
+      "name": "FamilyWall: Family Organizer",
+      "developer": "Family & Co",
+      "url": "https://apps.apple.com/sg/app/familywall-family-organizer/id496889629?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/83/a4/0c83a4fe-b201-66d0-c8cc-a6fd6a8f9460/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-01-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1597239701",
+      "name": "Image to PDF Converter & Edit",
+      "developer": "Simple Health",
+      "url": "https://apps.apple.com/sg/app/image-to-pdf-converter-edit/id1597239701?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/33/80/a5338002-2c00-74ed-4541-d820bed8f20c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-03-15",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "6740909540",
+      "name": "Manus - AI Agent & Automation",
+      "developer": "BUTTERFLY EFFECT PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/manus-ai-agent-automation/id6740909540?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/83/96/20839653-52a9-9b81-a0ef-fa5ab2b4b2dd/IconManus-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6761036531",
+      "name": "Migoo - AI Team for Every Task",
+      "developer": "InfiniteAI Private Limited",
+      "url": "https://apps.apple.com/sg/app/migoo-ai-team-for-every-task/id6761036531?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/a4/4a/baa44a65-c87f-8b56-fffa-c7c3c7dee757/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-06-08",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1545069171",
+      "name": "JPJeQ",
+      "developer": "Jabatan Pengangkutan Jalan Malaysia",
+      "url": "https://apps.apple.com/sg/app/jpjeq/id1545069171?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/6d/46/226d463c-d994-beda-5228-1cefb6035d70/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-01-06",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "891247102",
+      "name": "PingID",
+      "developer": "Ping Identity Corporation",
+      "url": "https://apps.apple.com/sg/app/pingid/id891247102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/9b/75/a39b7573-3438-2658-0adb-507946b43b27/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-07-02",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "6443993125",
+      "name": "Auto Clicker - Click Assistant",
+      "developer": "Hamza El karmouni",
+      "url": "https://apps.apple.com/sg/app/auto-clicker-click-assistant/id6443993125?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/ec/51/69ec516d-bff0-aea3-82c0-778b4e20b762/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-05",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "1523682319",
+      "name": "Widgetsmith",
+      "developer": "Cross Forward Consulting, LLC",
+      "url": "https://apps.apple.com/sg/app/widgetsmith/id1523682319?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/8f/5a/548f5a38-76ba-e59e-5c2e-943f834faa35/Primary-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-09-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "706857885",
+      "name": "MEGA: Encrypted Cloud Storage",
+      "developer": "Mega Networks LLC",
+      "url": "https://apps.apple.com/sg/app/mega-encrypted-cloud-storage/id706857885?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/28/47/712847fc-f1aa-b568-8f55-a217dea8c189/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-11-26",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1569379048",
+      "name": "WeTransfer: Transfer Files",
+      "developer": "Wetransfer B.V.",
+      "url": "https://apps.apple.com/sg/app/wetransfer-transfer-files/id1569379048?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/28/78/4c287890-e87d-6c99-c774-46d5252fda6f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2021-10-12",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1513727577",
+      "name": "FWMOMCare",
+      "developer": "Ministry of Manpower",
+      "url": "https://apps.apple.com/sg/app/fwmomcare/id1513727577?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/3c/99/323c998a-87e8-c17c-4894-06902a5fda87/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-05-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1449232078",
+      "name": "BIPO HRMS v2",
+      "developer": "BIPO (ASIA) PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/bipo-hrms-v2/id1449232078?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/24/85/f0248520-0a87-8599-e822-d98d1e03b5fd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-04-04",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "1461747901",
+      "name": "Mobile Scanner App - Scan PDF",
+      "developer": "Glority Global Group Ltd.",
+      "url": "https://apps.apple.com/sg/app/mobile-scanner-app-scan-pdf/id1461747901?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/49/df/cf49df53-bd17-e169-4f97-1e691ce13e2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1281626091",
+      "name": "QuickHR",
+      "developer": "Enable Business Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/quickhr/id1281626091?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/f3/0f/20f30f67-6538-a122-3da5-1ad9586659a9/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-09-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1129435228",
+      "name": "VPN Windscribe: Fast & Secure",
+      "developer": "Windscribe Limited",
+      "url": "https://apps.apple.com/sg/app/vpn-windscribe-fast-secure/id1129435228?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/b2/89/19b289e1-51d9-34ff-23b0-4e9a7ad843b9/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-07-25",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "473225145",
+      "name": "QQ邮箱",
+      "developer": "Tencent Technology (Shenzhen) Company Limited",
+      "url": "https://apps.apple.com/sg/app/qq%E9%82%AE%E7%AE%B1/id473225145?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/74/eb/a674eb45-0998-bbe1-4c1c-74947021e25b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2011-10-24",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "6505104615",
+      "name": "Forms for Google Doc",
+      "developer": "BOHEM Bilisim LTD",
+      "url": "https://apps.apple.com/sg/app/forms-for-google-doc/id6505104615?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/5f/0a/525f0ac3-42e8-ed23-aaca-2401bb8c8e83/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6743264294",
+      "name": "AI Easy Cleaner",
+      "developer": "BRILLIANT BRASS LIMITED",
+      "url": "https://apps.apple.com/sg/app/ai-easy-cleaner/id6743264294?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/ed/84/48ed8465-8c45-07df-18fc-85876a5a80fd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6754001880",
+      "name": "PDF Reader - OCR Scan Edit",
+      "developer": "Fuzhou Jiange Technology Co., Ltd.",
+      "url": "https://apps.apple.com/sg/app/pdf-reader-ocr-scan-edit/id6754001880?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/88/81/a288811e-ffcd-d831-1de3-46eb4e554855/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-10-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1485633776",
+      "name": "Power VPN : Secure VPN Proxy",
+      "developer": "Synclusive Games",
+      "url": "https://apps.apple.com/sg/app/power-vpn-secure-vpn-proxy/id1485633776?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/b2/09/3bb20953-00db-7177-305b-13741d5f935a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2019-11-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6797840836",
+      "name": "Doubao AI | Smart AI Assistant",
+      "developer": "Chavdar Koev",
+      "url": "https://apps.apple.com/sg/app/doubao-ai-smart-ai-assistant/id6797840836?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/f2/00/d6f2004c-5a4f-fd84-2121-7de5c6b7950e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-08-12",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "430921107",
+      "name": "Fing - Network Scanner",
+      "developer": "Fing Limited",
+      "url": "https://apps.apple.com/sg/app/fing-network-scanner/id430921107?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/4a/80/414a80f0-1238-84f3-6cee-935f73caf759/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-04-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1171836473",
+      "name": "穿梭Transocks",
+      "developer": "Chengdu Fobwifi Networks Technology LLC",
+      "url": "https://apps.apple.com/sg/app/%E7%A9%BF%E6%A2%ADtransocks/id1171836473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/b3/ac/ccb3ac58-05ed-0960-748b-a4875f01427c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1033794044",
+      "name": "ASUS Router",
+      "developer": "ASUS",
+      "url": "https://apps.apple.com/sg/app/asus-router/id1033794044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/f5/bb/b9f5bb02-3de8-811a-3ab9-04574ab44eb2/AppIconRouter-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "1590978658",
+      "name": "EquateAccess",
+      "developer": "Equatex AG",
+      "url": "https://apps.apple.com/sg/app/equateaccess/id1590978658?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6c/89/b36c89d1-2955-67b1-c1ed-41eab23d7718/app_icon-0-0-1x_U007ephone-0-0-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-11-11",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "1029207872",
+      "name": "Google Keep - Notes and lists",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-keep-notes-and-lists/id1029207872?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/fc/67/9afc6736-bc26-705b-8e27-02e838c2ce2a/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-09-24",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "834618886",
+      "name": "Padlet",
+      "developer": "Wallwisher, Inc.",
+      "url": "https://apps.apple.com/sg/app/padlet/id834618886?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/26/77/48267749-5a23-8dcc-e2ed-3c0b881a9706/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2015-08-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/sg/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    }
+  ]
+}

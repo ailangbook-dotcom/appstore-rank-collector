@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23",
+ "updated": "2026-09-24",
  "apps": [
   {
    "id": "6793831470",
@@ -637,6 +637,15 @@
      "version": "1.3.7",
      "rating": 4.9356,
      "remeasured": "3x cache-busted max"
+    },
+    {
+     "date": "2026-09-24",
+     "rank": "utilities#33 (전일값 유지, 로컬 차트 재수집 안 함)",
+     "reviews": 838,
+     "delta": 15,
+     "version": "1.3.8",
+     "rating": 4.94,
+     "remeasured": "iTunes lookup 3x cache-busted max"
     }
    ]
   },
@@ -897,6 +906,15 @@
      "version": "1.0.27",
      "rating": 4.90595,
      "remeasured": "3x cache-busted max"
+    },
+    {
+     "date": "2026-09-24",
+     "rank": "health-fitness#3 (전일값 유지, 로컬 차트 재수집 안 함)",
+     "reviews": 2592,
+     "delta": 72,
+     "version": "1.0.28",
+     "rating": 4.904,
+     "remeasured": "iTunes lookup 3x cache-busted max"
     }
    ]
   },
@@ -968,6 +986,15 @@
      "version": "1.29.0",
      "rating": 4.64754,
      "remeasured": "3x cache-busted max"
+    },
+    {
+     "date": "2026-09-24",
+     "rank": "entertainment#52 (전일값 유지, 로컬 차트 재수집 안 함)",
+     "reviews": 2067,
+     "delta": 10,
+     "version": "1.29.0",
+     "rating": 4.646,
+     "remeasured": "iTunes lookup 3x cache-busted max"
     }
    ]
   },
@@ -1096,6 +1123,16 @@
      "version": "1.3.2",
      "rating": 3.47826,
      "remeasured": "3x cache-busted max"
+    },
+    {
+     "date": "2026-09-24",
+     "rank": "finance#26 (전일값 유지, 로컬 차트 재수집 안 함)",
+     "reviews": 24,
+     "delta": 1,
+     "version": "1.3.2",
+     "rating": 3.833,
+     "remeasured": "iTunes lookup 3x cache-busted max",
+     "note": "관찰 종료 상태 유지 — n=1 근거 소진 판정은 변경 없음."
     }
    ]
   },
@@ -1501,6 +1538,16 @@
      "version": "1.0.7",
      "rating": 4.89655,
      "remeasured": "3x cache-busted max"
+    },
+    {
+     "date": "2026-09-24",
+     "rank": "games#69",
+     "reviews": 94,
+     "delta": 7,
+     "version": "1.0.7",
+     "rating": 4.862,
+     "remeasured": "iTunes lookup 3x cache-busted max + games RSS top100 직접 확인",
+     "note": "4일차 첫 순위 하락(games#51→#69, -18). 리뷰는 계속 증가(+7) — 광고 감쇠 시작으로 판정."
     }
    ]
   }

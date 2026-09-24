@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:13:59.828432+09:00",
+  "collected_at": "2026-09-24T20:37:04.376075+09:00",
   "date": "2026-09-24",
   "country": "se",
   "chart": "top-free",
@@ -9,22 +9,6 @@
   "apps": [
     {
       "rank": 1,
-      "id": "416451110",
-      "name": "Mecenat",
-      "developer": "Mecenat AB",
-      "url": "https://apps.apple.com/se/app/mecenat/id416451110?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/f0/6e/0df06ec0-2dc2-e4e9-802c-75b35674474c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2011-02-04",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "id": "570060128",
       "name": "Duolingo – språklektioner",
       "developer": "Duolingo",
@@ -40,13 +24,13 @@
       ]
     },
     {
-      "rank": 3,
-      "id": "1502102347",
-      "name": "Skola24",
-      "developer": "Nova Software AB",
-      "url": "https://apps.apple.com/se/app/skola24/id1502102347?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/10/3f/1a103f27-190b-68ae-5458-0e840297378b/skola24icon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-06-28",
+      "rank": 2,
+      "id": "416451110",
+      "name": "Mecenat",
+      "developer": "Mecenat AB",
+      "url": "https://apps.apple.com/se/app/mecenat/id416451110?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/f0/6e/0df06ec0-2dc2-e4e9-802c-75b35674474c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-02-04",
       "genres": [
         {
           "id": "6017",
@@ -56,7 +40,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "924620788",
       "name": "Google Classroom",
       "developer": "Google",
@@ -72,13 +56,29 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "1477166638",
       "name": "StudyBee, elev & vårdn.havare",
       "developer": "StudyBee AB",
       "url": "https://apps.apple.com/se/app/studybee-elev-v%C3%A5rdn-havare/id1477166638?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/93/bd/e993bde7-8497-7bf8-4253-ac85ba425d23/Studybee-elev-vh-app-launcher-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "release_date": "2019-09-02",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "1502102347",
+      "name": "Skola24",
+      "developer": "Nova Software AB",
+      "url": "https://apps.apple.com/se/app/skola24/id1502102347?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/10/3f/1a103f27-190b-68ae-5458-0e840297378b/skola24icon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-06-28",
       "genres": [
         {
           "id": "6017",
@@ -105,22 +105,6 @@
     },
     {
       "rank": 7,
-      "id": "1064038523",
-      "name": "Edlevo",
-      "developer": "EG A/S",
-      "url": "https://apps.apple.com/se/app/edlevo/id1064038523?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/6e/38/ce6e3869-425a-6f0d-afea-b91add92b746/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2016-09-07",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "id": "808891775",
       "name": "Ta Körkort",
       "developer": "Teoriappar Sverige AB",
@@ -136,7 +120,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "6447939021",
       "name": "SchoolSoft Vårdnadshavare",
       "developer": "SchoolSoft AB",
@@ -152,23 +136,7 @@
       ]
     },
     {
-      "rank": 10,
-      "id": "6478287397",
-      "name": "Learna: Engelska & Spanska",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "url": "https://apps.apple.com/se/app/learna-engelska-spanska/id6478287397?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/dc/ef/e9dceff3-f4e4-b64c-b81f-42a9a30d26d5/Learna-LiquidGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-09-25",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "id": "6479582635",
       "name": "MKON",
       "developer": "Malmo Kongressbyra AB",
@@ -184,7 +152,7 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 10,
       "id": "6447290050",
       "name": "SchoolSoft Elev",
       "developer": "SchoolSoft AB",
@@ -200,39 +168,39 @@
       ]
     },
     {
+      "rank": 11,
+      "id": "1064038523",
+      "name": "Edlevo",
+      "developer": "EG A/S",
+      "url": "https://apps.apple.com/se/app/edlevo/id1064038523?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/6e/38/ce6e3869-425a-6f0d-afea-b91add92b746/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2016-09-07",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "6478287397",
+      "name": "Learna: Engelska & Spanska",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "url": "https://apps.apple.com/se/app/learna-engelska-spanska/id6478287397?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/dc/ef/e9dceff3-f4e4-b64c-b81f-42a9a30d26d5/Learna-LiquidGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-09-25",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 13,
-      "id": "1553065037",
-      "name": "Trafiko: Körkort",
-      "developer": "Trafiko AB",
-      "url": "https://apps.apple.com/se/app/trafiko-k%C3%B6rkort/id1553065037?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/6c/81/4c6c8165-75b7-b98f-938c-39b258333dd3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-08-31",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "id": "480883488",
-      "name": "Canvas by Instructure",
-      "developer": "Instructure Inc.",
-      "url": "https://apps.apple.com/se/app/canvas-by-instructure/id480883488?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-12-08",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
       "id": "6470160190",
       "name": "Teoricentralen: Körkort",
       "developer": "Teoricentralen Sverige AB",
@@ -248,13 +216,45 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 14,
+      "id": "1553065037",
+      "name": "Trafiko: Körkort",
+      "developer": "Trafiko AB",
+      "url": "https://apps.apple.com/se/app/trafiko-k%C3%B6rkort/id1553065037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/6c/81/4c6c8165-75b7-b98f-938c-39b258333dd3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-08-31",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
       "id": "1277071936",
       "name": "Unikum Familj",
       "developer": "Unikum",
       "url": "https://apps.apple.com/se/app/unikum-familj/id1277071936?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/40/ac/0d40acb5-b488-cadb-b8ae-fda36d914d86/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "release_date": "2018-04-24",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "480883488",
+      "name": "Canvas by Instructure",
+      "developer": "Instructure Inc.",
+      "url": "https://apps.apple.com/se/app/canvas-by-instructure/id480883488?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-12-08",
       "genres": [
         {
           "id": "6017",
@@ -281,38 +281,6 @@
     },
     {
       "rank": 18,
-      "id": "6746772941",
-      "name": "Netflix lekhörna",
-      "developer": "Netflix, Inc.",
-      "url": "https://apps.apple.com/se/app/netflix-lekh%C3%B6rna/id6746772941?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/44/94/38449415-85a3-9167-a455-eadc51127964/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-28",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "1640277495",
-      "name": "itslearning",
-      "developer": "itslearning AS",
-      "url": "https://apps.apple.com/se/app/itslearning/id1640277495?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/ae/71/c9ae71b0-1aab-f873-e82d-554427b3666b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-10-11",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
       "id": "1388965431",
       "name": "InfoMentor Hub",
       "developer": "InfoMentor P.O.D.B AB",
@@ -328,7 +296,7 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 19,
       "id": "1610516671",
       "name": "Gizmo: AI Tutor",
       "developer": "Save All",
@@ -344,7 +312,7 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 20,
       "id": "546473125",
       "name": "Quizlet lär dig engelska",
       "developer": "Quizlet Inc",
@@ -360,7 +328,7 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 21,
       "id": "1445023295",
       "name": "Deepstash: Smarter Every Day!",
       "developer": "Brainstash, Inc",
@@ -376,7 +344,23 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 22,
+      "id": "1640277495",
+      "name": "itslearning",
+      "developer": "itslearning AS",
+      "url": "https://apps.apple.com/se/app/itslearning/id1640277495?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/ae/71/c9ae71b0-1aab-f873-e82d-554427b3666b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-10-11",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
       "id": "416550379",
       "name": "Skolmaten",
       "developer": "IST Group AB",
@@ -392,55 +376,7 @@
       ]
     },
     {
-      "rank": 25,
-      "id": "6762150545",
-      "name": "InfoMentor",
-      "developer": "InfoMentor P.O.D.B AB",
-      "url": "https://apps.apple.com/se/app/infomentor/id6762150545?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/cb/19/63cb19ed-7c90-62de-f9b0-623da412db33/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-08-14",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "1042221580",
-      "name": "QCPR",
-      "developer": "Laerdal Medical AS",
-      "url": "https://apps.apple.com/se/app/qcpr/id1042221580?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/1b/ae/cb1bae87-790f-ce68-1df3-b6001cf1bb7b/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-05-23",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "6754300629",
-      "name": "SnapTest: AI Quiz & Study",
-      "developer": "Cool App Company",
-      "url": "https://apps.apple.com/se/app/snaptest-ai-quiz-study/id6754300629?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/b9/20/b4b9202d-b421-2bf0-30d5-8def83648d5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-10-30",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
+      "rank": 24,
       "id": "1131203560",
       "name": "Kahoot! Spela & skapa quiz",
       "developer": "Kahoot ASA",
@@ -456,7 +392,23 @@
       ]
     },
     {
-      "rank": 29,
+      "rank": 25,
+      "id": "6762150545",
+      "name": "InfoMentor",
+      "developer": "InfoMentor P.O.D.B AB",
+      "url": "https://apps.apple.com/se/app/infomentor/id6762150545?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/e3/1e/dae31e30-9b5e-10b0-932e-e11f9cfb9d15/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-08-14",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
       "id": "1353786829",
       "name": "IST Home Skola",
       "developer": "IST Group AB",
@@ -472,55 +424,7 @@
       ]
     },
     {
-      "rank": 30,
-      "id": "6448748865",
-      "name": "TABS Elev",
-      "developer": "Lime Green Digital",
-      "url": "https://apps.apple.com/se/app/tabs-elev/id6448748865?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/8c/06/8f8c06fd-0622-ab90-d6f4-fed66307ded6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-21",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
-      "id": "6745237476",
-      "name": "Kalam: Learn Arabic",
-      "developer": "NODE ZERO INC",
-      "url": "https://apps.apple.com/se/app/kalam-learn-arabic/id6745237476?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/a9/c1/7aa9c18a-bedd-4b01-d55f-5c89fd34cd3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-06-05",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
-      "id": "6799171035",
-      "name": "Memmo: AI Study Tools",
-      "developer": "Memmo Learning AB",
-      "url": "https://apps.apple.com/se/app/memmo-ai-study-tools/id6799171035?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/01/e1/0101e112-d386-edb9-553d-6bdf39a3d080/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-17",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
+      "rank": 27,
       "id": "6450051169",
       "name": "Körkortsboken",
       "developer": "STR",
@@ -536,39 +440,7 @@
       ]
     },
     {
-      "rank": 34,
-      "id": "479854754",
-      "name": "Legimus",
-      "developer": "Sensotec nv",
-      "url": "https://apps.apple.com/se/app/legimus/id479854754?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/de/fd/48defd3c-4c65-93a8-049c-3508967e9e8a/AppIcon-Legimus-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2012-03-13",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 35,
-      "id": "1033474398",
-      "name": "UR Play",
-      "developer": "Sveriges Utbildningsradio AB",
-      "url": "https://apps.apple.com/se/app/ur-play/id1033474398?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/85/39/c9853922-2a88-b8dc-876a-4a35c6990d52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-04-21",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 36,
+      "rank": 28,
       "id": "1536578224",
       "name": "Meitner skolplattform",
       "developer": "Meitner AB",
@@ -584,13 +456,141 @@
       ]
     },
     {
+      "rank": 29,
+      "id": "1033474398",
+      "name": "UR Play",
+      "developer": "Sveriges Utbildningsradio AB",
+      "url": "https://apps.apple.com/se/app/ur-play/id1033474398?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/85/39/c9853922-2a88-b8dc-876a-4a35c6990d52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-21",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "6746772941",
+      "name": "Netflix lekhörna",
+      "developer": "Netflix, Inc.",
+      "url": "https://apps.apple.com/se/app/netflix-lekh%C3%B6rna/id6746772941?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/44/94/38449415-85a3-9167-a455-eadc51127964/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-28",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "6448748865",
+      "name": "TABS Elev",
+      "developer": "Lime Green Digital",
+      "url": "https://apps.apple.com/se/app/tabs-elev/id6448748865?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/8c/06/8f8c06fd-0622-ab90-d6f4-fed66307ded6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-21",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "479854754",
+      "name": "Legimus",
+      "developer": "Sensotec nv",
+      "url": "https://apps.apple.com/se/app/legimus/id479854754?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/de/fd/48defd3c-4c65-93a8-049c-3508967e9e8a/AppIcon-Legimus-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-03-13",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "6751030141",
+      "name": "Astra AI: Plugga & Prov",
+      "developer": "Astra AI d.o.o.",
+      "url": "https://apps.apple.com/se/app/astra-ai-plugga-prov/id6751030141?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/95/33/c8953325-35e0-dfd3-1fcb-d1d2738bab0c/Icon-prod-0-0-1x_U007epad-0-1-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "6745237476",
+      "name": "Kalam: Learn Arabic",
+      "developer": "NODE ZERO INC",
+      "url": "https://apps.apple.com/se/app/kalam-learn-arabic/id6745237476?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/a9/c1/7aa9c18a-bedd-4b01-d55f-5c89fd34cd3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-06-05",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "6754300629",
+      "name": "SnapTest: AI Quiz & Study",
+      "developer": "Cool App Company",
+      "url": "https://apps.apple.com/se/app/snaptest-ai-quiz-study/id6754300629?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/b9/20/b4b9202d-b421-2bf0-30d5-8def83648d5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-30",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1624701477",
+      "name": "Praktika– AI-språklärare",
+      "developer": "Praktika.ai Company",
+      "url": "https://apps.apple.com/se/app/praktika-ai-spr%C3%A5kl%C3%A4rare/id1624701477?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/81/ce/ca81ce61-639a-78bc-753c-4e3cf5bc01d8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-05-25",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 37,
-      "id": "6737468071",
-      "name": "HP-appen: högskoleprovet",
-      "developer": "Edtech Disruptor AB",
-      "url": "https://apps.apple.com/se/app/hp-appen-h%C3%B6gskoleprovet/id6737468071?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/65/ed/4465ed59-2038-d201-97e9-847db0d089f6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-22",
+      "id": "6779174251",
+      "name": "Etymo: Högskoleprovet Ord 2026",
+      "developer": "Kappish AB",
+      "url": "https://apps.apple.com/se/app/etymo-h%C3%B6gskoleprovet-ord-2026/id6779174251?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/5a/07/b15a0776-6324-b0d2-aef2-ee00318b3873/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-31",
       "genres": [
         {
           "id": "6017",
@@ -601,12 +601,12 @@
     },
     {
       "rank": 38,
-      "id": "1451295827",
-      "name": "Impulse - Hjärnträning",
-      "developer": "GMRD Apps Limited",
-      "url": "https://apps.apple.com/se/app/impulse-hj%C3%A4rntr%C3%A4ning/id1451295827?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/06/df/1606dfaa-b57a-4000-23df-f7affb2c6e98/AppIcon_Head-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-19",
+      "id": "1042221580",
+      "name": "QCPR",
+      "developer": "Laerdal Medical AS",
+      "url": "https://apps.apple.com/se/app/qcpr/id1042221580?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/1b/ae/cb1bae87-790f-ce68-1df3-b6001cf1bb7b/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-05-23",
       "genres": [
         {
           "id": "6017",
@@ -633,12 +633,12 @@
     },
     {
       "rank": 40,
-      "id": "1425735407",
-      "name": "weStudents - studentrabatter",
-      "developer": "WeSupero AB",
-      "url": "https://apps.apple.com/se/app/westudents-studentrabatter/id1425735407?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/75/8e/ac758e44-54ba-15f4-444b-5ff9ea3d84b0/app-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-08-21",
+      "id": "6799171035",
+      "name": "Memmo: AI Study Tools",
+      "developer": "Memmo Learning AB",
+      "url": "https://apps.apple.com/se/app/memmo-ai-study-tools/id6799171035?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/bf/d4/a6bfd4d9-3bd5-b539-9493-59bbfc333976/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-17",
       "genres": [
         {
           "id": "6017",
@@ -649,70 +649,6 @@
     },
     {
       "rank": 41,
-      "id": "6751030141",
-      "name": "Astra AI: Plugga & Prov",
-      "developer": "Astra AI d.o.o.",
-      "url": "https://apps.apple.com/se/app/astra-ai-plugga-prov/id6751030141?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/2b/9e/382b9e2f-c53a-2c2b-dea6-916f5ad1a6dd/Icon-prod-0-0-1x_U007epad-0-1-0-sRGB-GLES2_U002c0-85-220.png/100x100bb.png",
-      "release_date": "2025-08-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1226346650",
-      "name": "Orbi",
-      "developer": "Dipity Technologies AB",
-      "url": "https://apps.apple.com/se/app/orbi/id1226346650?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/a5/f5/e9a5f55c-733c-d3b6-e33b-04714c6f73d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2017-07-18",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "6446958932",
-      "name": "Mitt UF-företag",
-      "developer": "Ung Företagsamhet",
-      "url": "https://apps.apple.com/se/app/mitt-uf-f%C3%B6retag/id6446958932?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/95/9e/02959e77-33a1-8fe6-5698-5ce1056c5e13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2023-03-30",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "6779174251",
-      "name": "Etymo: Högskoleprovet Ord 2026",
-      "developer": "Kappish AB",
-      "url": "https://apps.apple.com/se/app/etymo-h%C3%B6gskoleprovet-ord-2026/id6779174251?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/25/28/52252823-99b4-1017-7898-de8efefa3bd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-31",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
       "id": "6468219825",
       "name": "Talkpal - AI Språkinlärning",
       "developer": "TalkPal, Inc.",
@@ -728,183 +664,7 @@
       ]
     },
     {
-      "rank": 46,
-      "id": "1143930718",
-      "name": "Learn It - Öva på glosor",
-      "developer": "Enhanced Work Nordic AB",
-      "url": "https://apps.apple.com/se/app/learn-it-%C3%B6va-p%C3%A5-glosor/id1143930718?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6c/09/2c/6c092cd3-4973-9a9d-1121-5830122a57b1/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/100x100bb.png",
-      "release_date": "2016-09-08",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "1093460065",
-      "name": "Seterra Geografi (Fullversion)",
-      "developer": "GeoGuessr AB",
-      "url": "https://apps.apple.com/se/app/seterra-geografi-fullversion/id1093460065?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/2b/26/ed2b2605-b3e4-ee88-1820-2fb96d8e4645/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2016-03-30",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "id": "513047875",
-      "name": "Svenskt teckenspråkslexikon",
-      "developer": "Sarok AB",
-      "url": "https://apps.apple.com/se/app/svenskt-teckenspr%C3%A5kslexikon/id513047875?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/8e/0e/788e0ed6-080b-3fe3-6f50-2114c2ca6d7f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2012-04-05",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "919087726",
-      "name": "Photomath",
-      "developer": "Google",
-      "url": "https://apps.apple.com/se/app/photomath/id919087726?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/5a/0a/2f5a0adc-38d1-b267-3097-b70da62099f0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-10-17",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "id": "1474578078",
-      "name": "Picture Mushroom: Fungi finder",
-      "developer": "Next Vision Limited",
-      "url": "https://apps.apple.com/se/app/picture-mushroom-fungi-finder/id1474578078?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/c0/2e/7fc02e17-7b4a-d644-640f-45982379cb72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-08-10",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "6743074605",
-      "name": "YayTalk: Lär dig engelska",
-      "developer": "IdeaLabs",
-      "url": "https://apps.apple.com/se/app/yaytalk-l%C3%A4r-dig-engelska/id6743074605?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/f1/8a/37f18ab8-fa37-7ebc-df44-370b2234478a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-04-28",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "1552708303",
-      "name": "Speak English with Loora AI",
-      "developer": "Loora A.I LTD",
-      "url": "https://apps.apple.com/se/app/speak-english-with-loora-ai/id1552708303?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6a/8d/0c6a8d1a-c8f3-1192-96aa-87efa20bfa48/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2021-04-02",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1353224144",
-      "name": "Seek av iNaturalist",
-      "developer": "iNaturalist",
-      "url": "https://apps.apple.com/se/app/seek-av-inaturalist/id1353224144?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/64/ba/8464ba90-6aae-e81d-affa-001593319d6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-03-09",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "1624701477",
-      "name": "Praktika– AI-språklärare",
-      "developer": "Praktika.ai Company",
-      "url": "https://apps.apple.com/se/app/praktika-ai-spr%C3%A5kl%C3%A4rare/id1624701477?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/81/ce/ca81ce61-639a-78bc-753c-4e3cf5bc01d8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-05-25",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "1510938040",
-      "name": "Haldor Förälder",
-      "developer": "Haldor AB",
-      "url": "https://apps.apple.com/se/app/haldor-f%C3%B6r%C3%A4lder/id1510938040?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ef/96/c6ef96cd-b803-f47f-8038-8ff5416ef5b3/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-08-07",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "1297860122",
-      "name": "Flora Incognita",
-      "developer": "Patrick Maeder",
-      "url": "https://apps.apple.com/se/app/flora-incognita/id1297860122?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/43/c8/a943c895-e0a9-8d2e-c350-a9714a4d6a4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-04-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
+      "rank": 42,
       "id": "6736654449",
       "name": "SmartyMe: Mikrolärande",
       "developer": "ApexTech Ltd",
@@ -920,13 +680,253 @@
       ]
     },
     {
+      "rank": 43,
+      "id": "6737468071",
+      "name": "HP-appen: högskoleprovet",
+      "developer": "Edtech Disruptor AB",
+      "url": "https://apps.apple.com/se/app/hp-appen-h%C3%B6gskoleprovet/id6737468071?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/65/ed/4465ed59-2038-d201-97e9-847db0d089f6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-22",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1143930718",
+      "name": "Learn It - Öva på glosor",
+      "developer": "Enhanced Work Nordic AB",
+      "url": "https://apps.apple.com/se/app/learn-it-%C3%B6va-p%C3%A5-glosor/id1143930718?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6c/09/2c/6c092cd3-4973-9a9d-1121-5830122a57b1/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/100x100bb.png",
+      "release_date": "2016-09-08",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "6743074605",
+      "name": "YayTalk: Lär dig engelska",
+      "developer": "IdeaLabs",
+      "url": "https://apps.apple.com/se/app/yaytalk-l%C3%A4r-dig-engelska/id6743074605?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/33/0f/31330fdd-4747-3916-648f-9bc64f8598c6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-28",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1451295827",
+      "name": "Impulse - Hjärnträning",
+      "developer": "GMRD Apps Limited",
+      "url": "https://apps.apple.com/se/app/impulse-hj%C3%A4rntr%C3%A4ning/id1451295827?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/3e/50/203e5023-37ac-1d4b-11a0-87cd83b709ac/AppIcon_Head-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-19",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "513047875",
+      "name": "Svenskt teckenspråkslexikon",
+      "developer": "Sarok AB",
+      "url": "https://apps.apple.com/se/app/svenskt-teckenspr%C3%A5kslexikon/id513047875?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/8e/0e/788e0ed6-080b-3fe3-6f50-2114c2ca6d7f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-04-05",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1093460065",
+      "name": "Seterra Geografi (Fullversion)",
+      "developer": "GeoGuessr AB",
+      "url": "https://apps.apple.com/se/app/seterra-geografi-fullversion/id1093460065?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/2b/26/ed2b2605-b3e4-ee88-1820-2fb96d8e4645/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2016-03-30",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "1425735407",
+      "name": "weStudents - studentrabatter",
+      "developer": "WeSupero AB",
+      "url": "https://apps.apple.com/se/app/westudents-studentrabatter/id1425735407?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/75/8e/ac758e44-54ba-15f4-444b-5ff9ea3d84b0/app-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-08-21",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1510938040",
+      "name": "Haldor Förälder",
+      "developer": "Haldor AB",
+      "url": "https://apps.apple.com/se/app/haldor-f%C3%B6r%C3%A4lder/id1510938040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ef/96/c6ef96cd-b803-f47f-8038-8ff5416ef5b3/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-08-07",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1525894108",
+      "name": "Skolon",
+      "developer": "Skolon AB",
+      "url": "https://apps.apple.com/se/app/skolon/id1525894108?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/fd/cd/67fdcd5d-1e93-5a70-0827-e0dd93c1e704/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-08-09",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "919087726",
+      "name": "Photomath",
+      "developer": "Google",
+      "url": "https://apps.apple.com/se/app/photomath/id919087726?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/5a/0a/2f5a0adc-38d1-b267-3097-b70da62099f0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-10-17",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1226346650",
+      "name": "Orbi",
+      "developer": "Dipity Technologies AB",
+      "url": "https://apps.apple.com/se/app/orbi/id1226346650?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/a5/f5/e9a5f55c-733c-d3b6-e33b-04714c6f73d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2017-07-18",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6739030323",
+      "name": "StudyAlong V2",
+      "developer": "PlayAlong AB",
+      "url": "https://apps.apple.com/se/app/studyalong-v2/id6739030323?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/c0/1f/53c01fb4-cd5e-31ca-c3a4-c90742242131/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-09",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6446958932",
+      "name": "Mitt UF-företag",
+      "developer": "Ung Företagsamhet",
+      "url": "https://apps.apple.com/se/app/mitt-uf-f%C3%B6retag/id6446958932?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/95/9e/02959e77-33a1-8fe6-5698-5ce1056c5e13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2023-03-30",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "633359593",
+      "name": "Moodle",
+      "developer": "Moodle Pty Ltd",
+      "url": "https://apps.apple.com/se/app/moodle/id633359593?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/41/71/9741714c-c5a4-47b3-64de-7f209807a1c3/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2013-04-15",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1297860122",
+      "name": "Flora Incognita",
+      "developer": "Patrick Maeder",
+      "url": "https://apps.apple.com/se/app/flora-incognita/id1297860122?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/43/c8/a943c895-e0a9-8d2e-c350-a9714a4d6a4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-04-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 58,
-      "id": "1334597383",
-      "name": "Mitt Körkort",
-      "developer": "My Driving Academy AB",
-      "url": "https://apps.apple.com/se/app/mitt-k%C3%B6rkort/id1334597383?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/92/12/0c9212e3-65d5-9bff-e7be-21449739fe63/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-03-15",
+      "id": "1458716890",
+      "name": "Stellarium Mobile - Star Map",
+      "developer": "Noctua Software Ltd",
+      "url": "https://apps.apple.com/se/app/stellarium-mobile-star-map/id1458716890?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/d5/2e/a9d52e53-32d9-821c-cc76-2499293c8768/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-04-07",
       "genres": [
         {
           "id": "6017",
@@ -953,12 +953,12 @@
     },
     {
       "rank": 60,
-      "id": "1040888794",
-      "name": "Tyra - Förskoleappen",
-      "developer": "Bayou",
-      "url": "https://apps.apple.com/se/app/tyra-f%C3%B6rskoleappen/id1040888794?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/88/8c/49888cb7-d615-31c8-b7fa-d881d5815abb/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
-      "release_date": "2015-10-31",
+      "id": "1208138685",
+      "name": "Toca Boca World",
+      "developer": "Toca Boca AB",
+      "url": "https://apps.apple.com/se/app/toca-boca-world/id1208138685?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/11/bc/4211bc7e-8593-c666-52fd-5adc7429d67f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-21",
       "genres": [
         {
           "id": "6017",
@@ -969,12 +969,12 @@
     },
     {
       "rank": 61,
-      "id": "1208138685",
-      "name": "Toca Boca World",
-      "developer": "Toca Boca AB",
-      "url": "https://apps.apple.com/se/app/toca-boca-world/id1208138685?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/11/bc/4211bc7e-8593-c666-52fd-5adc7429d67f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-21",
+      "id": "1552708303",
+      "name": "Speak English with Loora AI",
+      "developer": "Loora A.I LTD",
+      "url": "https://apps.apple.com/se/app/speak-english-with-loora-ai/id1552708303?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6a/8d/0c6a8d1a-c8f3-1192-96aa-87efa20bfa48/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2021-04-02",
       "genres": [
         {
           "id": "6017",
@@ -1001,12 +1001,12 @@
     },
     {
       "rank": 63,
-      "id": "6737475370",
-      "name": "Omniway Learning",
-      "developer": "Omniway AB",
-      "url": "https://apps.apple.com/se/app/omniway-learning/id6737475370?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/62/7e/29627e37-dee8-ca4f-92c8-7e13d0826c2c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-11-27",
+      "id": "1474578078",
+      "name": "Picture Mushroom: Fungi finder",
+      "developer": "Next Vision Limited",
+      "url": "https://apps.apple.com/se/app/picture-mushroom-fungi-finder/id1474578078?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/c0/2e/7fc02e17-7b4a-d644-640f-45982379cb72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-08-10",
       "genres": [
         {
           "id": "6017",
@@ -1017,12 +1017,12 @@
     },
     {
       "rank": 64,
-      "id": "6739030323",
-      "name": "StudyAlong V2",
-      "developer": "PlayAlong AB",
-      "url": "https://apps.apple.com/se/app/studyalong-v2/id6739030323?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/c0/1f/53c01fb4-cd5e-31ca-c3a4-c90742242131/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-10-09",
+      "id": "1334597383",
+      "name": "Mitt Körkort",
+      "developer": "My Driving Academy AB",
+      "url": "https://apps.apple.com/se/app/mitt-k%C3%B6rkort/id1334597383?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/92/12/0c9212e3-65d5-9bff-e7be-21449739fe63/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-03-15",
       "genres": [
         {
           "id": "6017",
@@ -1033,246 +1033,6 @@
     },
     {
       "rank": 65,
-      "id": "1534378418",
-      "name": "Högskoleprovet - HPKampen",
-      "developer": "Applitic",
-      "url": "https://apps.apple.com/se/app/h%C3%B6gskoleprovet-hpkampen/id1534378418?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/7e/61/437e6131-9644-43db-3108-db9321e3b079/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-05",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "1525894108",
-      "name": "Skolon",
-      "developer": "Skolon AB",
-      "url": "https://apps.apple.com/se/app/skolon/id1525894108?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/fd/cd/67fdcd5d-1e93-5a70-0827-e0dd93c1e704/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2020-08-09",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "6474365423",
-      "name": "Svampguiden + Identifiering",
-      "developer": "Palina Baltsevich",
-      "url": "https://apps.apple.com/se/app/svampguiden-identifiering/id6474365423?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ad/0d/adad0d78-f8ec-b322-e50b-784a041ef917/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-12-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6756250564",
-      "name": "Edlevo Elev",
-      "developer": "EG A/S",
-      "url": "https://apps.apple.com/se/app/edlevo-elev/id6756250564?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/55/d3/d055d3ad-9be5-184e-a940-b84491722ca4/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-01-09",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "1338138006",
-      "name": "Vägmärkesspelet",
-      "developer": "Teoriappar Sverige AB",
-      "url": "https://apps.apple.com/se/app/v%C3%A4gm%C3%A4rkesspelet/id1338138006?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/4e/77/4e4e77d4-d875-5fb2-abbf-0024e13232f9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-01-31",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "951655185",
-      "name": "Progress",
-      "developer": "Edukatus Alliance AB",
-      "url": "https://apps.apple.com/se/app/progress/id951655185?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/f6/62/1df662e2-58bd-1bf8-3ebb-1a0e4ca9ad3e/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "release_date": "2015-03-09",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "6773548270",
-      "name": "LearnUp: Speak & Learn English",
-      "developer": "BEGAMOB GLOBAL LIMITED",
-      "url": "https://apps.apple.com/se/app/learnup-speak-learn-english/id6773548270?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/90/66/df906627-169a-42e2-c0ec-df2e404e02b2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-23",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "1352790442",
-      "name": "Preply lär dig över 50 språk",
-      "developer": "Preply Inc.",
-      "url": "https://apps.apple.com/se/app/preply-l%C3%A4r-dig-%C3%B6ver-50-spr%C3%A5k/id1352790442?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/c7/94/52c79406-5282-fdf8-d3ef-954a746a4fb5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-06-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "633359593",
-      "name": "Moodle",
-      "developer": "Moodle Pty Ltd",
-      "url": "https://apps.apple.com/se/app/moodle/id633359593?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/41/71/9741714c-c5a4-47b3-64de-7f209807a1c3/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2013-04-15",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "6740192624",
-      "name": "BetterSpeak: AI-språklärare",
-      "developer": "HUBX",
-      "url": "https://apps.apple.com/se/app/betterspeak-ai-spr%C3%A5kl%C3%A4rare/id6740192624?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/7f/c6/b17fc68c-f380-f18c-887d-ad58c6917408/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-08-08",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "6738882620",
-      "name": "Language Learning: Pingo AI",
-      "developer": "Pingo AI, Inc.",
-      "url": "https://apps.apple.com/se/app/language-learning-pingo-ai/id6738882620?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/27/aa/2b27aa74-14b1-d886-f7a4-9406c4622e12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-12-16",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "332520417",
-      "name": "Time Timer",
-      "developer": "Time Timer LLC",
-      "url": "https://apps.apple.com/se/app/time-timer/id332520417?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/81/b4/d781b4fb-d88c-a6ad-eac4-2522af271cf8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2009-09-29",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "1423120800",
-      "name": "Körkortsfrågor",
-      "developer": "Trafikappar Sverige AB",
-      "url": "https://apps.apple.com/se/app/k%C3%B6rkortsfr%C3%A5gor/id1423120800?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/09/18/590918d5-b477-3495-85ba-d1faf8254e0b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-10-03",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "517635959",
-      "name": "TurfHunt",
-      "developer": "Locatify",
-      "url": "https://apps.apple.com/se/app/turfhunt/id517635959?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/b5/e4/3eb5e4eb-5c2a-c0a2-b346-2820ca28b6f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2012-05-16",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "1629042752",
-      "name": "APL by LearnWARE",
-      "developer": "P&L Nordic AB",
-      "url": "https://apps.apple.com/se/app/apl-by-learnware/id1629042752?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/d0/c0/60d0c00d-d457-6ef5-cdd9-a2893f2a3646/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-09-09",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
       "id": "6757110335",
       "name": "Bloom: Lär dig språk",
       "developer": "Alexandru Iliescu",
@@ -1288,13 +1048,13 @@
       ]
     },
     {
-      "rank": 81,
-      "id": "6773052552",
-      "name": "Högskoleprovet: HPToppen",
-      "developer": "Victor Cedervall",
-      "url": "https://apps.apple.com/se/app/h%C3%B6gskoleprovet-hptoppen/id6773052552?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/58/0e/29580e38-39b5-0bd4-a7f8-43102b4c395e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-06-08",
+      "rank": 66,
+      "id": "1338138006",
+      "name": "Vägmärkesspelet",
+      "developer": "Teoriappar Sverige AB",
+      "url": "https://apps.apple.com/se/app/v%C3%A4gm%C3%A4rkesspelet/id1338138006?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/4e/77/4e4e77d4-d875-5fb2-abbf-0024e13232f9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-01-31",
       "genres": [
         {
           "id": "6017",
@@ -1304,13 +1064,13 @@
       ]
     },
     {
-      "rank": 82,
-      "id": "6759081846",
-      "name": "Iqra: Quran Tutor",
-      "developer": "MARKCON MANAGEMENT CONSULTANCY W.L.L",
-      "url": "https://apps.apple.com/se/app/iqra-quran-tutor/id6759081846?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/27/48/592748a3-9fb0-7d54-000d-910782291c55/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2026-03-26",
+      "rank": 67,
+      "id": "1040888794",
+      "name": "Tyra - Förskoleappen",
+      "developer": "Bayou",
+      "url": "https://apps.apple.com/se/app/tyra-f%C3%B6rskoleappen/id1040888794?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/88/8c/49888cb7-d615-31c8-b7fa-d881d5815abb/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-31",
       "genres": [
         {
           "id": "6017",
@@ -1320,13 +1080,13 @@
       ]
     },
     {
-      "rank": 83,
-      "id": "1569561565",
-      "name": "JENSEN Campus",
-      "developer": "JENSEN education AB",
-      "url": "https://apps.apple.com/se/app/jensen-campus/id1569561565?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/b0/85/dab0853d-c0d1-942c-476b-999c4d576677/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-05-27",
+      "rank": 68,
+      "id": "1534378418",
+      "name": "Högskoleprovet - HPKampen",
+      "developer": "Applitic",
+      "url": "https://apps.apple.com/se/app/h%C3%B6gskoleprovet-hpkampen/id1534378418?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/7e/61/437e6131-9644-43db-3108-db9321e3b079/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-05",
       "genres": [
         {
           "id": "6017",
@@ -1336,13 +1096,13 @@
       ]
     },
     {
-      "rank": 84,
-      "id": "951619066",
-      "name": "itslearning mobile",
-      "developer": "itslearning AS",
-      "url": "https://apps.apple.com/se/app/itslearning-mobile/id951619066?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/ca/e8/afcae8c7-47a3-9713-147f-615543de265b/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2014-12-30",
+      "rank": 69,
+      "id": "6773548270",
+      "name": "LearnUp: Speak & Learn English",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/se/app/learnup-speak-learn-english/id6773548270?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/90/66/df906627-169a-42e2-c0ec-df2e404e02b2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-23",
       "genres": [
         {
           "id": "6017",
@@ -1352,12 +1112,124 @@
       ]
     },
     {
-      "rank": 85,
-      "id": "1350693067",
-      "name": "Quiculum",
-      "developer": "Quiculum AB",
-      "url": "https://apps.apple.com/se/app/quiculum/id1350693067?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b1/2c/97b12c66-72e8-776c-933d-8c24488dccd6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 70,
+      "id": "6740192624",
+      "name": "BetterSpeak: AI-språklärare",
+      "developer": "HUBX",
+      "url": "https://apps.apple.com/se/app/betterspeak-ai-spr%C3%A5kl%C3%A4rare/id6740192624?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/7f/c6/b17fc68c-f380-f18c-887d-ad58c6917408/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-08-08",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "332520417",
+      "name": "Time Timer",
+      "developer": "Time Timer LLC",
+      "url": "https://apps.apple.com/se/app/time-timer/id332520417?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/81/b4/d781b4fb-d88c-a6ad-eac4-2522af271cf8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2009-09-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "1423120800",
+      "name": "Körkortsfrågor",
+      "developer": "Trafikappar Sverige AB",
+      "url": "https://apps.apple.com/se/app/k%C3%B6rkortsfr%C3%A5gor/id1423120800?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/09/18/590918d5-b477-3495-85ba-d1faf8254e0b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-10-03",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6756250564",
+      "name": "Edlevo Elev",
+      "developer": "EG A/S",
+      "url": "https://apps.apple.com/se/app/edlevo-elev/id6756250564?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/55/d3/d055d3ad-9be5-184e-a940-b84491722ca4/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-01-09",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1352790442",
+      "name": "Preply lär dig över 50 språk",
+      "developer": "Preply Inc.",
+      "url": "https://apps.apple.com/se/app/preply-l%C3%A4r-dig-%C3%B6ver-50-spr%C3%A5k/id1352790442?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/c7/94/52c79406-5282-fdf8-d3ef-954a746a4fb5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-06-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "6474365423",
+      "name": "Svampguiden + Identifiering",
+      "developer": "Palina Baltsevich",
+      "url": "https://apps.apple.com/se/app/svampguiden-identifiering/id6474365423?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ad/0d/adad0d78-f8ec-b322-e50b-784a041ef917/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-12-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6737475370",
+      "name": "Omniway Learning",
+      "developer": "Omniway AB",
+      "url": "https://apps.apple.com/se/app/omniway-learning/id6737475370?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/62/7e/29627e37-dee8-ca4f-92c8-7e13d0826c2c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-11-27",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1353224144",
+      "name": "Seek av iNaturalist",
+      "developer": "iNaturalist",
+      "url": "https://apps.apple.com/se/app/seek-av-inaturalist/id1353224144?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/64/ba/8464ba90-6aae-e81d-affa-001593319d6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "release_date": "2018-03-09",
       "genres": [
         {
@@ -1368,13 +1240,13 @@
       ]
     },
     {
-      "rank": 86,
-      "id": "1274957001",
-      "name": "Invajo Conference & Events",
-      "developer": "Invajo AB",
-      "url": "https://apps.apple.com/se/app/invajo-conference-events/id1274957001?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/bd/11/d9bd1118-007b-3713-0399-2bbeb3df1a26/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-13",
+      "rank": 78,
+      "id": "6760919622",
+      "name": "Sophia: Allmänbildning",
+      "developer": "Vik Studios SAS",
+      "url": "https://apps.apple.com/se/app/sophia-allm%C3%A4nbildning/id6760919622?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/41/83/c5418382-6a2b-8679-0f59-dd87731a5a9f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-07",
       "genres": [
         {
           "id": "6017",
@@ -1384,103 +1256,7 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "1639875485",
-      "name": "Simply Draw: Lär dig rita",
-      "developer": "Simply Ltd",
-      "url": "https://apps.apple.com/se/app/simply-draw-l%C3%A4r-dig-rita/id1639875485?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/a9/ab/52a9aba3-039d-d9df-376c-16a4ccaf32cb/AppIcon-production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-11-15",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "6478108187",
-      "name": "Nuroe — Focus. Learn. Thrive.",
-      "developer": "Neural Assembly Int AB",
-      "url": "https://apps.apple.com/se/app/nuroe-focus-learn-thrive/id6478108187?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/25/46/f225464f-dcc0-8a18-5311-86d0e14473ba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-05-23",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6479639235",
-      "name": "Airlearn - Språkinlärning",
-      "developer": "UNACADEMY INC",
-      "url": "https://apps.apple.com/se/app/airlearn-spr%C3%A5kinl%C3%A4rning/id6479639235?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/b1/c8/89b1c8b7-14db-80e5-3803-c6cc22f1b60c/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2024-08-13",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "1453185498",
-      "name": "Attensi SKILLS",
-      "developer": "Attensi",
-      "url": "https://apps.apple.com/se/app/attensi-skills/id1453185498?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/cb/11/4acb11ea-2559-697a-3a4b-893ff7d9f65e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-03-12",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1460235511",
-      "name": "Studocu: Notes & Practice",
-      "developer": "StuDocu",
-      "url": "https://apps.apple.com/se/app/studocu-notes-practice/id1460235511?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/86/19/718619a9-5240-3f92-0324-1a80aa4831df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-05-22",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "6502602524",
-      "name": "Skillster MyRide",
-      "developer": "Skillster AB",
-      "url": "https://apps.apple.com/se/app/skillster-myride/id6502602524?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/80/49/2e804913-f063-6484-3c42-4620acf1bbdb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-05-31",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
+      "rank": 79,
       "id": "6738996117",
       "name": "Översätt Nu",
       "developer": "Takamaka Ltd.",
@@ -1496,13 +1272,13 @@
       ]
     },
     {
-      "rank": 94,
-      "id": "6472039857",
-      "name": "Nagelsalongsspel för Barn 2-5",
-      "developer": "JMH Developers OU",
-      "url": "https://apps.apple.com/se/app/nagelsalongsspel-f%C3%B6r-barn-2-5/id6472039857?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/a7/45/e0a745d6-de51-225c-4132-20eacf1634c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-12-29",
+      "rank": 80,
+      "id": "1599756543",
+      "name": "Brain Training, IQ Test・Clever",
+      "developer": "DPM APPS LP",
+      "url": "https://apps.apple.com/se/app/brain-training-iq-test-clever/id1599756543?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9a/0c/3e9a0cef-8e07-de44-2f19-a36d23e94689/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-04-04",
       "genres": [
         {
           "id": "6017",
@@ -1512,13 +1288,13 @@
       ]
     },
     {
-      "rank": 95,
-      "id": "6756067147",
-      "name": "Hej Svenska",
-      "developer": "Lansstyrelsen i Vastra Gotalands lan",
-      "url": "https://apps.apple.com/se/app/hej-svenska/id6756067147?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/af/29/a9af297b-03a9-7b14-edb9-3345587b70a8/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-19",
+      "rank": 81,
+      "id": "1569561565",
+      "name": "JENSEN Campus",
+      "developer": "JENSEN education AB",
+      "url": "https://apps.apple.com/se/app/jensen-campus/id1569561565?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/b0/85/dab0853d-c0d1-942c-476b-999c4d576677/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-05-27",
       "genres": [
         {
           "id": "6017",
@@ -1528,55 +1304,7 @@
       ]
     },
     {
-      "rank": 96,
-      "id": "1437793985",
-      "name": "Vklass Praktik",
-      "developer": "Vklass",
-      "url": "https://apps.apple.com/se/app/vklass-praktik/id1437793985?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/fb/56/fafb564d-0906-5df6-4f87-8fc4a08f04e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2018-10-12",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
-      "id": "6742813819",
-      "name": "NeuroBoost-IQ Enhance&CogniFit",
-      "developer": "FunJoy Group",
-      "url": "https://apps.apple.com/se/app/neuroboost-iq-enhance-cognifit/id6742813819?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5e/c9/4b5ec9aa-cc0b-9ac0-6ab5-713c80afd7c2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-06",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 98,
-      "id": "916001574",
-      "name": "LoopMe",
-      "developer": "LoopMe Group AB",
-      "url": "https://apps.apple.com/se/app/loopme/id916001574?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/64/f2/a964f26c-711e-0e04-101c-552da3d9055b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-09-18",
-      "genres": [
-        {
-          "id": "6017",
-          "name": "Utbildning",
-          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 99,
+      "rank": 82,
       "id": "829587759",
       "name": "Babbel - Snabb språkinlärning",
       "developer": "Babbel GmbH",
@@ -1592,13 +1320,285 @@
       ]
     },
     {
+      "rank": 83,
+      "id": "1639875485",
+      "name": "Simply Draw: Lär dig rita",
+      "developer": "Simply Ltd",
+      "url": "https://apps.apple.com/se/app/simply-draw-l%C3%A4r-dig-rita/id1639875485?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/87/1b/24871b13-0c8a-ea03-9b02-46aa01d53d06/AppIcon-production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-11-15",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "6745344282",
+      "name": "Retain Cards: AI Flashcards",
+      "developer": "Retain Labs GmbH",
+      "url": "https://apps.apple.com/se/app/retain-cards-ai-flashcards/id6745344282?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/cc/15/34cc158d-2af7-a362-2842-c73c9a641c34/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-05-07",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6759081846",
+      "name": "Iqra: Quran Tutor",
+      "developer": "MARKCON MANAGEMENT CONSULTANCY W.L.L",
+      "url": "https://apps.apple.com/se/app/iqra-quran-tutor/id6759081846?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/27/48/592748a3-9fb0-7d54-000d-910782291c55/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-26",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "951655185",
+      "name": "Progress",
+      "developer": "Edukatus Alliance AB",
+      "url": "https://apps.apple.com/se/app/progress/id951655185?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/f6/62/1df662e2-58bd-1bf8-3ebb-1a0e4ca9ad3e/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+      "release_date": "2015-03-09",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "916001574",
+      "name": "LoopMe",
+      "developer": "LoopMe Group AB",
+      "url": "https://apps.apple.com/se/app/loopme/id916001574?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/64/f2/a964f26c-711e-0e04-101c-552da3d9055b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-09-18",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6751491852",
+      "name": "Matteresan - Spel för barn",
+      "developer": "Matte & Spel För Barn Norden",
+      "url": "https://apps.apple.com/se/app/matteresan-spel-f%C3%B6r-barn/id6751491852?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/9d/bf/de9dbf4f-dc76-9659-42d4-b12c5b395d14/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-10-29",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "1438400752",
+      "name": "A,B,C,D,Taxi,Taxiåkeri - Teori",
+      "developer": "Motor Trafikskola i Stockholm AB",
+      "url": "https://apps.apple.com/se/app/a-b-c-d-taxi-taxi%C3%A5keri-teori/id1438400752?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/a4/ce/7ca4cecd-9521-8711-f429-cfd7b19e4d61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-14",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6502602524",
+      "name": "Skillster MyRide",
+      "developer": "Skillster AB",
+      "url": "https://apps.apple.com/se/app/skillster-myride/id6502602524?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/80/49/2e804913-f063-6484-3c42-4620acf1bbdb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-05-31",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1522271415",
+      "name": "Artsorakel",
+      "developer": "NBIC Artsdatabanken",
+      "url": "https://apps.apple.com/se/app/artsorakel/id1522271415?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/3a/e7/7c3ae793-3e91-3d90-bd95-ccdb6ce37f97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-07-24",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1045449768",
+      "name": "Tripp Trapp Träd",
+      "developer": "Sveriges Utbildningsradio AB",
+      "url": "https://apps.apple.com/se/app/tripp-trapp-tr%C3%A4d/id1045449768?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/45/2c/b2452ca6-04af-5697-9fad-5e9c60328bca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-31",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1629042752",
+      "name": "APL by LearnWARE",
+      "developer": "P&L Nordic AB",
+      "url": "https://apps.apple.com/se/app/apl-by-learnware/id1629042752?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/d0/c0/60d0c00d-d457-6ef5-cdd9-a2893f2a3646/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-09-09",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6479639235",
+      "name": "Airlearn - Språkinlärning",
+      "developer": "UNACADEMY INC",
+      "url": "https://apps.apple.com/se/app/airlearn-spr%C3%A5kinl%C3%A4rning/id6479639235?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/b1/c8/89b1c8b7-14db-80e5-3803-c6cc22f1b60c/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-08-13",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "6737522601",
+      "name": "Studyflash: AI-flashcards",
+      "developer": "Studyflash",
+      "url": "https://apps.apple.com/se/app/studyflash-ai-flashcards/id6737522601?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/fa/d1/04fad1e6-79d5-bd0d-dbb9-792bb13bcae2/studyflash-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-02-06",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "635966718",
+      "name": "Memrise: Tala ett nytt språk",
+      "developer": "Memrise Limited",
+      "url": "https://apps.apple.com/se/app/memrise-tala-ett-nytt-spr%C3%A5k/id635966718?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/d8/aa/54d8aa5d-8d31-3eb1-df58-e3edda13a849/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-0-85-220.png/100x100bb.png",
+      "release_date": "2013-05-20",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "1350693067",
+      "name": "Quiculum",
+      "developer": "Quiculum AB",
+      "url": "https://apps.apple.com/se/app/quiculum/id1350693067?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b1/2c/97b12c66-72e8-776c-933d-8c24488dccd6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-03-09",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "6773052552",
+      "name": "Högskoleprovet: HPToppen",
+      "developer": "Victor Cedervall",
+      "url": "https://apps.apple.com/se/app/h%C3%B6gskoleprovet-hptoppen/id6773052552?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/7d/d4/da7dd466-3432-e8ad-3175-0a745b4d3b66/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-06-08",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "6775131827",
+      "name": "SFI Prov: Öva svenska",
+      "developer": "Rashmoni Dey",
+      "url": "https://apps.apple.com/se/app/sfi-prov-%C3%B6va-svenska/id6775131827?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/fd/fb/b0fdfbda-6d73-8e00-05a3-cf18f6a00187/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-31",
+      "genres": [
+        {
+          "id": "6017",
+          "name": "Utbildning",
+          "url": "https://apps.apple.com/se/genre/ios-utbildning/id6017?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 100,
-      "id": "1660126297",
-      "name": "Mushroom Spot: svampkarta",
-      "developer": "FOREST SPOT LLC",
-      "url": "https://apps.apple.com/se/app/mushroom-spot-svampkarta/id1660126297?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c4/61/8ec46185-88ef-1549-7c3f-d3ccc2bf9320/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-06-19",
+      "id": "6738882620",
+      "name": "Language Learning: Pingo AI",
+      "developer": "Pingo AI, Inc.",
+      "url": "https://apps.apple.com/se/app/language-learning-pingo-ai/id6738882620?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/27/aa/2b27aa74-14b1-d886-f7a4-9406c4622e12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-12-16",
       "genres": [
         {
           "id": "6017",

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:12:52.421279+09:00",
+  "collected_at": "2026-09-24T20:36:20.531895+09:00",
   "date": "2026-09-24",
   "country": "sg",
   "chart": "top-free",
@@ -9,22 +9,6 @@
   "apps": [
     {
       "rank": 1,
-      "id": "6758284503",
-      "name": "Prudential Singapore",
-      "developer": "Prudential Assurance Company Singapore (Pte) Limited",
-      "url": "https://apps.apple.com/sg/app/prudential-singapore/id6758284503?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/8d/66/fa8d66a9-6040-a6e7-efc1-508900ac96b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "id": "1598460384",
       "name": "Trust Bank SG",
       "developer": "TRUST BANK SINGAPORE LIMITED",
@@ -40,39 +24,23 @@
       ]
     },
     {
+      "rank": 2,
+      "id": "6758284503",
+      "name": "Prudential Singapore",
+      "developer": "Prudential Assurance Company Singapore (Pte) Limited",
+      "url": "https://apps.apple.com/sg/app/prudential-singapore/id6758284503?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/8d/66/fa8d66a9-6040-a6e7-efc1-508900ac96b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 3,
-      "id": "1440255819",
-      "name": "moomoo: Stocks & Investments",
-      "developer": "Moomoo Technologies Inc.",
-      "url": "https://apps.apple.com/sg/app/moomoo-stocks-investments/id1440255819?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/6e/38/ab6e38ce-92d3-a086-36f6-be1b2a26d1da/AppIcon-MooMoo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-12-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "id": "878528688",
-      "name": "DBS PayLah!",
-      "developer": "DBS Bank Ltd.",
-      "url": "https://apps.apple.com/sg/app/dbs-paylah/id878528688?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/9b/e5/9e9be581-324a-beee-87b3-dd2fc86301cb/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-05-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "id": "1658919834",
       "name": "MariBank Singapore",
       "developer": "MariBank Singapore Private Limited",
@@ -88,39 +56,39 @@
       ]
     },
     {
+      "rank": 4,
+      "id": "1440255819",
+      "name": "moomoo: Stocks & Investments",
+      "developer": "Moomoo Technologies Inc.",
+      "url": "https://apps.apple.com/sg/app/moomoo-stocks-investments/id1440255819?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/6e/38/ab6e38ce-92d3-a086-36f6-be1b2a26d1da/AppIcon-MooMoo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-12-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "878528688",
+      "name": "DBS PayLah!",
+      "developer": "DBS Bank Ltd.",
+      "url": "https://apps.apple.com/sg/app/dbs-paylah/id878528688?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/9b/e5/9e9be581-324a-beee-87b3-dd2fc86301cb/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-05-23",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 6,
-      "id": "1541152485",
-      "name": "Navi: UPI, Payments, Insurance",
-      "developer": "Navi Limited",
-      "url": "https://apps.apple.com/sg/app/navi-upi-payments-insurance/id1541152485?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/68/d8/5768d853-fcd7-acfd-3eb9-db4b4c280d37/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-04-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "id": "1228562274",
-      "name": "YouTrip",
-      "developer": "You Technologies Group",
-      "url": "https://apps.apple.com/sg/app/youtrip/id1228562274?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/ec/eb/87eceb39-ea90-1149-6eea-00747e3c9b9b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-08-04",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "id": "1394337344",
       "name": "AIA+ Singapore",
       "developer": "AIA Singapore Private Limited",
@@ -136,13 +104,45 @@
       ]
     },
     {
+      "rank": 7,
+      "id": "1068403826",
+      "name": "DBS digibank",
+      "developer": "DBS Bank Ltd.",
+      "url": "https://apps.apple.com/sg/app/dbs-digibank/id1068403826?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/14/57/131457ac-988b-3b5d-cf2e-6bdc4428cdb8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-03-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "1541152485",
+      "name": "Navi: UPI, Payments, Insurance",
+      "developer": "Navi Limited",
+      "url": "https://apps.apple.com/sg/app/navi-upi-payments-insurance/id1541152485?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/68/d8/5768d853-fcd7-acfd-3eb9-db4b4c280d37/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-04-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 9,
-      "id": "1344696702",
-      "name": "Touch ‘n Go eWallet",
-      "developer": "TNG Digital Sdn Bhd",
-      "url": "https://apps.apple.com/sg/app/touch-n-go-ewallet/id1344696702?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/fc/76/0afc767a-c289-c5e3-1733-ef31a1f96cde/AppIcon-0-0-1x_U007ephone-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-03-20",
+      "id": "292506828",
+      "name": "OCBC Singapore",
+      "developer": "Oversea-Chinese Banking Corporation Limited",
+      "url": "https://apps.apple.com/sg/app/ocbc-singapore/id292506828?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/c7/7d/51c77d15-f3e8-6a92-5936-69a9bf5758b4/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2008-10-18",
       "genres": [
         {
           "id": "6015",
@@ -153,12 +153,12 @@
     },
     {
       "rank": 10,
-      "id": "1068403826",
-      "name": "DBS digibank",
-      "developer": "DBS Bank Ltd.",
-      "url": "https://apps.apple.com/sg/app/dbs-digibank/id1068403826?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/14/57/131457ac-988b-3b5d-cf2e-6bdc4428cdb8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-03-13",
+      "id": "1344696702",
+      "name": "Touch ‘n Go eWallet",
+      "developer": "TNG Digital Sdn Bhd",
+      "url": "https://apps.apple.com/sg/app/touch-n-go-ewallet/id1344696702?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/fc/76/0afc767a-c289-c5e3-1733-ef31a1f96cde/AppIcon-0-0-1x_U007ephone-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-03-20",
       "genres": [
         {
           "id": "6015",
@@ -185,12 +185,12 @@
     },
     {
       "rank": 12,
-      "id": "1486125121",
-      "name": "Google Pay Singapore",
-      "developer": "Google",
-      "url": "https://apps.apple.com/sg/app/google-pay-singapore/id1486125121?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/8d/84/a08d8496-a887-8f72-6f62-c6d35024250a/GPayAppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2020-02-24",
+      "id": "1228562274",
+      "name": "YouTrip",
+      "developer": "You Technologies Group",
+      "url": "https://apps.apple.com/sg/app/youtrip/id1228562274?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/ec/eb/87eceb39-ea90-1149-6eea-00747e3c9b9b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-08-04",
       "genres": [
         {
           "id": "6015",
@@ -201,12 +201,12 @@
     },
     {
       "rank": 13,
-      "id": "292506828",
-      "name": "OCBC Singapore",
-      "developer": "Oversea-Chinese Banking Corporation Limited",
-      "url": "https://apps.apple.com/sg/app/ocbc-singapore/id292506828?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/c7/7d/51c77d15-f3e8-6a92-5936-69a9bf5758b4/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2008-10-18",
+      "id": "1486125121",
+      "name": "Google Pay Singapore",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-pay-singapore/id1486125121?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/8d/84/a08d8496-a887-8f72-6f62-c6d35024250a/GPayAppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2020-02-24",
       "genres": [
         {
           "id": "6015",
@@ -233,54 +233,6 @@
     },
     {
       "rank": 15,
-      "id": "389277976",
-      "name": "CPF Mobile",
-      "developer": "Central Provident Fund Board",
-      "url": "https://apps.apple.com/sg/app/cpf-mobile/id389277976?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/9e/10/f49e10f9-7e17-4143-1e4c-8f9d7c8a2a0f/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2010-08-31",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
-      "id": "666250798",
-      "name": "AXS m-Station",
-      "developer": "AXS Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/axs-m-station/id666250798?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/e0/03/f1e003a4-c37b-a54a-fd09-ef59aeb03a89/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2013-08-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "id": "6743464394",
-      "name": "Manulife Singapore",
-      "developer": "Manulife Financial Asia Limited",
-      "url": "https://apps.apple.com/sg/app/manulife-singapore/id6743464394?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/b2/82/cfb282fd-279a-1ae8-d9b5-d3eef24f70a2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-05-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 18,
       "id": "1485702405",
       "name": "Singlife: Save, Earn, Insure",
       "developer": "Singapore Life Ltd",
@@ -296,12 +248,28 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 16,
+      "id": "389277976",
+      "name": "CPF Mobile",
+      "developer": "Central Provident Fund Board",
+      "url": "https://apps.apple.com/sg/app/cpf-mobile/id389277976?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/9e/10/f49e10f9-7e17-4143-1e4c-8f9d7c8a2a0f/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2010-08-31",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
       "id": "932493382",
       "name": "Revolut — Mobile Finance",
       "developer": "Revolut Ltd",
       "url": "https://apps.apple.com/sg/app/revolut-mobile-finance/id932493382?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/76/9d/c4769de2-374e-c628-c879-36e08189bbdb/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/48/ba/5848baeb-aaa1-f0f6-83b6-8b3286dd0ece/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "release_date": "2015-03-01",
       "genres": [
         {
@@ -312,13 +280,45 @@
       ]
     },
     {
+      "rank": 18,
+      "id": "6743464394",
+      "name": "Manulife Singapore",
+      "developer": "Manulife Financial Asia Limited",
+      "url": "https://apps.apple.com/sg/app/manulife-singapore/id6743464394?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/b2/82/cfb282fd-279a-1ae8-d9b5-d3eef24f70a2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-05-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "666250798",
+      "name": "AXS m-Station",
+      "developer": "AXS Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/axs-m-station/id666250798?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/e0/03/f1e003a4-c37b-a54a-fd09-ef59aeb03a89/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2013-08-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 20,
-      "id": "1170055821",
-      "name": "PhonePe: UPI, Gold, Insurance",
-      "developer": "PHONEPE PRIVATE LIMITED",
-      "url": "https://apps.apple.com/sg/app/phonepe-upi-gold-insurance/id1170055821?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/3d/3c/7f3d3c97-f3f7-7c2a-0223-8388a2de1f21/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2017-01-16",
+      "id": "1470361790",
+      "name": "MobileTmoney",
+      "developer": "Tmoney Co., Ltd",
+      "url": "https://apps.apple.com/sg/app/mobiletmoney/id1470361790?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c3/33/ccc33354-e760-b931-5a03-6b984eda649d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-03-29",
       "genres": [
         {
           "id": "6015",
@@ -345,12 +345,12 @@
     },
     {
       "rank": 22,
-      "id": "1470361790",
-      "name": "MobileTmoney",
-      "developer": "Tmoney Co., Ltd",
-      "url": "https://apps.apple.com/sg/app/mobiletmoney/id1470361790?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c3/33/ccc33354-e760-b931-5a03-6b984eda649d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2020-03-29",
+      "id": "1337461269",
+      "name": "My Income (Insurance)",
+      "developer": "INCOME INSURANCE LIMITED",
+      "url": "https://apps.apple.com/sg/app/my-income-insurance/id1337461269?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/ac/3a/91ac3a00-8836-916d-2c96-2da8efb3ec64/app_icon_prd_release-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-05",
       "genres": [
         {
           "id": "6015",
@@ -361,6 +361,38 @@
     },
     {
       "rank": 23,
+      "id": "6778755338",
+      "name": "TenPayGo",
+      "developer": "Tencent Technology (Shenzhen) Company Limited",
+      "url": "https://apps.apple.com/sg/app/tenpaygo/id6778755338?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/2a/96/782a960d-13ed-45a5-bc0d-738b7b8d9ff3/AppIcon-0-1x_U007ephone-0-1-85-220-0.jpeg/100x100bb.png",
+      "release_date": "2026-06-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "1170055821",
+      "name": "PhonePe: UPI, Gold, Insurance",
+      "developer": "PHONEPE PRIVATE LIMITED",
+      "url": "https://apps.apple.com/sg/app/phonepe-upi-gold-insurance/id1170055821?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/3d/3c/7f3d3c97-f3f7-7c2a-0223-8388a2de1f21/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2017-01-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
       "id": "1632183616",
       "name": "GXS Bank",
       "developer": "GXS",
@@ -376,7 +408,7 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 26,
       "id": "454558592",
       "name": "IBKR Mobile - Invest Worldwide",
       "developer": "Interactive Brokers LLC",
@@ -392,7 +424,23 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 27,
+      "id": "1339115277",
+      "name": "HSBC Singapore",
+      "developer": "HSBC Global Services (UK) Limited",
+      "url": "https://apps.apple.com/sg/app/hsbc-singapore/id1339115277?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/16/b3/f816b32f-bfd2-1719-3f25-ceebf60f3aff/IconSG-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-02-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
       "id": "283646709",
       "name": "PayPal - Send, Manage, Pay",
       "developer": "PayPal, Inc.",
@@ -408,7 +456,7 @@
       ]
     },
     {
-      "rank": 26,
+      "rank": 29,
       "id": "473941634",
       "name": "Paytm: Secure UPI Payments",
       "developer": "Paytm Mobile Solutions",
@@ -424,7 +472,7 @@
       ]
     },
     {
-      "rank": 27,
+      "rank": 30,
       "id": "383326796",
       "name": "OCTO by CIMB Singapore",
       "developer": "CIMB Bank Berhad",
@@ -440,71 +488,7 @@
       ]
     },
     {
-      "rank": 28,
-      "id": "1337461269",
-      "name": "My Income (Insurance)",
-      "developer": "INCOME INSURANCE LIMITED",
-      "url": "https://apps.apple.com/sg/app/my-income-insurance/id1337461269?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/5a/6a/155a6ae3-804f-12f0-32b4-be122864d4f6/app_icon_prd_release-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-04-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "id": "1339115277",
-      "name": "HSBC Singapore",
-      "developer": "HSBC Global Services (UK) Limited",
-      "url": "https://apps.apple.com/sg/app/hsbc-singapore/id1339115277?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/af/35/99af353c-8006-8edf-6e78-73a82f49be1f/IconSG-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-02-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "id": "1436799971",
-      "name": "Binance: Buy Bitcoin & Crypto",
-      "developer": "Binance Switzerland AG",
-      "url": "https://apps.apple.com/sg/app/binance-buy-bitcoin-crypto/id1436799971?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ad/85/4dad856f-0953-043a-9720-03c027cb00ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 31,
-      "id": "370773317",
-      "name": "Citibank SG",
-      "developer": "Citibank Singapore Ltd",
-      "url": "https://apps.apple.com/sg/app/citibank-sg/id370773317?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/55/75/ed557550-14d7-d50b-9f91-081449e79666/AppIconSG-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2010-05-07",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
       "id": "1574139300",
       "name": "Maybank2u SG",
       "developer": "Maybank",
@@ -520,13 +504,29 @@
       ]
     },
     {
+      "rank": 32,
+      "id": "349866256",
+      "name": "tricount: Split & Settle Bills",
+      "developer": "Tricount",
+      "url": "https://apps.apple.com/sg/app/tricount-split-settle-bills/id349866256?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2010-02-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 33,
-      "id": "413251709",
-      "name": "MetaTrader 5",
-      "developer": "MetaQuotes Software Corp.",
-      "url": "https://apps.apple.com/sg/app/metatrader-5/id413251709?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-01-15",
+      "id": "1436799971",
+      "name": "Binance: Buy Bitcoin & Crypto",
+      "developer": "Binance Switzerland AG",
+      "url": "https://apps.apple.com/sg/app/binance-buy-bitcoin-crypto/id1436799971?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ad/85/4dad856f-0953-043a-9720-03c027cb00ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-06",
       "genres": [
         {
           "id": "6015",
@@ -537,12 +537,12 @@
     },
     {
       "rank": 34,
-      "id": "1068416633",
-      "name": "POSB digibank",
-      "developer": "DBS Bank Ltd.",
-      "url": "https://apps.apple.com/sg/app/posb-digibank/id1068416633?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/5f/88/ee5f88b1-be49-ee60-d6f3-073e39e2550b/AppIconposb-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-03-13",
+      "id": "370773317",
+      "name": "Citibank SG",
+      "developer": "Citibank Singapore Ltd",
+      "url": "https://apps.apple.com/sg/app/citibank-sg/id370773317?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/fc/e2/e9fce252-0540-2fef-edeb-3485b5d22c70/AppIconSG-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2010-05-07",
       "genres": [
         {
           "id": "6015",
@@ -553,6 +553,38 @@
     },
     {
       "rank": 35,
+      "id": "458023433",
+      "name": "Splitwise",
+      "developer": "Splitwise, Inc.",
+      "url": "https://apps.apple.com/sg/app/splitwise/id458023433?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/91/62/c69162ae-73b2-e166-9e3b-bfbaa8ea726c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-08-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1023600494",
+      "name": "Tiger Trade: Invest Globally",
+      "developer": "Tiger Trade Technology Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/tiger-trade-invest-globally/id1023600494?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/79/67/11796793-4124-e9c1-58f2-efec2a398a21/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-08-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
       "id": "1205990992",
       "name": "TradingView: Track All Markets",
       "developer": "TradingView",
@@ -568,45 +600,13 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "1023600494",
-      "name": "Tiger Trade: Invest Globally",
-      "developer": "Tiger Trade Technology Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/tiger-trade-invest-globally/id1023600494?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/5d/da/545dda6a-bb9f-339b-4075-54ed50f206cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2015-08-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "1491902865",
-      "name": "EMI Calculator : Loan Manager",
-      "developer": "Devkrushna Infotech Private Limited",
-      "url": "https://apps.apple.com/sg/app/emi-calculator-loan-manager/id1491902865?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/2a/c3/232ac3ab-fe78-5a02-f942-eecfcfc438f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-31",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 38,
-      "id": "349866256",
-      "name": "tricount: Split & Settle Bills",
-      "developer": "Tricount",
-      "url": "https://apps.apple.com/sg/app/tricount-split-settle-bills/id349866256?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2010-02-01",
+      "id": "367337298",
+      "name": "SC Mobile Singapore",
+      "developer": "Standard Chartered Bank",
+      "url": "https://apps.apple.com/sg/app/sc-mobile-singapore/id367337298?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/44/5b/3e445b37-38d5-aa1d-8a24-2ce43c7ecf09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2010-04-25",
       "genres": [
         {
           "id": "6015",
@@ -633,12 +633,12 @@
     },
     {
       "rank": 40,
-      "id": "458023433",
-      "name": "Splitwise",
-      "developer": "Splitwise, Inc.",
-      "url": "https://apps.apple.com/sg/app/splitwise/id458023433?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/91/62/c69162ae-73b2-e166-9e3b-bfbaa8ea726c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-08-24",
+      "id": "413251709",
+      "name": "MetaTrader 5",
+      "developer": "MetaQuotes Software Corp.",
+      "url": "https://apps.apple.com/sg/app/metatrader-5/id413251709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-01-15",
       "genres": [
         {
           "id": "6015",
@@ -649,54 +649,6 @@
     },
     {
       "rank": 41,
-      "id": "6443933193",
-      "name": "Longbridge: Trade & Invest",
-      "developer": "LONGPORT TECHNOLOGY PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/longbridge-trade-invest/id6443933193?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/93/eb/e693eb87-9dfc-559f-4d8f-022ac49adbf7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-11-18",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1327268470",
-      "name": "OKX: Buy Bitcoin BTC & Crypto",
-      "developer": "OKX Inc.",
-      "url": "https://apps.apple.com/sg/app/okx-buy-bitcoin-btc-crypto/id1327268470?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/77/23/44772332-f677-6478-ce35-903516a4ef63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-01-04",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "1538535682",
-      "name": "FWD SG",
-      "developer": "FWD Singapore Pte. Ltd.",
-      "url": "https://apps.apple.com/sg/app/fwd-sg/id1538535682?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/f6/c6/81f6c6ee-515b-0f6a-e070-c6e775a26d95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
       "id": "1444720973",
       "name": "ZaloPay Merchant",
       "developer": "ZION JOINT STOCK COMPANY",
@@ -712,23 +664,7 @@
       ]
     },
     {
-      "rank": 45,
-      "id": "6786678028",
-      "name": "LytePay",
-      "developer": "Lyte Ventures",
-      "url": "https://apps.apple.com/sg/app/lytepay/id6786678028?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/41/91/ed4191ed-a606-7057-9489-f870c5441092/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-07-26",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
+      "rank": 42,
       "id": "1156875272",
       "name": "Suica",
       "developer": "East Japan Railway Company",
@@ -744,13 +680,77 @@
       ]
     },
     {
+      "rank": 43,
+      "id": "1068416633",
+      "name": "POSB digibank",
+      "developer": "DBS Bank Ltd.",
+      "url": "https://apps.apple.com/sg/app/posb-digibank/id1068416633?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/5f/88/ee5f88b1-be49-ee60-d6f3-073e39e2550b/AppIconposb-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-03-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1538535682",
+      "name": "FWD SG",
+      "developer": "FWD Singapore Pte. Ltd.",
+      "url": "https://apps.apple.com/sg/app/fwd-sg/id1538535682?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/f6/c6/81f6c6ee-515b-0f6a-e070-c6e775a26d95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1585924421",
+      "name": "POEMS Mobile 3 - Trading App",
+      "developer": "Phillip Securities Pte. Ltd.",
+      "url": "https://apps.apple.com/sg/app/poems-mobile-3-trading-app/id1585924421?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/9f/9e/529f9e4b-7168-9089-8fd6-d4bad4f2e0c2/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-01-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "445770685",
+      "name": "DBS IDEAL Mobile",
+      "developer": "DBS Bank Ltd.",
+      "url": "https://apps.apple.com/sg/app/dbs-ideal-mobile/id445770685?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/76/fc/6e76fc57-a95b-9cb0-c20b-216374631897/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-09-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 47,
-      "id": "367337298",
-      "name": "SC Mobile Singapore",
-      "developer": "Standard Chartered Bank",
-      "url": "https://apps.apple.com/sg/app/sc-mobile-singapore/id367337298?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/44/5b/3e445b37-38d5-aa1d-8a24-2ce43c7ecf09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2010-04-25",
+      "id": "6443933193",
+      "name": "Longbridge: Trade & Invest",
+      "developer": "LONGPORT TECHNOLOGY PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/longbridge-trade-invest/id6443933193?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/c1/33/e4c1332f-3dda-4e55-639d-40d8cee45357/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-18",
       "genres": [
         {
           "id": "6015",
@@ -761,12 +761,12 @@
     },
     {
       "rank": 48,
-      "id": "1661908782",
-      "name": "HSBC Life SG",
-      "developer": "HSBC LIFE (SINGAPORE) PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/hsbc-life-sg/id1661908782?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/74/b5/1474b51f-1711-90be-ca94-6e0114fa6f1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-01-31",
+      "id": "938618269",
+      "name": "SGX Mobile",
+      "developer": "SGX",
+      "url": "https://apps.apple.com/sg/app/sgx-mobile/id938618269?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/4c/20/9c4c20f2-bf0c-df1a-d806-85c336ed212c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-21",
       "genres": [
         {
           "id": "6015",
@@ -777,12 +777,12 @@
     },
     {
       "rank": 49,
-      "id": "6760418898",
-      "name": "Money2Time: Expense Tracker",
-      "developer": "Leong Wai Gan",
-      "url": "https://apps.apple.com/sg/app/money2time-expense-tracker/id6760418898?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/b6/0c/64b60c1d-69fc-2a89-b15c-69c4f11ebed7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-03-26",
+      "id": "1327268470",
+      "name": "OKX: Buy Bitcoin BTC & Crypto",
+      "developer": "OKX Inc.",
+      "url": "https://apps.apple.com/sg/app/okx-buy-bitcoin-btc-crypto/id1327268470?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/77/23/44772332-f677-6478-ce35-903516a4ef63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-01-04",
       "genres": [
         {
           "id": "6015",
@@ -793,12 +793,12 @@
     },
     {
       "rank": 50,
-      "id": "1585924421",
-      "name": "POEMS Mobile 3 - Trading App",
-      "developer": "Phillip Securities Pte. Ltd.",
-      "url": "https://apps.apple.com/sg/app/poems-mobile-3-trading-app/id1585924421?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/9f/9e/529f9e4b-7168-9089-8fd6-d4bad4f2e0c2/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-01-06",
+      "id": "6760418898",
+      "name": "Money2Time: Expense Tracker",
+      "developer": "Leong Wai Gan",
+      "url": "https://apps.apple.com/sg/app/money2time-expense-tracker/id6760418898?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/80/ad/9180ad77-1747-26ae-8b85-3b3054d6d133/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-03-26",
       "genres": [
         {
           "id": "6015",
@@ -825,38 +825,6 @@
     },
     {
       "rank": 52,
-      "id": "938618269",
-      "name": "SGX Mobile",
-      "developer": "SGX",
-      "url": "https://apps.apple.com/sg/app/sgx-mobile/id938618269?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/4c/20/9c4c20f2-bf0c-df1a-d806-85c336ed212c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2015-01-21",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "445770685",
-      "name": "DBS IDEAL Mobile",
-      "developer": "DBS Bank Ltd.",
-      "url": "https://apps.apple.com/sg/app/dbs-ideal-mobile/id445770685?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/76/fc/6e76fc57-a95b-9cb0-c20b-216374631897/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-09-20",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
       "id": "1446518392",
       "name": "Panda Remit",
       "developer": "WO TRANSFER (HK) LIMITED",
@@ -872,39 +840,7 @@
       ]
     },
     {
-      "rank": 55,
-      "id": "1020051065",
-      "name": "LiquidPay",
-      "developer": "Liquid Group Pte. Ltd.",
-      "url": "https://apps.apple.com/sg/app/liquidpay/id1020051065?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/a3/5c/0ba35c2f-910d-1216-0aa8-5248d8cc26a4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2016-05-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "1485836756",
-      "name": "AYA PAY Wallet",
-      "developer": "AYA Bank",
-      "url": "https://apps.apple.com/sg/app/aya-pay-wallet/id1485836756?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/02/82/7a02828a-3006-771a-5b48-a8d3c1f2424b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2020-01-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
+      "rank": 53,
       "id": "1505492952",
       "name": "Octopus for Tourists",
       "developer": "Octopus Cards",
@@ -920,39 +856,7 @@
       ]
     },
     {
-      "rank": 58,
-      "id": "918751511",
-      "name": "MoMo-Trợ Thủ Tài Chính với AI",
-      "developer": "M-SERVICE JSC",
-      "url": "https://apps.apple.com/sg/app/momo-tr%E1%BB%A3-th%E1%BB%A7-t%C3%A0i-ch%C3%ADnh-v%E1%BB%9Bi-ai/id918751511?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/01/4e/43014e31-d813-c994-aeee-82047a0010de/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-09-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "561433133",
-      "name": "VCB Digibank",
-      "developer": "Vietcombank JSC",
-      "url": "https://apps.apple.com/sg/app/vcb-digibank/id561433133?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/48/d2/d948d2e3-099b-089c-84b4-6b583282ca3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-10-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
+      "rank": 54,
       "id": "1531067679",
       "name": "Endowus",
       "developer": "Endowus Technologies Pte. Ltd.",
@@ -968,13 +872,13 @@
       ]
     },
     {
-      "rank": 61,
-      "id": "1102085298",
-      "name": "OCBC Business",
-      "developer": "Oversea-Chinese Banking Corporation Limited",
-      "url": "https://apps.apple.com/sg/app/ocbc-business/id1102085298?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/02/e0/bf02e02c-152d-9b9e-57e1-1259af240b40/AppIconSG-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2016-04-22",
+      "rank": 55,
+      "id": "1661908782",
+      "name": "HSBC Life SG",
+      "developer": "HSBC LIFE (SINGAPORE) PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/hsbc-life-sg/id1661908782?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/74/b5/1474b51f-1711-90be-ca94-6e0114fa6f1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-01-31",
       "genres": [
         {
           "id": "6015",
@@ -984,39 +888,7 @@
       ]
     },
     {
-      "rank": 62,
-      "id": "1486700909",
-      "name": "UOB Infinity Singapore",
-      "developer": "United Overseas Bank Limited Co.",
-      "url": "https://apps.apple.com/sg/app/uob-infinity-singapore/id1486700909?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/43/db/7a43db0e-1fa8-fdf3-c9b7-413ff563714e/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-03-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "1371474291",
-      "name": "AEON Wallet Malaysia",
-      "developer": "AEON Credit Service (M) Berhad",
-      "url": "https://apps.apple.com/sg/app/aeon-wallet-malaysia/id1371474291?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/45/a6/5345a6bd-2c7b-17a4-c019-03086403d567/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
+      "rank": 56,
       "id": "1398852297",
       "name": "KBZPay Customer",
       "developer": "Kanbawza Bank Limited",
@@ -1032,13 +904,13 @@
       ]
     },
     {
-      "rank": 65,
-      "id": "1229966330",
-      "name": "StashAway",
-      "developer": "Asia Wealth Platform Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/stashaway/id1229966330?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/7c/6b/7e7c6b11-6a3a-3e7f-fa69-11387db7774e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-24",
+      "rank": 57,
+      "id": "1020051065",
+      "name": "LiquidPay",
+      "developer": "Liquid Group Pte. Ltd.",
+      "url": "https://apps.apple.com/sg/app/liquidpay/id1020051065?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/64/89/ec648935-840d-10d7-cb29-0ee9b2d41716/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2016-05-15",
       "genres": [
         {
           "id": "6015",
@@ -1048,13 +920,13 @@
       ]
     },
     {
-      "rank": 66,
-      "id": "1631104366",
-      "name": "DCS Cards",
-      "developer": "DCS Card Centre Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/dcs-cards/id1631104366?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/a7/e4/a3a7e4ce-5d31-2fa8-7028-bdb5003f3008/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-06-23",
+      "rank": 58,
+      "id": "6786678028",
+      "name": "LytePay",
+      "developer": "Lyte Ventures",
+      "url": "https://apps.apple.com/sg/app/lytepay/id6786678028?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/41/91/ed4191ed-a606-7057-9489-f870c5441092/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-26",
       "genres": [
         {
           "id": "6015",
@@ -1064,13 +936,13 @@
       ]
     },
     {
-      "rank": 67,
-      "id": "6741063515",
-      "name": "AYA Mobile Banking",
+      "rank": 59,
+      "id": "1485836756",
+      "name": "AYA PAY Wallet",
       "developer": "AYA Bank",
-      "url": "https://apps.apple.com/sg/app/aya-mobile-banking/id6741063515?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/d4/25/a0d425a3-d8c5-9fcc-325c-025356154f9c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-08-05",
+      "url": "https://apps.apple.com/sg/app/aya-pay-wallet/id1485836756?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/02/82/7a02828a-3006-771a-5b48-a8d3c1f2424b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-01-15",
       "genres": [
         {
           "id": "6015",
@@ -1080,7 +952,23 @@
       ]
     },
     {
-      "rank": 68,
+      "rank": 60,
+      "id": "918751511",
+      "name": "MoMo-Trợ Thủ Tài Chính với AI",
+      "developer": "M-SERVICE JSC",
+      "url": "https://apps.apple.com/sg/app/momo-tr%E1%BB%A3-th%E1%BB%A7-t%C3%A0i-ch%C3%ADnh-v%E1%BB%9Bi-ai/id918751511?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/01/4e/43014e31-d813-c994-aeee-82047a0010de/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-09-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
       "id": "560481810",
       "name": "Money Manager Expense & Budget",
       "developer": "Realbyte Inc.",
@@ -1096,13 +984,13 @@
       ]
     },
     {
-      "rank": 69,
-      "id": "600273928",
-      "name": "UnionPay APP",
-      "developer": "中国银联",
-      "url": "https://apps.apple.com/sg/app/unionpay-app/id600273928?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/12/18/9b121847-ff76-5ebf-62fd-1b8a6a346222/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2013-03-05",
+      "rank": 62,
+      "id": "1229966330",
+      "name": "StashAway",
+      "developer": "Asia Wealth Platform Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/stashaway/id1229966330?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/f1/7c/34f17c46-fe89-160d-c658-9f4848bb1ff5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-24",
       "genres": [
         {
           "id": "6015",
@@ -1112,13 +1000,13 @@
       ]
     },
     {
-      "rank": 70,
-      "id": "1205807363",
-      "name": "MB Bank",
-      "developer": "MB Bank",
-      "url": "https://apps.apple.com/sg/app/mb-bank/id1205807363?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/4c/a9/734ca9db-7530-bce8-f08c-526f487090ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-09",
+      "rank": 63,
+      "id": "1491902865",
+      "name": "EMI Calculator : Loan Manager",
+      "developer": "Devkrushna Infotech Private Limited",
+      "url": "https://apps.apple.com/sg/app/emi-calculator-loan-manager/id1491902865?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/2a/c3/232ac3ab-fe78-5a02-f942-eecfcfc438f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-31",
       "genres": [
         {
           "id": "6015",
@@ -1128,13 +1016,13 @@
       ]
     },
     {
-      "rank": 71,
-      "id": "1351183172",
-      "name": "bKash",
-      "developer": "bKash Limited",
-      "url": "https://apps.apple.com/sg/app/bkash/id1351183172?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/b9/fa/21b9fa7d-eae5-d796-9821-0413d6dc8b37/APPICON_PRODUCTION-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-04-26",
+      "rank": 64,
+      "id": "1102085298",
+      "name": "OCBC Business",
+      "developer": "Oversea-Chinese Banking Corporation Limited",
+      "url": "https://apps.apple.com/sg/app/ocbc-business/id1102085298?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/02/e0/bf02e02c-152d-9b9e-57e1-1259af240b40/AppIconSG-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-22",
       "genres": [
         {
           "id": "6015",
@@ -1144,7 +1032,55 @@
       ]
     },
     {
-      "rank": 72,
+      "rank": 65,
+      "id": "1486700909",
+      "name": "UOB Infinity Singapore",
+      "developer": "United Overseas Bank Limited Co.",
+      "url": "https://apps.apple.com/sg/app/uob-infinity-singapore/id1486700909?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/43/db/7a43db0e-1fa8-fdf3-c9b7-413ff563714e/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-03-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "561433133",
+      "name": "VCB Digibank",
+      "developer": "Vietcombank JSC",
+      "url": "https://apps.apple.com/sg/app/vcb-digibank/id561433133?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/48/d2/d948d2e3-099b-089c-84b4-6b583282ca3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-10-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "1631104366",
+      "name": "DCS Cards",
+      "developer": "DCS Card Centre Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/dcs-cards/id1631104366?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/cd/a6/85cda675-431d-6361-9c21-73df47ceaa78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-06-23",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
       "id": "1599070632",
       "name": "iFAST SG",
       "developer": "iFAST Corporation Ltd",
@@ -1160,13 +1096,13 @@
       ]
     },
     {
-      "rank": 73,
-      "id": "1200315258",
-      "name": "BHIM Bharat's Own Payments App",
-      "developer": "National Payments Corporation of India (NPCI)",
-      "url": "https://apps.apple.com/sg/app/bhim-bharats-own-payments-app/id1200315258?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/d4/24/f5d424c6-2d10-cea7-1273-a1fe3b2de982/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2017-02-10",
+      "rank": 69,
+      "id": "1591184221",
+      "name": "CIMB OCTO MY",
+      "developer": "CIMB Bank Berhad",
+      "url": "https://apps.apple.com/sg/app/cimb-octo-my/id1591184221?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/23/03/30230319-c713-cd66-d63e-d3b2dafa4bbd/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-08-17",
       "genres": [
         {
           "id": "6015",
@@ -1176,13 +1112,13 @@
       ]
     },
     {
-      "rank": 74,
-      "id": "1451754888",
-      "name": "Western Union Singapore",
-      "developer": "Western Union Holdings, Inc.",
-      "url": "https://apps.apple.com/sg/app/western-union-singapore/id1451754888?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/41/e8/2f41e885-d517-fba5-5fc6-7d14d792cf93/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2019-09-05",
+      "rank": 70,
+      "id": "1371474291",
+      "name": "AEON Wallet Malaysia",
+      "developer": "AEON Credit Service (M) Berhad",
+      "url": "https://apps.apple.com/sg/app/aeon-wallet-malaysia/id1371474291?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/45/a6/5345a6bd-2c7b-17a4-c019-03086403d567/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-15",
       "genres": [
         {
           "id": "6015",
@@ -1192,23 +1128,7 @@
       ]
     },
     {
-      "rank": 75,
-      "id": "1481028763",
-      "name": "MAE by Maybank2u",
-      "developer": "Maybank",
-      "url": "https://apps.apple.com/sg/app/mae-by-maybank2u/id1481028763?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/33/b9/8c33b950-9d7a-e71a-643c-1f6d44700a8f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-07",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
+      "rank": 71,
       "id": "886427730",
       "name": "Coinbase: Buy BTC, ETH, SOL",
       "developer": "Coinbase, Inc.",
@@ -1224,13 +1144,13 @@
       ]
     },
     {
-      "rank": 77,
-      "id": "1288339409",
-      "name": "Trust: Crypto & Bitcoin Wallet",
-      "developer": "DApps Platform Software Services Ltd.",
-      "url": "https://apps.apple.com/sg/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/15/3d/c7153d57-d5bf-19e6-c99b-02d552020771/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-26",
+      "rank": 72,
+      "id": "1205807363",
+      "name": "MB Bank",
+      "developer": "MB Bank",
+      "url": "https://apps.apple.com/sg/app/mb-bank/id1205807363?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/4c/a9/734ca9db-7530-bce8-f08c-526f487090ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-09",
       "genres": [
         {
           "id": "6015",
@@ -1240,13 +1160,13 @@
       ]
     },
     {
-      "rank": 78,
-      "id": "640036406",
-      "name": "Dash by Western Union",
-      "developer": "Western Union Holdings, Inc.",
-      "url": "https://apps.apple.com/sg/app/dash-by-western-union/id640036406?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/6a/47/6e6a472a-dbb4-49f8-cefd-fce99b7a50cf/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2013-05-10",
+      "rank": 73,
+      "id": "1481028763",
+      "name": "MAE by Maybank2u",
+      "developer": "Maybank",
+      "url": "https://apps.apple.com/sg/app/mae-by-maybank2u/id1481028763?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/33/b9/8c33b950-9d7a-e71a-643c-1f6d44700a8f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-07",
       "genres": [
         {
           "id": "6015",
@@ -1256,183 +1176,7 @@
       ]
     },
     {
-      "rank": 79,
-      "id": "1600441110",
-      "name": "Webull: Trade Stocks & Options",
-      "developer": "Webull Technologies Pte. Ltd.",
-      "url": "https://apps.apple.com/sg/app/webull-trade-stocks-options/id1600441110?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2b/7d/2c2b7d8e-a1c2-cd9f-6fcf-82c89e430087/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2022-01-21",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "1599094903",
-      "name": "Bajaj Housing Finance",
-      "developer": "Bajaj Housing Finance Limited",
-      "url": "https://apps.apple.com/sg/app/bajaj-housing-finance/id1599094903?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/fd/35/87fd356b-c165-1699-1c46-31a9e2da98ce/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-26",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "6738336566",
-      "name": "Welcome Suica Mobile",
-      "developer": "East Japan Railway Company",
-      "url": "https://apps.apple.com/sg/app/welcome-suica-mobile/id6738336566?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/75/f6/cc75f6a1-58d6-bd10-0881-737caa24d850/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "542670232",
-      "name": "Amex Singapore",
-      "developer": "American Express",
-      "url": "https://apps.apple.com/sg/app/amex-singapore/id542670232?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/a7/d2/c5a7d230-d0e0-5d4d-f3a7-2b209f740165/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-07-18",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "1587324285",
-      "name": "Techcombank Business",
-      "developer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JOINT STOCK BANK",
-      "url": "https://apps.apple.com/sg/app/techcombank-business/id1587324285?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/7b/cf/7e7bcf5a-968c-a05f-e7af-63b85feaa9c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-11-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "1190075959",
-      "name": "Instarem: Send & spend abroad",
-      "developer": "Instarem India Private Limited",
-      "url": "https://apps.apple.com/sg/app/instarem-send-spend-abroad/id1190075959?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/6a/01/836a0110-88db-15b4-4abd-502ef9a62e38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-02-07",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "1397345953",
-      "name": "Maxi-Cash",
-      "developer": "Aspial Corporation Limited",
-      "url": "https://apps.apple.com/sg/app/maxi-cash/id1397345953?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/89/b3/c489b314-3f7c-4c0c-9b25-086e0305f589/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2018-07-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
-      "id": "1350640443",
-      "name": "KBZ mBanking",
-      "developer": "Kanbawza Bank Limited",
-      "url": "https://apps.apple.com/sg/app/kbz-mbanking/id1350640443?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ac/78/c6ac78be-8db5-46a2-bd85-be1230e0eea2/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-05-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "1644858468",
-      "name": "dtcpay",
-      "developer": "DIGITAL TREASURES CENTER PTE. LTD",
-      "url": "https://apps.apple.com/sg/app/dtcpay/id1644858468?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/46/52/904652cc-070d-b6fa-b5c4-b43a9cb53346/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2022-10-11",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "1486695258",
-      "name": "UOB SME",
-      "developer": "United Overseas Bank Limited Co.",
-      "url": "https://apps.apple.com/sg/app/uob-sme/id1486695258?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/6b/d5/5d6bd591-98e2-faec-429d-9fbe8173b9de/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-10-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6447808696",
-      "name": "Kotak Bank: 811 Mobile App",
-      "developer": "Kotak Mahindra Bank Ltd.",
-      "url": "https://apps.apple.com/sg/app/kotak-bank-811-mobile-app/id6447808696?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f8/68/17f868c2-8c5a-2e67-2970-a3806ddc7f2e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2024-03-20",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
+      "rank": 74,
       "id": "1525179720",
       "name": "Spending Tracker - Budget App",
       "developer": "InnerGrow",
@@ -1448,13 +1192,13 @@
       ]
     },
     {
-      "rank": 91,
-      "id": "1660153573",
-      "name": "KWSP i-Akaun",
-      "developer": "Kumpulan Wang Simpanan Pekerja (KWSP)",
-      "url": "https://apps.apple.com/sg/app/kwsp-i-akaun/id1660153573?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/73/a7/b773a74d-02ce-ff50-ec93-e3c3ca3228cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-07-04",
+      "rank": 75,
+      "id": "1451754888",
+      "name": "Western Union Singapore",
+      "developer": "Western Union Holdings, Inc.",
+      "url": "https://apps.apple.com/sg/app/western-union-singapore/id1451754888?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/41/e8/2f41e885-d517-fba5-5fc6-7d14d792cf93/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-09-05",
       "genres": [
         {
           "id": "6015",
@@ -1464,13 +1208,13 @@
       ]
     },
     {
-      "rank": 92,
-      "id": "1061867449",
-      "name": "BIDV SmartBanking",
-      "developer": "BIDV",
-      "url": "https://apps.apple.com/sg/app/bidv-smartbanking/id1061867449?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/07/72/150772ee-b89a-56db-5daf-d8a3ec3e589f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-12-12",
+      "rank": 76,
+      "id": "6741063515",
+      "name": "AYA Mobile Banking",
+      "developer": "AYA Bank",
+      "url": "https://apps.apple.com/sg/app/aya-mobile-banking/id6741063515?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/d4/25/a0d425a3-d8c5-9fcc-325c-025356154f9c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-08-05",
       "genres": [
         {
           "id": "6015",
@@ -1480,7 +1224,23 @@
       ]
     },
     {
-      "rank": 93,
+      "rank": 77,
+      "id": "1351183172",
+      "name": "bKash",
+      "developer": "bKash Limited",
+      "url": "https://apps.apple.com/sg/app/bkash/id1351183172?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/b9/fa/21b9fa7d-eae5-d796-9821-0413d6dc8b37/APPICON_PRODUCTION-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
       "id": "1614234026",
       "name": "Chocolate Finance",
       "developer": "Chocolate Pte. Ltd.",
@@ -1496,13 +1256,253 @@
       ]
     },
     {
+      "rank": 79,
+      "id": "406492428",
+      "name": "IG: Trading. Investing. Crypto",
+      "developer": "IG Group",
+      "url": "https://apps.apple.com/sg/app/ig-trading-investing-crypto/id406492428?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/5e/65/2d5e659e-ae3b-7059-6793-1f3cb2e60cac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2011-01-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "1190075959",
+      "name": "Instarem: Send & spend abroad",
+      "developer": "Instarem India Private Limited",
+      "url": "https://apps.apple.com/sg/app/instarem-send-spend-abroad/id1190075959?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/6a/01/836a0110-88db-15b4-4abd-502ef9a62e38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-07",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "600273928",
+      "name": "UnionPay APP",
+      "developer": "中国银联",
+      "url": "https://apps.apple.com/sg/app/unionpay-app/id600273928?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/12/18/9b121847-ff76-5ebf-62fd-1b8a6a346222/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2013-03-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1288339409",
+      "name": "Trust: Crypto & Bitcoin Wallet",
+      "developer": "DApps Platform Software Services Ltd.",
+      "url": "https://apps.apple.com/sg/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/15/3d/c7153d57-d5bf-19e6-c99b-02d552020771/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "6738336566",
+      "name": "Welcome Suica Mobile",
+      "developer": "East Japan Railway Company",
+      "url": "https://apps.apple.com/sg/app/welcome-suica-mobile/id6738336566?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/75/f6/cc75f6a1-58d6-bd10-0881-737caa24d850/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "542670232",
+      "name": "Amex Singapore",
+      "developer": "American Express",
+      "url": "https://apps.apple.com/sg/app/amex-singapore/id542670232?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/a7/d2/c5a7d230-d0e0-5d4d-f3a7-2b209f740165/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-07-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "1061867449",
+      "name": "BIDV SmartBanking",
+      "developer": "BIDV",
+      "url": "https://apps.apple.com/sg/app/bidv-smartbanking/id1061867449?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/07/72/150772ee-b89a-56db-5daf-d8a3ec3e589f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1587324285",
+      "name": "Techcombank Business",
+      "developer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JOINT STOCK BANK",
+      "url": "https://apps.apple.com/sg/app/techcombank-business/id1587324285?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/7b/cf/7e7bcf5a-968c-a05f-e7af-63b85feaa9c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-11-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1600441110",
+      "name": "Webull: Trade Stocks & Options",
+      "developer": "Webull Technologies Pte. Ltd.",
+      "url": "https://apps.apple.com/sg/app/webull-trade-stocks-options/id1600441110?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2b/7d/2c2b7d8e-a1c2-cd9f-6fcf-82c89e430087/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2022-01-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6447808696",
+      "name": "Kotak Bank: 811 Mobile App",
+      "developer": "Kotak Mahindra Bank Ltd.",
+      "url": "https://apps.apple.com/sg/app/kotak-bank-811-mobile-app/id6447808696?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f8/68/17f868c2-8c5a-2e67-2970-a3806ddc7f2e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "520020791",
+      "name": "GCash",
+      "developer": "MYNT, INC.",
+      "url": "https://apps.apple.com/sg/app/gcash/id520020791?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c5/93/9ec59340-8ba8-6873-560d-d03589c29390/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-05-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "1660153573",
+      "name": "KWSP i-Akaun",
+      "developer": "Kumpulan Wang Simpanan Pekerja (KWSP)",
+      "url": "https://apps.apple.com/sg/app/kwsp-i-akaun/id1660153573?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/73/a7/b773a74d-02ce-ff50-ec93-e3c3ca3228cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-07-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1599094903",
+      "name": "Bajaj Housing Finance",
+      "developer": "Bajaj Housing Finance Limited",
+      "url": "https://apps.apple.com/sg/app/bajaj-housing-finance/id1599094903?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/fd/35/87fd356b-c165-1699-1c46-31a9e2da98ce/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1200315258",
+      "name": "BHIM Bharat's Own Payments App",
+      "developer": "National Payments Corporation of India (NPCI)",
+      "url": "https://apps.apple.com/sg/app/bhim-bharats-own-payments-app/id1200315258?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/d4/24/f5d424c6-2d10-cea7-1273-a1fe3b2de982/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1644858468",
+      "name": "dtcpay",
+      "developer": "DIGITAL TREASURES CENTER PTE. LTD",
+      "url": "https://apps.apple.com/sg/app/dtcpay/id1644858468?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/46/52/904652cc-070d-b6fa-b5c4-b43a9cb53346/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-11",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/sg/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 94,
-      "id": "561524792",
-      "name": "PicPay: Conta, Cartão e Pix",
-      "developer": "PicPay Apps",
-      "url": "https://apps.apple.com/sg/app/picpay-conta-cart%C3%A3o-e-pix/id561524792?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/53/20/58532098-bf5b-411e-6a40-08a009b10ff0/AppIcon-1-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-04-29",
+      "id": "1282142711",
+      "name": "PayMe - Personal loan app",
+      "developer": "Huey Tech Private Limited",
+      "url": "https://apps.apple.com/sg/app/payme-personal-loan-app/id1282142711?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/d8/f0/ffd8f03c-8bea-4d24-db97-e4c8e733bb19/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-10-31",
       "genres": [
         {
           "id": "6015",
@@ -1529,12 +1529,12 @@
     },
     {
       "rank": 96,
-      "id": "520020791",
-      "name": "GCash",
-      "developer": "MYNT, INC.",
-      "url": "https://apps.apple.com/sg/app/gcash/id520020791?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c5/93/9ec59340-8ba8-6873-560d-d03589c29390/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-05-21",
+      "id": "1537521807",
+      "name": "Airwallex",
+      "developer": "Airwallex",
+      "url": "https://apps.apple.com/sg/app/airwallex/id1537521807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/f2/29/50f229df-1a96-7a5e-528a-508a8dba7efd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-04-27",
       "genres": [
         {
           "id": "6015",
@@ -1545,12 +1545,12 @@
     },
     {
       "rank": 97,
-      "id": "6468941332",
-      "name": "电子税务局",
-      "developer": "State Administration of Taxation",
-      "url": "https://apps.apple.com/sg/app/%E7%94%B5%E5%AD%90%E7%A8%8E%E5%8A%A1%E5%B1%80/id6468941332?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/8b/ea/188bea3d-07de-0940-a8ce-95dcb13eea8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-04-27",
+      "id": "1439175549",
+      "name": "WavePay",
+      "developer": "Wave Money",
+      "url": "https://apps.apple.com/sg/app/wavepay/id1439175549?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/bb/db/cbbbdb0f-849f-019a-28ce-2111360c87ed/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-12-01",
       "genres": [
         {
           "id": "6015",
@@ -1561,12 +1561,12 @@
     },
     {
       "rank": 98,
-      "id": "689963454",
-      "name": "VietinBank iPay",
-      "developer": "VietinBank",
-      "url": "https://apps.apple.com/sg/app/vietinbank-ipay/id689963454?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/79/06/7c7906c3-1c37-6b14-329e-f5b1a56de081/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-08-30",
+      "id": "1060530981",
+      "name": "Angel One: Stocks, Mutual Fund",
+      "developer": "Angel One Ltd",
+      "url": "https://apps.apple.com/sg/app/angel-one-stocks-mutual-fund/id1060530981?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/ec/3d/31ec3ddb-5a17-f6e7-a570-2f396f6673df/AppIcon-v2-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-12-17",
       "genres": [
         {
           "id": "6015",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "406492428",
-      "name": "IG: Trading. Investing. Crypto",
-      "developer": "IG Group",
-      "url": "https://apps.apple.com/sg/app/ig-trading-investing-crypto/id406492428?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/d4/8f/cfd48f01-a35f-94f3-79f3-58c639c7db4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2011-01-24",
+      "id": "1114430602",
+      "name": "Octopus 八達通",
+      "developer": "Octopus Cards",
+      "url": "https://apps.apple.com/sg/app/octopus-%E5%85%AB%E9%81%94%E9%80%9A/id1114430602?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/89/d1/b289d128-f4fe-5d04-08f6-76f0d7644afd/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-08-01",
       "genres": [
         {
           "id": "6015",

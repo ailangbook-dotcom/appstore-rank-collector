@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:11:44.445560+09:00",
+  "collected_at": "2026-09-24T20:35:30.147271+09:00",
   "date": "2026-09-24",
   "country": "de",
   "chart": "top-free",
@@ -105,12 +105,12 @@
     },
     {
       "rank": 7,
-      "id": "6802580875",
-      "name": "ADLER Kundenkarte",
-      "developer": "ADLER Modemärkte",
-      "url": "https://apps.apple.com/de/app/adler-kundenkarte/id6802580875?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/99/9c/bb999c44-9239-2b20-449c-661e8123ee6b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-02",
+      "id": "391120743",
+      "name": "NEW YORKER - Mode & Lifestyle",
+      "developer": "New Yorker",
+      "url": "https://apps.apple.com/de/app/new-yorker-mode-lifestyle/id391120743?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/3e/90/fc3e9020-ffda-cefc-5574-0d912eb26fbf/app_icon_prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2010-10-06",
       "genres": [
         {
           "id": "6012",
@@ -121,12 +121,12 @@
     },
     {
       "rank": 8,
-      "id": "391120743",
-      "name": "NEW YORKER - Mode & Lifestyle",
-      "developer": "New Yorker",
-      "url": "https://apps.apple.com/de/app/new-yorker-mode-lifestyle/id391120743?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/3e/90/fc3e9020-ffda-cefc-5574-0d912eb26fbf/app_icon_prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2010-10-06",
+      "id": "6802580875",
+      "name": "ADLER Kundenkarte",
+      "developer": "ADLER Modemärkte",
+      "url": "https://apps.apple.com/de/app/adler-kundenkarte/id6802580875?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/99/9c/bb999c44-9239-2b20-449c-661e8123ee6b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-02",
       "genres": [
         {
           "id": "6012",
@@ -217,134 +217,6 @@
     },
     {
       "rank": 14,
-      "id": "1555501888",
-      "name": "Fressnapf App",
-      "developer": "Fressnapf Tiernahrungs GmbH",
-      "url": "https://apps.apple.com/de/app/fressnapf-app/id1555501888?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/e5/a7/fde5a779-4307-0825-340e-7e4493e1692e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-08-21",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
-      "id": "901397789",
-      "name": "Home Connect App",
-      "developer": "Home Connect GmbH",
-      "url": "https://apps.apple.com/de/app/home-connect-app/id901397789?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/84/68/aa846807-914c-6a5f-656e-abcaf0384180/AppIconAppStore-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2014-12-01",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
-      "id": "1517566572",
-      "name": "Volkswagen",
-      "developer": "Volkswagen",
-      "url": "https://apps.apple.com/de/app/volkswagen/id1517566572?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/64/cd/5064cdf7-994d-c93f-cf54-4e1b911ef122/AppIcon_release-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-08-07",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "id": "1462875428",
-      "name": "Roborock",
-      "developer": "Beijing Roborock Technology Co., Ltd.",
-      "url": "https://apps.apple.com/de/app/roborock/id1462875428?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/1e/66/a21e661e-1ade-2f9b-28b9-a05360ca6041/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-06-17",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "id": "1241930682",
-      "name": "ALDI TALK Aktivierung",
-      "developer": "MEDION AG",
-      "url": "https://apps.apple.com/de/app/aldi-talk-aktivierung/id1241930682?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/ff/9c/06ff9cd1-027f-0ac0-007e-782f6fa5b845/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2017-06-30",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "1399907836",
-      "name": "Hacoo - Discovering &Inspiring",
-      "developer": "Hacoo Tech",
-      "url": "https://apps.apple.com/de/app/hacoo-discovering-inspiring/id1399907836?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/97/a1/c297a10c-1aad-3d92-e7d4-7fd983fa0484/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2019-04-03",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
-      "id": "1487652920",
-      "name": "Mercedes-Benz",
-      "developer": "Mercedes-Benz AG",
-      "url": "https://apps.apple.com/de/app/mercedes-benz/id1487652920?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/66/8c/cc668c0a-fe4f-5819-7cb5-a53f1d9780cb/AppIcon-0-0-1x_U007ephone-0-1-0-P3-0-85-220.png/100x100bb.png",
-      "release_date": "2020-07-20",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "id": "1472718009",
-      "name": "TP-Link Tapo",
-      "developer": "TP-Link Systems Inc.",
-      "url": "https://apps.apple.com/de/app/tp-link-tapo/id1472718009?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/20/a5/0620a586-d25d-396e-59b2-0547b363482f/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-09-16",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
       "id": "1115101477",
       "name": "SmartLife: Smart Living",
       "developer": "Volcano Technology Limited",
@@ -360,7 +232,87 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 15,
+      "id": "1517566572",
+      "name": "Volkswagen",
+      "developer": "Volkswagen",
+      "url": "https://apps.apple.com/de/app/volkswagen/id1517566572?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/64/cd/5064cdf7-994d-c93f-cf54-4e1b911ef122/AppIcon_release-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-08-07",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "901397789",
+      "name": "Home Connect App",
+      "developer": "Home Connect GmbH",
+      "url": "https://apps.apple.com/de/app/home-connect-app/id901397789?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/84/68/aa846807-914c-6a5f-656e-abcaf0384180/AppIconAppStore-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2014-12-01",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "1555501888",
+      "name": "Fressnapf App",
+      "developer": "Fressnapf Tiernahrungs GmbH",
+      "url": "https://apps.apple.com/de/app/fressnapf-app/id1555501888?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/e5/a7/fde5a779-4307-0825-340e-7e4493e1692e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-08-21",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "1462875428",
+      "name": "Roborock",
+      "developer": "Beijing Roborock Technology Co., Ltd.",
+      "url": "https://apps.apple.com/de/app/roborock/id1462875428?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/1e/66/a21e661e-1ade-2f9b-28b9-a05360ca6041/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-06-17",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "1472718009",
+      "name": "TP-Link Tapo",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/de/app/tp-link-tapo/id1472718009?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/20/a5/0620a586-d25d-396e-59b2-0547b363482f/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-09-16",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
       "id": "930441707",
       "name": "Bumble: Dating & Partnersuche",
       "developer": "Bumble Holding Limited",
@@ -376,13 +328,13 @@
       ]
     },
     {
-      "rank": 24,
-      "id": "414543719",
-      "name": "momox: Second Hand verkaufen",
-      "developer": "momox SE",
-      "url": "https://apps.apple.com/de/app/momox-second-hand-verkaufen/id414543719?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/93/fa/9893fa48-b2b3-494e-f740-475cdd7148a3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-01-18",
+      "rank": 21,
+      "id": "1399907836",
+      "name": "Hacoo - Discovering &Inspiring",
+      "developer": "Hacoo Tech",
+      "url": "https://apps.apple.com/de/app/hacoo-discovering-inspiring/id1399907836?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/04/2c/91042c6d-f3ef-f420-422e-0533296c4f40/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-04-03",
       "genres": [
         {
           "id": "6012",
@@ -392,7 +344,39 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 22,
+      "id": "1487652920",
+      "name": "Mercedes-Benz",
+      "developer": "Mercedes-Benz AG",
+      "url": "https://apps.apple.com/de/app/mercedes-benz/id1487652920?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/66/8c/cc668c0a-fe4f-5819-7cb5-a53f1d9780cb/AppIcon-0-0-1x_U007ephone-0-1-0-P3-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-20",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "1241930682",
+      "name": "ALDI TALK Aktivierung",
+      "developer": "MEDION AG",
+      "url": "https://apps.apple.com/de/app/aldi-talk-aktivierung/id1241930682?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/ff/9c/06ff9cd1-027f-0ac0-007e-782f6fa5b845/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2017-06-30",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
       "id": "6740086849",
       "name": "Xplora",
       "developer": "XPLORA Technologies",
@@ -408,13 +392,29 @@
       ]
     },
     {
+      "rank": 25,
+      "id": "414543719",
+      "name": "momox: Second Hand verkaufen",
+      "developer": "momox SE",
+      "url": "https://apps.apple.com/de/app/momox-second-hand-verkaufen/id414543719?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/93/fa/9893fa48-b2b3-494e-f740-475cdd7148a3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-01-18",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 26,
-      "id": "1503333764",
-      "name": "SafeNow®",
-      "developer": "SafeNow GmbH",
-      "url": "https://apps.apple.com/de/app/safenow/id1503333764?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/02/69/230269b8-491a-b8e2-3170-08d44e00b492/AppIcon-prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-18",
+      "id": "1443589821",
+      "name": "Edenred",
+      "developer": "Edenred",
+      "url": "https://apps.apple.com/de/app/edenred/id1443589821?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/64/19/3b6419ac-402e-65d9-23cf-e2d44a67ef58/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-06-04",
       "genres": [
         {
           "id": "6012",
@@ -425,38 +425,6 @@
     },
     {
       "rank": 27,
-      "id": "6475792735",
-      "name": "Nymph: Open-Minded Dating App",
-      "developer": "Nymph GmbH",
-      "url": "https://apps.apple.com/de/app/nymph-open-minded-dating-app/id6475792735?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/55/d9/aa55d969-5505-1e39-d97d-babd7f8f83f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-05-27",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "id": "944011620",
-      "name": "Amazon Alexa",
-      "developer": "AMZN Mobile LLC",
-      "url": "https://apps.apple.com/de/app/amazon-alexa/id944011620?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/c8/c5/86c8c57b-f602-8bd7-c73e-a96f52f3ffd2/AppIconRelease-0-1x_U007epad-0-0-0-10-0-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2016-10-24",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
       "id": "814443140",
       "name": "Treatwell: Beauty-Termine",
       "developer": "Treatwell Limited",
@@ -472,13 +440,45 @@
       ]
     },
     {
+      "rank": 28,
+      "id": "1503333764",
+      "name": "SafeNow®",
+      "developer": "SafeNow GmbH",
+      "url": "https://apps.apple.com/de/app/safenow/id1503333764?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/02/69/230269b8-491a-b8e2-3170-08d44e00b492/AppIcon-prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-18",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "6475792735",
+      "name": "Nymph: Open-Minded Dating App",
+      "developer": "Nymph GmbH",
+      "url": "https://apps.apple.com/de/app/nymph-open-minded-dating-app/id6475792735?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/55/d9/aa55d969-5505-1e39-d97d-babd7f8f83f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-05-27",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 30,
-      "id": "1443589821",
-      "name": "Edenred",
-      "developer": "Edenred",
-      "url": "https://apps.apple.com/de/app/edenred/id1443589821?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/64/19/3b6419ac-402e-65d9-23cf-e2d44a67ef58/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-06-04",
+      "id": "944011620",
+      "name": "Amazon Alexa",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/de/app/amazon-alexa/id944011620?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/c8/c5/86c8c57b-f602-8bd7-c73e-a96f52f3ffd2/AppIconRelease-0-1x_U007epad-0-0-0-10-0-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2016-10-24",
       "genres": [
         {
           "id": "6012",
@@ -505,22 +505,6 @@
     },
     {
       "rank": 32,
-      "id": "409609608",
-      "name": "My Love - Beziehungsrechner",
-      "developer": "Bjoern Bartels",
-      "url": "https://apps.apple.com/de/app/my-love-beziehungsrechner/id409609608?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/2d/c1/1c2dc1a0-7e1f-abe3-cb87-9cacae0a3240/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2010-12-18",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
       "id": "993504342",
       "name": "LG ThinQ",
       "developer": "LG Electronics, Inc.",
@@ -536,13 +520,13 @@
       ]
     },
     {
-      "rank": 34,
-      "id": "6472498645",
-      "name": "Apple Einladungen",
-      "developer": "Apple",
-      "url": "https://apps.apple.com/de/app/apple-einladungen/id6472498645?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/c7/0c/b6c70c7c-89dd-7a2b-69e1-9e9ddedb6f6d/Invites-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2025-02-04",
+      "rank": 33,
+      "id": "409609608",
+      "name": "My Love - Beziehungsrechner",
+      "developer": "Bjoern Bartels",
+      "url": "https://apps.apple.com/de/app/my-love-beziehungsrechner/id409609608?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/2d/c1/1c2dc1a0-7e1f-abe3-cb87-9cacae0a3240/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2010-12-18",
       "genres": [
         {
           "id": "6012",
@@ -552,7 +536,7 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "690661663",
       "name": "PURE: Dating & Chat App",
       "developer": "Online Classifieds AG",
@@ -568,13 +552,13 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "6444040977",
-      "name": "Bumble for Friends: Neue Leute",
-      "developer": "Bumble Holding Limited",
-      "url": "https://apps.apple.com/de/app/bumble-for-friends-neue-leute/id6444040977?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/bb/31/88bb3108-afe4-8050-f147-0d0c7b869ca5/AppIcon-Maya-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-10-06",
+      "rank": 35,
+      "id": "1163786766",
+      "name": "Alarmy – Wecker und Schlaf",
+      "developer": "Delight Room Co., Ltd.",
+      "url": "https://apps.apple.com/de/app/alarmy-wecker-und-schlaf/id1163786766?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/3a/52/373a52ff-85e6-50de-bd80-91fd133c6a07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2016-10-17",
       "genres": [
         {
           "id": "6012",
@@ -584,7 +568,7 @@
       ]
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": "957323480",
       "name": "Xiaomi Home",
       "developer": "Beijing Xiaomi Co., Ltd",
@@ -600,23 +584,7 @@
       ]
     },
     {
-      "rank": 38,
-      "id": "1163786766",
-      "name": "Alarmy – Wecker und Schlaf",
-      "developer": "Delight Room Co., Ltd.",
-      "url": "https://apps.apple.com/de/app/alarmy-wecker-und-schlaf/id1163786766?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/0e/89/350e895e-aefe-ad9e-66c0-0834bbb21b6b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2016-10-17",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
+      "rank": 37,
       "id": "1660045967",
       "name": "Shelly Smart Control",
       "developer": "SHELLY EUROPE EOOD",
@@ -632,13 +600,13 @@
       ]
     },
     {
-      "rank": 40,
-      "id": "6481705400",
-      "name": "Alta Daily: Digital AI Closet",
-      "developer": "Flagship AI, Inc",
-      "url": "https://apps.apple.com/de/app/alta-daily-digital-ai-closet/id6481705400?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/8c/98/eb8c9827-7f19-a214-f509-088c2acc7dd7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-03-13",
+      "rank": 38,
+      "id": "6444040977",
+      "name": "Bumble for Friends: Neue Leute",
+      "developer": "Bumble Holding Limited",
+      "url": "https://apps.apple.com/de/app/bumble-for-friends-neue-leute/id6444040977?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/bb/31/88bb3108-afe4-8050-f147-0d0c7b869ca5/AppIcon-Maya-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-10-06",
       "genres": [
         {
           "id": "6012",
@@ -648,7 +616,7 @@
       ]
     },
     {
-      "rank": 41,
+      "rank": 39,
       "id": "1434056190",
       "name": "Planity",
       "developer": "Planity",
@@ -664,87 +632,7 @@
       ]
     },
     {
-      "rank": 42,
-      "id": "6471971574",
-      "name": "DAS FUTTERHAUS",
-      "developer": "DAS FUTTERHAUS FRANCHISE GMBH & CO KG",
-      "url": "https://apps.apple.com/de/app/das-futterhaus/id6471971574?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/93/ef/1093ef31-e257-9949-ddcb-61a49aa26a8c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-03-25",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "1044998081",
-      "name": "Nuki Smart Lock",
-      "developer": "Nuki Home Solutions GmbH",
-      "url": "https://apps.apple.com/de/app/nuki-smart-lock/id1044998081?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4e/64/6f4e643b-a273-abc5-4bd8-68bb89b2b57f/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2016-05-23",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "993135524",
-      "name": "MyDyson™",
-      "developer": "Dyson Inc.",
-      "url": "https://apps.apple.com/de/app/mydyson/id993135524?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/b1/74/82b174c3-a4fe-a940-a137-d491941917b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2016-03-30",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "333206289",
-      "name": "Alipay - Simplify Your Life",
-      "developer": "Alipay (Hangzhou) Technology Co., Ltd.",
-      "url": "https://apps.apple.com/de/app/alipay-simplify-your-life/id333206289?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/83/3c/49833c6e-247b-4abd-bc82-459887acd961/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2009-10-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "6572296119",
-      "name": "Tipsy Chat: Live Your Story",
-      "developer": "LIGHTSPEED INTELLIGENCE LTD",
-      "url": "https://apps.apple.com/de/app/tipsy-chat-live-your-story/id6572296119?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/86/1b/12861bd5-b0c1-d6a1-bc86-61f246e28b92/tipsy-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-08-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
+      "rank": 40,
       "id": "1222980795",
       "name": "Meet5: Neue Leute kennenlernen",
       "developer": "Meet5 GmbH",
@@ -760,7 +648,71 @@
       ]
     },
     {
-      "rank": 48,
+      "rank": 41,
+      "id": "993135524",
+      "name": "MyDyson™",
+      "developer": "Dyson Inc.",
+      "url": "https://apps.apple.com/de/app/mydyson/id993135524?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ec/4c/45ec4c2f-d07b-6be9-a511-c5677bbc784a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2016-03-30",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "6572296119",
+      "name": "Tipsy Chat: Live Your Story",
+      "developer": "LIGHTSPEED INTELLIGENCE LTD",
+      "url": "https://apps.apple.com/de/app/tipsy-chat-live-your-story/id6572296119?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/5f/4c/365f4c5a-4223-5722-96e9-f345d7450fef/tipsy-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-08-15",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "6472498645",
+      "name": "Apple Einladungen",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/de/app/apple-einladungen/id6472498645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/c7/0c/b6c70c7c-89dd-7a2b-69e1-9e9ddedb6f6d/Invites-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2025-02-04",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1044998081",
+      "name": "Nuki Smart Lock",
+      "developer": "Nuki Home Solutions GmbH",
+      "url": "https://apps.apple.com/de/app/nuki-smart-lock/id1044998081?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4e/64/6f4e643b-a273-abc5-4bd8-68bb89b2b57f/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2016-05-23",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
       "id": "6738537088",
       "name": "Yarnpal: Häkeln & Stricken",
       "developer": "PIXELCELL.LIMITED",
@@ -776,7 +728,7 @@
       ]
     },
     {
-      "rank": 49,
+      "rank": 46,
       "id": "445338486",
       "name": "LOVOO: Dating, Flirt & Chat",
       "developer": "PE Digital GmbH",
@@ -792,13 +744,13 @@
       ]
     },
     {
-      "rank": 50,
-      "id": "680819774",
-      "name": "Google Home",
-      "developer": "Google",
-      "url": "https://apps.apple.com/de/app/google-home/id680819774?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/22/eb/5122ebfc-4cee-accb-ce94-62ec474d6527/logo_home_app_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-10-16",
+      "rank": 47,
+      "id": "333206289",
+      "name": "Alipay - Simplify Your Life",
+      "developer": "Alipay (Hangzhou) Technology Co., Ltd.",
+      "url": "https://apps.apple.com/de/app/alipay-simplify-your-life/id333206289?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/83/3c/49833c6e-247b-4abd-bc82-459887acd961/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2009-10-15",
       "genres": [
         {
           "id": "6012",
@@ -808,7 +760,7 @@
       ]
     },
     {
-      "rank": 51,
+      "rank": 48,
       "id": "6782336256",
       "name": "Verloso: Echte Gewinnspiele.",
       "developer": "Sven Geitz",
@@ -824,39 +776,55 @@
       ]
     },
     {
+      "rank": 49,
+      "id": "680819774",
+      "name": "Google Home",
+      "developer": "Google",
+      "url": "https://apps.apple.com/de/app/google-home/id680819774?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/22/eb/5122ebfc-4cee-accb-ce94-62ec474d6527/logo_home_app_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-10-16",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "6471971574",
+      "name": "DAS FUTTERHAUS",
+      "developer": "DAS FUTTERHAUS FRANCHISE GMBH & CO KG",
+      "url": "https://apps.apple.com/de/app/das-futterhaus/id6471971574?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/93/ef/1093ef31-e257-9949-ddcb-61a49aa26a8c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-25",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "6481705400",
+      "name": "Alta Daily: Digital AI Closet",
+      "developer": "Flagship AI, Inc",
+      "url": "https://apps.apple.com/de/app/alta-daily-digital-ai-closet/id6481705400?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/8c/98/eb8c9827-7f19-a214-f509-088c2acc7dd7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-03-13",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 52,
-      "id": "1520360552",
-      "name": "Fahrschüler-App",
-      "developer": "TÜV NORD Service GmbH & Co KG",
-      "url": "https://apps.apple.com/de/app/fahrsch%C3%BCler-app/id1520360552?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/5a/fe/875afe9e-b8a8-c1cd-0aed-22d624836290/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-03",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1424956516",
-      "name": "Anker eufy",
-      "developer": "Power Mobile Life LLC",
-      "url": "https://apps.apple.com/de/app/anker-eufy/id1424956516?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d8/38/7bd838b1-5ca1-081d-70b6-d63cd8f6dedc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-29",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
       "id": "964468260",
       "name": "ViCare",
       "developer": "Viessmann IT Service GmbH",
@@ -872,7 +840,7 @@
       ]
     },
     {
-      "rank": 55,
+      "rank": 53,
       "id": "839535874",
       "name": "MyHammer Handwerkersuche",
       "developer": "MyHammer GmbH",
@@ -888,39 +856,7 @@
       ]
     },
     {
-      "rank": 56,
-      "id": "351331194",
-      "name": "Badoo: Dating, Chat & Meet app",
-      "developer": "Badoo Software Ltd",
-      "url": "https://apps.apple.com/de/app/badoo-dating-chat-meet-app/id351331194?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/02/37/f10237dc-87d3-46c3-0c71-5bd18ddbade6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-19",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "1172171196",
-      "name": "Pampers Club - Treueprogramm",
-      "developer": "Pampers by P&G - Nappies, Baby Products, & Rewards",
-      "url": "https://apps.apple.com/de/app/pampers-club-treueprogramm/id1172171196?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d6/2b/c1d62b56-39e7-a4ef-52cc-fbda6e2260c5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2016-12-20",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
+      "rank": 54,
       "id": "926252661",
       "name": "Ring - Always Home",
       "developer": "Ring.com",
@@ -936,55 +872,7 @@
       ]
     },
     {
-      "rank": 59,
-      "id": "1099568401",
-      "name": "Home Assistant",
-      "developer": "Nabu Casa, Inc",
-      "url": "https://apps.apple.com/de/app/home-assistant/id1099568401?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f4/b2/c1f4b2c5-4e0a-c2c5-e0ed-d696a12dbf49/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-04-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "1546150895",
-      "name": "Luma: Events & Einladungen",
-      "developer": "Luma Labs, Inc.",
-      "url": "https://apps.apple.com/de/app/luma-events-einladungen/id1546150895?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/d7/9e/ced79e29-85ef-abc3-6c52-b18c1fe76b72/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2021-03-04",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "1639986678",
-      "name": "Wohnsinn - Wohnung mieten",
-      "developer": "Wohnsinn GmbH",
-      "url": "https://apps.apple.com/de/app/wohnsinn-wohnung-mieten/id1639986678?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/46/3c/88463c73-37c3-099f-7391-e57032ebaee5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-09-20",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
+      "rank": 55,
       "id": "921588809",
       "name": "Tractive GPS - Hunde / Katzen",
       "developer": "Tractive",
@@ -1000,71 +888,7 @@
       ]
     },
     {
-      "rank": 63,
-      "id": "6741682784",
-      "name": "NEW - appWash by Miele",
-      "developer": "Miele Operations and Payment Solutions GmbH",
-      "url": "https://apps.apple.com/de/app/new-appwash-by-miele/id6741682784?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/fc/49/e8fc498f-e61c-89e1-edce-e95332231cef/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2026-03-25",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "396908589",
-      "name": "Disneyland® Paris",
-      "developer": "Disneyland Paris",
-      "url": "https://apps.apple.com/de/app/disneyland-paris/id396908589?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/90/31/36903158-0a2d-c0b8-195e-1368333982d1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "release_date": "2010-11-03",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "1633226273",
-      "name": "IKEA Home smart",
-      "developer": "Inter IKEA Systems B.V.",
-      "url": "https://apps.apple.com/de/app/ikea-home-smart/id1633226273?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/72/bf/2372bf19-bf30-f451-a5c2-0308c62ca9fb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2022-10-22",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "6740522980",
-      "name": "Cash Giraffe: Surveys & Perks",
-      "developer": "GR Apps GmbH",
-      "url": "https://apps.apple.com/de/app/cash-giraffe-surveys-perks/id6740522980?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/c5/65/f5c56509-c5a0-c5af-204e-21cc69dca64e/AppIconCG-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-04-24",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
+      "rank": 56,
       "id": "6740480652",
       "name": "TopSurveys - Bezahlte Umfragen",
       "developer": "Top Survey AB",
@@ -1080,7 +904,39 @@
       ]
     },
     {
-      "rank": 68,
+      "rank": 57,
+      "id": "1099568401",
+      "name": "Home Assistant",
+      "developer": "Nabu Casa, Inc",
+      "url": "https://apps.apple.com/de/app/home-assistant/id1099568401?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f4/b2/c1f4b2c5-4e0a-c2c5-e0ed-d696a12dbf49/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-04-15",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1633226273",
+      "name": "IKEA Home smart",
+      "developer": "Inter IKEA Systems B.V.",
+      "url": "https://apps.apple.com/de/app/ikea-home-smart/id1633226273?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/72/bf/2372bf19-bf30-f451-a5c2-0308c62ca9fb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-22",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
       "id": "1055281310",
       "name": "Philips Hue",
       "developer": "Signify Netherlands B.V.",
@@ -1096,76 +952,12 @@
       ]
     },
     {
-      "rank": 69,
-      "id": "6449584486",
-      "name": "Modepark Röther",
-      "developer": "Röther Beteiligungs GmbH",
-      "url": "https://apps.apple.com/de/app/modepark-r%C3%B6ther/id6449584486?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f9/81/9df98136-6a4b-01a9-d8aa-b4128874039d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-04-25",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "930406907",
-      "name": "Miele App – Smart Home",
-      "developer": "Miele & Cie. KG",
-      "url": "https://apps.apple.com/de/app/miele-app-smart-home/id930406907?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/c6/2c/bdc62c86-5167-1fef-b37d-65885f4cf423/mielelogo-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-12-03",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1107631390",
-      "name": "AttaPoll - Geld verdienen",
-      "developer": "AttaPoll Ltd",
-      "url": "https://apps.apple.com/de/app/attapoll-geld-verdienen/id1107631390?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/8b/d9/c08bd91d-eba1-7ad2-2a44-662eea3f41bf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2019-03-28",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "957215308",
-      "name": "Raya",
-      "developer": "Raya App Inc",
-      "url": "https://apps.apple.com/de/app/raya/id957215308?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/67/11/7e6711c5-7664-991b-f112-718b3158df3d/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-02-25",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
+      "rank": 60,
       "id": "672904239",
       "name": "I Am Sober - Ich bin nüchtern",
       "developer": "I Am Sober LLC",
       "url": "https://apps.apple.com/de/app/i-am-sober-ich-bin-n%C3%BCchtern/id672904239?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/d5/1a/d9d51a25-42a4-210d-95bc-dafdd1aba631/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/6b/67/bf6b67c5-471a-957c-b44f-714071989282/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "release_date": "2013-07-19",
       "genres": [
         {
@@ -1176,13 +968,13 @@
       ]
     },
     {
-      "rank": 74,
-      "id": "1640471151",
-      "name": "FamilienMomente by Kaufland",
-      "developer": "Schwarz Digits IT KG",
-      "url": "https://apps.apple.com/de/app/familienmomente-by-kaufland/id1640471151?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/f8/24/3af82430-c6ea-0842-6bba-2b6cd207a95e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-02-19",
+      "rank": 61,
+      "id": "1520360552",
+      "name": "Fahrschüler-App",
+      "developer": "TÜV NORD Service GmbH & Co KG",
+      "url": "https://apps.apple.com/de/app/fahrsch%C3%BCler-app/id1520360552?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/5a/fe/875afe9e-b8a8-c1cd-0aed-22d624836290/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-03",
       "genres": [
         {
           "id": "6012",
@@ -1192,13 +984,13 @@
       ]
     },
     {
-      "rank": 75,
-      "id": "951812684",
-      "name": "Glovo: Food & Grocery Delivery",
-      "developer": "Glovoapp 23 SL",
-      "url": "https://apps.apple.com/de/app/glovo-food-grocery-delivery/id951812684?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/cb/41/e8cb4134-276a-ae98-13c4-bbf5f4fa6656/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2015-02-17",
+      "rank": 62,
+      "id": "351331194",
+      "name": "Badoo: Dating, Chat & Meet app",
+      "developer": "Badoo Software Ltd",
+      "url": "https://apps.apple.com/de/app/badoo-dating-chat-meet-app/id351331194?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/02/37/f10237dc-87d3-46c3-0c71-5bd18ddbade6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-19",
       "genres": [
         {
           "id": "6012",
@@ -1208,7 +1000,7 @@
       ]
     },
     {
-      "rank": 76,
+      "rank": 63,
       "id": "1095418609",
       "name": "Ford™",
       "developer": "Ford Motor Co.",
@@ -1224,13 +1016,13 @@
       ]
     },
     {
-      "rank": 77,
-      "id": "1289575311",
-      "name": "VeSync",
-      "developer": "Vesync Technology Corporation",
-      "url": "https://apps.apple.com/de/app/vesync/id1289575311?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/d6/f6/7dd6f680-6a0c-ca2d-d001-d69cd7d5af20/AppIconWithIpad-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-10-10",
+      "rank": 64,
+      "id": "1424956516",
+      "name": "Anker eufy",
+      "developer": "Power Mobile Life LLC",
+      "url": "https://apps.apple.com/de/app/anker-eufy/id1424956516?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d8/38/7bd838b1-5ca1-081d-70b6-d63cd8f6dedc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-29",
       "genres": [
         {
           "id": "6012",
@@ -1240,13 +1032,13 @@
       ]
     },
     {
-      "rank": 78,
-      "id": "6483367298",
-      "name": "MeinTASSO",
-      "developer": "TASSO e.V.",
-      "url": "https://apps.apple.com/de/app/meintasso/id6483367298?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/04/3e/f8043e59-8cb1-6993-faca-0c039f877bb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-19",
+      "rank": 65,
+      "id": "1546150895",
+      "name": "Luma: Events & Einladungen",
+      "developer": "Luma Labs, Inc.",
+      "url": "https://apps.apple.com/de/app/luma-events-einladungen/id1546150895?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/d7/9e/ced79e29-85ef-abc3-6c52-b18c1fe76b72/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-04",
       "genres": [
         {
           "id": "6012",
@@ -1256,103 +1048,7 @@
       ]
     },
     {
-      "rank": 79,
-      "id": "1595390736",
-      "name": "Instinct: Casual Dating App",
-      "developer": "Instinct Dating Company",
-      "url": "https://apps.apple.com/de/app/instinct-casual-dating-app/id1595390736?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/96/b8/2e96b8ba-7fbc-8ba5-d057-9b6474f62e03/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2021-11-24",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "1076159017",
-      "name": "Raum planer KI：Wohnung Haus 3D",
-      "developer": "Room Planner Ltd",
-      "url": "https://apps.apple.com/de/app/raum-planer-ki-wohnung-haus-3d/id1076159017?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/20/57/a5205787-ca9c-877c-7f3f-c66323d8b708/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-04-08",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "1584652796",
-      "name": "Finya Dating App: Match & Date",
-      "developer": "GWI Media Technologies GmbH",
-      "url": "https://apps.apple.com/de/app/finya-dating-app-match-date/id1584652796?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c8/4e/3bc84ecd-bed3-11b4-16e0-bf87473fdce0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-17",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "1200853011",
-      "name": "Bridebook - Hochzeitsplaner",
-      "developer": "Bridebook",
-      "url": "https://apps.apple.com/de/app/bridebook-hochzeitsplaner/id1200853011?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/93/ec/e393ecff-5de5-b05c-2c91-46f4b780d1fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-06-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "1279356519",
-      "name": "Lotus Lantern",
-      "developer": "shenzhen ELK Technology Co., Ltd.",
-      "url": "https://apps.apple.com/de/app/lotus-lantern/id1279356519?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/57/64/ff576407-53e6-03d8-4fd0-970966204c3c/LotusLantern-0-0-1x_U007emarketing-0-6-0-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2017-09-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "1576693756",
-      "name": "My CUPRA App",
-      "developer": "SEAT CUPRA, S.A.",
-      "url": "https://apps.apple.com/de/app/my-cupra-app/id1576693756?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/9d/b7/3d9db753-cf81-b605-ce83-fbe945e2a618/CUPRAAppIcon-0-0-1x_U007ephone-0-9-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-11-16",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
+      "rank": 66,
       "id": "1479534155",
       "name": "PRINZ SPORTLICH Sneaker Deals",
       "developer": "Prinz Sportlich GmbH & Co. KG",
@@ -1368,13 +1064,317 @@
       ]
     },
     {
+      "rank": 67,
+      "id": "1172171196",
+      "name": "Pampers Club - Treueprogramm",
+      "developer": "Pampers by P&G - Nappies, Baby Products, & Rewards",
+      "url": "https://apps.apple.com/de/app/pampers-club-treueprogramm/id1172171196?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/4d/08/254d08de-2d55-b087-6313-87231584aa3d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-12-20",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "6741682784",
+      "name": "NEW - appWash by Miele",
+      "developer": "Miele Operations and Payment Solutions GmbH",
+      "url": "https://apps.apple.com/de/app/new-appwash-by-miele/id6741682784?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/fc/49/e8fc498f-e61c-89e1-edce-e95332231cef/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2026-03-25",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "1640471151",
+      "name": "FamilienMomente by Kaufland",
+      "developer": "Schwarz Digits IT KG",
+      "url": "https://apps.apple.com/de/app/familienmomente-by-kaufland/id1640471151?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/f8/24/3af82430-c6ea-0842-6bba-2b6cd207a95e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-02-19",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1289575311",
+      "name": "VeSync",
+      "developer": "Vesync Technology Corporation",
+      "url": "https://apps.apple.com/de/app/vesync/id1289575311?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/06/36/70063602-1afa-7441-b8ad-1ef656feb41d/AppIconWithIpad-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-10-10",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6740522980",
+      "name": "Cash Giraffe: Surveys & Perks",
+      "developer": "GR Apps GmbH",
+      "url": "https://apps.apple.com/de/app/cash-giraffe-surveys-perks/id6740522980?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/c5/65/f5c56509-c5a0-c5af-204e-21cc69dca64e/AppIconCG-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-04-24",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "396908589",
+      "name": "Disneyland® Paris",
+      "developer": "Disneyland Paris",
+      "url": "https://apps.apple.com/de/app/disneyland-paris/id396908589?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/90/31/36903158-0a2d-c0b8-195e-1368333982d1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "release_date": "2010-11-03",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1107631390",
+      "name": "AttaPoll - Geld verdienen",
+      "developer": "AttaPoll Ltd",
+      "url": "https://apps.apple.com/de/app/attapoll-geld-verdienen/id1107631390?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/8b/d9/c08bd91d-eba1-7ad2-2a44-662eea3f41bf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2019-03-28",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "930406907",
+      "name": "Miele App – Smart Home",
+      "developer": "Miele & Cie. KG",
+      "url": "https://apps.apple.com/de/app/miele-app-smart-home/id930406907?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/c6/2c/bdc62c86-5167-1fef-b37d-65885f4cf423/mielelogo-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-12-03",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1279356519",
+      "name": "Lotus Lantern",
+      "developer": "shenzhen ELK Technology Co., Ltd.",
+      "url": "https://apps.apple.com/de/app/lotus-lantern/id1279356519?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/57/64/ff576407-53e6-03d8-4fd0-970966204c3c/LotusLantern-0-0-1x_U007emarketing-0-6-0-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2017-09-15",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1595390736",
+      "name": "Instinct: Casual Dating App",
+      "developer": "Instinct Dating Company",
+      "url": "https://apps.apple.com/de/app/instinct-casual-dating-app/id1595390736?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/96/b8/2e96b8ba-7fbc-8ba5-d057-9b6474f62e03/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2021-11-24",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "951812684",
+      "name": "Glovo: Food & Grocery Delivery",
+      "developer": "Glovoapp 23 SL",
+      "url": "https://apps.apple.com/de/app/glovo-food-grocery-delivery/id951812684?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/cb/41/e8cb4134-276a-ae98-13c4-bbf5f4fa6656/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-02-17",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "1200853011",
+      "name": "Bridebook - Hochzeitsplaner",
+      "developer": "Bridebook",
+      "url": "https://apps.apple.com/de/app/bridebook-hochzeitsplaner/id1200853011?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/93/ec/e393ecff-5de5-b05c-2c91-46f4b780d1fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-06-15",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "1576693756",
+      "name": "My CUPRA App",
+      "developer": "SEAT CUPRA, S.A.",
+      "url": "https://apps.apple.com/de/app/my-cupra-app/id1576693756?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/9d/b7/3d9db753-cf81-b605-ce83-fbe945e2a618/CUPRAAppIcon-0-0-1x_U007ephone-0-9-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-11-16",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "1584652796",
+      "name": "Finya Dating App: Match & Date",
+      "developer": "GWI Media Technologies GmbH",
+      "url": "https://apps.apple.com/de/app/finya-dating-app-match-date/id1584652796?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/01/93/b9019347-85d6-59e6-47c6-b4e968931de9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-17",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "1076159017",
+      "name": "Raum planer KI：Wohnung Haus 3D",
+      "developer": "Room Planner Ltd",
+      "url": "https://apps.apple.com/de/app/raum-planer-ki-wohnung-haus-3d/id1076159017?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/20/57/a5205787-ca9c-877c-7f3f-c66323d8b708/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-08",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "6449584486",
+      "name": "Modepark Röther",
+      "developer": "Röther Beteiligungs GmbH",
+      "url": "https://apps.apple.com/de/app/modepark-r%C3%B6ther/id6449584486?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f9/81/9df98136-6a4b-01a9-d8aa-b4128874039d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-04-25",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1639986678",
+      "name": "Wohnsinn - Wohnung mieten",
+      "developer": "Wohnsinn GmbH",
+      "url": "https://apps.apple.com/de/app/wohnsinn-wohnung-mieten/id1639986678?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/46/3c/88463c73-37c3-099f-7391-e57032ebaee5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-09-20",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "6483367298",
+      "name": "MeinTASSO",
+      "developer": "TASSO e.V.",
+      "url": "https://apps.apple.com/de/app/meintasso/id6483367298?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/04/3e/f8043e59-8cb1-6993-faca-0c039f877bb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-19",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "377700730",
+      "name": "Parship: die Dating App",
+      "developer": "PE Digital GmbH",
+      "url": "https://apps.apple.com/de/app/parship-die-dating-app/id377700730?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/e7/79/0ce7795a-e58a-aa92-051c-83ddea738312/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2010-06-23",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 86,
-      "id": "1451072799",
-      "name": "Coca-Cola: Spielen & Gewinnen",
-      "developer": "Coca-Cola",
-      "url": "https://apps.apple.com/de/app/coca-cola-spielen-gewinnen/id1451072799?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/82/03/258203ef-1218-b77d-c1fb-6790dc14e764/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-05",
+      "id": "606173978",
+      "name": "Planner 5D: Haus & Raumplaner",
+      "developer": "Planner5D, UAB",
+      "url": "https://apps.apple.com/de/app/planner-5d-haus-raumplaner/id606173978?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/9c/60/319c601b-06af-93a5-2371-525a79020724/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-04-30",
       "genres": [
         {
           "id": "6012",
@@ -1401,12 +1401,12 @@
     },
     {
       "rank": 88,
-      "id": "606173978",
-      "name": "Planner 5D: Haus & Raumplaner",
-      "developer": "Planner5D, UAB",
-      "url": "https://apps.apple.com/de/app/planner-5d-haus-raumplaner/id606173978?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/9c/60/319c601b-06af-93a5-2371-525a79020724/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-04-30",
+      "id": "1576461012",
+      "name": "SMART+",
+      "developer": "LEDVANCE GmbH",
+      "url": "https://apps.apple.com/de/app/smart/id1576461012?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/48/0b/3f480b8f-30dd-e371-d142-2204f4a40f69/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-07-04",
       "genres": [
         {
           "id": "6012",
@@ -1417,54 +1417,6 @@
     },
     {
       "rank": 89,
-      "id": "377700730",
-      "name": "Parship: die Dating App",
-      "developer": "PE Digital GmbH",
-      "url": "https://apps.apple.com/de/app/parship-die-dating-app/id377700730?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/e7/79/0ce7795a-e58a-aa92-051c-83ddea738312/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2010-06-23",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "1605170923",
-      "name": "GoWish",
-      "developer": "Onskeskyen ApS",
-      "url": "https://apps.apple.com/de/app/gowish/id1605170923?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/0f/85/810f8525-ec7f-63e7-2f69-9076e90e3eeb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-04-03",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1624758651",
-      "name": "Couple Joy - Beziehungs-App",
-      "developer": "HEARTBIT S.R.L.",
-      "url": "https://apps.apple.com/de/app/couple-joy-beziehungs-app/id1624758651?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/7f/f5/9c7ff5b3-eb1f-2964-29d4-c881d9e52f08/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-05-28",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
       "id": "1526453011",
       "name": "myVAILLANT",
       "developer": "Vaillant Group",
@@ -1480,7 +1432,7 @@
       ]
     },
     {
-      "rank": 93,
+      "rank": 90,
       "id": "887914690",
       "name": "Feeld: Offenes Dating App",
       "developer": "Feeld Ltd",
@@ -1496,13 +1448,61 @@
       ]
     },
     {
+      "rank": 91,
+      "id": "957215308",
+      "name": "Raya",
+      "developer": "Raya App Inc",
+      "url": "https://apps.apple.com/de/app/raya/id957215308?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/67/11/7e6711c5-7664-991b-f112-718b3158df3d/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-02-25",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "6801257341",
+      "name": "Життя в Німеччині",
+      "developer": "Valentyna Dyka",
+      "url": "https://apps.apple.com/de/app/%D0%B6%D0%B8%D1%82%D1%82%D1%8F-%D0%B2-%D0%BD%D1%96%D0%BC%D0%B5%D1%87%D1%87%D0%B8%D0%BD%D1%96/id6801257341?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/4a/52/6b4a52a1-94ff-7b82-9fae-2eed1524326e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-23",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1451072799",
+      "name": "Coca-Cola: Spielen & Gewinnen",
+      "developer": "Coca-Cola",
+      "url": "https://apps.apple.com/de/app/coca-cola-spielen-gewinnen/id1451072799?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/60/1e/21601e79-5865-79ee-d716-5e42d6162fd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-05",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 94,
-      "id": "6462418576",
-      "name": "allyz by Allianz",
-      "developer": "Allianz Partners SAS",
-      "url": "https://apps.apple.com/de/app/allyz-by-allianz/id6462418576?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/fc/e8/4ffce861-c96e-4462-edac-009076dace0b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-09-27",
+      "id": "1605170923",
+      "name": "GoWish",
+      "developer": "Onskeskyen ApS",
+      "url": "https://apps.apple.com/de/app/gowish/id1605170923?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/0f/85/810f8525-ec7f-63e7-2f69-9076e90e3eeb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-04-03",
       "genres": [
         {
           "id": "6012",
@@ -1513,12 +1513,12 @@
     },
     {
       "rank": 95,
-      "id": "6761342025",
-      "name": "laut.jetzt",
-      "developer": "Lydia Ickler",
-      "url": "https://apps.apple.com/de/app/laut-jetzt/id6761342025?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/7f/cf/957fcfd2-4390-9cbd-c841-6da5fca045c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-04-13",
+      "id": "537217797",
+      "name": "Aktion Mensch",
+      "developer": "Aktion Mensch e.V.",
+      "url": "https://apps.apple.com/de/app/aktion-mensch/id537217797?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/3d/42/723d42f2-e853-5dd1-ae99-c84adbdc77af/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2012-07-02",
       "genres": [
         {
           "id": "6012",
@@ -1529,6 +1529,22 @@
     },
     {
       "rank": 96,
+      "id": "1092051261",
+      "name": "Bosch Smart Home",
+      "developer": "Robert Bosch GmbH",
+      "url": "https://apps.apple.com/de/app/bosch-smart-home/id1092051261?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/8f/a3/758fa3f2-40bc-d701-cddb-61303b2d52b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-03-20",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
       "id": "6504407951",
       "name": "Pluxee",
       "developer": "Pluxee International",
@@ -1544,29 +1560,13 @@
       ]
     },
     {
-      "rank": 97,
-      "id": "6446591527",
-      "name": "IMO Car Wash DE",
-      "developer": "Eagle Eye Solutions Limited",
-      "url": "https://apps.apple.com/de/app/imo-car-wash-de/id6446591527?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/28/6c/4e286c3d-8e05-ecf0-65ae-26aa6b8f6045/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-03-13",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/de/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 98,
-      "id": "1039845801",
-      "name": "Live-Hintergrundbilder",
-      "developer": "Live Wallpapers",
-      "url": "https://apps.apple.com/de/app/live-hintergrundbilder/id1039845801?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/84/9a/b4849a81-0764-9174-67d9-6e5732ccafe9/AppIcon_8-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-02-15",
+      "id": "6761342025",
+      "name": "laut.jetzt",
+      "developer": "Lydia Ickler",
+      "url": "https://apps.apple.com/de/app/laut-jetzt/id6761342025?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/7f/cf/957fcfd2-4390-9cbd-c841-6da5fca045c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-04-13",
       "genres": [
         {
           "id": "6012",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "1576461012",
-      "name": "SMART+",
-      "developer": "LEDVANCE GmbH",
-      "url": "https://apps.apple.com/de/app/smart/id1576461012?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/f0/2c/acf02c8b-f95b-87cf-eab5-a993f04b0a91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-07-04",
+      "id": "1575719736",
+      "name": "Herzfrequenzmesser",
+      "developer": "NarrativeLab OU",
+      "url": "https://apps.apple.com/de/app/herzfrequenzmesser/id1575719736?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/97/84/be9784e6-689a-aa4d-fc51-9944049e7721/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-19",
       "genres": [
         {
           "id": "6012",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "6739810324",
-      "name": "Smoothspeak: AI Dating Coach",
-      "developer": "ProdTrace, Inc",
-      "url": "https://apps.apple.com/de/app/smoothspeak-ai-dating-coach/id6739810324?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/4d/50/624d5043-8dd4-eb0d-0fb1-7144a0b80612/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-01-14",
+      "id": "6760764850",
+      "name": "Pawrate",
+      "developer": "Pawrate UG (haftungsbeschränkt)",
+      "url": "https://apps.apple.com/de/app/pawrate/id6760764850?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/f3/48/f2f348a0-2f3e-bc8a-b1e9-98b4bf22090b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-10",
       "genres": [
         {
           "id": "6012",

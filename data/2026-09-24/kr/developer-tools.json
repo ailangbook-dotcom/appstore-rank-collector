@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:11:16.474387+09:00",
+  "collected_at": "2026-09-24T20:35:11.015997+09:00",
   "date": "2026-09-24",
   "country": "kr",
   "chart": "top-free",
@@ -41,22 +41,6 @@
     },
     {
       "rank": 3,
-      "id": "6766130217",
-      "name": "Orca IDE",
-      "developer": "Lovecast LLC",
-      "url": "https://apps.apple.com/kr/app/orca-ide/id6766130217?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/b3/29/89b32922-c086-9d30-fd7c-ac48e1392aa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-07",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "id": "982107779",
       "name": "Expo Go",
       "developer": "Nametag",
@@ -72,13 +56,29 @@
       ]
     },
     {
+      "rank": 4,
+      "id": "6766130217",
+      "name": "Orca IDE",
+      "developer": "Lovecast LLC",
+      "url": "https://apps.apple.com/kr/app/orca-ide/id6766130217?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/b3/29/89b32922-c086-9d30-fd7c-ac48e1392aa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 5,
-      "id": "1405459188",
-      "name": "Scriptable",
-      "developer": "Simon B. Støvring",
-      "url": "https://apps.apple.com/kr/app/scriptable/id1405459188?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-21",
+      "id": "6755608044",
+      "name": "LocalDevVPN",
+      "developer": "Coxson Engineering LLC",
+      "url": "https://apps.apple.com/kr/app/localdevvpn/id6755608044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/0c/c0/f90cc0a7-6cf8-902c-11ce-5e5fa4ea2731/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2025-12-04",
       "genres": [
         {
           "id": "6026",
@@ -89,12 +89,12 @@
     },
     {
       "rank": 6,
-      "id": "6755608044",
-      "name": "LocalDevVPN",
-      "developer": "Coxson Engineering LLC",
-      "url": "https://apps.apple.com/kr/app/localdevvpn/id6755608044?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/0c/c0/f90cc0a7-6cf8-902c-11ce-5e5fa4ea2731/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2025-12-04",
+      "id": "1405459188",
+      "name": "Scriptable",
+      "developer": "Simon B. Støvring",
+      "url": "https://apps.apple.com/kr/app/scriptable/id1405459188?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-21",
       "genres": [
         {
           "id": "6026",
@@ -153,12 +153,12 @@
     },
     {
       "rank": 10,
-      "id": "6767085653",
-      "name": "Cursor",
-      "developer": "Anysphere",
-      "url": "https://apps.apple.com/kr/app/cursor/id6767085653?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/6b/43/0f6b43b9-8225-7a83-8c2d-d86e930a6f90/AppIcon-Light-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-06-28",
+      "id": "6504506653",
+      "name": "Sekai: Create · Remix · Play",
+      "developer": "Sekai",
+      "url": "https://apps.apple.com/kr/app/sekai-create-remix-play/id6504506653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/97/b0/c797b06a-306e-1d3c-03d1-6dd7339ae173/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-06-21",
       "genres": [
         {
           "id": "6026",
@@ -170,10 +170,10 @@
     {
       "rank": 11,
       "id": "1234793120",
-      "name": "App Store Connect",
+      "name": "App Store Connect",
       "developer": "Apple",
       "url": "https://apps.apple.com/kr/app/app-store-connect/id1234793120?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/2a/1e/ff2a1e77-d311-b95c-3307-9379c28f07f9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/8d/25/cb8d25e0-3334-00f5-0ff8-0598503d6705/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/100x100bb.png",
       "release_date": "2018-06-13",
       "genres": [
         {
@@ -201,12 +201,12 @@
     },
     {
       "rank": 13,
-      "id": "1602054864",
-      "name": "O-CAM",
-      "developer": "Shenzhen VeePai IoT Intelligent Technology LLC",
-      "url": "https://apps.apple.com/kr/app/o-cam/id1602054864?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/94/09/aa940941-9b2e-3103-1b1c-01fc42c037e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-06",
+      "id": "6767085653",
+      "name": "Cursor",
+      "developer": "Anysphere",
+      "url": "https://apps.apple.com/kr/app/cursor/id6767085653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/6b/43/0f6b43b9-8225-7a83-8c2d-d86e930a6f90/AppIcon-Light-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-06-28",
       "genres": [
         {
           "id": "6026",
@@ -217,86 +217,6 @@
     },
     {
       "rank": 14,
-      "id": "1463298887",
-      "name": "Userscripts",
-      "developer": "Justin Wasack",
-      "url": "https://apps.apple.com/kr/app/userscripts/id1463298887?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/be/20/47be20a2-fedd-cf0b-3a35-476ae727ae01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-05-14",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
-      "id": "6758886444",
-      "name": "QBB Keeper",
-      "developer": "QBB Live Co., LTD.",
-      "url": "https://apps.apple.com/kr/app/qbb-keeper/id6758886444?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/db/b6/5edbb6d6-f3d1-00ef-5b4b-d30a8bfeb635/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-03",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
-      "id": "6444399635",
-      "name": "Python Coding Editor & IDE App",
-      "developer": "Cloudbit d.o.o.",
-      "url": "https://apps.apple.com/kr/app/python-coding-editor-ide-app/id6444399635?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/25/0a/d6250a94-5c6f-814d-dbe2-892edd78f5cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-11-16",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "id": "1606772645",
-      "name": "Google Play Console",
-      "developer": "Google",
-      "url": "https://apps.apple.com/kr/app/google-play-console/id1606772645?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f0/35/9ef035e6-3a2e-494f-42b7-b9d3619202a4/logo_play_console_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-08-27",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "id": "6504506653",
-      "name": "Sekai: Create · Remix · Play",
-      "developer": "Sekai",
-      "url": "https://apps.apple.com/kr/app/sekai-create-remix-play/id6504506653?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/c0/1c/e7c01c31-d6f0-89ec-1aa8-f33e4fec6e9c/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-06-21",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
       "id": "1447750768",
       "name": "Jayson",
       "developer": "Simon B. Støvring",
@@ -312,13 +232,13 @@
       ]
     },
     {
-      "rank": 20,
-      "id": "1447489375",
-      "name": "Koder Code Editor",
-      "developer": "Reny Mustika",
-      "url": "https://apps.apple.com/kr/app/koder-code-editor/id1447489375?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/1c/a1/eb1ca1c1-be59-166e-4c27-a9823613128a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2018-12-22",
+      "rank": 15,
+      "id": "1602054864",
+      "name": "O-CAM",
+      "developer": "Shenzhen VeePai IoT Intelligent Technology LLC",
+      "url": "https://apps.apple.com/kr/app/o-cam/id1602054864?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a8/f3/3ba8f36f-c398-abaa-767d-464791641ed9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-06",
       "genres": [
         {
           "id": "6026",
@@ -328,7 +248,55 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 16,
+      "id": "1463298887",
+      "name": "Userscripts",
+      "developer": "Justin Wasack",
+      "url": "https://apps.apple.com/kr/app/userscripts/id1463298887?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/be/20/47be20a2-fedd-cf0b-3a35-476ae727ae01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "6758886444",
+      "name": "QBB Keeper",
+      "developer": "QBB Live Co., LTD.",
+      "url": "https://apps.apple.com/kr/app/qbb-keeper/id6758886444?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/db/b6/5edbb6d6-f3d1-00ef-5b4b-d30a8bfeb635/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "6444399635",
+      "name": "Python Coding Editor & IDE App",
+      "developer": "Cloudbit d.o.o.",
+      "url": "https://apps.apple.com/kr/app/python-coding-editor-ide-app/id6444399635?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/25/0a/d6250a94-5c6f-814d-dbe2-892edd78f5cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
       "id": "1614022293",
       "name": "Replit: Vibe Code with AI Fast",
       "developer": "Replit",
@@ -344,13 +312,13 @@
       ]
     },
     {
-      "rank": 22,
-      "id": "6782706682",
-      "name": "Toplify: App Rankings",
-      "developer": "Chuta Dmytro",
-      "url": "https://apps.apple.com/kr/app/toplify-app-rankings/id6782706682?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/c5/34/c9c53436-0ae1-b56d-fc5f-0caa063810d0/ToplifyIcons-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-07-25",
+      "rank": 20,
+      "id": "1606772645",
+      "name": "Google Play Console",
+      "developer": "Google",
+      "url": "https://apps.apple.com/kr/app/google-play-console/id1606772645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f0/35/9ef035e6-3a2e-494f-42b7-b9d3619202a4/logo_play_console_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-08-27",
       "genres": [
         {
           "id": "6026",
@@ -360,7 +328,7 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 21,
       "id": "1436902243",
       "name": "iSH Shell",
       "developer": "Theodore Dubois",
@@ -376,13 +344,45 @@
       ]
     },
     {
+      "rank": 22,
+      "id": "1447489375",
+      "name": "Koder Code Editor",
+      "developer": "Reny Mustika",
+      "url": "https://apps.apple.com/kr/app/koder-code-editor/id1447489375?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/1c/a1/eb1ca1c1-be59-166e-4c27-a9823613128a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2018-12-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "6755708389",
+      "name": "Termiux",
+      "developer": "TERMUX LIMITED LIABILITY COMPANY",
+      "url": "https://apps.apple.com/kr/app/termiux/id6755708389?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/11/8d/17118d2c-d837-63a9-3bc2-751501fa95b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 24,
-      "id": "6764463488",
-      "name": "Codex Relay - Remote Codex App",
-      "developer": "Kang Sungyu",
-      "url": "https://apps.apple.com/kr/app/codex-relay-remote-codex-app/id6764463488?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/39/5a/c3395a44-663b-b927-1d65-178dc6b91e18/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-11",
+      "id": "6670231909",
+      "name": "SMS 인증 - 가상 SMS 번호",
+      "developer": "Appsterra",
+      "url": "https://apps.apple.com/kr/app/sms-%EC%9D%B8%EC%A6%9D-%EA%B0%80%EC%83%81-sms-%EB%B2%88%ED%98%B8/id6670231909?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/34/a0/4e34a0d0-5db1-3f66-d160-97d54be63178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-14",
       "genres": [
         {
           "id": "6026",
@@ -393,12 +393,12 @@
     },
     {
       "rank": 25,
-      "id": "896694807",
-      "name": "Git client - Working Copy",
-      "developer": "Anders Borum",
-      "url": "https://apps.apple.com/kr/app/git-client-working-copy/id896694807?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/9e/2e/779e2ea9-d7a3-f014-a287-e273539095b2/Regular-Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-11-08",
+      "id": "6754670070",
+      "name": "Terminal & SSH -",
+      "developer": "TERMUX LIMITED LIABILITY COMPANY",
+      "url": "https://apps.apple.com/kr/app/terminal-ssh/id6754670070?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/a4/43/b1a44322-d8e8-9692-0dbc-284e6f0c1fb2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-15",
       "genres": [
         {
           "id": "6026",
@@ -425,22 +425,6 @@
     },
     {
       "rank": 27,
-      "id": "6757406313",
-      "name": "OpenCode Mobile App",
-      "developer": "Rodrigo Mendoza",
-      "url": "https://apps.apple.com/kr/app/opencode-mobile-app/id6757406313?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/0c/70/cd0c7092-e4fe-f132-f1c8-8c2765db50fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-26",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
       "id": "6740740427",
       "name": "Rev for Vercel",
       "developer": "FarFetched",
@@ -456,39 +440,7 @@
       ]
     },
     {
-      "rank": 29,
-      "id": "1544749600",
-      "name": "Swifty Compiler: Swift IDE",
-      "developer": "Hassan Taleb",
-      "url": "https://apps.apple.com/kr/app/swifty-compiler-swift-ide/id1544749600?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/c9/68/f1c968b3-3603-8688-33fd-4106e8f8d05a/SwiftyCompiler-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-12-31",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "id": "6814165253",
-      "name": "App Chart",
-      "developer": "Sangcheol Jeon",
-      "url": "https://apps.apple.com/kr/app/app-chart/id6814165253?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/6e/f5/c66ef51c-8b7b-d0d7-46e3-696a29357537/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-22",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
+      "rank": 28,
       "id": "6745097949",
       "name": "v0",
       "developer": "Vercel, Inc",
@@ -504,13 +456,13 @@
       ]
     },
     {
-      "rank": 32,
-      "id": "6670231909",
-      "name": "SMS 인증 - 가상 SMS 번호",
-      "developer": "Appsterra",
-      "url": "https://apps.apple.com/kr/app/sms-%EC%9D%B8%EC%A6%9D-%EA%B0%80%EC%83%81-sms-%EB%B2%88%ED%98%B8/id6670231909?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/34/a0/4e34a0d0-5db1-3f66-d160-97d54be63178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2024-11-14",
+      "rank": 29,
+      "id": "6788926383",
+      "name": "Superset: 100+ Coding Agents",
+      "developer": "Superset Inc.",
+      "url": "https://apps.apple.com/kr/app/superset-100-coding-agents/id6788926383?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/87/b4/b887b4a8-daed-82a2-d077-ba71c189850c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-09",
       "genres": [
         {
           "id": "6026",
@@ -520,103 +472,7 @@
       ]
     },
     {
-      "rank": 33,
-      "id": "1450994949",
-      "name": "Carnets - Jupyter",
-      "developer": "Nicolas Holzschuch",
-      "url": "https://apps.apple.com/kr/app/carnets-jupyter/id1450994949?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/78/7f/cb787ffe-6932-41d3-8633-bd7ff6995bc6/AppIcon-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2019-04-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
-      "id": "6757859949",
-      "name": "Moshi: SSH/MOSH로 herdr/tmux",
-      "developer": "Moshi Tech Ltd.",
-      "url": "https://apps.apple.com/kr/app/moshi-ssh-mosh%EB%A1%9C-herdr-tmux/id6757859949?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/84/d6/2d84d6fa-bb44-e293-8d54-aa4efb375f52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-21",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 35,
-      "id": "6768007081",
-      "name": "Supabase Go",
-      "developer": "Sarfraz Ali Shaher Syed",
-      "url": "https://apps.apple.com/kr/app/supabase-go/id6768007081?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/81/a7/8c81a717-a5f0-33cf-bafe-6c5474d8fe61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-27",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 36,
-      "id": "1551292695",
-      "name": "Proxyman - Capture HTTPS",
-      "developer": "Proxyman LLC",
-      "url": "https://apps.apple.com/kr/app/proxyman-capture-https/id1551292695?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/58/c2/8c58c2fc-6457-65ff-ed5e-8a905f678a7d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-03-10",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "6738332082",
-      "name": "카카오디벨로퍼스 Kakao Developers",
-      "developer": "Kakao Corp.",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC%EC%8A%A4-kakao-developers/id6738332082?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/32/7b/0a327b40-b9b4-0d7d-e92c-620c000fd032/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "6755708389",
-      "name": "Termiux",
-      "developer": "TERMUX LIMITED LIABILITY COMPANY",
-      "url": "https://apps.apple.com/kr/app/termiux/id6755708389?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/94/96/4d949640-4deb-43df-ce55-4f441145be43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
+      "rank": 30,
       "id": "6755712493",
       "name": "Railway.com",
       "developer": "RailwayApp",
@@ -632,13 +488,13 @@
       ]
     },
     {
-      "rank": 40,
-      "id": "6450932949",
-      "name": "ProxyPin - Open Source Capture",
-      "developer": "Minimalist Network Co., Ltd.",
-      "url": "https://apps.apple.com/kr/app/proxypin-open-source-capture/id6450932949?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/71/ba/9d71ba67-d206-15b7-7db0-748e391a3904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-08-05",
+      "rank": 31,
+      "id": "6757406313",
+      "name": "OpenCode Mobile App",
+      "developer": "Rodrigo Mendoza",
+      "url": "https://apps.apple.com/kr/app/opencode-mobile-app/id6757406313?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/0c/70/cd0c7092-e4fe-f132-f1c8-8c2765db50fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-26",
       "genres": [
         {
           "id": "6026",
@@ -648,13 +504,13 @@
       ]
     },
     {
-      "rank": 41,
-      "id": "1584825745",
-      "name": "Web Inspector",
-      "developer": "And a Dinosaur",
-      "url": "https://apps.apple.com/kr/app/web-inspector/id1584825745?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/c1/f6/d2c1f6e0-ca8b-47cf-b7af-4fbfd9cd216e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-09-16",
+      "rank": 32,
+      "id": "6768007081",
+      "name": "Supabase Go",
+      "developer": "Sarfraz Ali Shaher Syed",
+      "url": "https://apps.apple.com/kr/app/supabase-go/id6768007081?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/81/a7/8c81a717-a5f0-33cf-bafe-6c5474d8fe61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-27",
       "genres": [
         {
           "id": "6026",
@@ -664,135 +520,7 @@
       ]
     },
     {
-      "rank": 42,
-      "id": "6761357475",
-      "name": "Clash Lite - Clash for iOS",
-      "developer": "Hood Lawn Service Inc.",
-      "url": "https://apps.apple.com/kr/app/clash-lite-clash-for-ios/id6761357475?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/81/d6/0181d602-a1a1-d1f4-804b-aa5ab1de7fa7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-04-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "1483790257",
-      "name": "Text Editor.",
-      "developer": "TAPUNIVERSE LLC",
-      "url": "https://apps.apple.com/kr/app/text-editor/id1483790257?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/67/e9/3667e95d-f1a2-54d1-de12-7466e95a30ba/TextEditor-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-10-18",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "6742102359",
-      "name": "Dashify for Netlify.com",
-      "developer": "FarFetched",
-      "url": "https://apps.apple.com/kr/app/dashify-for-netlify-com/id6742102359?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/06/fa/bc06fa5a-530e-bdec-7e6a-a2c8860d8e71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-02-23",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "6754670070",
-      "name": "Terminal & SSH -",
-      "developer": "TERMUX LIMITED LIABILITY COMPANY",
-      "url": "https://apps.apple.com/kr/app/terminal-ssh/id6754670070?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/a4/43/b1a44322-d8e8-9692-0dbc-284e6f0c1fb2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-15",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "1634425878",
-      "name": "MyMQTT",
-      "developer": "instant:solutions OG",
-      "url": "https://apps.apple.com/kr/app/mymqtt/id1634425878?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/5c/73/cc5c7334-2221-c829-4154-911ddde1e91c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "6748460335",
-      "name": "Tuist",
-      "developer": "Tuist GmbH",
-      "url": "https://apps.apple.com/kr/app/tuist/id6748460335?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/56/b4/7b56b479-8fd0-5d79-4213-74d5e04d190f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-07-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "id": "6762470689",
-      "name": "zFont 3",
-      "developer": "Soua Zerrouki",
-      "url": "https://apps.apple.com/kr/app/zfont-3/id6762470689?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/dd/14/fcdd146b-f79b-eeef-c24e-4d12d1ed3aec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-21",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "1544728400",
-      "name": "xTerminal - SSH Terminal Shell",
-      "developer": "婉媚 邵",
-      "url": "https://apps.apple.com/kr/app/xterminal-ssh-terminal-shell/id1544728400?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/21/34/2d213415-2aee-4293-058a-7b387cd8c681/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-12-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
+      "rank": 33,
       "id": "1312141691",
       "name": "Stream",
       "developer": "Stream Lab Inc.",
@@ -808,13 +536,13 @@
       ]
     },
     {
-      "rank": 51,
-      "id": "1548193893",
-      "name": "Runestone Text Editor",
-      "developer": "Simon B. Støvring",
-      "url": "https://apps.apple.com/kr/app/runestone-text-editor/id1548193893?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/58/72/3b587215-d653-a34f-5517-db48f9d98a62/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-05-05",
+      "rank": 34,
+      "id": "1544749600",
+      "name": "Swifty Compiler: Swift IDE",
+      "developer": "Hassan Taleb",
+      "url": "https://apps.apple.com/kr/app/swifty-compiler-swift-ide/id1544749600?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/c9/68/f1c968b3-3603-8688-33fd-4106e8f8d05a/SwiftyCompiler-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-12-31",
       "genres": [
         {
           "id": "6026",
@@ -824,13 +552,13 @@
       ]
     },
     {
-      "rank": 52,
-      "id": "6757998015",
-      "name": "디지털 네온 야간 시계",
-      "developer": "Rihlat Riasah",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8-%EB%84%A4%EC%98%A8-%EC%95%BC%EA%B0%84-%EC%8B%9C%EA%B3%84/id6757998015?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c3/9c/acc39c51-6c97-5354-f0a8-07374bb1535b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-12",
+      "rank": 35,
+      "id": "6450932949",
+      "name": "ProxyPin - Open Source Capture",
+      "developer": "Minimalist Network Co., Ltd.",
+      "url": "https://apps.apple.com/kr/app/proxypin-open-source-capture/id6450932949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/71/ba/9d71ba67-d206-15b7-7db0-748e391a3904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-08-05",
       "genres": [
         {
           "id": "6026",
@@ -840,727 +568,7 @@
       ]
     },
     {
-      "rank": 53,
-      "id": "6742807404",
-      "name": "이지 SSH",
-      "developer": "Argsment Limited",
-      "url": "https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80-ssh/id6742807404?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/dc/62/f2dc6215-0cf7-dd6a-e898-3dcbd59dee46/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2025-03-10",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "6741714545",
-      "name": "Netli.fyi: Netlify Client",
-      "developer": "Fenrir Digital",
-      "url": "https://apps.apple.com/kr/app/netli-fyi-netlify-client/id6741714545?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/63/a4/c663a4b3-16f0-92eb-ae95-38e3bb2720f9/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-02-09",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "1049254261",
-      "name": "Textastic Code Editor",
-      "developer": "Alexander Blach",
-      "url": "https://apps.apple.com/kr/app/textastic-code-editor/id1049254261?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fb/9f/06fb9f52-1d64-90ef-eb67-82b0c4164073/Textastic_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-03-12",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "6749502538",
-      "name": "CSKH QBWACO",
-      "developer": "vecto",
-      "url": "https://apps.apple.com/kr/app/cskh-qbwaco/id6749502538?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/25/4a/f9254a50-cc1d-e77e-1f46-87ff4d341c6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "6783130074",
-      "name": "Limits: AI Usage Tracker",
-      "developer": "Pranav Karthik Mruthyunjayan",
-      "url": "https://apps.apple.com/kr/app/limits-ai-usage-tracker/id6783130074?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/4f/f7/0a4ff71f-a11d-8f4a-2296-9f82ce3ed3ac/LimitsApp-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-07-14",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "6757588699",
-      "name": "스마트 챗봇 & AI 어시스턴트",
-      "developer": "Miczon LLC",
-      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%B1%97%EB%B4%87-ai-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8/id6757588699?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/0c/95/8b0c95c3-b10d-7608-a20d-90dc123587df/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-04",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "1507309511",
-      "name": "Spck Editor",
-      "developer": "Zeb Zhao",
-      "url": "https://apps.apple.com/kr/app/spck-editor/id1507309511?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/ae/74/faae7493-b2a2-73ba-d216-72c8f2c40e3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-04-12",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "1436650069",
-      "name": "Pyto IDE",
-      "developer": "Develobile S.p.A.",
-      "url": "https://apps.apple.com/kr/app/pyto-ide/id1436650069?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/18/35fb18d1-6367-1c1c-2b2f-4f5eb068a5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-23",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "6787819824",
-      "name": "T3 Code - Remote Claude & more",
-      "developer": "T3 Tools, Inc.",
-      "url": "https://apps.apple.com/kr/app/t3-code-remote-claude-more/id6787819824?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/db/db/b9dbdb4a-afec-94ec-6653-a885216d1764/app-icon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2026-07-29",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "6788926383",
-      "name": "Superset: 100+ Coding Agents",
-      "developer": "Superset Inc.",
-      "url": "https://apps.apple.com/kr/app/superset-100-coding-agents/id6788926383?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/b9/f2/26b9f2c6-d66d-38f9-0369-9be9f6506c8f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-09",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "6746471538",
-      "name": "OnSpace AI: Mobile App Builder",
-      "developer": "SoulZ AI Inc.",
-      "url": "https://apps.apple.com/kr/app/onspace-ai-mobile-app-builder/id6746471538?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ca/9a/76ca9ab2-800b-c0cb-7997-1586e0698199/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-24",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "1663675754",
-      "name": "GDevelop - Create & Play Games",
-      "developer": "GDEVELOP FRANCE",
-      "url": "https://apps.apple.com/kr/app/gdevelop-create-play-games/id1663675754?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/8b/bd/d58bbd83-c719-d02e-8345-9d4854848cd8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-04-10",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "1643688878",
-      "name": "Apps Connect",
-      "developer": "CITY OF THE SKY NETWORK",
-      "url": "https://apps.apple.com/kr/app/apps-connect/id1643688878?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/55/83/b25583a9-ccfc-90a9-16a8-8073e408778d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-10-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "6746666386",
-      "name": "HTML 뷰어: Web Inspector",
-      "developer": "Utsav Mangla",
-      "url": "https://apps.apple.com/kr/app/html-%EB%B7%B0%EC%96%B4-web-inspector/id6746666386?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/83/ac/8c83ac2e-90df-8d68-5d9d-99b89eacfa40/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-03",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "6759328000",
-      "name": "HTML 파일 관리 및 편집기",
-      "developer": "Hardik Khanesa",
-      "url": "https://apps.apple.com/kr/app/html-%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC-%EB%B0%8F-%ED%8E%B8%EC%A7%91%EA%B8%B0/id6759328000?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/c8/7f/44c87fce-a22d-51cf-6b56-16b148c441ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-20",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6757134933",
-      "name": "Lumi: 바 이브 코딩 앱",
-      "developer": "Lumi.new",
-      "url": "https://apps.apple.com/kr/app/lumi-%EB%B0%94-%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9-%EC%95%B1/id6757134933?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/24/fa/ed24fade-6c86-035d-f9e4-fc2cc8ec447e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-01",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "6443904179",
-      "name": "Breadpad - SPICE 모의 실험 장치",
-      "developer": "FreshBizOpps, LLC",
-      "url": "https://apps.apple.com/kr/app/breadpad-spice-%EB%AA%A8%EC%9D%98-%EC%8B%A4%ED%97%98-%EC%9E%A5%EC%B9%98/id6443904179?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/54/55/cd545577-2093-4792-1e23-6d811b5858bc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-09-29",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "6760390317",
-      "name": "Claude Code 및 AI 에이전트용 IDE",
-      "developer": "Florian Busch",
-      "url": "https://apps.apple.com/kr/app/claude-code-%EB%B0%8F-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9A%A9-ide/id6760390317?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2e/88/532e8855-f4a1-02d2-629b-6ef846b5be14/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-03-18",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1601434613",
-      "name": "Store Redirect",
-      "developer": "翔 何",
-      "url": "https://apps.apple.com/kr/app/store-redirect/id1601434613?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/14/55/c31455e4-7ecd-643c-50b7-77b2630e2934/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-12",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "6760216772",
-      "name": "CodexBar - Usage of AI",
-      "developer": "昱晓 王",
-      "url": "https://apps.apple.com/kr/app/codexbar-usage-of-ai/id6760216772?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/c6/b8/9ac6b899-8f21-cfaf-49cf-743e1307545f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-04-02",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "6767006319",
-      "name": "Hermex",
-      "developer": "Uzair Ansar",
-      "url": "https://apps.apple.com/kr/app/hermex/id6767006319?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/81/84/7c818445-853f-ad41-289d-920b86a974c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-02",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "6761128531",
-      "name": "Mobile IDE for Codex AI GPT",
-      "developer": "Uladzsislau Luchkouski",
-      "url": "https://apps.apple.com/kr/app/mobile-ide-for-codex-ai-gpt/id6761128531?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/6f/c8/776fc896-1ea4-21ff-cbc4-55e99c0c5904/appicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-04-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "6779651450",
-      "name": "Swift 코딩 코드: SwiftMate",
-      "developer": "LYKOV STUDIO LTD",
-      "url": "https://apps.apple.com/kr/app/swift-%EC%BD%94%EB%94%A9-%EC%BD%94%EB%93%9C-swiftmate/id6779651450?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3a/75/833a75b4-2321-a3e7-7f5a-a3f8cee24eb7/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-07-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "497714887",
-      "name": "WebSSH - Sysadmin Toolbox",
-      "developer": "MENGUS ARNAUD",
-      "url": "https://apps.apple.com/kr/app/webssh-sysadmin-toolbox/id497714887?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/18/74/cc187413-e48a-3e50-428b-36fee15d810e/WebSSH_TwentySix_Singularity-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-03-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "1555847137",
-      "name": "손쉬운 사용 속성",
-      "developer": "George Garside",
-      "url": "https://apps.apple.com/kr/app/%EC%86%90%EC%89%AC%EC%9A%B4-%EC%82%AC%EC%9A%A9-%EC%86%8D%EC%84%B1/id1555847137?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/ba/0a/3eba0ad7-78a9-838b-4f26-0ec1aabb9245/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-03-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "6755102943",
-      "name": "Nano AI - for Ollama",
-      "developer": "一鸣 刘",
-      "url": "https://apps.apple.com/kr/app/nano-ai-for-ollama/id6755102943?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/3c/3b/103c3b12-7a0f-7517-df30-f5f0ea226f80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-11-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "1580368827",
-      "name": "Get My IDFA",
-      "developer": "Hirokazu Uno",
-      "url": "https://apps.apple.com/kr/app/get-my-idfa/id1580368827?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/67/14/0c671482-667e-0f8b-fbe3-a6c17e34bfac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-08-09",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "1536579599",
-      "name": "블루투스 어시스턴트",
-      "developer": "Hangzhou OrangeJuice Technology Co., Ltd.",
-      "url": "https://apps.apple.com/kr/app/%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8/id1536579599?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/7a/1c/517a1c98-261f-ab2a-905c-2ccf65a13198/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-26",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "6755162576",
-      "name": "Weights & Biases",
-      "developer": "Weights and Biases",
-      "url": "https://apps.apple.com/kr/app/weights-biases/id6755162576?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/93/1d/0f931dad-5c03-8434-3de3-b704cc2b4ee2/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-03-16",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "6811644861",
-      "name": "HTML Web Preview: JS CSS JSON",
-      "developer": "Do Yun Kim",
-      "url": "https://apps.apple.com/kr/app/html-web-preview-js-css-json/id6811644861?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/98/98/df989845-dc50-0fb8-27b6-388434b6babc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "1568442831",
-      "name": "Desktop Browser • Zoomable",
-      "developer": "Actowise LLC",
-      "url": "https://apps.apple.com/kr/app/desktop-browser-zoomable/id1568442831?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/8a/63/0c8a638e-2826-e7f9-c0e8-7f44f430cc8a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-05-23",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "6758272626",
-      "name": "CMD: SSH, 터미널, 네트워크",
-      "developer": "Sunandan Sekhar Das",
-      "url": "https://apps.apple.com/kr/app/cmd-ssh-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/id6758272626?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/dc/7d/49dc7d4f-df7a-fd20-70c6-06f178847857/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-02-03",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "6753707203",
-      "name": "Jupyter Notebook - JuCode",
-      "developer": "Devang Samirbhai Shah",
-      "url": "https://apps.apple.com/kr/app/jupyter-notebook-jucode/id6753707203?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/af/6b/9aaf6b18-f78b-7400-74fc-fb5043e2f4b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-10-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
-      "id": "6804198497",
-      "name": "Agent Cat Mobile",
-      "developer": "seokyong kim",
-      "url": "https://apps.apple.com/kr/app/agent-cat-mobile/id6804198497?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/b1/1e/8cb11e54-9f78-05a7-4391-27fb087cf0c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-25",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "6797263135",
-      "name": "Heeler for herdr",
-      "developer": "野 张",
-      "url": "https://apps.apple.com/kr/app/heeler-for-herdr/id6797263135?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/96/69/569669f8-934e-8bfe-9859-e44d6c565378/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "1571533603",
-      "name": "개발의정석",
-      "developer": "jaesung Lee",
-      "url": "https://apps.apple.com/kr/app/%EA%B0%9C%EB%B0%9C%EC%9D%98%EC%A0%95%EC%84%9D/id1571533603?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/8d/79/d28d7940-e5b5-3363-a58d-2b88a52cad65/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-09-02",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6741022143",
-      "name": "STL File Viewer Pro",
-      "developer": "Andeesh Mehdi Syed",
-      "url": "https://apps.apple.com/kr/app/stl-file-viewer-pro/id6741022143?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/e3/e8/15e3e829-fee6-f02c-336c-47b7e04430d0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-24",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "1540646623",
-      "name": "Klipper | OctoPrint - Obico",
-      "developer": "TSD",
-      "url": "https://apps.apple.com/kr/app/klipper-octoprint-obico/id1540646623?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/3f/3e/b73f3eec-b71c-1389-5c9c-24660d6d56cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-18",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "6788093720",
-      "name": "HapLab",
-      "developer": "Sahil Ambegaonkar",
-      "url": "https://apps.apple.com/kr/app/haplab/id6788093720?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/4b/6b/c74b6b6a-4900-3986-dce4-d327646c7acd/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-13",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "6801499896",
-      "name": "掌中鲸",
-      "developer": "丰智 李",
-      "url": "https://apps.apple.com/kr/app/%E6%8E%8C%E4%B8%AD%E9%B2%B8/id6801499896?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/56/44/ed5644f0-5674-e028-43c2-ecf2e7a90cba/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-22",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "6758113780",
-      "name": "Curseforge Addons for MCPE",
-      "developer": "MINICRAFT LLC",
-      "url": "https://apps.apple.com/kr/app/curseforge-addons-for-mcpe/id6758113780?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/3f/6b/403f6b40-703c-649b-4179-4e3a83ec651a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-18",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "6754570005",
-      "name": "N8N Automations — Nathan",
-      "developer": "FarFetched",
-      "url": "https://apps.apple.com/kr/app/n8n-automations-nathan/id6754570005?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/55/fa/7755fa80-4151-30ba-72a4-93f6c9887670/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-10-29",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "6769380881",
-      "name": "Cmux Remote",
-      "developer": "jaehyun jang",
-      "url": "https://apps.apple.com/kr/app/cmux-remote/id6769380881?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/15/74/9c157489-5ffe-c5f9-5e4c-b8b3c543959f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "6748534773",
-      "name": "Supanator: Supabase Manager",
-      "developer": "Layton Labs AB",
-      "url": "https://apps.apple.com/kr/app/supanator-supabase-manager/id6748534773?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/5d/7a/635d7a05-f6d0-617f-7853-963b1db04fff/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-07-30",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
-      "id": "6781517759",
-      "name": "Snowflake CoCo",
-      "developer": "Snowflake Inc.",
-      "url": "https://apps.apple.com/kr/app/snowflake-coco/id6781517759?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/c8/3c/50c83c0d-0f2b-54a5-9844-a02471052fe3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-16",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "개발자 도구",
-          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 98,
+      "rank": 36,
       "id": "6446215341",
       "name": "Cookie-Editor",
       "developer": "Christophe Gagnier",
@@ -1576,7 +584,375 @@
       ]
     },
     {
-      "rank": 99,
+      "rank": 37,
+      "id": "896694807",
+      "name": "Git client - Working Copy",
+      "developer": "Anders Borum",
+      "url": "https://apps.apple.com/kr/app/git-client-working-copy/id896694807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/9e/2e/779e2ea9-d7a3-f014-a287-e273539095b2/Regular-Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-11-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "1436650069",
+      "name": "Pyto IDE",
+      "developer": "Develobile S.p.A.",
+      "url": "https://apps.apple.com/kr/app/pyto-ide/id1436650069?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/18/35fb18d1-6367-1c1c-2b2f-4f5eb068a5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6761357475",
+      "name": "Clash Lite - Clash for iOS",
+      "developer": "Hood Lawn Service Inc.",
+      "url": "https://apps.apple.com/kr/app/clash-lite-clash-for-ios/id6761357475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/81/d6/0181d602-a1a1-d1f4-804b-aa5ab1de7fa7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-04-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "6782706682",
+      "name": "Toplify: App Rankings",
+      "developer": "Chuta Dmytro",
+      "url": "https://apps.apple.com/kr/app/toplify-app-rankings/id6782706682?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/c5/34/c9c53436-0ae1-b56d-fc5f-0caa063810d0/ToplifyIcons-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-07-25",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "6764463488",
+      "name": "Codex Relay - Remote Codex App",
+      "developer": "Kang Sungyu",
+      "url": "https://apps.apple.com/kr/app/codex-relay-remote-codex-app/id6764463488?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/39/5a/c3395a44-663b-b927-1d65-178dc6b91e18/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "1536579599",
+      "name": "블루투스 어시스턴트",
+      "developer": "Hangzhou OrangeJuice Technology Co., Ltd.",
+      "url": "https://apps.apple.com/kr/app/%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8/id1536579599?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/7a/1c/517a1c98-261f-ab2a-905c-2ccf65a13198/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "6762470689",
+      "name": "zFont 3",
+      "developer": "Soua Zerrouki",
+      "url": "https://apps.apple.com/kr/app/zfont-3/id6762470689?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/dd/14/fcdd146b-f79b-eeef-c24e-4d12d1ed3aec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1544728400",
+      "name": "xTerminal - SSH Terminal Shell",
+      "developer": "婉媚 邵",
+      "url": "https://apps.apple.com/kr/app/xterminal-ssh-terminal-shell/id1544728400?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/21/34/2d213415-2aee-4293-058a-7b387cd8c681/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1584825745",
+      "name": "Web Inspector",
+      "developer": "And a Dinosaur",
+      "url": "https://apps.apple.com/kr/app/web-inspector/id1584825745?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/c1/f6/d2c1f6e0-ca8b-47cf-b7af-4fbfd9cd216e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-09-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "6742807404",
+      "name": "이지 SSH",
+      "developer": "Argsment Limited",
+      "url": "https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80-ssh/id6742807404?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/dc/62/f2dc6215-0cf7-dd6a-e898-3dcbd59dee46/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-03-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "6783130074",
+      "name": "Limits: AI Usage Tracker",
+      "developer": "Pranav Karthik Mruthyunjayan",
+      "url": "https://apps.apple.com/kr/app/limits-ai-usage-tracker/id6783130074?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/4f/f7/0a4ff71f-a11d-8f4a-2296-9f82ce3ed3ac/LimitsApp-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-07-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1049254261",
+      "name": "Textastic Code Editor",
+      "developer": "Alexander Blach",
+      "url": "https://apps.apple.com/kr/app/textastic-code-editor/id1049254261?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fb/9f/06fb9f52-1d64-90ef-eb67-82b0c4164073/Textastic_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-03-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "6742102359",
+      "name": "Dashify for Netlify.com",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/kr/app/dashify-for-netlify-com/id6742102359?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/06/fa/bc06fa5a-530e-bdec-7e6a-a2c8860d8e71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-02-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1663675754",
+      "name": "GDevelop - Create & Play Games",
+      "developer": "GDEVELOP FRANCE",
+      "url": "https://apps.apple.com/kr/app/gdevelop-create-play-games/id1663675754?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/8b/bd/d58bbd83-c719-d02e-8345-9d4854848cd8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-04-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "6757859949",
+      "name": "Moshi: SSH/MOSH로 herdr/tmux",
+      "developer": "Moshi Tech Ltd.",
+      "url": "https://apps.apple.com/kr/app/moshi-ssh-mosh%EB%A1%9C-herdr-tmux/id6757859949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/84/d6/2d84d6fa-bb44-e293-8d54-aa4efb375f52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "6741714545",
+      "name": "Netli.fyi: Netlify Client",
+      "developer": "Fenrir Digital",
+      "url": "https://apps.apple.com/kr/app/netli-fyi-netlify-client/id6741714545?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/63/a4/c663a4b3-16f0-92eb-ae95-38e3bb2720f9/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-02-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1632249346",
+      "name": "Terminal#",
+      "developer": "Vasilii Shaidullin",
+      "url": "https://apps.apple.com/kr/app/terminal/id1632249346?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/83/2b/f5832b34-bd63-aa1e-6fc7-73685a2e9efc/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-07-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6791691399",
+      "name": "SQLite Editor & DB Viewer",
+      "developer": "Sahana A S",
+      "url": "https://apps.apple.com/kr/app/sqlite-editor-db-viewer/id6791691399?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5b/43/3d5b434a-0448-3789-fe0e-fae9fba1232f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6753987304",
+      "name": "PythonIDE: Python 코드 편집기",
+      "developer": "文禄 张",
+      "url": "https://apps.apple.com/kr/app/pythonide-python-%EC%BD%94%EB%93%9C-%ED%8E%B8%EC%A7%91%EA%B8%B0/id6753987304?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/2b/61/ce2b6157-7b7c-88af-da99-91af0772cb97/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-02-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "6443620901",
+      "name": "AppsOnAir",
+      "developer": "Logicwind Technologies LLP",
+      "url": "https://apps.apple.com/kr/app/appsonair/id6443620901?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/2c/b4/662cb448-69f8-b3f9-e87a-bbfee0bc827a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1643688878",
+      "name": "Apps Connect",
+      "developer": "CITY OF THE SKY NETWORK",
+      "url": "https://apps.apple.com/kr/app/apps-connect/id1643688878?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/55/83/b25583a9-ccfc-90a9-16a8-8073e408778d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "6755162576",
+      "name": "Weights & Biases",
+      "developer": "Weights and Biases",
+      "url": "https://apps.apple.com/kr/app/weights-biases/id6755162576?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/93/1d/0f931dad-5c03-8434-3de3-b704cc2b4ee2/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-03-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "1483790257",
+      "name": "Text Editor.",
+      "developer": "TAPUNIVERSE LLC",
+      "url": "https://apps.apple.com/kr/app/text-editor/id1483790257?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/67/e9/3667e95d-f1a2-54d1-de12-7466e95a30ba/TextEditor-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-10-18",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
       "id": "1522870046",
       "name": "Device Monitor²",
       "developer": "Fast-Devs Project",
@@ -1592,13 +968,637 @@
       ]
     },
     {
-      "rank": 100,
-      "id": "1624454660",
-      "name": "nRF Device Firmware Update",
+      "rank": 61,
+      "id": "1450994949",
+      "name": "Carnets - Jupyter",
+      "developer": "Nicolas Holzschuch",
+      "url": "https://apps.apple.com/kr/app/carnets-jupyter/id1450994949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/78/7f/cb787ffe-6932-41d3-8633-bd7ff6995bc6/AppIcon-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-04-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "6787819824",
+      "name": "T3 Code - Remote Claude & more",
+      "developer": "T3 Tools, Inc.",
+      "url": "https://apps.apple.com/kr/app/t3-code-remote-claude-more/id6787819824?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/db/db/b9dbdb4a-afec-94ec-6653-a885216d1764/app-icon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-07-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6758005480",
+      "name": "Pyroid",
+      "developer": "TERMUX LIMITED LIABILITY COMPANY",
+      "url": "https://apps.apple.com/kr/app/pyroid/id6758005480?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/94/fc/7b94fc15-d0ab-4249-11fb-6957088e6eb8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6760390317",
+      "name": "Claude Code 및 AI 에이전트용 IDE",
+      "developer": "Florian Busch",
+      "url": "https://apps.apple.com/kr/app/claude-code-%EB%B0%8F-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9A%A9-ide/id6760390317?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2e/88/532e8855-f4a1-02d2-629b-6ef846b5be14/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-03-18",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6760216772",
+      "name": "CodexBar - Usage of AI",
+      "developer": "昱晓 王",
+      "url": "https://apps.apple.com/kr/app/codexbar-usage-of-ai/id6760216772?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/c6/b8/9ac6b899-8f21-cfaf-49cf-743e1307545f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-04-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6761128531",
+      "name": "Mobile IDE for Codex AI GPT",
+      "developer": "Uladzsislau Luchkouski",
+      "url": "https://apps.apple.com/kr/app/mobile-ide-for-codex-ai-gpt/id6761128531?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/6f/c8/776fc896-1ea4-21ff-cbc4-55e99c0c5904/appicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-04-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6814165253",
+      "name": "App Chart",
+      "developer": "Sangcheol Jeon",
+      "url": "https://apps.apple.com/kr/app/app-chart/id6814165253?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/f2/87/79f2872f-94c5-d46e-1dea-d09b7148f996/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-22",
+      "genres": [
+        {
+          "id": "6006",
+          "name": "참고",
+          "url": "https://apps.apple.com/kr/genre/ios-%EC%B0%B8%EA%B3%A0/id6006?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "6738411328",
+      "name": "Python Coding – 오프라인 IDE",
+      "developer": "婉媚 邵",
+      "url": "https://apps.apple.com/kr/app/python-coding-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-ide/id6738411328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/d0/c0/fdd0c0fb-4e27-b634-f96e-99431cd97b25/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6804198497",
+      "name": "Agent Cat Mobile",
+      "developer": "seokyong kim",
+      "url": "https://apps.apple.com/kr/app/agent-cat-mobile/id6804198497?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/b1/1e/8cb11e54-9f78-05a7-4391-27fb087cf0c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-25",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "6754570005",
+      "name": "N8N Automations — Nathan",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/kr/app/n8n-automations-nathan/id6754570005?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/55/fa/7755fa80-4151-30ba-72a4-93f6c9887670/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6769380881",
+      "name": "Cmux Remote",
+      "developer": "jaehyun jang",
+      "url": "https://apps.apple.com/kr/app/cmux-remote/id6769380881?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/15/74/9c157489-5ffe-c5f9-5e4c-b8b3c543959f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6748534773",
+      "name": "Supanator: Supabase Manager",
+      "developer": "Layton Labs AB",
+      "url": "https://apps.apple.com/kr/app/supanator-supabase-manager/id6748534773?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/5d/7a/635d7a05-f6d0-617f-7853-963b1db04fff/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-07-30",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6794432532",
+      "name": "Temp Number | Receive SMS",
+      "developer": "Yarden Mitrani",
+      "url": "https://apps.apple.com/kr/app/temp-number-receive-sms/id6794432532?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/e7/d5/d9e7d557-3d27-f4d3-8063-2f358c255917/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1437086352",
+      "name": "CSDN-程序员计算机技术交友学习社区",
+      "developer": "CSDN Network Technology Co., Ltd.",
+      "url": "https://apps.apple.com/kr/app/csdn-%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E4%BA%A4%E5%8F%8B%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA/id1437086352?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/df/8d/7ddf8d4e-2c38-7bcb-3d98-35102f39ec00/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-10-04",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "6760628047",
+      "name": "Syncthing Monitor",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/kr/app/syncthing-monitor/id6760628047?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/ca/51/8dca517b-7881-9414-29df-d02a5c2d15fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-03-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1519423539",
+      "name": "nRF Connect Device Manager",
       "developer": "Nordic Semiconductor ASA",
-      "url": "https://apps.apple.com/kr/app/nrf-device-firmware-update/id1624454660?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/cd/bd/afcdbd65-ff79-ec96-a31a-235f0d1cd840/Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-06-17",
+      "url": "https://apps.apple.com/kr/app/nrf-connect-device-manager/id1519423539?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9b/97/f19b9707-588f-a65f-548d-8f346421f360/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-08-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6760252247",
+      "name": "onlinegdb",
+      "developer": "AVIRAJ PATEL",
+      "url": "https://apps.apple.com/kr/app/onlinegdb/id6760252247?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/23/fe/ce23fea5-2ff0-e656-6485-9ec5772c6d24/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "1397424959",
+      "name": "CodeSnack IDE",
+      "developer": "Mobibean, LLC",
+      "url": "https://apps.apple.com/kr/app/codesnack-ide/id1397424959?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/0d/a1/2e0da102-48f9-7870-27c0-f3f69f9063fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-07-30",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "1621133381",
+      "name": "Swifter for SwiftUI",
+      "developer": "Wido",
+      "url": "https://apps.apple.com/kr/app/swifter-for-swiftui/id1621133381?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/82/96/e88296ce-79c6-7218-a915-569592e3db83/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-01-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "6738332082",
+      "name": "카카오디벨로퍼스 Kakao Developers",
+      "developer": "Kakao Corp.",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC%EC%8A%A4-kakao-developers/id6738332082?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/32/7b/0a327b40-b9b4-0d7d-e92c-620c000fd032/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "1058693037",
+      "name": "Bluetooth Terminal",
+      "developer": "Lukas Pistrol",
+      "url": "https://apps.apple.com/kr/app/bluetooth-terminal/id1058693037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/bf/4c/4ebf4ce6-86ed-777b-fdf5-91fb27731560/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1667492380",
+      "name": "Appboard: 앱 순위, 트렌드, 북마크",
+      "developer": "Dongchan Son",
+      "url": "https://apps.apple.com/kr/app/appboard-%EC%95%B1-%EC%88%9C%EC%9C%84-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EB%B6%81%EB%A7%88%ED%81%AC/id1667492380?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/bc/b2/85bcb2bf-d724-2746-471e-dd14fa03f716/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-04-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1672453872",
+      "name": "Python Editor App",
+      "developer": "Andromeda Corp LTD",
+      "url": "https://apps.apple.com/kr/app/python-editor-app/id1672453872?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b9/cd/9ab9cd62-b238-ce1e-1862-55e3f1e25092/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-02-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1601434613",
+      "name": "Store Redirect",
+      "developer": "翔 何",
+      "url": "https://apps.apple.com/kr/app/store-redirect/id1601434613?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/14/55/c31455e4-7ecd-643c-50b7-77b2630e2934/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6763641767",
+      "name": "OpenClient for OpenCode",
+      "developer": "Nicolas Toporcov",
+      "url": "https://apps.apple.com/kr/app/openclient-for-opencode/id6763641767?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/24/51/202451a8-1728-d4a9-3c38-d6d7f6eef984/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1548193893",
+      "name": "Runestone Text Editor",
+      "developer": "Simon B. Støvring",
+      "url": "https://apps.apple.com/kr/app/runestone-text-editor/id1548193893?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/58/72/3b587215-d653-a34f-5517-db48f9d98a62/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-05-05",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "6801493876",
+      "name": "AI 사용량 트래커",
+      "developer": "JoCoding, Inc.",
+      "url": "https://apps.apple.com/kr/app/ai-%EC%82%AC%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%EC%BB%A4/id6801493876?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/8f/31/588f31e3-2e75-b957-3c0f-327f48256b8b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6759552936",
+      "name": "AI App Builder - FlutterPilot",
+      "developer": "Abrar Malekji",
+      "url": "https://apps.apple.com/kr/app/ai-app-builder-flutterpilot/id6759552936?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/5c/be/7a5cbe6e-33a1-84e2-8ee1-260d176e252c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-15",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "1544159771",
+      "name": "Unity Face Capture",
+      "developer": "Unity Technologies ApS",
+      "url": "https://apps.apple.com/kr/app/unity-face-capture/id1544159771?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/4f/10/d44f109b-47a8-1fe1-edc6-c7ced3d19c72/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "1594044000",
+      "name": "Ads Report for Admob",
+      "developer": "An Banh",
+      "url": "https://apps.apple.com/kr/app/ads-report-for-admob/id1594044000?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/47/2c/55472c4d-8743-3e10-c82f-7a97e8bf6482/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-11-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6753083462",
+      "name": "Power Apps Mobile Preview",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/kr/app/power-apps-mobile-preview/id6753083462?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/b7/da/27b7daf8-0fc7-249d-45e8-eac27e2cb1f6/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2026-06-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "6758781401",
+      "name": "LG Remote Control for LG TV",
+      "developer": "Free Vpn Fast",
+      "url": "https://apps.apple.com/kr/app/lg-remote-control-for-lg-tv/id6758781401?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/99/06/ae9906d5-adf8-c2d9-c43e-3612dea4d5bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-03-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6748571505",
+      "name": "Happy: Codex & Claude Code App",
+      "developer": "Bulka, LLC",
+      "url": "https://apps.apple.com/kr/app/happy-codex-claude-code-app/id6748571505?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/f5/4c/3df54c59-caf6-6fc4-d7d8-a7e23ad68961/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-07-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6761113306",
+      "name": "GoDoScript: GDScript Editor",
+      "developer": "White Bread Games",
+      "url": "https://apps.apple.com/kr/app/godoscript-gdscript-editor/id6761113306?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/17/55/d817554c-4bc7-bca8-a700-1d1abbb13694/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-04-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1397406775",
+      "name": "Python3 IDE Fresh Edition",
+      "developer": "小文 黄",
+      "url": "https://apps.apple.com/kr/app/python3-ide-fresh-edition/id1397406775?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/2b/d7/b32bd7dd-d0cd-3d30-93f0-623dd954d521/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-07-24",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6450625811",
+      "name": "와이파이 속도 & WiFi 테스트 - Speedtest",
+      "developer": "App Nursery",
+      "url": "https://apps.apple.com/kr/app/%EC%99%80%EC%9D%B4%ED%8C%8C%EC%9D%B4-%EC%86%8D%EB%8F%84-wifi-%ED%85%8C%EC%8A%A4%ED%8A%B8-speedtest/id6450625811?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f8/c8/37f8c814-3ed1-c452-9c5e-03f740aafa02/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-07-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6757701908",
+      "name": "Claude Code Notifier Companion",
+      "developer": "TouchTap",
+      "url": "https://apps.apple.com/kr/app/claude-code-notifier-companion/id6757701908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/bb/c7/5bbbc75a-1c51-5281-3863-7c81e7c765d4/AppIcon-0-1x_U007ephone-0-1-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2026-01-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "6761032932",
+      "name": "Termi - SSH 클라이언트와 터미널",
+      "developer": "艳 罗",
+      "url": "https://apps.apple.com/kr/app/termi-ssh-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80-%ED%84%B0%EB%AF%B8%EB%84%90/id6761032932?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/45/13/7e45134e-d425-40f0-15f6-e2129021a1f4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "6755363508",
+      "name": "Gummy: AI Game Maker",
+      "developer": "Noon",
+      "url": "https://apps.apple.com/kr/app/gummy-ai-game-maker/id6755363508?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/c7/94/1ac79424-66bf-6d56-b165-71e0fc0c1ca7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "개발자 도구",
+          "url": "https://apps.apple.com/kr/genre/ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "6756816707",
+      "name": "Game Builder AI",
+      "developer": "Hashcode Software FZCO",
+      "url": "https://apps.apple.com/kr/app/game-builder-ai/id6756816707?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/62/5d/51625d71-fdf7-a450-0658-9ca063a135a5/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-01-12",
       "genres": [
         {
           "id": "6026",

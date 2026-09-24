@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:13:50.404707+09:00",
+  "collected_at": "2026-09-24T20:36:57.444253+09:00",
   "date": "2026-09-24",
   "country": "nl",
   "chart": "top-free",
@@ -41,70 +41,6 @@
     },
     {
       "rank": 3,
-      "id": "1534126062",
-      "name": "Themify: Thema's en app-iconen",
-      "developer": "AIBY",
-      "url": "https://apps.apple.com/nl/app/themify-themas-en-app-iconen/id1534126062?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f1/0b/05f10b81-0dae-0d35-470b-39750e76d3e5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-02",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "id": "1534704608",
-      "name": "iScreen - Widgets & Wallpaper",
-      "developer": "Xiamen ShenZhuo Information Technology Co., Ltd.",
-      "url": "https://apps.apple.com/nl/app/iscreen-widgets-wallpaper/id1534704608?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/12/c9/c712c97a-af4b-2f84-5267-0eab84ebebe8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2020-11-25",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "id": "912171064",
-      "name": "Creatic: Graphic Design Editor",
-      "developer": "DELIX SOFTWARE SH.P.K",
-      "url": "https://apps.apple.com/nl/app/creatic-graphic-design-editor/id912171064?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/c1/63/f1c163e7-b6f8-7940-6b73-e79602625653/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-10-16",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "id": "6742496435",
-      "name": "Saninet Bathroom Viewer",
-      "developer": "Saninet",
-      "url": "https://apps.apple.com/nl/app/saninet-bathroom-viewer/id6742496435?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/92/77/1f9277f0-2c96-4e4c-41ba-6c0309724aad/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2025-03-07",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "id": "6752269317",
       "name": "Gallerie Wallpapers",
       "developer": "Sibelius Studios LLC",
@@ -120,7 +56,55 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "id": "1534126062",
+      "name": "Themify: Thema's en app-iconen",
+      "developer": "AIBY",
+      "url": "https://apps.apple.com/nl/app/themify-themas-en-app-iconen/id1534126062?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f1/0b/05f10b81-0dae-0d35-470b-39750e76d3e5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-02",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "1534704608",
+      "name": "iScreen - Widgets & Wallpaper",
+      "developer": "Xiamen ShenZhuo Information Technology Co., Ltd.",
+      "url": "https://apps.apple.com/nl/app/iscreen-widgets-wallpaper/id1534704608?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bb/89/84bb8917-6d0e-40ee-8bb8-f725627bc101/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-25",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "912171064",
+      "name": "Creatic: Graphic Design Editor",
+      "developer": "DELIX SOFTWARE SH.P.K",
+      "url": "https://apps.apple.com/nl/app/creatic-graphic-design-editor/id912171064?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/c1/63/f1c163e7-b6f8-7940-6b73-e79602625653/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-10-16",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "id": "6752289576",
       "name": "Colliz – DIY Wallpaper Craft",
       "developer": "Braly",
@@ -136,13 +120,29 @@
       ]
     },
     {
+      "rank": 8,
+      "id": "1051937863",
+      "name": "Adobe Express: AI-foto, video",
+      "developer": "Adobe Inc.",
+      "url": "https://apps.apple.com/nl/app/adobe-express-ai-foto-video/id1051937863?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/94/c7/8894c766-9076-79a2-3e3a-23f52f8b6e18/AppIconSpark-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-17",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 9,
-      "id": "6761900294",
-      "name": "Silly Fun Smile Live Wallpaper",
-      "developer": "Hypernova Limited",
-      "url": "https://apps.apple.com/nl/app/silly-fun-smile-live-wallpaper/id6761900294?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/d6/21/c8d621bf-b0cc-0804-26df-3a97ffc3bc7d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-21",
+      "id": "6742496435",
+      "name": "Saninet Bathroom Viewer",
+      "developer": "Saninet",
+      "url": "https://apps.apple.com/nl/app/saninet-bathroom-viewer/id6742496435?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/92/77/1f9277f0-2c96-4e4c-41ba-6c0309724aad/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-03-07",
       "genres": [
         {
           "id": "6027",
@@ -169,12 +169,12 @@
     },
     {
       "rank": 11,
-      "id": "1051937863",
-      "name": "Adobe Express: AI-foto, video",
-      "developer": "Adobe Inc.",
-      "url": "https://apps.apple.com/nl/app/adobe-express-ai-foto-video/id1051937863?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/94/c7/8894c766-9076-79a2-3e3a-23f52f8b6e18/AppIconSpark-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2015-12-17",
+      "id": "6761900294",
+      "name": "Silly Fun Smile Live Wallpaper",
+      "developer": "Hypernova Limited",
+      "url": "https://apps.apple.com/nl/app/silly-fun-smile-live-wallpaper/id6761900294?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/d6/21/c8d621bf-b0cc-0804-26df-3a97ffc3bc7d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-21",
       "genres": [
         {
           "id": "6027",
@@ -185,22 +185,6 @@
     },
     {
       "rank": 12,
-      "id": "1524540481",
-      "name": "Widgy Widgets: Home/Lock/Watch",
-      "developer": "Woodsign",
-      "url": "https://apps.apple.com/nl/app/widgy-widgets-home-lock-watch/id1524540481?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/5d/67/565d670c-5611-800e-5187-f5abb14db44b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-10-10",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 13,
       "id": "6737417022",
       "name": "Pose: AI Photo Video Generator",
       "developer": "Spark Dynamic",
@@ -216,55 +200,7 @@
       ]
     },
     {
-      "rank": 14,
-      "id": "6502747597",
-      "name": "DecAI® - AI Woningontwerp",
-      "developer": "COOL SUMMER LIMITED",
-      "url": "https://apps.apple.com/nl/app/decai-ai-woningontwerp/id6502747597?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/5b/96/025b9651-4eb1-fe8a-df6b-55fe742cf29e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-05-23",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
-      "id": "6448484908",
-      "name": "AR Drawing: Sketch & Paint",
-      "developer": "Digital Solutions Technologies Limited",
-      "url": "https://apps.apple.com/nl/app/ar-drawing-sketch-paint/id6448484908?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/00/5f/fd005f4f-8bb2-2f90-364f-4c64196f67a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-05-02",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
-      "id": "1516457304",
-      "name": "Kaartje2go - Kaart sturen",
-      "developer": "Kaartje2go B.V.",
-      "url": "https://apps.apple.com/nl/app/kaartje2go-kaart-sturen/id1516457304?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/35/b4/b335b45d-fcd2-a49e-5d04-01bd47ee2c6c/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "release_date": "2020-06-04",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 17,
+      "rank": 13,
       "id": "6446647507",
       "name": "AI Video Generator + Creator",
       "developer": "Plus Apps Bilisim Teknolojileri Reklamcilik Limited Sirketi",
@@ -280,23 +216,7 @@
       ]
     },
     {
-      "rank": 18,
-      "id": "6478513085",
-      "name": "Creati: Gen AI Content Creator",
-      "developer": "IMGCreator Limited",
-      "url": "https://apps.apple.com/nl/app/creati-gen-ai-content-creator/id6478513085?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/16/31/651631c6-2eaa-22e0-7638-1d15483b4587/AppIcon-0-0-1x_U007ephone-0-11-85-220.jpeg/100x100bb.png",
-      "release_date": "2024-03-08",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
+      "rank": 14,
       "id": "6446832902",
       "name": "WallPics - Live achtergronden",
       "developer": "IgKnight Technologies Ltd",
@@ -312,13 +232,13 @@
       ]
     },
     {
-      "rank": 20,
-      "id": "6754274246",
-      "name": "ARtie Lab: AR Drawing & Sketch",
-      "developer": "TenetApps",
-      "url": "https://apps.apple.com/nl/app/artie-lab-ar-drawing-sketch/id6754274246?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/af/7e/65af7e21-8009-658c-eb89-d3a3d7609897/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-11",
+      "rank": 15,
+      "id": "1524540481",
+      "name": "Widgy Widgets: Home/Lock/Watch",
+      "developer": "Woodsign",
+      "url": "https://apps.apple.com/nl/app/widgy-widgets-home-lock-watch/id1524540481?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/5d/67/565d670c-5611-800e-5187-f5abb14db44b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-10-10",
       "genres": [
         {
           "id": "6027",
@@ -328,7 +248,55 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 16,
+      "id": "6502747597",
+      "name": "DecAI® - AI Woningontwerp",
+      "developer": "COOL SUMMER LIMITED",
+      "url": "https://apps.apple.com/nl/app/decai-ai-woningontwerp/id6502747597?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/5b/96/025b9651-4eb1-fe8a-df6b-55fe742cf29e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-05-23",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "6448484908",
+      "name": "AR Drawing: Sketch & Paint",
+      "developer": "Digital Solutions Technologies Limited",
+      "url": "https://apps.apple.com/nl/app/ar-drawing-sketch-paint/id6448484908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/00/5f/fd005f4f-8bb2-2f90-364f-4c64196f67a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-05-02",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "1516457304",
+      "name": "Kaartje2go - Kaart sturen",
+      "developer": "Kaartje2go B.V.",
+      "url": "https://apps.apple.com/nl/app/kaartje2go-kaart-sturen/id1516457304?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/35/b4/b335b45d-fcd2-a49e-5d04-01bd47ee2c6c/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "release_date": "2020-06-04",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
       "id": "6738174922",
       "name": "ThemeX: App Icons & My Widgets",
       "developer": "CEM SOFTWARE LTD",
@@ -344,13 +312,45 @@
       ]
     },
     {
+      "rank": 20,
+      "id": "6478513085",
+      "name": "Creati: Gen AI Content Creator",
+      "developer": "IMGCreator Limited",
+      "url": "https://apps.apple.com/nl/app/creati-gen-ai-content-creator/id6478513085?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/16/31/651631c6-2eaa-22e0-7638-1d15483b4587/AppIcon-0-0-1x_U007ephone-0-11-85-220.jpeg/100x100bb.png",
+      "release_date": "2024-03-08",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "450722833",
+      "name": "ibis Paint X",
+      "developer": "ibis inc.",
+      "url": "https://apps.apple.com/nl/app/ibis-paint-x/id450722833?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/ba/21/56ba211f-eee1-e83d-fb76-ed44543c53b6/AppIconX-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-08-01",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 22,
-      "id": "1640653011",
-      "name": "Mico - Widget & Live Wallpaper",
-      "developer": "Unbing International Limited",
-      "url": "https://apps.apple.com/nl/app/mico-widget-live-wallpaper/id1640653011?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/6d/92/c76d9210-b6d1-8f6d-b186-e4030c99725a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-09-15",
+      "id": "6747794879",
+      "name": "Glow Finger Spinner Art App",
+      "developer": "Braly",
+      "url": "https://apps.apple.com/nl/app/glow-finger-spinner-art-app/id6747794879?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/78/a6/f978a6e9-81b1-5965-3cde-4d42b4d878af/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-07-23",
       "genres": [
         {
           "id": "6027",
@@ -361,38 +361,6 @@
     },
     {
       "rank": 23,
-      "id": "6444421373",
-      "name": "Floor Plan & AI Home - CamPlan",
-      "developer": "CamPlan AI Ltd",
-      "url": "https://apps.apple.com/nl/app/floor-plan-ai-home-camplan/id6444421373?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/6b/18/116b18bb-05a1-59e6-aebc-cd59ca1bbd83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-04-12",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "id": "6464476667",
-      "name": "Home AI – AI Interieurontwerp",
-      "developer": "HUBX",
-      "url": "https://apps.apple.com/nl/app/home-ai-ai-interieurontwerp/id6464476667?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/32/e3/6b32e354-d816-c4b2-6d61-2fe6c38f2654/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-04-05",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
       "id": "6477533581",
       "name": "Interieur Inrichten AI Remodel",
       "developer": "PulseApps Solutions OÜ",
@@ -408,13 +376,45 @@
       ]
     },
     {
+      "rank": 24,
+      "id": "6479689893",
+      "name": "Tattoo AI - Tattoo design",
+      "developer": "HUBX",
+      "url": "https://apps.apple.com/nl/app/tattoo-ai-tattoo-design/id6479689893?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2e/30/6e2e30a5-4f9e-432c-9a3f-5ffda23bc990/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-06-15",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "1640653011",
+      "name": "Mico - Widget & Live Wallpaper",
+      "developer": "Unbing International Limited",
+      "url": "https://apps.apple.com/nl/app/mico-widget-live-wallpaper/id1640653011?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/6d/92/c76d9210-b6d1-8f6d-b186-e4030c99725a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-09-15",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 26,
-      "id": "1152747299",
-      "name": "Figma",
-      "developer": "Figma Inc.",
-      "url": "https://apps.apple.com/nl/app/figma/id1152747299?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ba/eb/a4baeb71-2781-550a-7e4a-b28281212ddf/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2016-09-27",
+      "id": "6444421373",
+      "name": "Floor Plan & AI Home - CamPlan",
+      "developer": "CamPlan AI Ltd",
+      "url": "https://apps.apple.com/nl/app/floor-plan-ai-home-camplan/id6444421373?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/6b/18/116b18bb-05a1-59e6-aebc-cd59ca1bbd83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-04-12",
       "genres": [
         {
           "id": "6027",
@@ -425,12 +425,12 @@
     },
     {
       "rank": 27,
-      "id": "6751296351",
-      "name": "ReShoot: AI foto's & bewerken",
-      "developer": "HUBX",
-      "url": "https://apps.apple.com/nl/app/reshoot-ai-fotos-bewerken/id6751296351?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/23/0f/da230f8d-2e43-8f1a-c12e-97c17b546f79/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-09-03",
+      "id": "6754274246",
+      "name": "ARtie Lab: AR Drawing & Sketch",
+      "developer": "TenetApps",
+      "url": "https://apps.apple.com/nl/app/artie-lab-ar-drawing-sketch/id6754274246?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/af/7e/65af7e21-8009-658c-eb89-d3a3d7609897/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-11",
       "genres": [
         {
           "id": "6027",
@@ -441,12 +441,12 @@
     },
     {
       "rank": 28,
-      "id": "6747794879",
-      "name": "Glow Finger Spinner Art App",
-      "developer": "Braly",
-      "url": "https://apps.apple.com/nl/app/glow-finger-spinner-art-app/id6747794879?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/78/a6/f978a6e9-81b1-5965-3cde-4d42b4d878af/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-07-23",
+      "id": "6464476667",
+      "name": "Home AI – AI Interieurontwerp",
+      "developer": "HUBX",
+      "url": "https://apps.apple.com/nl/app/home-ai-ai-interieurontwerp/id6464476667?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/32/e3/6b32e354-d816-c4b2-6d61-2fe6c38f2654/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-04-05",
       "genres": [
         {
           "id": "6027",
@@ -473,12 +473,12 @@
     },
     {
       "rank": 30,
-      "id": "6499216812",
-      "name": "AI Home Design - Interium",
-      "developer": "AIBY",
-      "url": "https://apps.apple.com/nl/app/ai-home-design-interium/id6499216812?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/4e/1e/c54e1eaf-e22e-3ee6-aef5-1385bfe12295/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2024-07-01",
+      "id": "1152747299",
+      "name": "Figma",
+      "developer": "Figma Inc.",
+      "url": "https://apps.apple.com/nl/app/figma/id1152747299?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ba/eb/a4baeb71-2781-550a-7e4a-b28281212ddf/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2016-09-27",
       "genres": [
         {
           "id": "6027",
@@ -489,12 +489,12 @@
     },
     {
       "rank": 31,
-      "id": "450722833",
-      "name": "ibis Paint X",
-      "developer": "ibis inc.",
-      "url": "https://apps.apple.com/nl/app/ibis-paint-x/id450722833?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/ba/21/56ba211f-eee1-e83d-fb76-ed44543c53b6/AppIconX-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2011-08-01",
+      "id": "1457711961",
+      "name": "Foto Bewerken AI Photo Retouch",
+      "developer": "煦慧 蒙",
+      "url": "https://apps.apple.com/nl/app/foto-bewerken-ai-photo-retouch/id1457711961?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/97/84/a8978472-cc26-329e-ae69-247bd3e35db6/icon_composer_removal-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2019-04-06",
       "genres": [
         {
           "id": "6027",
@@ -505,12 +505,12 @@
     },
     {
       "rank": 32,
-      "id": "6761053389",
-      "name": "ColorBestie",
-      "developer": "Joost Heijden",
-      "url": "https://apps.apple.com/nl/app/colorbestie/id6761053389?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8f/cd/4b8fcd86-f627-2f68-85b3-bc7470972efb/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2026-04-15",
+      "id": "1616629991",
+      "name": "ThemePack: Widgets & Wallpaper",
+      "developer": "ThemePack.Inc",
+      "url": "https://apps.apple.com/nl/app/themepack-widgets-wallpaper/id1616629991?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/7d/0f/d37d0fcf-5d03-76a0-e038-f585131eae6d/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-04-12",
       "genres": [
         {
           "id": "6027",
@@ -521,12 +521,12 @@
     },
     {
       "rank": 33,
-      "id": "6479689893",
-      "name": "Tattoo AI - Tattoo design",
-      "developer": "HUBX",
-      "url": "https://apps.apple.com/nl/app/tattoo-ai-tattoo-design/id6479689893?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2e/30/6e2e30a5-4f9e-432c-9a3f-5ffda23bc990/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-06-15",
+      "id": "1617601717",
+      "name": "MagiScan - AI 3D Scanner app",
+      "developer": "Magiscan Inc.",
+      "url": "https://apps.apple.com/nl/app/magiscan-ai-3d-scanner-app/id1617601717?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/7b/c3/d67bc33d-b685-fe30-4b3c-71a5d220c603/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-07-07",
       "genres": [
         {
           "id": "6027",
@@ -553,12 +553,12 @@
     },
     {
       "rank": 35,
-      "id": "6745964345",
-      "name": "Interieur Inrichten: AI Design",
-      "developer": "GRIMLAX TRADE, S.L.",
-      "url": "https://apps.apple.com/nl/app/interieur-inrichten-ai-design/id6745964345?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/bc/79/7dbc79fd-4f52-5bb3-3502-2f4fcde23d02/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2025-10-20",
+      "id": "6751296351",
+      "name": "ReShoot: AI foto's & bewerken",
+      "developer": "HUBX",
+      "url": "https://apps.apple.com/nl/app/reshoot-ai-fotos-bewerken/id6751296351?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/23/0f/da230f8d-2e43-8f1a-c12e-97c17b546f79/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-03",
       "genres": [
         {
           "id": "6027",
@@ -569,12 +569,12 @@
     },
     {
       "rank": 36,
-      "id": "1457711961",
-      "name": "Foto Bewerken AI Photo Retouch",
-      "developer": "煦慧 蒙",
-      "url": "https://apps.apple.com/nl/app/foto-bewerken-ai-photo-retouch/id1457711961?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/97/84/a8978472-cc26-329e-ae69-247bd3e35db6/icon_composer_removal-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2019-04-06",
+      "id": "6447543971",
+      "name": "Cool Themes & Fonts: Cute Text",
+      "developer": "Kika Tech (HK) Holdings Co., Limited",
+      "url": "https://apps.apple.com/nl/app/cool-themes-fonts-cute-text/id6447543971?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/24/13/7f2413e9-f555-0699-8925-70f70cd2d771/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-05-18",
       "genres": [
         {
           "id": "6027",
@@ -585,102 +585,6 @@
     },
     {
       "rank": 37,
-      "id": "1348676585",
-      "name": "Wallcraft – Wallpapers live 4K",
-      "developer": "VOLKRAFT",
-      "url": "https://apps.apple.com/nl/app/wallcraft-wallpapers-live-4k/id1348676585?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/5c/5e/d95c5ed1-c805-e154-3e7f-fbf7895b897d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-03-15",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "6449579793",
-      "name": "Widgify:Widget&Wallpapers",
-      "developer": "SunnyScorpio(HK)Mobile Limited",
-      "url": "https://apps.apple.com/nl/app/widgify-widget-wallpapers/id6449579793?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/2d/9f/4b2d9f6e-c33a-d8db-971c-6dc62946e87c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-25",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "1488782587",
-      "name": "Reface: Gezicht Bewerken AI",
-      "developer": "NEOCORTEXT, INC.",
-      "url": "https://apps.apple.com/nl/app/reface-gezicht-bewerken-ai/id1488782587?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/73/ef/f873ef40-1e60-9e25-c851-242c3d06f6d2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-23",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "883738213",
-      "name": "Sketchbook®",
-      "developer": "Sketchbook, Inc",
-      "url": "https://apps.apple.com/nl/app/sketchbook/id883738213?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/20/35/1620350c-b519-2c81-a0c8-c7da3fec92f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2014-10-08",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "6446314875",
-      "name": "RoomGPT : AI Interior Design",
-      "developer": "AZUR APPS FZ-LLC",
-      "url": "https://apps.apple.com/nl/app/roomgpt-ai-interior-design/id6446314875?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/ea/65/abea655c-8dd8-4c7e-9e7d-50d2cf483a75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-03-26",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1664092086",
-      "name": "Magnific - AI Video & Image",
-      "developer": "Freepik Company S.L.U.",
-      "url": "https://apps.apple.com/nl/app/magnific-ai-video-image/id1664092086?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/8e/92/7e8e920f-6eb0-832c-93ff-d228822705ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-12-15",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
       "id": "6758757448",
       "name": "AI Room Design: House Goals",
       "developer": "Innovative Social Limited",
@@ -696,39 +600,7 @@
       ]
     },
     {
-      "rank": 44,
-      "id": "6804839380",
-      "name": "Openart AI Beeldgenerator",
-      "developer": "Amieke Savelkoul",
-      "url": "https://apps.apple.com/nl/app/openart-ai-beeldgenerator/id6804839380?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/f6/23/a8f62330-1f5b-efe5-4df3-685dd388cd7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-08",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "6504559449",
-      "name": "PicTrace: AR Drawing & Sketch",
-      "developer": "AvnTech Inc.",
-      "url": "https://apps.apple.com/nl/app/pictrace-ar-drawing-sketch/id6504559449?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/a7/77/92a77795-e2e4-9072-6dfb-2da4f2611e1c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-07-05",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
+      "rank": 38,
       "id": "6773563365",
       "name": "Roomly - AI Interieur Design",
       "developer": "AIFreeFlow",
@@ -744,13 +616,13 @@
       ]
     },
     {
-      "rank": 47,
-      "id": "6746871740",
-      "name": "Drawsy: AR Draw for Sketching",
-      "developer": "EIGEN SOFTWARE LIMITED",
-      "url": "https://apps.apple.com/nl/app/drawsy-ar-draw-for-sketching/id6746871740?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/be/b8/efbeb834-29d6-b24e-cd3f-2ae0d93f90fb/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2025-06-27",
+      "rank": 39,
+      "id": "883738213",
+      "name": "Sketchbook®",
+      "developer": "Sketchbook, Inc",
+      "url": "https://apps.apple.com/nl/app/sketchbook/id883738213?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/20/35/1620350c-b519-2c81-a0c8-c7da3fec92f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2014-10-08",
       "genres": [
         {
           "id": "6027",
@@ -760,13 +632,13 @@
       ]
     },
     {
-      "rank": 48,
-      "id": "1616629991",
-      "name": "ThemePack: Widgets & Wallpaper",
-      "developer": "ThemePack.Inc",
-      "url": "https://apps.apple.com/nl/app/themepack-widgets-wallpaper/id1616629991?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/b3/db/feb3dbbb-d97a-712e-7786-98853a5ba822/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-04-12",
+      "rank": 40,
+      "id": "1488782587",
+      "name": "Reface: Gezicht Bewerken AI",
+      "developer": "NEOCORTEXT, INC.",
+      "url": "https://apps.apple.com/nl/app/reface-gezicht-bewerken-ai/id1488782587?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/73/ef/f873ef40-1e60-9e25-c851-242c3d06f6d2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-23",
       "genres": [
         {
           "id": "6027",
@@ -776,13 +648,13 @@
       ]
     },
     {
-      "rank": 49,
-      "id": "1538543750",
-      "name": "Aesthetic: achtergronden",
-      "developer": "Aesthetic Apps & Widgets srl",
-      "url": "https://apps.apple.com/nl/app/aesthetic-achtergronden/id1538543750?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/eb/f1/51ebf175-f02e-b26f-135d-3cffd9969afe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-16",
+      "rank": 41,
+      "id": "1664092086",
+      "name": "Magnific - AI Video & Image",
+      "developer": "Freepik Company S.L.U.",
+      "url": "https://apps.apple.com/nl/app/magnific-ai-video-image/id1664092086?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/8e/92/7e8e920f-6eb0-832c-93ff-d228822705ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-12-15",
       "genres": [
         {
           "id": "6027",
@@ -792,13 +664,13 @@
       ]
     },
     {
-      "rank": 50,
-      "id": "1617601717",
-      "name": "MagiScan - AI 3D Scanner app",
-      "developer": "Magiscan Inc.",
-      "url": "https://apps.apple.com/nl/app/magiscan-ai-3d-scanner-app/id1617601717?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/74/ee/bc74ee95-1b36-2344-6478-fc8c829c75a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-07-07",
+      "rank": 42,
+      "id": "6759669224",
+      "name": "Movira: AI Video & Photo Maker",
+      "developer": "Modernist LTD",
+      "url": "https://apps.apple.com/nl/app/movira-ai-video-photo-maker/id6759669224?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/84/bb/5084bbd1-6c8a-1802-ccd9-f3c2744655c3/MoviraAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-03-07",
       "genres": [
         {
           "id": "6027",
@@ -808,23 +680,7 @@
       ]
     },
     {
-      "rank": 51,
-      "id": "6769700956",
-      "name": "ThemeArt: Widgets & App icons",
-      "developer": "Hypernova Limited",
-      "url": "https://apps.apple.com/nl/app/themeart-widgets-app-icons/id6769700956?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/42/3c/5c423cea-7d61-117f-94c6-0c0ab598691e/AppIcon-V2-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-28",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
+      "rank": 43,
       "id": "6469784726",
       "name": "MoYo - Widgets & Achtergrond",
       "developer": "MoYo Technology Co., Ltd.",
@@ -840,13 +696,13 @@
       ]
     },
     {
-      "rank": 53,
-      "id": "6467189759",
-      "name": "Themelia: Theme & Widget",
-      "developer": "WOOHOO LIMITED",
-      "url": "https://apps.apple.com/nl/app/themelia-theme-widget/id6467189759?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/cd/af/12cdaf08-c361-ce90-32ed-9c276c6b9f8c/AppIcon_20-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-10-04",
+      "rank": 44,
+      "id": "6449579793",
+      "name": "Widgify:Widget&Wallpapers",
+      "developer": "SunnyScorpio(HK)Mobile Limited",
+      "url": "https://apps.apple.com/nl/app/widgify-widget-wallpapers/id6449579793?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/2d/9f/4b2d9f6e-c33a-d8db-971c-6dc62946e87c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-25",
       "genres": [
         {
           "id": "6027",
@@ -856,23 +712,7 @@
       ]
     },
     {
-      "rank": 54,
-      "id": "1456386228",
-      "name": "Clockology Watch Faces",
-      "developer": "Clockology, LLC",
-      "url": "https://apps.apple.com/nl/app/clockology-watch-faces/id1456386228?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/7d/20/967d2019-0f67-35c6-ff7e-67396c71550c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-06-14",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
+      "rank": 45,
       "id": "6680155400",
       "name": "Pika - AI Video",
       "developer": "Mellis, Inc.",
@@ -888,13 +728,13 @@
       ]
     },
     {
-      "rank": 56,
-      "id": "6447543971",
-      "name": "Cool Themes & Fonts: Cute Text",
-      "developer": "Kika Tech (HK) Holdings Co., Limited",
-      "url": "https://apps.apple.com/nl/app/cool-themes-fonts-cute-text/id6447543971?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/b4/e2/90b4e267-4454-72bd-2e2e-317b8aaad321/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-05-18",
+      "rank": 46,
+      "id": "1348676585",
+      "name": "Wallcraft – Wallpapers live 4K",
+      "developer": "VOLKRAFT",
+      "url": "https://apps.apple.com/nl/app/wallcraft-wallpapers-live-4k/id1348676585?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/5c/5e/d95c5ed1-c805-e154-3e7f-fbf7895b897d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-03-15",
       "genres": [
         {
           "id": "6027",
@@ -904,13 +744,13 @@
       ]
     },
     {
-      "rank": 57,
-      "id": "1662773014",
-      "name": "Leonardo.Ai - Image Generator",
-      "developer": "Leonardo Interactive Pty Ltd",
-      "url": "https://apps.apple.com/nl/app/leonardo-ai-image-generator/id1662773014?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/04/ec/f604ec21-5b95-4008-0cc0-19b4359c2d98/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-08-03",
+      "rank": 47,
+      "id": "1456386228",
+      "name": "Clockology Watch Faces",
+      "developer": "Clockology, LLC",
+      "url": "https://apps.apple.com/nl/app/clockology-watch-faces/id1456386228?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/7d/20/967d2019-0f67-35c6-ff7e-67396c71550c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-06-14",
       "genres": [
         {
           "id": "6027",
@@ -920,7 +760,7 @@
       ]
     },
     {
-      "rank": 58,
+      "rank": 48,
       "id": "6740632532",
       "name": "AI-videogenerator: Video-AI",
       "developer": "CreativAI s.r.l.",
@@ -936,13 +776,13 @@
       ]
     },
     {
-      "rank": 59,
-      "id": "6443832829",
-      "name": "Lisa AI: AI Art Generator",
-      "developer": "Convert Software",
-      "url": "https://apps.apple.com/nl/app/lisa-ai-ai-art-generator/id6443832829?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/3f/53/ba3f537b-4418-3914-a63f-b4c9aaa0efe1/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-10-24",
+      "rank": 49,
+      "id": "6745964345",
+      "name": "Interieur Inrichten: AI Design",
+      "developer": "GRIMLAX TRADE, S.L.",
+      "url": "https://apps.apple.com/nl/app/interieur-inrichten-ai-design/id6745964345?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/bc/79/7dbc79fd-4f52-5bb3-3502-2f4fcde23d02/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-20",
       "genres": [
         {
           "id": "6027",
@@ -952,13 +792,13 @@
       ]
     },
     {
-      "rank": 60,
-      "id": "6797995682",
-      "name": "Prompt voor Higgsfield AI: HFX",
-      "developer": "Adil Mukhanbetov",
-      "url": "https://apps.apple.com/nl/app/prompt-voor-higgsfield-ai-hfx/id6797995682?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/a5/2c/b6a52c29-9f7c-a7d5-f68e-a8715c4b4ecc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-02",
+      "rank": 50,
+      "id": "6761053389",
+      "name": "ColorBestie",
+      "developer": "Joost Heijden",
+      "url": "https://apps.apple.com/nl/app/colorbestie/id6761053389?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8f/cd/4b8fcd86-f627-2f68-85b3-bc7470972efb/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2026-04-15",
       "genres": [
         {
           "id": "6027",
@@ -968,13 +808,13 @@
       ]
     },
     {
-      "rank": 61,
-      "id": "6466241694",
-      "name": "Themes: achtergronden en icoon",
-      "developer": "Lutech-DN",
-      "url": "https://apps.apple.com/nl/app/themes-achtergronden-en-icoon/id6466241694?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/b8/cf/8bb8cfbf-050f-932b-a5df-9b927fafbd91/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/100x100bb.png",
-      "release_date": "2023-09-28",
+      "rank": 51,
+      "id": "1662773014",
+      "name": "Leonardo.Ai - Image Generator",
+      "developer": "Leonardo Interactive Pty Ltd",
+      "url": "https://apps.apple.com/nl/app/leonardo-ai-image-generator/id1662773014?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/04/ec/f604ec21-5b95-4008-0cc0-19b4359c2d98/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-08-03",
       "genres": [
         {
           "id": "6027",
@@ -984,151 +824,7 @@
       ]
     },
     {
-      "rank": 62,
-      "id": "956480678",
-      "name": "Coolors",
-      "developer": "Coolors srl",
-      "url": "https://apps.apple.com/nl/app/coolors/id956480678?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/63/f9/58/63f95846-6070-582a-e841-7fb9e38c2c39/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2015-01-18",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "749471884",
-      "name": "Cricut Design Space",
-      "developer": "Cricut, Inc.",
-      "url": "https://apps.apple.com/nl/app/cricut-design-space/id749471884?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/ab/49/6cab4959-0d08-9d89-0585-5bf3ba5af195/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-05-03",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "1636719674",
-      "name": "Lock Launcher - Launch Apps",
-      "developer": "6X Studio LLC",
-      "url": "https://apps.apple.com/nl/app/lock-launcher-launch-apps/id1636719674?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/3e/69/723e69e6-93d4-bbaa-6906-65fbc844b917/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-09-12",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "6803416197",
-      "name": "Drawee.",
-      "developer": "LISE KRUITHOF",
-      "url": "https://apps.apple.com/nl/app/drawee/id6803416197?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/a0/f9/82a0f9d9-f9e9-df3c-b2d8-f849d75e0967/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2026-09-01",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "6793774467",
-      "name": "DreamWeave AI:AI Art Generator",
-      "developer": "L.A.M. BB, s.r.o.",
-      "url": "https://apps.apple.com/nl/app/dreamweave-ai-ai-art-generator/id6793774467?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/30/dd/1f30ddc2-19ec-40c7-fe20-2422d212b1b4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-08-17",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "6767828999",
-      "name": "Themeo: Themes, Control Center",
-      "developer": "Lemora Technology Limited",
-      "url": "https://apps.apple.com/nl/app/themeo-themes-control-center/id6767828999?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/32/7b/f1327b4b-0b56-542c-c323-16f9dc5bae40/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-06",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6756186139",
-      "name": "Video to Live Photos",
-      "developer": "Andy Sutanto",
-      "url": "https://apps.apple.com/nl/app/video-to-live-photos/id6756186139?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3e/b6/5b3eb65c-1e4f-c6cc-5197-0d4090ef1eaa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-12-26",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "1120304868",
-      "name": "Da Vinci Eye: AR Trace & Draw",
-      "developer": "Da Vinci Eye LLC",
-      "url": "https://apps.apple.com/nl/app/da-vinci-eye-ar-trace-draw/id1120304868?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/02/48/a2024850-d4be-f369-8c57-f239cad8109a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2016-06-16",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "1599866010",
-      "name": "Eenvoudig tekenblok",
-      "developer": "Ryouhei Azuma",
-      "url": "https://apps.apple.com/nl/app/eenvoudig-tekenblok/id1599866010?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/31/b4/f431b411-1a09-1941-9a7b-d0bcb405694c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-12-14",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
+      "rank": 52,
       "id": "6748883633",
       "name": "Home Style AI: Interior Design",
       "developer": "Lumetro LLC",
@@ -1144,13 +840,13 @@
       ]
     },
     {
-      "rank": 72,
-      "id": "6471409676",
-      "name": "DecorAI - AI Interior Design",
-      "developer": "Rocket Digital",
-      "url": "https://apps.apple.com/nl/app/decorai-ai-interior-design/id6471409676?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/5a/0c/355a0c71-dc16-89c4-d9cd-0acc00d95f7a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-11-19",
+      "rank": 53,
+      "id": "6756186139",
+      "name": "Video to Live Photos",
+      "developer": "Andy Sutanto",
+      "url": "https://apps.apple.com/nl/app/video-to-live-photos/id6756186139?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3e/b6/5b3eb65c-1e4f-c6cc-5197-0d4090ef1eaa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-12-26",
       "genres": [
         {
           "id": "6027",
@@ -1160,13 +856,13 @@
       ]
     },
     {
-      "rank": 73,
-      "id": "6448308247",
-      "name": "Microsoft Designer",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/nl/app/microsoft-designer/id6448308247?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/0c/c2/ec0cc22d-ab85-ed35-a4e6-6c2d57bb938e/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-06-11",
+      "rank": 54,
+      "id": "6446314875",
+      "name": "RoomGPT : AI Interior Design",
+      "developer": "AZUR APPS FZ-LLC",
+      "url": "https://apps.apple.com/nl/app/roomgpt-ai-interior-design/id6446314875?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/ea/65/abea655c-8dd8-4c7e-9e7d-50d2cf483a75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-03-26",
       "genres": [
         {
           "id": "6027",
@@ -1176,13 +872,13 @@
       ]
     },
     {
-      "rank": 74,
-      "id": "6762754163",
-      "name": "Modyfy: AI Car Designer",
-      "developer": "Papcorns AŞ",
-      "url": "https://apps.apple.com/nl/app/modyfy-ai-car-designer/id6762754163?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/39/f0/eb39f03d-a76c-f7c0-abcd-9b97d8c10bef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-24",
+      "rank": 55,
+      "id": "6767828999",
+      "name": "Themeo: Themes, Control Center",
+      "developer": "Lemora Technology Limited",
+      "url": "https://apps.apple.com/nl/app/themeo-themes-control-center/id6767828999?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/32/7b/f1327b4b-0b56-542c-c323-16f9dc5bae40/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-06",
       "genres": [
         {
           "id": "6027",
@@ -1192,7 +888,119 @@
       ]
     },
     {
-      "rank": 75,
+      "rank": 56,
+      "id": "1538543750",
+      "name": "Aesthetic: achtergronden",
+      "developer": "Aesthetic Apps & Widgets srl",
+      "url": "https://apps.apple.com/nl/app/aesthetic-achtergronden/id1538543750?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/eb/f1/51ebf175-f02e-b26f-135d-3cffd9969afe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-16",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "6467189759",
+      "name": "Themelia: Theme & Widget",
+      "developer": "WOOHOO LIMITED",
+      "url": "https://apps.apple.com/nl/app/themelia-theme-widget/id6467189759?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/cd/af/12cdaf08-c361-ce90-32ed-9c276c6b9f8c/AppIcon_20-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-10-04",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "6499216812",
+      "name": "AI Home Design - Interium",
+      "developer": "AIBY",
+      "url": "https://apps.apple.com/nl/app/ai-home-design-interium/id6499216812?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/4e/1e/c54e1eaf-e22e-3ee6-aef5-1385bfe12295/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-01",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "6769700956",
+      "name": "ThemeArt: Widgets & App icons",
+      "developer": "Hypernova Limited",
+      "url": "https://apps.apple.com/nl/app/themeart-widgets-app-icons/id6769700956?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/42/3c/5c423cea-7d61-117f-94c6-0c0ab598691e/AppIcon-V2-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-28",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "6466241694",
+      "name": "Themes: achtergronden en icoon",
+      "developer": "Lutech-DN",
+      "url": "https://apps.apple.com/nl/app/themes-achtergronden-en-icoon/id6466241694?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/b8/cf/8bb8cfbf-050f-932b-a5df-9b927fafbd91/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/100x100bb.png",
+      "release_date": "2023-09-28",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6746807416",
+      "name": "Tattoo Design Try On - Tatship",
+      "developer": "Convinced Creations Company Limited",
+      "url": "https://apps.apple.com/nl/app/tattoo-design-try-on-tatship/id6746807416?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e5/f3/1de5f3ef-1566-d593-a760-fbb346aef892/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-06-27",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "6504559449",
+      "name": "PicTrace: AR Drawing & Sketch",
+      "developer": "AvnTech Inc.",
+      "url": "https://apps.apple.com/nl/app/pictrace-ar-drawing-sketch/id6504559449?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/a7/77/92a77795-e2e4-9072-6dfb-2da4f2611e1c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-05",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
       "id": "796352563",
       "name": "SketchUp - 3D Modeling",
       "developer": "Trimble Inc.",
@@ -1208,7 +1016,103 @@
       ]
     },
     {
-      "rank": 76,
+      "rank": 64,
+      "id": "6746871740",
+      "name": "Drawsy: AR Draw for Sketching",
+      "developer": "EIGEN SOFTWARE LIMITED",
+      "url": "https://apps.apple.com/nl/app/drawsy-ar-draw-for-sketching/id6746871740?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/be/b8/efbeb834-29d6-b24e-cd3f-2ae0d93f90fb/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-06-27",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6443832829",
+      "name": "Lisa AI: AI Art Generator",
+      "developer": "Convert Software",
+      "url": "https://apps.apple.com/nl/app/lisa-ai-ai-art-generator/id6443832829?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/3f/53/ba3f537b-4418-3914-a63f-b4c9aaa0efe1/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-24",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1636719674",
+      "name": "Lock Launcher - Launch Apps",
+      "developer": "6X Studio LLC",
+      "url": "https://apps.apple.com/nl/app/lock-launcher-launch-apps/id1636719674?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/3e/69/723e69e6-93d4-bbaa-6906-65fbc844b917/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-09-12",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6746771178",
+      "name": "Flashloop: AI Video Generator",
+      "developer": "Buy Beaver Technologies",
+      "url": "https://apps.apple.com/nl/app/flashloop-ai-video-generator/id6746771178?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/72/1b/5e721b88-da1f-e13d-89b9-b6ff19cec210/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-06-06",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "956480678",
+      "name": "Coolors",
+      "developer": "Coolors srl",
+      "url": "https://apps.apple.com/nl/app/coolors/id956480678?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/63/f9/58/63f95846-6070-582a-e841-7fb9e38c2c39/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2015-01-18",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "749471884",
+      "name": "Cricut Design Space",
+      "developer": "Cricut, Inc.",
+      "url": "https://apps.apple.com/nl/app/cricut-design-space/id749471884?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/ab/49/6cab4959-0d08-9d89-0585-5bf3ba5af195/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-05-03",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
       "id": "1580284904",
       "name": "WidgetClub:Theme, Icon changer",
       "developer": "Liume, Inc",
@@ -1224,13 +1128,109 @@
       ]
     },
     {
-      "rank": 77,
+      "rank": 71,
       "id": "6762754699",
       "name": "Refix: AI Photo & Face Editor",
       "developer": "Papcorns AŞ",
       "url": "https://apps.apple.com/nl/app/refix-ai-photo-face-editor/id6762754699?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/f2/37/3cf237ca-17b8-e1d1-7c72-49db9c2693cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "release_date": "2026-06-16",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6804839380",
+      "name": "Openart AI Beeldgenerator",
+      "developer": "Amieke Savelkoul",
+      "url": "https://apps.apple.com/nl/app/openart-ai-beeldgenerator/id6804839380?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/f6/23/a8f62330-1f5b-efe5-4df3-685dd388cd7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-08",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6762754163",
+      "name": "Modyfy: AI Car Designer",
+      "developer": "Papcorns AŞ",
+      "url": "https://apps.apple.com/nl/app/modyfy-ai-car-designer/id6762754163?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/39/f0/eb39f03d-a76c-f7c0-abcd-9b97d8c10bef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-24",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1590796710",
+      "name": "Brother Artspira",
+      "developer": "Brother Industries, LTD.",
+      "url": "https://apps.apple.com/nl/app/brother-artspira/id1590796710?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/00/97/a500974c-8afc-b27a-b0a0-de2efe594cb4/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-09-27",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "6761348824",
+      "name": "Walliz – DIY Wallpaper Collage",
+      "developer": "Hypernova Limited",
+      "url": "https://apps.apple.com/nl/app/walliz-diy-wallpaper-collage/id6761348824?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/09/5e/38095e9f-e418-b835-f594-75014657f0cf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-09",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6737960820",
+      "name": "AI Video Generator - Vidmor",
+      "developer": "APPINNOVATORS LIMITED",
+      "url": "https://apps.apple.com/nl/app/ai-video-generator-vidmor/id6737960820?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/a1/bb/caa1bbd0-3386-09dc-3b40-2b4f2c41f957/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-24",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6471409676",
+      "name": "DecorAI - AI Interior Design",
+      "developer": "Rocket Digital",
+      "url": "https://apps.apple.com/nl/app/decorai-ai-interior-design/id6471409676?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/5a/0c/355a0c71-dc16-89c4-d9cd-0acc00d95f7a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-19",
       "genres": [
         {
           "id": "6027",
@@ -1257,22 +1257,6 @@
     },
     {
       "rank": 79,
-      "id": "6746807416",
-      "name": "Tattoo Design Try On - Tatship",
-      "developer": "Convinced Creations Company Limited",
-      "url": "https://apps.apple.com/nl/app/tattoo-design-try-on-tatship/id6746807416?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e5/f3/1de5f3ef-1566-d593-a760-fbb346aef892/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-06-27",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
       "id": "6751762579",
       "name": "Lazy Lighting",
       "developer": "AUDITY APPS LLC",
@@ -1288,13 +1272,29 @@
       ]
     },
     {
+      "rank": 80,
+      "id": "6742448523",
+      "name": "Doodle Magic: Glow Art Drawing",
+      "developer": "Hai Nguyen Minh",
+      "url": "https://apps.apple.com/nl/app/doodle-magic-glow-art-drawing/id6742448523?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/59/d6/4b59d6d6-2ee8-d745-6d67-274115c6b788/AppIcon-Default-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-02-26",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 81,
-      "id": "6761040759",
-      "name": "Meshy AI - 3D Model Generator",
-      "developer": "Meshy LLC",
-      "url": "https://apps.apple.com/nl/app/meshy-ai-3d-model-generator/id6761040759?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/8d/df/7b8ddf04-432d-f118-89d0-7cc129dfca89/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-06",
+      "id": "6450824634",
+      "name": "AR Projector Tracing & Drawing",
+      "developer": "Aesthetic Apps & Widgets srl",
+      "url": "https://apps.apple.com/nl/app/ar-projector-tracing-drawing/id6450824634?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/bf/df/05bfdf24-a63f-7a10-b534-becaddb3dac5/AppIcon15-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-07-03",
       "genres": [
         {
           "id": "6027",
@@ -1305,12 +1305,12 @@
     },
     {
       "rank": 82,
-      "id": "6449718419",
-      "name": "Remodel AI - Home Room Design",
-      "developer": "Yajun Yang",
-      "url": "https://apps.apple.com/nl/app/remodel-ai-home-room-design/id6449718419?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/0d/50/170d5095-7c6e-97bd-51a3-eebd020ec886/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-14",
+      "id": "6784078931",
+      "name": "PrimeTrans",
+      "developer": "Bhagya Surani",
+      "url": "https://apps.apple.com/nl/app/primetrans/id6784078931?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a9/b4/56a9b4a6-4f5e-88f7-e4f0-4eabfe732bd3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-08-06",
       "genres": [
         {
           "id": "6027",
@@ -1321,12 +1321,12 @@
     },
     {
       "rank": 83,
-      "id": "489667151",
-      "name": "Behance- Creatieve Portfolio's",
-      "developer": "Adobe Inc.",
-      "url": "https://apps.apple.com/nl/app/behance-creatieve-portfolios/id489667151?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/80/04/6380040c-a31f-bfe9-7739-b0ded05fd821/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2011-12-21",
+      "id": "6448308247",
+      "name": "Microsoft Designer",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nl/app/microsoft-designer/id6448308247?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/0c/c2/ec0cc22d-ab85-ed35-a4e6-6c2d57bb938e/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-06-11",
       "genres": [
         {
           "id": "6027",
@@ -1337,12 +1337,12 @@
     },
     {
       "rank": 84,
-      "id": "1561048181",
-      "name": "Color Identifier",
-      "developer": "Yolleg Ltd",
-      "url": "https://apps.apple.com/nl/app/color-identifier/id1561048181?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/fc/c4/52fcc4b1-dadf-1e20-bb85-f18de8ad6ce8/AppIcon12-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-04-02",
+      "id": "1602458018",
+      "name": "ThemeKit: Widget & Icon Themes",
+      "developer": "PIXELSPARK TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/nl/app/themekit-widget-icon-themes/id1602458018?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/92/0b/00920b4c-474b-4e05-d690-786514b09796/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-04-22",
       "genres": [
         {
           "id": "6027",
@@ -1353,12 +1353,12 @@
     },
     {
       "rank": 85,
-      "id": "6793360391",
-      "name": "Instant Gen",
-      "developer": "OPTOVIEW MON. IKE",
-      "url": "https://apps.apple.com/nl/app/instant-gen/id6793360391?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/21/ff/8021ff03-4de8-0de9-ada8-c1b847720e9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-17",
+      "id": "1583923782",
+      "name": "3D modeling: Design my model",
+      "developer": "Core five, Inc.",
+      "url": "https://apps.apple.com/nl/app/3d-modeling-design-my-model/id1583923782?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/5b/de/7c5bde42-5d75-2b47-87fe-1fcfdb8d11b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-06-02",
       "genres": [
         {
           "id": "6027",
@@ -1369,12 +1369,12 @@
     },
     {
       "rank": 86,
-      "id": "1530149106",
-      "name": "Photo Widget: Theme Wallpapers",
-      "developer": "Photo Widget Inc.",
-      "url": "https://apps.apple.com/nl/app/photo-widget-theme-wallpapers/id1530149106?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/aa/78/21aa782b-dbba-2957-5e82-8e15006a996b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-09-16",
+      "id": "1101848914",
+      "name": "FlipaClip: Draw 2D Animation",
+      "developer": "Visual Blasters LLC",
+      "url": "https://apps.apple.com/nl/app/flipaclip-draw-2d-animation/id1101848914?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/67/c7/1567c700-368f-9df9-9691-d4da9f7c7dc1/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-03-04",
       "genres": [
         {
           "id": "6027",
@@ -1401,12 +1401,12 @@
     },
     {
       "rank": 88,
-      "id": "6751953488",
-      "name": "AI Foto Generator & Editor",
-      "developer": "3314396 Nova Scotia Limited",
-      "url": "https://apps.apple.com/nl/app/ai-foto-generator-editor/id6751953488?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/ca/c7/65cac72f-0b36-1a29-7e6e-87998763368c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-09-11",
+      "id": "6473154993",
+      "name": "Lexy PDF Viewer-Maker,Builder",
+      "developer": "MONSTER SHOW NETWORK TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/nl/app/lexy-pdf-viewer-maker-builder/id6473154993?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/4c/f8/2f4cf8bd-fccb-8b24-6af2-7c25d4c42c99/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-27",
       "genres": [
         {
           "id": "6027",
@@ -1417,134 +1417,6 @@
     },
     {
       "rank": 89,
-      "id": "1451457615",
-      "name": "‎iArtbook",
-      "developer": "Alexander Kondrashov",
-      "url": "https://apps.apple.com/nl/app/iartbook/id1451457615?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/39/86/a53986a7-661a-5ca7-a51a-4b66406e57b8/AppIcon-Learning-Lite-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2019-02-08",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "6798503283",
-      "name": "PawPaw AI",
-      "developer": "Marge Sliva Inc",
-      "url": "https://apps.apple.com/nl/app/pawpaw-ai/id6798503283?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/4a/e8/e94ae8fe-f713-9883-5ff8-9ce375e08c95/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-08-25",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1629319392",
-      "name": "Munbyn Print",
-      "developer": "Guangzhou Munbyn Technology Co. Limited",
-      "url": "https://apps.apple.com/nl/app/munbyn-print/id1629319392?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/b5/af/2cb5afc4-1bf5-c42d-7fde-8ec4e0e2c520/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-06-30",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "1555272047",
-      "name": "Jilster",
-      "developer": "Rebelslab B.V.",
-      "url": "https://apps.apple.com/nl/app/jilster/id1555272047?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/a7/f8/c0a7f896-a35d-8956-b376-6bdd079a98ae/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2022-02-24",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "6738237021",
-      "name": "Photo Revive: AI Fotoherstel",
-      "developer": "Hong Kong Lavish Limited",
-      "url": "https://apps.apple.com/nl/app/photo-revive-ai-fotoherstel/id6738237021?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/c7/91/22c79172-a639-3195-a485-1e62db0c2de8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-11-27",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "1590796710",
-      "name": "Brother Artspira",
-      "developer": "Brother Industries, LTD.",
-      "url": "https://apps.apple.com/nl/app/brother-artspira/id1590796710?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/00/97/a500974c-8afc-b27a-b0a0-de2efe594cb4/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-09-27",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "6746771178",
-      "name": "Flashloop: AI Video Generator",
-      "developer": "Buy Beaver Technologies",
-      "url": "https://apps.apple.com/nl/app/flashloop-ai-video-generator/id6746771178?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/72/1b/5e721b88-da1f-e13d-89b9-b6ff19cec210/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-06-06",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "6755313672",
-      "name": "Color Study: Beter schilderen",
-      "developer": "BrushLabs LLC",
-      "url": "https://apps.apple.com/nl/app/color-study-beter-schilderen/id6755313672?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/eb/ca/8febca75-4924-b865-26ad-deb1600b39ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-22",
-      "genres": [
-        {
-          "id": "6027",
-          "name": "Grafisch en ontwerp",
-          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
       "id": "6474176950",
       "name": "Decory - Interior Design AI",
       "developer": "The AI Journey Inc.",
@@ -1560,13 +1432,141 @@
       ]
     },
     {
+      "rank": 90,
+      "id": "6449718419",
+      "name": "Remodel AI - Home Room Design",
+      "developer": "Yajun Yang",
+      "url": "https://apps.apple.com/nl/app/remodel-ai-home-room-design/id6449718419?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/f7/53/bdf753a1-c093-7246-f15c-3fb3a2552a15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-14",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6755313672",
+      "name": "Color Study: Beter schilderen",
+      "developer": "BrushLabs LLC",
+      "url": "https://apps.apple.com/nl/app/color-study-beter-schilderen/id6755313672?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/eb/ca/8febca75-4924-b865-26ad-deb1600b39ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-22",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "6502337796",
+      "name": "Reskin: Widgets, Icons, Themes",
+      "developer": "NEOTRINITI OSOO",
+      "url": "https://apps.apple.com/nl/app/reskin-widgets-icons-themes/id6502337796?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d5/23/71d52367-0da0-ecde-6830-7e294545da4e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-06-03",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1533330948",
+      "name": "Aesthetic Kit: Live Wallpapers",
+      "developer": "CELESTIAN GOLDEN APPS",
+      "url": "https://apps.apple.com/nl/app/aesthetic-kit-live-wallpapers/id1533330948?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c9/0a/3bc90a49-3b60-94d3-7a23-b47385236e78/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2020-09-26",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "1599866010",
+      "name": "Eenvoudig tekenblok",
+      "developer": "Ryouhei Azuma",
+      "url": "https://apps.apple.com/nl/app/eenvoudig-tekenblok/id1599866010?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/31/b4/f431b411-1a09-1941-9a7b-d0bcb405694c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-12-14",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "6761040759",
+      "name": "Meshy AI - 3D Model Generator",
+      "developer": "Meshy LLC",
+      "url": "https://apps.apple.com/nl/app/meshy-ai-3d-model-generator/id6761040759?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/8d/df/7b8ddf04-432d-f118-89d0-7cc129dfca89/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-06",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6741758780",
+      "name": "InkArty: Tattoo AI Generator",
+      "developer": "OOK GROUP SRL",
+      "url": "https://apps.apple.com/nl/app/inkarty-tattoo-ai-generator/id6741758780?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/36/95/a7369536-0d11-8918-e814-3aee3072b13d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-08-03",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "1329922018",
+      "name": "Uitnodiging Maken Verjaardag",
+      "developer": "Greetings Island",
+      "url": "https://apps.apple.com/nl/app/uitnodiging-maken-verjaardag/id1329922018?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/a1/b5/7fa1b522-f3e5-ee73-b761-c86736fd0c40/GoldIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-06-03",
+      "genres": [
+        {
+          "id": "6027",
+          "name": "Grafisch en ontwerp",
+          "url": "https://apps.apple.com/nl/genre/ios-grafisch-en-ontwerp/id6027?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 98,
-      "id": "6759669224",
-      "name": "Movira: AI Video & Photo Maker",
-      "developer": "Modernist LTD",
-      "url": "https://apps.apple.com/nl/app/movira-ai-video-photo-maker/id6759669224?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/84/bb/5084bbd1-6c8a-1802-ccd9-f3c2744655c3/MoviraAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-03-07",
+      "id": "6741079325",
+      "name": "Glassify - Widgets & Themes",
+      "developer": "Mahmoud Zadah",
+      "url": "https://apps.apple.com/nl/app/glassify-widgets-themes/id6741079325?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/0b/c5/a90bc563-b3f3-227e-37ae-3fb4650ece87/GlassifyIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-06",
       "genres": [
         {
           "id": "6027",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "1641085395",
-      "name": "Color Identifier: Kleurscanner",
-      "developer": "Irina Metelkina",
-      "url": "https://apps.apple.com/nl/app/color-identifier-kleurscanner/id1641085395?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4d/bd/aa4dbdb7-0193-3587-b554-a0f5ec90c274/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-31",
+      "id": "6450619018",
+      "name": "AR Drawing Sketch: art tekenen",
+      "developer": "Ketanbhai Khokhani",
+      "url": "https://apps.apple.com/nl/app/ar-drawing-sketch-art-tekenen/id6450619018?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/4b/4d/564b4d1e-f4b7-6d1e-5621-31d44dccbe40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-25",
       "genres": [
         {
           "id": "6027",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "491076730",
-      "name": "Mematic - The Meme Maker",
-      "developer": "Trilliarden Entertainment GmbH",
-      "url": "https://apps.apple.com/nl/app/mematic-the-meme-maker/id491076730?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/e7/76/98e776fa-2491-0f12-094e-7b82a635fa6c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2012-02-17",
+      "id": "1120304868",
+      "name": "Da Vinci Eye: AR Trace & Draw",
+      "developer": "Da Vinci Eye LLC",
+      "url": "https://apps.apple.com/nl/app/da-vinci-eye-ar-trace-draw/id1120304868?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b5/5a/d8b55a53-a3e1-388d-9191-3243e76d4be1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-16",
       "genres": [
         {
           "id": "6027",

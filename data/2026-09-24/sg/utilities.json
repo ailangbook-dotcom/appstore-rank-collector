@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:12:45.447136+09:00",
+  "collected_at": "2026-09-24T20:36:14.724922+09:00",
   "date": "2026-09-24",
   "country": "sg",
   "chart": "top-free",
@@ -9,22 +9,6 @@
   "apps": [
     {
       "rank": 1,
-      "id": "284815942",
-      "name": "Google - More ways to search",
-      "developer": "Google",
-      "url": "https://apps.apple.com/sg/app/google-more-ways-to-search/id284815942?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/90/c6/9190c6b7-80b4-0451-ac46-43f3429b7ff5/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "id": "1437005085",
       "name": "Proton VPN: Fast & Secure",
       "developer": "Proton AG",
@@ -40,13 +24,29 @@
       ]
     },
     {
-      "rank": 3,
-      "id": "535886823",
-      "name": "Google Chrome",
+      "rank": 2,
+      "id": "284815942",
+      "name": "Google - More ways to search",
       "developer": "Google",
-      "url": "https://apps.apple.com/sg/app/google-chrome/id535886823?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/1f/c9/de1fc9f1-2ce1-2c7c-e89c-8e033feefb6f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-06-28",
+      "url": "https://apps.apple.com/sg/app/google-more-ways-to-search/id284815942?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/90/c6/9190c6b7-80b4-0451-ac46-43f3429b7ff5/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "1497144087",
+      "name": "ScamShield",
+      "developer": "Government Technology Agency",
+      "url": "https://apps.apple.com/sg/app/scamshield/id1497144087?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/5d/b7/a65db71a-9ba1-efea-9e33-dbcf5f144038/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-09",
       "genres": [
         {
           "id": "6002",
@@ -57,12 +57,12 @@
     },
     {
       "rank": 4,
-      "id": "1288723196",
-      "name": "Microsoft Edge",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/sg/app/microsoft-edge/id1288723196?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/08/a5/3808a55e-0441-0d74-4172-8118e7a275ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2018-01-10",
+      "id": "535886823",
+      "name": "Google Chrome",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-chrome/id535886823?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/1f/c9/de1fc9f1-2ce1-2c7c-e89c-8e033feefb6f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-06-28",
       "genres": [
         {
           "id": "6002",
@@ -89,12 +89,12 @@
     },
     {
       "rank": 6,
-      "id": "1497144087",
-      "name": "ScamShield",
-      "developer": "Government Technology Agency",
-      "url": "https://apps.apple.com/sg/app/scamshield/id1497144087?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/5d/b7/a65db71a-9ba1-efea-9e33-dbcf5f144038/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-09",
+      "id": "1288723196",
+      "name": "Microsoft Edge",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/sg/app/microsoft-edge/id1288723196?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/08/a5/3808a55e-0441-0d74-4172-8118e7a275ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2018-01-10",
       "genres": [
         {
           "id": "6002",
@@ -137,22 +137,6 @@
     },
     {
       "rank": 9,
-      "id": "6747706584",
-      "name": "GOMO by Singtel",
-      "developer": "Singtel Idea Factory Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/gomo-by-singtel/id6747706584?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/3f/38/843f38f5-c98d-d215-fb9f-ced613437846/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-07-31",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "id": "1054859191",
       "name": "My Singtel app",
       "developer": "Singtel Idea Factory Pte Ltd",
@@ -168,7 +152,7 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "6737943815",
       "name": "eight Telecom",
       "developer": "Eight Telecom PTE. LTD.",
@@ -184,12 +168,28 @@
       ]
     },
     {
+      "rank": 11,
+      "id": "6747706584",
+      "name": "GOMO by Singtel",
+      "developer": "Singtel Idea Factory Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/gomo-by-singtel/id6747706584?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/3f/38/843f38f5-c98d-d215-fb9f-ced613437846/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-07-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 12,
       "id": "596749130",
       "name": "SP: Utilities & EV Charging",
       "developer": "Singapore Power Ltd",
       "url": "https://apps.apple.com/sg/app/sp-utilities-ev-charging/id596749130?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/67/77/fa677763-759c-bbf3-c075-819f8ed1f7a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/0e/92/990e92c1-3154-9e9d-121a-a722311a19a6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "release_date": "2013-01-31",
       "genres": [
         {
@@ -233,86 +233,6 @@
     },
     {
       "rank": 15,
-      "id": "1562245449",
-      "name": "Maxx - Data to the Maxx!",
-      "developer": "M1 Limited",
-      "url": "https://apps.apple.com/sg/app/maxx-data-to-the-maxx/id1562245449?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/65/7a/70657a75-dcce-9c82-c587-ec0555e9e093/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2021-08-05",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
-      "id": "6753194323",
-      "name": "Singtel hi!",
-      "developer": "Singtel Idea Factory Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/singtel-hi/id6753194323?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/69/73/fb697326-da18-fb56-b5eb-9e08b699f28a/AppIcon-2-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-10-29",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "id": "470460379",
-      "name": "StarHub App",
-      "developer": "StarHub Ltd",
-      "url": "https://apps.apple.com/sg/app/starhub-app/id470460379?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/71/57/cf71577c-0761-f8fd-c3da-ff935d087f76/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-10-27",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "id": "1034712778",
-      "name": "Singtel Prepaid hi!App",
-      "developer": "Singtel Idea Factory Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/singtel-prepaid-hi-app/id1034712778?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/50/bc/8050bc19-a82d-4192-5b78-a4b092ba08dc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2015-09-09",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "905953485",
-      "name": "NordVPN: VPN Fast & Secure",
-      "developer": "Nordvpn S.A.",
-      "url": "https://apps.apple.com/sg/app/nordvpn-vpn-fast-secure/id905953485?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/6f/7a/a46f7ace-9158-4524-bf10-35c60d704f41/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-12-08",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
       "id": "1423538627",
       "name": "1.1.1.1: Faster Internet",
       "developer": "Cloudflare",
@@ -328,7 +248,71 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 16,
+      "id": "1562245449",
+      "name": "Maxx - Data to the Maxx!",
+      "developer": "M1 Limited",
+      "url": "https://apps.apple.com/sg/app/maxx-data-to-the-maxx/id1562245449?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/65/7a/70657a75-dcce-9c82-c587-ec0555e9e093/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "6753194323",
+      "name": "Singtel hi!",
+      "developer": "Singtel Idea Factory Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/singtel-hi/id6753194323?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/69/73/fb697326-da18-fb56-b5eb-9e08b699f28a/AppIcon-2-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "905953485",
+      "name": "NordVPN: VPN Fast & Secure",
+      "developer": "Nordvpn S.A.",
+      "url": "https://apps.apple.com/sg/app/nordvpn-vpn-fast-secure/id905953485?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/6f/7a/a46f7ace-9158-4524-bf10-35c60d704f41/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-12-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "470460379",
+      "name": "StarHub App",
+      "developer": "StarHub Ltd",
+      "url": "https://apps.apple.com/sg/app/starhub-app/id470460379?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/71/57/cf71577c-0761-f8fd-c3da-ff935d087f76/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
       "id": "1601562987",
       "name": "TP-Link Aginet",
       "developer": "TP-Link Systems Inc.",
@@ -344,7 +328,7 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "1034649547",
       "name": "Tuya: Smart Life, Smart Living",
       "developer": "Tuya Smart Inc.",
@@ -360,55 +344,7 @@
       ]
     },
     {
-      "rank": 23,
-      "id": "448142450",
-      "name": "Truecaller: Premium Caller ID",
-      "developer": "True Software Scandinavia AB",
-      "url": "https://apps.apple.com/sg/app/truecaller-premium-caller-id/id448142450?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/39/cb/a739cbee-acbb-1f19-e86b-0a67e07fb457/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2011-07-11",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "id": "1052879175",
-      "name": "Brave Browser & Private Web",
-      "developer": "Brave Software",
-      "url": "https://apps.apple.com/sg/app/brave-browser-private-web/id1052879175?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/01/d1/a001d104-a525-41a3-3ef6-12e14dd78a3c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-02-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "id": "1626054541",
-      "name": "ZYM Mobile",
-      "developer": "Handphoneshop Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/zym-mobile/id1626054541?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/47/e0/b147e01b-6922-47a7-c993-2b2f1399d94b/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-06-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
+      "rank": 22,
       "id": "1435289143",
       "name": "MyDigital ID",
       "developer": "MIMOS Berhad",
@@ -424,7 +360,55 @@
       ]
     },
     {
-      "rank": 27,
+      "rank": 23,
+      "id": "1034712778",
+      "name": "Singtel Prepaid hi!App",
+      "developer": "Singtel Idea Factory Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/singtel-prepaid-hi-app/id1034712778?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/50/bc/8050bc19-a82d-4192-5b78-a4b092ba08dc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2015-09-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "448142450",
+      "name": "Truecaller: Premium Caller ID",
+      "developer": "True Software Scandinavia AB",
+      "url": "https://apps.apple.com/sg/app/truecaller-premium-caller-id/id448142450?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/39/cb/a739cbee-acbb-1f19-e86b-0a67e07fb457/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2011-07-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "1052879175",
+      "name": "Brave Browser & Private Web",
+      "developer": "Brave Software",
+      "url": "https://apps.apple.com/sg/app/brave-browser-private-web/id1052879175?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/01/d1/a001d104-a525-41a3-3ef6-12e14dd78a3c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-02-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
       "id": "1510944943",
       "name": "Cleanup: Clean Storage Space",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
@@ -440,7 +424,7 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": "1602061522",
       "name": "Authenticator ·",
       "developer": "SMM service, s.r.o.",
@@ -456,13 +440,29 @@
       ]
     },
     {
+      "rank": 28,
+      "id": "1626054541",
+      "name": "ZYM Mobile",
+      "developer": "Handphoneshop Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/zym-mobile/id1626054541?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/47/e0/b147e01b-6922-47a7-c993-2b2f1399d94b/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-06-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 29,
-      "id": "6444912481",
-      "name": "UK ETA",
-      "developer": "Home Office",
-      "url": "https://apps.apple.com/sg/app/uk-eta/id6444912481?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f1/79/dff179a7-c0c3-7e49-b9e0-65c87a6fd9f8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-10-23",
+      "id": "6800211040",
+      "name": "CarTV - M3U IPTV Player & Cast",
+      "developer": "Lyntra Technology Ltd",
+      "url": "https://apps.apple.com/sg/app/cartv-m3u-iptv-player-cast/id6800211040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/db/ae/0adbae72-9161-59bf-79d6-6bdb7728fe78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-16",
       "genres": [
         {
           "id": "6002",
@@ -473,12 +473,12 @@
     },
     {
       "rank": 30,
-      "id": "6757810434",
-      "name": "ValBuddy",
-      "developer": "Patrick Bender",
-      "url": "https://apps.apple.com/sg/app/valbuddy/id6757810434?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/2d/fc/b82dfcc1-f0b4-8c83-f667-dced5e8a500e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-16",
+      "id": "6444912481",
+      "name": "UK ETA",
+      "developer": "Home Office",
+      "url": "https://apps.apple.com/sg/app/uk-eta/id6444912481?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f1/79/dff179a7-c0c3-7e49-b9e0-65c87a6fd9f8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-10-23",
       "genres": [
         {
           "id": "6002",
@@ -505,22 +505,6 @@
     },
     {
       "rank": 32,
-      "id": "1168502924",
-      "name": "Sony | Sound Connect",
-      "developer": "Sony Corporation",
-      "url": "https://apps.apple.com/sg/app/sony-sound-connect/id1168502924?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/aa/ed/2eaaeda4-1c7a-0501-ed68-874a7ae58f5e/AppIcon-0-0-1x_U007emarketing-0-3-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "release_date": "2017-02-28",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
       "id": "1098549780",
       "name": "EasyShare - device switch tool",
       "developer": "维沃移动通信有限公司",
@@ -536,13 +520,29 @@
       ]
     },
     {
+      "rank": 33,
+      "id": "1168502924",
+      "name": "Sony | Sound Connect",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/sg/app/sony-sound-connect/id1168502924?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/aa/ed/2eaaeda4-1c7a-0501-ed68-874a7ae58f5e/AppIcon-0-0-1x_U007emarketing-0-3-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 34,
-      "id": "1661733229",
-      "name": "LocalSend",
-      "developer": "Tien Do Nam",
-      "url": "https://apps.apple.com/sg/app/localsend/id1661733229?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/88/39/ef88398c-00e7-8733-37bb-4aacb1f9043d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-30",
+      "id": "1438209282",
+      "name": "SENOKO ENERGY",
+      "developer": "SENOKO ENERGY SUPPLY PTE LTD",
+      "url": "https://apps.apple.com/sg/app/senoko-energy/id1438209282?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/c8/aa/fcc8aa53-0cb4-8499-021f-61beb0d2ce98/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2018-10-19",
       "genres": [
         {
           "id": "6002",
@@ -569,12 +569,12 @@
     },
     {
       "rank": 36,
-      "id": "1048518592",
-      "name": "UC Browser",
-      "developer": "UCWEB SINGAPORE PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/uc-browser/id1048518592?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/d1/e4/6cd1e4be-8cb6-70f4-f503-c2921b184df8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2015-11-23",
+      "id": "6770401809",
+      "name": "Retheme: Top Widgets, Themes",
+      "developer": "Dao thi Ngoc Mai",
+      "url": "https://apps.apple.com/sg/app/retheme-top-widgets-themes/id6770401809?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ce/03/f9ce038f-bc78-2bcf-e614-969c80174e5f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-02",
       "genres": [
         {
           "id": "6002",
@@ -585,12 +585,12 @@
     },
     {
       "rank": 37,
-      "id": "6451097052",
-      "name": "JumpJumpVPN: Fast & Secure",
-      "developer": "SOON BODYWERKZ AUTO PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/jumpjumpvpn-fast-secure/id6451097052?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/78/34/df78343e-6ff6-7f2d-a8db-08bafa428e57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-26",
+      "id": "1091700242",
+      "name": "Gboard – the Google Keyboard",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/gboard-the-google-keyboard/id1091700242?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/9c/fa/369cfa1c-232c-5ba0-8589-3c82e9bf6852/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2016-06-17",
       "genres": [
         {
           "id": "6002",
@@ -601,6 +601,38 @@
     },
     {
       "rank": 38,
+      "id": "1661733229",
+      "name": "LocalSend",
+      "developer": "Tien Do Nam",
+      "url": "https://apps.apple.com/sg/app/localsend/id1661733229?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/88/39/ef88398c-00e7-8733-37bb-4aacb1f9043d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6752317272",
+      "name": "SystemBatteryAnalysis",
+      "developer": "Zhangsan Software Co., Ltd., Enshi Prefecture, Hubei Province",
+      "url": "https://apps.apple.com/sg/app/systembatteryanalysis/id6752317272?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/7e/3b/5c7e3ba2-61fd-de7a-05b4-9d0538531b9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-09-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
       "id": "599496594",
       "name": "TP-Link Tether",
       "developer": "TP-Link Systems Inc.",
@@ -616,45 +648,13 @@
       ]
     },
     {
-      "rank": 39,
-      "id": "1575330471",
-      "name": "Free VPN - Fast & Secure Proxy",
-      "developer": "Free VPN LTD (Apps)",
-      "url": "https://apps.apple.com/sg/app/free-vpn-fast-secure-proxy/id1575330471?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/3f/e2/983fe2c2-dfec-5172-c205-eec4f8316fdf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-07-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "6800211040",
-      "name": "CarTV - M3U IPTV Player & Cast",
-      "developer": "Lyntra Technology Ltd",
-      "url": "https://apps.apple.com/sg/app/cartv-m3u-iptv-player-cast/id6800211040?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/db/ae/0adbae72-9161-59bf-79d6-6bdb7728fe78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-16",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 41,
-      "id": "6752317272",
-      "name": "SystemBatteryAnalysis",
-      "developer": "Zhangsan Software Co., Ltd., Enshi Prefecture, Hubei Province",
-      "url": "https://apps.apple.com/sg/app/systembatteryanalysis/id6752317272?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/7e/3b/5c7e3ba2-61fd-de7a-05b4-9d0538531b9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-09-18",
+      "id": "1335560926",
+      "name": "MyRepublic",
+      "developer": "MyRepublic Ltd",
+      "url": "https://apps.apple.com/sg/app/myrepublic/id1335560926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/7c/93/da7c935c-86b8-8f41-4c7e-f2572c283868/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-05-24",
       "genres": [
         {
           "id": "6002",
@@ -681,86 +681,6 @@
     },
     {
       "rank": 43,
-      "id": "6761097664",
-      "name": "PDF Reader: Edit & Sign",
-      "developer": "Quynh Trang Pham Doan",
-      "url": "https://apps.apple.com/sg/app/pdf-reader-edit-sign/id6761097664?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/f9/48/ecf948cc-4085-297b-046e-6f8d70635e51/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-03-25",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "6443871305",
-      "name": "PRISM+ Connect - Smart Home",
-      "developer": "PRISM TECH PTE LTD",
-      "url": "https://apps.apple.com/sg/app/prism-connect-smart-home/id6443871305?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/27/cd/c127cda0-b610-a3f4-f620-16196a72175a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-01-11",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "1105317682",
-      "name": "Aloha Browser – Private VPN",
-      "developer": "Aloha Mobile",
-      "url": "https://apps.apple.com/sg/app/aloha-browser-private-vpn/id1105317682?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/6c/a1/f86ca1f7-efc8-d7cf-d360-23d628c12ba0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-07-09",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "647986630",
-      "name": "SingPost Mobile",
-      "developer": "Singapore Post Limited",
-      "url": "https://apps.apple.com/sg/app/singpost-mobile/id647986630?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/2f/67/222f67ac-1462-2963-91a3-3521ab15a2e2/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "release_date": "2013-05-16",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "6443837919",
-      "name": "ICN SMARTPASS (인천공항 스마트패스)",
-      "developer": "인천국제공항공사",
-      "url": "https://apps.apple.com/sg/app/icn-smartpass-%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A8%EC%8A%A4/id6443837919?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/00/55/00005546-5181-c04c-2ccb-dd282e728648/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-07-05",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
       "id": "1457930779",
       "name": "giga! Best Telco in an App",
       "developer": "StarHub Ltd",
@@ -776,7 +696,55 @@
       ]
     },
     {
-      "rank": 49,
+      "rank": 44,
+      "id": "6451097052",
+      "name": "JumpJumpVPN: Fast & Secure",
+      "developer": "SOON BODYWERKZ AUTO PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/jumpjumpvpn-fast-secure/id6451097052?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/78/34/df78343e-6ff6-7f2d-a8db-08bafa428e57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-26",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1048518592",
+      "name": "UC Browser",
+      "developer": "UCWEB SINGAPORE PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/uc-browser/id1048518592?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/d1/e4/6cd1e4be-8cb6-70f4-f503-c2921b184df8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1575330471",
+      "name": "Free VPN - Fast & Secure Proxy",
+      "developer": "Free VPN LTD (Apps)",
+      "url": "https://apps.apple.com/sg/app/free-vpn-fast-secure-proxy/id1575330471?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/3f/e2/983fe2c2-dfec-5172-c205-eec4f8316fdf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
       "id": "6503259288",
       "name": "ShareMe: Fast File Sharing",
       "developer": "Siddharth bhadani",
@@ -792,103 +760,7 @@
       ]
     },
     {
-      "rank": 50,
-      "id": "6770318152",
-      "name": "Photo Manager App Pro",
-      "developer": "Apprepublic Yazılım Limited Şirketi",
-      "url": "https://apps.apple.com/sg/app/photo-manager-app-pro/id6770318152?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/53/59/23535953-fb65-569c-5b16-1239e90fb330/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-22",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "6770401809",
-      "name": "Retheme: Top Widgets, Themes",
-      "developer": "Dao thi Ngoc Mai",
-      "url": "https://apps.apple.com/sg/app/retheme-top-widgets-themes/id6770401809?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ce/03/f9ce038f-bc78-2bcf-e614-969c80174e5f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-02",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "6793054307",
-      "name": "Movie Box : Movies & TV Series",
-      "developer": "Rayyan Ansari",
-      "url": "https://apps.apple.com/sg/app/movie-box-movies-tv-series/id6793054307?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7b/e7/277be788-c511-c484-45a4-6cb7c635ea24/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-30",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1335560926",
-      "name": "MyRepublic",
-      "developer": "MyRepublic Ltd",
-      "url": "https://apps.apple.com/sg/app/myrepublic/id1335560926?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/7c/93/da7c935c-86b8-8f41-4c7e-f2572c283868/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-05-24",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "1091700242",
-      "name": "Gboard – the Google Keyboard",
-      "developer": "Google",
-      "url": "https://apps.apple.com/sg/app/gboard-the-google-keyboard/id1091700242?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/9c/fa/369cfa1c-232c-5ba0-8589-3c82e9bf6852/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2016-06-17",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "1056007095",
-      "name": "Circles.Life Singapore",
-      "developer": "Liberty Wireless Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/circles-life-singapore/id1056007095?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/67/bc/dd67bcf8-754d-332e-a5c1-25f11f9206d7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2015-11-15",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
+      "rank": 48,
       "id": "300704847",
       "name": "Speedtest Internet & WiFi Test",
       "developer": "Ookla",
@@ -904,13 +776,13 @@
       ]
     },
     {
-      "rank": 57,
-      "id": "6756943388",
-      "name": "incy",
-      "developer": "LLC ITDEV",
-      "url": "https://apps.apple.com/sg/app/incy/id6756943388?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/88/8a/63888a12-aca0-97a8-8b0f-30ba2459730c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-27",
+      "rank": 49,
+      "id": "1056007095",
+      "name": "Circles.Life Singapore",
+      "developer": "Liberty Wireless Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/circles-life-singapore/id1056007095?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/67/bc/dd67bcf8-754d-332e-a5c1-25f11f9206d7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-15",
       "genres": [
         {
           "id": "6002",
@@ -920,13 +792,13 @@
       ]
     },
     {
-      "rank": 58,
-      "id": "1616861537",
-      "name": "PikPak - Cloud Storage & Saver",
-      "developer": "PIKCLOUD PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/pikpak-cloud-storage-saver/id1616861537?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/5e/33f15edd-eadb-76d4-5083-e0fdb7f7c692/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-06-10",
+      "rank": 50,
+      "id": "6443837919",
+      "name": "ICN SMARTPASS (인천공항 스마트패스)",
+      "developer": "인천국제공항공사",
+      "url": "https://apps.apple.com/sg/app/icn-smartpass-%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A8%EC%8A%A4/id6443837919?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/00/55/00005546-5181-c04c-2ccb-dd282e728648/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-07-05",
       "genres": [
         {
           "id": "6002",
@@ -936,23 +808,7 @@
       ]
     },
     {
-      "rank": 59,
-      "id": "1438209282",
-      "name": "SENOKO ENERGY",
-      "developer": "SENOKO ENERGY SUPPLY PTE LTD",
-      "url": "https://apps.apple.com/sg/app/senoko-energy/id1438209282?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/c8/aa/fcc8aa53-0cb4-8499-021f-61beb0d2ce98/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2018-10-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
+      "rank": 51,
       "id": "6443821311",
       "name": "MyJPJ",
       "developer": "Jabatan Pengangkutan Jalan Malaysia",
@@ -968,23 +824,7 @@
       ]
     },
     {
-      "rank": 61,
-      "id": "1443326857",
-      "name": "Sticker Maker Studio",
-      "developer": "Tamara Vardanyan",
-      "url": "https://apps.apple.com/sg/app/sticker-maker-studio/id1443326857?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/6a/6f/dc6a6f35-76cf-ce41-1acf-56b30cbcc2e3/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2018-11-24",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
+      "rank": 52,
       "id": "1252962749",
       "name": "NFC Tools",
       "developer": "wakdev",
@@ -1000,119 +840,7 @@
       ]
     },
     {
-      "rank": 63,
-      "id": "1544944177",
-      "name": "UMANG India",
-      "developer": "National e-Governance Division",
-      "url": "https://apps.apple.com/sg/app/umang-india/id1544944177?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/bf/83/69bf836b-b9b9-80ad-d9c8-38fa58824bb7/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2021-01-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "1495740008",
-      "name": "移民局12367",
-      "developer": "The First Research Institute of Ministry of Public Security",
-      "url": "https://apps.apple.com/sg/app/%E7%A7%BB%E6%B0%91%E5%B1%8012367/id1495740008?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/12/92/8c129246-7d70-ada0-7268-bb4f379ccf32/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "release_date": "2025-09-08",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "6742070311",
-      "name": "Shadowrocket-小火箭VPN安全网络加速器",
-      "developer": "Gs Speed",
-      "url": "https://apps.apple.com/sg/app/shadowrocket-%E5%B0%8F%E7%81%AB%E7%AE%ADvpn%E5%AE%89%E5%85%A8%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E5%99%A8/id6742070311?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/8d/51/298d517d-1fa1-e20d-2271-77fc26b7861f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-02-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "989804926",
-      "name": "Firefox Fast & Private Browser",
-      "developer": "Mozilla",
-      "url": "https://apps.apple.com/sg/app/firefox-fast-private-browser/id989804926?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/78/6f/ca786fee-a215-32fb-a580-4d4ccbb93e83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-11-11",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "6670790792",
-      "name": "AI Chat Bot - My Assistant",
-      "developer": "Appenvision Ltd",
-      "url": "https://apps.apple.com/sg/app/ai-chat-bot-my-assistant/id6670790792?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/89/9c/7c899c3a-5c3f-fa95-3cef-268c0384a096/AppIconRelease-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-10-22",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6746845735",
-      "name": "Pocket - AI Personal Assistant",
-      "developer": "Open Vision Engineering, Inc",
-      "url": "https://apps.apple.com/sg/app/pocket-ai-personal-assistant/id6746845735?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/d2/b5/e3d2b59c-2828-d9a9-88fc-f915877f026e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-08-15",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "6670190438",
-      "name": "CDG ENERGY",
-      "developer": "ComfortDelGro Corporation Limited",
-      "url": "https://apps.apple.com/sg/app/cdg-energy/id6670190438?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9e/53/f39e53b7-92ad-6e77-6443-f56f53641a40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-11-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
+      "rank": 53,
       "id": "1564419343",
       "name": "Dreamehome",
       "developer": "Dreame Innovation Technology (Suzhou) Co., Ltd.",
@@ -1128,13 +856,285 @@
       ]
     },
     {
-      "rank": 71,
+      "rank": 54,
+      "id": "6770318152",
+      "name": "Photo Manager App Pro",
+      "developer": "Apprepublic Yazılım Limited Şirketi",
+      "url": "https://apps.apple.com/sg/app/photo-manager-app-pro/id6770318152?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/53/59/23535953-fb65-569c-5b16-1239e90fb330/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "1443326857",
+      "name": "Sticker Maker Studio",
+      "developer": "Tamara Vardanyan",
+      "url": "https://apps.apple.com/sg/app/sticker-maker-studio/id1443326857?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/6a/6f/dc6a6f35-76cf-ce41-1acf-56b30cbcc2e3/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2018-11-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "989804926",
+      "name": "Firefox Fast & Private Browser",
+      "developer": "Mozilla",
+      "url": "https://apps.apple.com/sg/app/firefox-fast-private-browser/id989804926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/78/6f/ca786fee-a215-32fb-a580-4d4ccbb93e83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-11-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "6757810434",
+      "name": "ValBuddy",
+      "developer": "Patrick Bender",
+      "url": "https://apps.apple.com/sg/app/valbuddy/id6757810434?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/2d/fc/b82dfcc1-f0b4-8c83-f667-dced5e8a500e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
       "id": "1317652970",
       "name": "Connect IQ™ Store",
       "developer": "Garmin",
       "url": "https://apps.apple.com/sg/app/connect-iq-store/id1317652970?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/bc/85/8ebc856d-0e7b-7afb-32a7-cff6c4a89adb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "release_date": "2019-04-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "6761374913",
+      "name": "WorkBuddy - AI Work Agent",
+      "developer": "Tencent Technology (Shanghai) Company Limited",
+      "url": "https://apps.apple.com/sg/app/workbuddy-ai-work-agent/id6761374913?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/13/ce/5213ce27-2b7c-d423-db5f-fc6725e9db00/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-09-21",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "1492400299",
+      "name": "BYD AUTO",
+      "developer": "BYD Auto Industry Company Limited",
+      "url": "https://apps.apple.com/sg/app/byd-auto/id1492400299?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/f9/87/26f987c8-88ee-be71-35ec-eabe8458b903/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2022-08-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6482219793",
+      "name": "CelcomDigi",
+      "developer": "CelcomDigi Telecommunications Sdn Bhd",
+      "url": "https://apps.apple.com/sg/app/celcomdigi/id6482219793?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/aa/ee/ffaaee31-85a0-ed6a-6ccc-924b96a702a6/AppIcon-0-0-1x_U007emarketing-0-6-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-04-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "647986630",
+      "name": "SingPost Mobile",
+      "developer": "Singapore Post Limited",
+      "url": "https://apps.apple.com/sg/app/singpost-mobile/id647986630?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/2f/67/222f67ac-1462-2963-91a3-3521ab15a2e2/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "release_date": "2013-05-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6761097664",
+      "name": "PDF Reader: Edit & Sign",
+      "developer": "Quynh Trang Pham Doan",
+      "url": "https://apps.apple.com/sg/app/pdf-reader-edit-sign/id6761097664?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/f9/48/ecf948cc-4085-297b-046e-6f8d70635e51/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6443871305",
+      "name": "PRISM+ Connect - Smart Home",
+      "developer": "PRISM TECH PTE LTD",
+      "url": "https://apps.apple.com/sg/app/prism-connect-smart-home/id6443871305?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/27/cd/c127cda0-b610-a3f4-f620-16196a72175a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-01-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6793054307",
+      "name": "Movie Box : Movies & TV Series",
+      "developer": "Rayyan Ansari",
+      "url": "https://apps.apple.com/sg/app/movie-box-movies-tv-series/id6793054307?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7b/e7/277be788-c511-c484-45a4-6cb7c635ea24/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1544944177",
+      "name": "UMANG India",
+      "developer": "National e-Governance Division",
+      "url": "https://apps.apple.com/sg/app/umang-india/id1544944177?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/bf/83/69bf836b-b9b9-80ad-d9c8-38fa58824bb7/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2021-01-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6756943388",
+      "name": "incy",
+      "developer": "LLC ITDEV",
+      "url": "https://apps.apple.com/sg/app/incy/id6756943388?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/88/8a/63888a12-aca0-97a8-8b0f-30ba2459730c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "583700738",
+      "name": "中国移动（手机营业厅）",
+      "developer": "中移在线",
+      "url": "https://apps.apple.com/sg/app/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8-%E6%89%8B%E6%9C%BA%E8%90%A5%E4%B8%9A%E5%8E%85/id583700738?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/60/a8/4960a82a-0e58-1026-a010-1d9fd72b0823/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-12-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6785734978",
+      "name": "QRScanner App - Scan & Create",
+      "developer": "Fuzhou Nengge Technology Co.,Ltd.",
+      "url": "https://apps.apple.com/sg/app/qrscanner-app-scan-create/id6785734978?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/b6/ce/83b6ce9e-fb91-0f34-865b-dfd962f5ab74/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-07-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "6746845735",
+      "name": "Pocket - AI Personal Assistant",
+      "developer": "Open Vision Engineering, Inc",
+      "url": "https://apps.apple.com/sg/app/pocket-ai-personal-assistant/id6746845735?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/ec/b8/dcecb8a6-6c1b-4245-d83a-c4203dab17ed/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-15",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "1105317682",
+      "name": "Aloha Browser – Private VPN",
+      "developer": "Aloha Mobile",
+      "url": "https://apps.apple.com/sg/app/aloha-browser-private-vpn/id1105317682?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/6c/a1/f86ca1f7-efc8-d7cf-d360-23d628c12ba0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-07-09",
       "genres": [
         {
           "id": "6002",
@@ -1161,12 +1161,12 @@
     },
     {
       "rank": 73,
-      "id": "1571429529",
-      "name": "Samsung Smart Switch Mobile",
-      "developer": "Samsung Electronics Co., Ltd.",
-      "url": "https://apps.apple.com/sg/app/samsung-smart-switch-mobile/id1571429529?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/32/3b/7c323b30-eefb-e2ac-7d93-1b5807f4d01d/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-06-10",
+      "id": "898129576",
+      "name": "Xender: Transfer, Share Files",
+      "developer": "Xender Team",
+      "url": "https://apps.apple.com/sg/app/xender-transfer-share-files/id898129576?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/ce/64/dcce64b2-0b0c-fee6-3419-d41e249723e8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-02",
       "genres": [
         {
           "id": "6002",
@@ -1177,86 +1177,6 @@
     },
     {
       "rank": 74,
-      "id": "724596345",
-      "name": "McAfee: Stay Secure & Private",
-      "developer": "McAfee, LLC.",
-      "url": "https://apps.apple.com/sg/app/mcafee-stay-secure-private/id724596345?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/19/67/f01967ba-5eb5-ed93-97ee-a7421a37ff05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-01-08",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "1516235668",
-      "name": "Brother Mobile Connect",
-      "developer": "Brother Industries, LTD.",
-      "url": "https://apps.apple.com/sg/app/brother-mobile-connect/id1516235668?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2f/1d/8a2f1dc2-0eb7-3ae3-9d9d-44b1370069d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-31",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "583700738",
-      "name": "中国移动（手机营业厅）",
-      "developer": "中移在线",
-      "url": "https://apps.apple.com/sg/app/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8-%E6%89%8B%E6%9C%BA%E8%90%A5%E4%B8%9A%E5%8E%85/id583700738?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/60/a8/4960a82a-0e58-1026-a010-1d9fd72b0823/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-12-20",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "6748783592",
-      "name": "JP PASS",
-      "developer": "Jurong Port Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/jp-pass/id6748783592?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4d/72/cd4d721e-f414-a4ad-7ba5-39895157138a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-10-15",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "1499891460",
-      "name": "UK Immigration: ID Check",
-      "developer": "Home Office",
-      "url": "https://apps.apple.com/sg/app/uk-immigration-id-check/id1499891460?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a4/fd/59a4fd4f-a321-de50-58b5-4eb430c645fc/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-09-30",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
       "id": "382201985",
       "name": "百度-AI智能搜索",
       "developer": "Beijing Baidu Netcom Science & Technology Co.,Ltd",
@@ -1272,13 +1192,93 @@
       ]
     },
     {
+      "rank": 75,
+      "id": "1160172628",
+      "name": "夸克-AI搜索升级",
+      "developer": "广州市动悦信息技术有限公司",
+      "url": "https://apps.apple.com/sg/app/%E5%A4%B8%E5%85%8B-ai%E6%90%9C%E7%B4%A2%E5%8D%87%E7%BA%A7/id1160172628?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/a5/d8/8ca5d8ba-2c2a-9126-4586-3ace8b2e8131/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-10-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1616861537",
+      "name": "PikPak - Cloud Storage & Saver",
+      "developer": "PIKCLOUD PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/pikpak-cloud-storage-saver/id1616861537?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/5e/33f15edd-eadb-76d4-5083-e0fdb7f7c692/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-06-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6446200267",
+      "name": "Calculator Lock - Secure Vault",
+      "developer": "ZipoApps",
+      "url": "https://apps.apple.com/sg/app/calculator-lock-secure-vault/id6446200267?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/59/cf/4959cfbd-610e-ce3a-6027-7e07a15bb05e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-05-02",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "6670790792",
+      "name": "AI Chat Bot - My Assistant",
+      "developer": "Appenvision Ltd",
+      "url": "https://apps.apple.com/sg/app/ai-chat-bot-my-assistant/id6670790792?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/89/9c/7c899c3a-5c3f-fa95-3cef-268c0384a096/AppIconRelease-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-10-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "1495740008",
+      "name": "移民局12367",
+      "developer": "The First Research Institute of Ministry of Public Security",
+      "url": "https://apps.apple.com/sg/app/%E7%A7%BB%E6%B0%91%E5%B1%8012367/id1495740008?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/12/92/8c129246-7d70-ada0-7268-bb4f379ccf32/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-09-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 80,
-      "id": "1492400299",
-      "name": "BYD AUTO",
-      "developer": "BYD Auto Industry Company Limited",
-      "url": "https://apps.apple.com/sg/app/byd-auto/id1492400299?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/f9/87/26f987c8-88ee-be71-35ec-eabe8458b903/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-29",
+      "id": "1470499037",
+      "name": "Tailscale",
+      "developer": "Tailscale Inc.",
+      "url": "https://apps.apple.com/sg/app/tailscale/id1470499037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/55/91/89559131-ac8a-ec9c-a989-f3ed188b3f5a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-10-24",
       "genres": [
         {
           "id": "6002",
@@ -1305,12 +1305,12 @@
     },
     {
       "rank": 82,
-      "id": "6760708122",
-      "name": "Document PDF Scanner.",
-      "developer": "Majin FX",
-      "url": "https://apps.apple.com/sg/app/document-pdf-scanner/id6760708122?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/34/73/443473cc-9893-07e1-cf27-639f0a23f8f1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-03-26",
+      "id": "1635954563",
+      "name": "ATOM Store, Myanmar",
+      "developer": "Investcom Pte. Ltd.",
+      "url": "https://apps.apple.com/sg/app/atom-store-myanmar/id1635954563?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/31/d1/dc31d18f-535d-4cee-296d-10e16e58af6a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-08-12",
       "genres": [
         {
           "id": "6002",
@@ -1321,12 +1321,12 @@
     },
     {
       "rank": 83,
-      "id": "1670570711",
-      "name": "Yale Home",
-      "developer": "Assa Abloy Ltd",
-      "url": "https://apps.apple.com/sg/app/yale-home/id1670570711?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/60/fb/8b60fbe6-ee67-8d2d-37d4-f26106049198/YaleAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-05-16",
+      "id": "724596345",
+      "name": "McAfee: Stay Secure & Private",
+      "developer": "McAfee, LLC.",
+      "url": "https://apps.apple.com/sg/app/mcafee-stay-secure-private/id724596345?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/19/67/f01967ba-5eb5-ed93-97ee-a7421a37ff05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-01-08",
       "genres": [
         {
           "id": "6002",
@@ -1337,12 +1337,12 @@
     },
     {
       "rank": 84,
-      "id": "898129576",
-      "name": "Xender: Transfer, Share Files",
-      "developer": "Xender Team",
-      "url": "https://apps.apple.com/sg/app/xender-transfer-share-files/id898129576?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/ce/64/dcce64b2-0b0c-fee6-3419-d41e249723e8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-08-02",
+      "id": "1592980686",
+      "name": "foodpanda rider",
+      "developer": "Foodpanda",
+      "url": "https://apps.apple.com/sg/app/foodpanda-rider/id1592980686?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/63/bd/0963bdd5-c90c-54bf-f8e3-88a7fc6350b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-14",
       "genres": [
         {
           "id": "6002",
@@ -1353,12 +1353,12 @@
     },
     {
       "rank": 85,
-      "id": "6761374913",
-      "name": "WorkBuddy - AI Work Agent",
-      "developer": "Tencent Technology (Shanghai) Company Limited",
-      "url": "https://apps.apple.com/sg/app/workbuddy-ai-work-agent/id6761374913?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/13/ce/5213ce27-2b7c-d423-db5f-fc6725e9db00/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-09-21",
+      "id": "1411869974",
+      "name": "Opera Browser with VPN",
+      "developer": "Opera Norway AS",
+      "url": "https://apps.apple.com/sg/app/opera-browser-with-vpn/id1411869974?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/40/47/e84047c3-6196-ece8-23b9-72a7483946ef/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-01",
       "genres": [
         {
           "id": "6002",
@@ -1385,12 +1385,12 @@
     },
     {
       "rank": 87,
-      "id": "1539090879",
-      "name": "TV Remote - Universal Control",
-      "developer": "EVOLLY.APP",
-      "url": "https://apps.apple.com/sg/app/tv-remote-universal-control/id1539090879?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b6/2a/ebb62a10-8f54-3171-e009-8568a6bc1ea5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-19",
+      "id": "1516235668",
+      "name": "Brother Mobile Connect",
+      "developer": "Brother Industries, LTD.",
+      "url": "https://apps.apple.com/sg/app/brother-mobile-connect/id1516235668?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2f/1d/8a2f1dc2-0eb7-3ae3-9d9d-44b1370069d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-31",
       "genres": [
         {
           "id": "6002",
@@ -1401,12 +1401,12 @@
     },
     {
       "rank": 88,
-      "id": "1411869974",
-      "name": "Opera Browser with VPN",
-      "developer": "Opera Norway AS",
-      "url": "https://apps.apple.com/sg/app/opera-browser-with-vpn/id1411869974?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/40/47/e84047c3-6196-ece8-23b9-72a7483946ef/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-01",
+      "id": "1499891460",
+      "name": "UK Immigration: ID Check",
+      "developer": "Home Office",
+      "url": "https://apps.apple.com/sg/app/uk-immigration-id-check/id1499891460?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a4/fd/59a4fd4f-a321-de50-58b5-4eb430c645fc/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-09-30",
       "genres": [
         {
           "id": "6002",
@@ -1417,12 +1417,12 @@
     },
     {
       "rank": 89,
-      "id": "6786142725",
-      "name": "Cinch Tech",
-      "developer": "Cinch SG Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/cinch-tech/id6786142725?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/4c/66/734c669b-9285-dc43-aaa7-daeec4932d15/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-07",
+      "id": "1150085200",
+      "name": "Google Family Link",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-family-link/id1150085200?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/03/95/d9039544-5477-3907-da14-74196066c62b/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-23",
       "genres": [
         {
           "id": "6002",
@@ -1433,102 +1433,6 @@
     },
     {
       "rank": 90,
-      "id": "1625671285",
-      "name": "Bambu Handy",
-      "developer": "上海轮廓科技有限公司",
-      "url": "https://apps.apple.com/sg/app/bambu-handy/id1625671285?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/35/0b/a6350b4c-a750-8101-1bb9-31e225bde96f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-07-14",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1641291989",
-      "name": "Amerigo Music - Offline Music",
-      "developer": "Offline Music Limited",
-      "url": "https://apps.apple.com/sg/app/amerigo-music-offline-music/id1641291989?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7c/83/5f7c833f-7604-6732-3680-18e582a50eaa/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-09-27",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "1514073011",
-      "name": "QuickFox-留学生必备",
-      "developer": "Fuzhou Zixun Network Technology Co., Ltd",
-      "url": "https://apps.apple.com/sg/app/quickfox-%E7%95%99%E5%AD%A6%E7%94%9F%E5%BF%85%E5%A4%87/id1514073011?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/69/69/8c696903-9d75-0e3b-7817-06d049eaabf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-07-30",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "6751813503",
-      "name": "PDF Reader: Scanner & OCR Scan",
-      "developer": "SUPERNOVA MEDIA JOINT STOCK COMPANY",
-      "url": "https://apps.apple.com/sg/app/pdf-reader-scanner-ocr-scan/id6751813503?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/cc/52/4bcc52be-7e34-d888-8f41-4f201ec7f7af/AppIcon-Default-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-09-03",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "1517762240",
-      "name": "SF INTERNATIONAL",
-      "developer": "顺丰",
-      "url": "https://apps.apple.com/sg/app/sf-international/id1517762240?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/4a/f3/514af3b5-2e09-5cb0-1715-b1341f7f0d4e/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-06-18",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "1635954563",
-      "name": "ATOM Store, Myanmar",
-      "developer": "Investcom Pte. Ltd.",
-      "url": "https://apps.apple.com/sg/app/atom-store-myanmar/id1635954563?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/31/d1/dc31d18f-535d-4cee-296d-10e16e58af6a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-08-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilities",
-          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
       "id": "1200318119",
       "name": "QR Code Reader .",
       "developer": "App Lock LLC",
@@ -1544,13 +1448,109 @@
       ]
     },
     {
+      "rank": 91,
+      "id": "6795529595",
+      "name": "VPN Unlimited・Proxy Master App",
+      "developer": "Phone Cleaner Tools",
+      "url": "https://apps.apple.com/sg/app/vpn-unlimited-proxy-master-app/id6795529595?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/86/6b/de866b12-8792-7659-6f7e-38e76d3c036e/AppIcon3-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "6751813503",
+      "name": "PDF Reader: Scanner & OCR Scan",
+      "developer": "SUPERNOVA MEDIA JOINT STOCK COMPANY",
+      "url": "https://apps.apple.com/sg/app/pdf-reader-scanner-ocr-scan/id6751813503?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/cc/52/4bcc52be-7e34-d888-8f41-4f201ec7f7af/AppIcon-Default-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1641291989",
+      "name": "Amerigo Music - Offline Music",
+      "developer": "Offline Music Limited",
+      "url": "https://apps.apple.com/sg/app/amerigo-music-offline-music/id1641291989?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7c/83/5f7c833f-7604-6732-3680-18e582a50eaa/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-09-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "576309271",
+      "name": "Zapya - File Sharing",
+      "developer": "DewMobile, Inc",
+      "url": "https://apps.apple.com/sg/app/zapya-file-sharing/id576309271?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/48/d4/e548d4e6-4a74-0693-ddad-ae2adb1cc6ed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1571429529",
+      "name": "Samsung Smart Switch Mobile",
+      "developer": "Samsung Electronics Co., Ltd.",
+      "url": "https://apps.apple.com/sg/app/samsung-smart-switch-mobile/id1571429529?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/32/3b/7c323b30-eefb-e2ac-7d93-1b5807f4d01d/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6501954960",
+      "name": "QR Code Scanner — Easy, Secure",
+      "developer": "FLOOMIX LTD",
+      "url": "https://apps.apple.com/sg/app/qr-code-scanner-easy-secure/id6501954960?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/22/df/e122df19-8e57-69e2-721b-347545015fd2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2024-05-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilities",
+          "url": "https://apps.apple.com/sg/genre/ios-utilities/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 97,
-      "id": "1470499037",
-      "name": "Tailscale",
-      "developer": "Tailscale Inc.",
-      "url": "https://apps.apple.com/sg/app/tailscale/id1470499037?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/55/91/89559131-ac8a-ec9c-a989-f3ed188b3f5a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-10-24",
+      "id": "1670570711",
+      "name": "Yale Home",
+      "developer": "Assa Abloy Ltd",
+      "url": "https://apps.apple.com/sg/app/yale-home/id1670570711?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/60/fb/8b60fbe6-ee67-8d2d-37d4-f26106049198/YaleAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-05-16",
       "genres": [
         {
           "id": "6002",
@@ -1561,12 +1561,12 @@
     },
     {
       "rank": 98,
-      "id": "1629900832",
-      "name": "Offline: Music Player, Browser",
-      "developer": "秀萍 邓",
-      "url": "https://apps.apple.com/sg/app/offline-music-player-browser/id1629900832?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ed/22/2eed2259-cb9f-dabd-8db3-7853a40364ba/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.jpeg/100x100bb.png",
-      "release_date": "2022-06-19",
+      "id": "1539090879",
+      "name": "TV Remote - Universal Control",
+      "developer": "EVOLLY.APP",
+      "url": "https://apps.apple.com/sg/app/tv-remote-universal-control/id1539090879?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b6/2a/ebb62a10-8f54-3171-e009-8568a6bc1ea5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-19",
       "genres": [
         {
           "id": "6002",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "1160172628",
-      "name": "夸克-AI搜索升级",
-      "developer": "广州市动悦信息技术有限公司",
-      "url": "https://apps.apple.com/sg/app/%E5%A4%B8%E5%85%8B-ai%E6%90%9C%E7%B4%A2%E5%8D%87%E7%BA%A7/id1160172628?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/a5/d8/8ca5d8ba-2c2a-9126-4586-3ace8b2e8131/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-10-25",
+      "id": "6780915191",
+      "name": "Screen Mirroring & CastConnect",
+      "developer": "Janki Panchani",
+      "url": "https://apps.apple.com/sg/app/screen-mirroring-castconnect/id6780915191?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b2/fe/dcb2fe77-c89f-97aa-e3bc-3283c3d867e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-20",
       "genres": [
         {
           "id": "6002",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "1592980686",
-      "name": "foodpanda rider",
-      "developer": "Foodpanda",
-      "url": "https://apps.apple.com/sg/app/foodpanda-rider/id1592980686?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/63/bd/0963bdd5-c90c-54bf-f8e3-88a7fc6350b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-14",
+      "id": "6742070311",
+      "name": "Shadowrocket-小火箭VPN安全网络加速器",
+      "developer": "Gs Speed",
+      "url": "https://apps.apple.com/sg/app/shadowrocket-%E5%B0%8F%E7%81%AB%E7%AE%ADvpn%E5%AE%89%E5%85%A8%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E5%99%A8/id6742070311?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/8d/51/298d517d-1fa1-e20d-2271-77fc26b7861f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-02-19",
       "genres": [
         {
           "id": "6002",

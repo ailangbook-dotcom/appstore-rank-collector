@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:10:46.218202+09:00",
+  "collected_at": "2026-09-24T20:34:47.203520+09:00",
   "date": "2026-09-24",
   "country": "us",
   "chart": "top-free",
@@ -13,7 +13,7 @@
       "name": "Kalshi: Trade Football & more",
       "developer": "KalshiEX LLC",
       "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/65/c5/b165c549-61a0-3823-57cf-3e6e19aeea2d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/aa/2c/ceaa2c98-8884-3888-3664-81e67f43615c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "release_date": "2022-09-16",
       "genres": [
         {
@@ -29,7 +29,7 @@
       "name": "Polymarket: Trade Live Sports",
       "developer": "Polymarket",
       "url": "https://apps.apple.com/us/app/polymarket-trade-live-sports/id6648798962?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/c0/df/93c0df4f-8bb5-cab0-54dc-237912ac55d9/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/3b/62/a33b6252-80e1-5088-2e2a-564af7a642a3/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2024-09-24",
       "genres": [
         {
@@ -105,22 +105,6 @@
     },
     {
       "rank": 7,
-      "id": "298867247",
-      "name": "Chase Mobile®: Bank & Invest",
-      "developer": "JPMorgan Chase & Co.",
-      "url": "https://apps.apple.com/us/app/chase-mobile-bank-invest/id298867247?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/c0/86/e1c086bd-9cc2-3275-8d11-27575e9d0575/ChaseLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2008-12-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "id": "1494523953",
       "name": "OnePay – Mobile Banking",
       "developer": "One Finance, Inc.",
@@ -136,13 +120,29 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "836215269",
       "name": "Chime® – Mobile Banking",
       "developer": "Chime Financial, Inc.",
       "url": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/0a/2f/030a2ff7-5b3c-9b27-1a94-ec26b1a79891/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "release_date": "2014-03-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "298867247",
+      "name": "Chase Mobile®: Bank & Invest",
+      "developer": "JPMorgan Chase & Co.",
+      "url": "https://apps.apple.com/us/app/chase-mobile-bank-invest/id298867247?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/c0/86/e1c086bd-9cc2-3275-8d11-27575e9d0575/ChaseLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2008-12-15",
       "genres": [
         {
           "id": "6015",
@@ -201,6 +201,22 @@
     },
     {
       "rank": 13,
+      "id": "6741115427",
+      "name": "fomo - never miss out",
+      "developer": "fomo labs, inc",
+      "url": "https://apps.apple.com/us/app/fomo-never-miss-out/id6741115427?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/d9/f0/b1d9f0c5-a29e-4156-9a8f-a906c573ea81/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
       "id": "1130616675",
       "name": "Rocket Money - Bills & Budgets",
       "developer": "Rocket Money",
@@ -216,39 +232,7 @@
       ]
     },
     {
-      "rank": 14,
-      "id": "938003185",
-      "name": "Robinhood: Trading & Investing",
-      "developer": "Robinhood Markets, Inc.",
-      "url": "https://apps.apple.com/us/app/robinhood-trading-investing/id938003185?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/8a/34/468a342e-f9e6-f716-122c-4ddb89dd13aa/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-12-11",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 15,
-      "id": "1205990992",
-      "name": "TradingView: Track All Markets",
-      "developer": "TradingView",
-      "url": "https://apps.apple.com/us/app/tradingview-track-all-markets/id1205990992?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/59/53/a65953c9-4e9f-07ad-854a-53eda0c02a10/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
       "id": "284847138",
       "name": "Bank of America Mobile Banking",
       "developer": "Bank of America",
@@ -264,7 +248,7 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 16,
       "id": "311548709",
       "name": "Wells Fargo Mobile®",
       "developer": "Wells Fargo",
@@ -280,13 +264,29 @@
       ]
     },
     {
+      "rank": 17,
+      "id": "938003185",
+      "name": "Robinhood: Trading & Investing",
+      "developer": "Robinhood Markets, Inc.",
+      "url": "https://apps.apple.com/us/app/robinhood-trading-investing/id938003185?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/8a/34/468a342e-f9e6-f716-122c-4ddb89dd13aa/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-12-11",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 18,
-      "id": "6767364919",
-      "name": "Trump Accounts: Official App",
-      "developer": "U.S. Department of the Treasury",
-      "url": "https://apps.apple.com/us/app/trump-accounts-official-app/id6767364919?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d0/97/34d09743-6977-0223-19c3-67ec13953034/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-05-27",
+      "id": "1205990992",
+      "name": "TradingView: Track All Markets",
+      "developer": "TradingView",
+      "url": "https://apps.apple.com/us/app/tradingview-track-all-markets/id1205990992?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/59/53/a65953c9-4e9f-07ad-854a-53eda0c02a10/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-24",
       "genres": [
         {
           "id": "6015",
@@ -313,38 +313,6 @@
     },
     {
       "rank": 20,
-      "id": "1191985736",
-      "name": "SoFi: Bank, Invest & Crypto",
-      "developer": "Social Finance, LLC",
-      "url": "https://apps.apple.com/us/app/sofi-bank-invest-crypto/id1191985736?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/b0/2a/c0b02a51-4d59-0f89-41b7-1a97cd0b2ee8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-10",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "id": "1230221247",
-      "name": "MyCardWallet.",
-      "developer": "Blackhawk Network",
-      "url": "https://apps.apple.com/us/app/mycardwallet/id1230221247?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/c3/9a/69c39ab7-88fd-467c-c702-2651ce2f6d2c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-10-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
       "id": "519817714",
       "name": "Intuit Credit Karma",
       "developer": "Credit Karma, Inc.",
@@ -360,13 +328,45 @@
       ]
     },
     {
+      "rank": 21,
+      "id": "1191985736",
+      "name": "SoFi: Bank, Invest & Crypto",
+      "developer": "Social Finance, LLC",
+      "url": "https://apps.apple.com/us/app/sofi-bank-invest-crypto/id1191985736?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/b0/2a/c0b02a51-4d59-0f89-41b7-1a97cd0b2ee8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "331763096",
+      "name": "GEICO Mobile - Car Insurance",
+      "developer": "GEICO",
+      "url": "https://apps.apple.com/us/app/geico-mobile-car-insurance/id331763096?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7f/13/cf7f13d5-0b36-3179-8510-1084dd42f48c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2009-10-07",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 23,
-      "id": "6741115427",
-      "name": "fomo - never miss out",
-      "developer": "fomo labs, inc",
-      "url": "https://apps.apple.com/us/app/fomo-never-miss-out/id6741115427?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/d9/f0/b1d9f0c5-a29e-4156-9a8f-a906c573ea81/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-04-18",
+      "id": "362348516",
+      "name": "Amex",
+      "developer": "American Express",
+      "url": "https://apps.apple.com/us/app/amex/id362348516?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ca/14/fbca14f8-b632-998e-bfb2-af319e1988ee/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2010-03-31",
       "genres": [
         {
           "id": "6015",
@@ -393,38 +393,6 @@
     },
     {
       "rank": 25,
-      "id": "362348516",
-      "name": "Amex",
-      "developer": "American Express",
-      "url": "https://apps.apple.com/us/app/amex/id362348516?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ca/14/fbca14f8-b632-998e-bfb2-af319e1988ee/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2010-03-31",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "331763096",
-      "name": "GEICO Mobile - Car Insurance",
-      "developer": "GEICO",
-      "url": "https://apps.apple.com/us/app/geico-mobile-car-insurance/id331763096?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7f/13/cf7f13d5-0b36-3179-8510-1084dd42f48c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2009-10-07",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
       "id": "6751549725",
       "name": "ebtEDGE NEW!",
       "developer": "FIS",
@@ -440,7 +408,7 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 26,
       "id": "1087101090",
       "name": "Experian®",
       "developer": "Experian",
@@ -456,12 +424,28 @@
       ]
     },
     {
-      "rank": 29,
+      "rank": 27,
+      "id": "6767364919",
+      "name": "Trump Accounts: Official App",
+      "developer": "U.S. Department of the Treasury",
+      "url": "https://apps.apple.com/us/app/trump-accounts-official-app/id6767364919?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d0/97/34d09743-6977-0223-19c3-67ec13953034/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-05-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
       "id": "1617487581",
       "name": "Atlas - Rewards Credit Card",
       "developer": "Exto Inc.",
       "url": "https://apps.apple.com/us/app/atlas-rewards-credit-card/id1617487581?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/be/88/bfbe88f9-67da-836c-f037-6dfbe5095d1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/8d/d3/f48dd31d-8cde-348b-1fb9-162e8ec5d1e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "release_date": "2022-06-29",
       "genres": [
         {
@@ -472,7 +456,7 @@
       ]
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "1193801909",
       "name": "Dave: Credit, Cash & Money App",
       "developer": "Dave, Inc",
@@ -488,23 +472,7 @@
       ]
     },
     {
-      "rank": 31,
-      "id": "1447274646",
-      "name": "Cleo AI: Cash Advance & Budget",
-      "developer": "Cleo AI Ltd",
-      "url": "https://apps.apple.com/us/app/cleo-ai-cash-advance-budget/id1447274646?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2a/4c/8a2a4c41-0eec-8049-58ef-ba189d0bccc4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
+      "rank": 30,
       "id": "6472350114",
       "name": "Grant Cash Advance",
       "developer": "Kikoff Inc.",
@@ -520,7 +488,7 @@
       ]
     },
     {
-      "rank": 33,
+      "rank": 31,
       "id": "458734623",
       "name": "U.S. Bank Mobile Banking",
       "developer": "U.S. Bancorp",
@@ -536,7 +504,7 @@
       ]
     },
     {
-      "rank": 34,
+      "rank": 32,
       "id": "674258465",
       "name": "Remitly: Send money & transfer",
       "developer": "Remitly Inc",
@@ -552,13 +520,13 @@
       ]
     },
     {
-      "rank": 35,
-      "id": "6764022479",
-      "name": "Rocco - Fast Cash Advance",
-      "developer": "Rocco Finance Inc.",
-      "url": "https://apps.apple.com/us/app/rocco-fast-cash-advance/id6764022479?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/6c/84/a46c84e1-2967-4ec7-b724-02b8ddd00b91/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-11",
+      "rank": 33,
+      "id": "1447274646",
+      "name": "Cleo AI: Cash Advance & Budget",
+      "developer": "Cleo AI Ltd",
+      "url": "https://apps.apple.com/us/app/cleo-ai-cash-advance-budget/id1447274646?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2a/4c/8a2a4c41-0eec-8049-58ef-ba189d0bccc4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-23",
       "genres": [
         {
           "id": "6015",
@@ -568,39 +536,7 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "1409169287",
-      "name": "Lenme: Borrowing and Lending",
-      "developer": "Lenme Inc.",
-      "url": "https://apps.apple.com/us/app/lenme-borrowing-and-lending/id1409169287?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/b5/c6/bcb5c679-572b-3b8b-37bf-710f4547feee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-19",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "1128712763",
-      "name": "Credit One Bank Mobile",
-      "developer": "Credit One Bank, N.A.",
-      "url": "https://apps.apple.com/us/app/credit-one-bank-mobile/id1128712763?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/b5/4e/6eb54e8f-f093-ca5c-29d7-55971fe522f1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2016-09-21",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
+      "rank": 34,
       "id": "1136397354",
       "name": "Tilt: Cash Advance & Credit",
       "developer": "Tilt Finance, Inc.",
@@ -616,13 +552,77 @@
       ]
     },
     {
-      "rank": 39,
+      "rank": 35,
+      "id": "1128712763",
+      "name": "Credit One Bank Mobile",
+      "developer": "Credit One Bank, N.A.",
+      "url": "https://apps.apple.com/us/app/credit-one-bank-mobile/id1128712763?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/b5/4e/6eb54e8f-f093-ca5c-29d7-55971fe522f1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2016-09-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
       "id": "886427730",
       "name": "Coinbase: Buy Crypto & Stocks",
       "developer": "Coinbase, Inc.",
       "url": "https://apps.apple.com/us/app/coinbase-buy-crypto-stocks/id886427730?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/2b/2e/f12b2e38-cc2b-e26c-ef05-0f5ba8b15418/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "release_date": "2014-06-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "1230221247",
+      "name": "MyCardWallet.",
+      "developer": "Blackhawk Network",
+      "url": "https://apps.apple.com/us/app/mycardwallet/id1230221247?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/c3/9a/69c39ab7-88fd-467c-c702-2651ce2f6d2c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-10-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "1409169287",
+      "name": "Lenme: Borrowing and Lending",
+      "developer": "Lenme Inc.",
+      "url": "https://apps.apple.com/us/app/lenme-borrowing-and-lending/id1409169287?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/b5/c6/bcb5c679-572b-3b8b-37bf-710f4547feee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6764022479",
+      "name": "Rocco - Fast Cash Advance",
+      "developer": "Rocco Finance Inc.",
+      "url": "https://apps.apple.com/us/app/rocco-fast-cash-advance/id6764022479?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/6c/84/a46c84e1-2967-4ec7-b724-02b8ddd00b91/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-11",
       "genres": [
         {
           "id": "6015",
@@ -649,70 +649,6 @@
     },
     {
       "rank": 41,
-      "id": "1064677082",
-      "name": "MoneyLion: Cash Advance App",
-      "developer": "MoneyLion",
-      "url": "https://apps.apple.com/us/app/moneylion-cash-advance-app/id1064677082?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/c8/53/f6c853e8-2d74-dad3-0586-5988c6042022/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-12-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1471211372",
-      "name": "Klover - Instant Cash Advance",
-      "developer": "Klover Holdings, Inc.",
-      "url": "https://apps.apple.com/us/app/klover-instant-cash-advance/id1471211372?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/34/5d/1a345da8-a1de-42f9-8ac6-df6c47f90d30/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-07-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "1077366211",
-      "name": "Current - Mobile Banking",
-      "developer": "Finco Services, Inc.",
-      "url": "https://apps.apple.com/us/app/current-mobile-banking/id1077366211?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/89/4c/c7894c6e-ce06-9a01-1001-2fe5a2c25e1d/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2016-04-04",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "1517676784",
-      "name": "Varo Bank: Online Banking",
-      "developer": "Varo Money inc",
-      "url": "https://apps.apple.com/us/app/varo-bank-online-banking/id1517676784?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/d1/a1/73d1a1cc-979c-1331-bee3-5a17d79d9545/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
       "id": "1425045070",
       "name": "Zip - Buy Now, Pay Later",
       "developer": "Zip Co US, Inc.",
@@ -728,7 +664,87 @@
       ]
     },
     {
+      "rank": 42,
+      "id": "1077366211",
+      "name": "Current - Mobile Banking",
+      "developer": "Finco Services, Inc.",
+      "url": "https://apps.apple.com/us/app/current-mobile-banking/id1077366211?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/89/4c/c7894c6e-ce06-9a01-1001-2fe5a2c25e1d/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2016-04-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "1064677082",
+      "name": "MoneyLion: Cash Advance App",
+      "developer": "MoneyLion",
+      "url": "https://apps.apple.com/us/app/moneylion-cash-advance-app/id1064677082?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/c8/53/f6c853e8-2d74-dad3-0586-5988c6042022/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1471211372",
+      "name": "Klover - Instant Cash Advance",
+      "developer": "Klover Holdings, Inc.",
+      "url": "https://apps.apple.com/us/app/klover-instant-cash-advance/id1471211372?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/34/5d/1a345da8-a1de-42f9-8ac6-df6c47f90d30/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-07-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1517676784",
+      "name": "Varo Bank: Online Banking",
+      "developer": "Varo Money inc",
+      "url": "https://apps.apple.com/us/app/varo-bank-online-banking/id1517676784?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/d1/a1/73d1a1cc-979c-1331-bee3-5a17d79d9545/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 46,
+      "id": "1458274896",
+      "name": "Flex - Rent On Your Schedule",
+      "developer": "Flexible Finance, Inc.",
+      "url": "https://apps.apple.com/us/app/flex-rent-on-your-schedule/id1458274896?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/50/eb/fe50eb50-efc8-db1e-d1e8-4329eca06992/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-05-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
       "id": "1280992496",
       "name": "MySynchrony",
       "developer": "Synchrony Financial",
@@ -744,55 +760,7 @@
       ]
     },
     {
-      "rank": 47,
-      "id": "612261027",
-      "name": "Wise: Global Money Transfer",
-      "developer": "Wise Payments Ltd",
-      "url": "https://apps.apple.com/us/app/wise-global-money-transfer/id612261027?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/88/e4/1788e485-3c00-4765-3b51-5e19b07eedc2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-10-04",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 48,
-      "id": "1525159784",
-      "name": "Kikoff: Build Credit Quickly",
-      "developer": "Kikoff Inc.",
-      "url": "https://apps.apple.com/us/app/kikoff-build-credit-quickly/id1525159784?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/e9/44/d1e94471-c143-3827-5ed7-ef9c599d2dba/AppIcon-enterprise-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-04-14",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "1413346006",
-      "name": "Taptap Send: Money Transfer",
-      "developer": "Taptap Send, Inc.",
-      "url": "https://apps.apple.com/us/app/taptap-send-money-transfer/id1413346006?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/8d/78/a28d78c0-f4c2-b688-0632-b16e02e05ecc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-08-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
       "id": "364376344",
       "name": "Allstate® Mobile",
       "developer": "Allstate Insurance Company",
@@ -808,71 +776,7 @@
       ]
     },
     {
-      "rank": 51,
-      "id": "723815926",
-      "name": "EarnIn: Beyond Cash Advance",
-      "developer": "Activehours Inc.",
-      "url": "https://apps.apple.com/us/app/earnin-beyond-cash-advance/id723815926?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/0f/d8/cc0fd862-0ace-2841-ea67-698f864f22dc/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-10-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "640179084",
-      "name": "NetBenefits",
-      "developer": "Fidelity Investments",
-      "url": "https://apps.apple.com/us/app/netbenefits/id640179084?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/a5/26/48a52664-5db7-f652-dbda-374711a30a8f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-05-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1057771088",
-      "name": "Albert: Budgeting and Banking",
-      "developer": "Albert Corporation",
-      "url": "https://apps.apple.com/us/app/albert-budgeting-and-banking/id1057771088?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/aa/60/53aa60e5-8ee4-f8f9-a6b8-d6ac8e7b8129/albert-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2016-06-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "6779553876",
-      "name": "Money Borrowing: Cash Advance",
-      "developer": "UTILITAS S. K. Z.",
-      "url": "https://apps.apple.com/us/app/money-borrowing-cash-advance/id6779553876?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/41/9a/84419a08-27f5-8e62-5276-a7c33e745763/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
+      "rank": 49,
       "id": "1001257338",
       "name": "Empower ®",
       "developer": "Empower Retirement, LLC",
@@ -888,13 +792,13 @@
       ]
     },
     {
-      "rank": 56,
-      "id": "407358186",
-      "name": "Schwab Mobile",
-      "developer": "The Charles Schwab Corporation",
-      "url": "https://apps.apple.com/us/app/schwab-mobile/id407358186?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/99/a0/2199a0e9-1975-271c-f630-17eace346a3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2010-12-14",
+      "rank": 50,
+      "id": "1525159784",
+      "name": "Kikoff: Build Credit Quickly",
+      "developer": "Kikoff Inc.",
+      "url": "https://apps.apple.com/us/app/kikoff-build-credit-quickly/id1525159784?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/e9/44/d1e94471-c143-3827-5ed7-ef9c599d2dba/AppIcon-enterprise-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-04-14",
       "genres": [
         {
           "id": "6015",
@@ -904,13 +808,13 @@
       ]
     },
     {
-      "rank": 57,
-      "id": "932493382",
-      "name": "Revolut: send, spend, and save",
-      "developer": "Revolut Ltd",
-      "url": "https://apps.apple.com/us/app/revolut-send-spend-and-save/id932493382?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/76/9d/c4769de2-374e-c628-c879-36e08189bbdb/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2015-03-01",
+      "rank": 51,
+      "id": "640179084",
+      "name": "NetBenefits",
+      "developer": "Fidelity Investments",
+      "url": "https://apps.apple.com/us/app/netbenefits/id640179084?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/a5/26/48a52664-5db7-f652-dbda-374711a30a8f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-05-08",
       "genres": [
         {
           "id": "6015",
@@ -920,13 +824,13 @@
       ]
     },
     {
-      "rank": 58,
-      "id": "1399085077",
-      "name": "DailyPay On-Demand Pay",
-      "developer": "Daily Pay Inc.",
-      "url": "https://apps.apple.com/us/app/dailypay-on-demand-pay/id1399085077?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/49/73/dd497336-161a-5256-1892-d6a6076ce6d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-12-03",
+      "rank": 52,
+      "id": "612261027",
+      "name": "Wise: Global Money Transfer",
+      "developer": "Wise Payments Ltd",
+      "url": "https://apps.apple.com/us/app/wise-global-money-transfer/id612261027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/88/e4/1788e485-3c00-4765-3b51-5e19b07eedc2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-10-04",
       "genres": [
         {
           "id": "6015",
@@ -936,7 +840,23 @@
       ]
     },
     {
-      "rank": 59,
+      "rank": 53,
+      "id": "1413346006",
+      "name": "Taptap Send: Money Transfer",
+      "developer": "Taptap Send, Inc.",
+      "url": "https://apps.apple.com/us/app/taptap-send-money-transfer/id1413346006?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/8d/78/a28d78c0-f4c2-b688-0632-b16e02e05ecc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-08-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
       "id": "1459319842",
       "name": "Monarch: Budget & Track Money",
       "developer": "Monarch Money, Inc.",
@@ -952,55 +872,87 @@
       ]
     },
     {
+      "rank": 55,
+      "id": "723815926",
+      "name": "EarnIn: Beyond Cash Advance",
+      "developer": "Activehours Inc.",
+      "url": "https://apps.apple.com/us/app/earnin-beyond-cash-advance/id723815926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/0f/d8/cc0fd862-0ace-2841-ea67-698f864f22dc/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-10-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1399085077",
+      "name": "DailyPay On-Demand Pay",
+      "developer": "Daily Pay Inc.",
+      "url": "https://apps.apple.com/us/app/dailypay-on-demand-pay/id1399085077?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/49/73/dd497336-161a-5256-1892-d6a6076ce6d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-12-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1057771088",
+      "name": "Albert: Budgeting and Banking",
+      "developer": "Albert Corporation",
+      "url": "https://apps.apple.com/us/app/albert-budgeting-and-banking/id1057771088?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/aa/60/53aa60e5-8ee4-f8f9-a6b8-d6ac8e7b8129/albert-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2016-06-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "6779553876",
+      "name": "Money Borrowing: Cash Advance",
+      "developer": "UTILITAS S. K. Z.",
+      "url": "https://apps.apple.com/us/app/money-borrowing-cash-advance/id6779553876?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/41/9a/84419a08-27f5-8e62-5276-a7c33e745763/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "407358186",
+      "name": "Schwab Mobile",
+      "developer": "The Charles Schwab Corporation",
+      "url": "https://apps.apple.com/us/app/schwab-mobile/id407358186?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/99/a0/2199a0e9-1975-271c-f630-17eace346a3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2010-12-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 60,
-      "id": "1511043796",
-      "name": "Bright: Loans & Credit Builder",
-      "developer": "Bright Capital Inc",
-      "url": "https://apps.apple.com/us/app/bright-loans-credit-builder/id1511043796?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/12/29/b41229af-90a5-1671-8034-96fb5f10ea89/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2020-06-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "942571931",
-      "name": "EveryDollar: Budget Management",
-      "developer": "The Lampo Group Incorporated",
-      "url": "https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/47/8b/ac478b42-9f66-31eb-4b51-43d976f24d7d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2015-02-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "1380384597",
-      "name": "Possible: Fast Cash & Credit",
-      "developer": "Possible Finance",
-      "url": "https://apps.apple.com/us/app/possible-fast-cash-credit/id1380384597?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/da/5d/6fda5d91-15b2-2dcc-5bf5-9bab5d55f811/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-05-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
       "id": "1478804271",
       "name": "Gusto Mobile",
       "developer": "Gusto, inc.",
@@ -1016,7 +968,71 @@
       ]
     },
     {
+      "rank": 61,
+      "id": "1511043796",
+      "name": "Bright: Loans & Credit Builder",
+      "developer": "Bright Capital Inc",
+      "url": "https://apps.apple.com/us/app/bright-loans-credit-builder/id1511043796?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/12/29/b41229af-90a5-1671-8034-96fb5f10ea89/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-06-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "942571931",
+      "name": "EveryDollar: Budget Management",
+      "developer": "The Lampo Group Incorporated",
+      "url": "https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/d7/5f/74d75f77-0280-7133-2566-1277107dd9d9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2015-02-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "932493382",
+      "name": "Revolut: send, spend, and save",
+      "developer": "Revolut Ltd",
+      "url": "https://apps.apple.com/us/app/revolut-send-spend-and-save/id932493382?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/48/ba/5848baeb-aaa1-f0f6-83b6-8b3286dd0ece/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-03-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 64,
+      "id": "6777478123",
+      "name": "Monbark: Budget & Money Track",
+      "developer": "MONBARK LLC",
+      "url": "https://apps.apple.com/us/app/monbark-budget-money-track/id6777478123?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/af/71/e5af71dd-52c5-310a-155f-6c6224bfacd2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-06-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
       "id": "642959434",
       "name": "HealthEquity Mobile",
       "developer": "HealthEquity",
@@ -1032,7 +1048,7 @@
       ]
     },
     {
-      "rank": 65,
+      "rank": 66,
       "id": "514374715",
       "name": "Ally: Bank, Auto & Invest",
       "developer": "Ally Financial Inc.",
@@ -1048,7 +1064,7 @@
       ]
     },
     {
-      "rank": 66,
+      "rank": 67,
       "id": "397404511",
       "name": "Liberty Mutual Mobile",
       "developer": "Liberty Mutual",
@@ -1064,29 +1080,13 @@
       ]
     },
     {
-      "rank": 67,
-      "id": "425199399",
-      "name": "Barclays US",
-      "developer": "Barclays Bank Delaware",
-      "url": "https://apps.apple.com/us/app/barclays-us/id425199399?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/17/44/1117443c-b265-e711-cde5-ca3cab269d4e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-03-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 68,
-      "id": "424716908",
-      "name": "Western Union: Send Money",
-      "developer": "Western Union Holdings, Inc.",
-      "url": "https://apps.apple.com/us/app/western-union-send-money/id424716908?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/10/8f/8a108f65-225d-d056-d447-0cb91995fdd4/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2011-05-09",
+      "id": "1380384597",
+      "name": "Possible: Fast Cash & Credit",
+      "developer": "Possible Finance",
+      "url": "https://apps.apple.com/us/app/possible-fast-cash-credit/id1380384597?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/da/5d/6fda5d91-15b2-2dcc-5bf5-9bab5d55f811/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-05-24",
       "genres": [
         {
           "id": "6015",
@@ -1097,134 +1097,6 @@
     },
     {
       "rank": 69,
-      "id": "1588301749",
-      "name": "Credit Genie: Get Cash Advance",
-      "developer": "Credit Genie",
-      "url": "https://apps.apple.com/us/app/credit-genie-get-cash-advance/id1588301749?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/2c/3d/912c3dba-c9cb-b47c-30e8-d1441157420a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-10-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "6462308655",
-      "name": "Robinhood Banking",
-      "developer": "Robinhood Markets, Inc.",
-      "url": "https://apps.apple.com/us/app/robinhood-banking/id6462308655?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/77/ba/6a77ba62-ff0a-975c-059b-e73307f66433/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-04-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1600495551",
-      "name": "Bread Financial",
-      "developer": "Bread Financial Holdings, Inc.",
-      "url": "https://apps.apple.com/us/app/bread-financial/id1600495551?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/e7/17/79e71791-47fc-c1d8-0550-620022648f7c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-07-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "1450304211",
-      "name": "Super.com-Cash Advance, Travel",
-      "developer": "Super.com Inc.",
-      "url": "https://apps.apple.com/us/app/super-com-cash-advance-travel/id1450304211?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/b5/45/37b545e1-dd00-7d18-7373-da42f8d6d451/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-09",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "1241984225",
-      "name": "Testerup: Test & Earn Rewards",
-      "developer": "aestimium GmbH",
-      "url": "https://apps.apple.com/us/app/testerup-test-earn-rewards/id1241984225?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/bb/39/dabb3911-eca6-fcde-6f68-6a3bc8753c64/tupAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-12-21",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "1395667279",
-      "name": "FloatMe: Fast Cash Advance App",
-      "developer": "FloatMe",
-      "url": "https://apps.apple.com/us/app/floatme-fast-cash-advance-app/id1395667279?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/da/a8/80daa8b8-2128-9d4e-54b2-b16e790a11c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "883324671",
-      "name": "Acorns: Save & Invest Money",
-      "developer": "Acorns Grow Incorporated",
-      "url": "https://apps.apple.com/us/app/acorns-save-invest-money/id883324671?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d0/a1/d0d0a1ef-7cb6-7ae1-6d71-cbaa058e132a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2014-08-26",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "1492670702",
-      "name": "Binance.US - Buy Crypto & BTC",
-      "developer": "BAM Trading Services, Inc.",
-      "url": "https://apps.apple.com/us/app/binance-us-buy-crypto-btc/id1492670702?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/16/6a/2e166a61-3c21-19a1-0e0b-433d7ce3ce2e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2020-01-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
       "id": "370811491",
       "name": "Navy Federal Credit Union",
       "developer": "Navy Federal Credit Union",
@@ -1240,7 +1112,23 @@
       ]
     },
     {
-      "rank": 78,
+      "rank": 70,
+      "id": "424716908",
+      "name": "Western Union: Send Money",
+      "developer": "Western Union Holdings, Inc.",
+      "url": "https://apps.apple.com/us/app/western-union-send-money/id424716908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/10/8f/8a108f65-225d-d056-d447-0cb91995fdd4/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2011-05-09",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
       "id": "6502468755",
       "name": "myEquifax",
       "developer": "Equifax",
@@ -1256,13 +1144,125 @@
       ]
     },
     {
+      "rank": 72,
+      "id": "6462308655",
+      "name": "Robinhood Banking",
+      "developer": "Robinhood Markets, Inc.",
+      "url": "https://apps.apple.com/us/app/robinhood-banking/id6462308655?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/77/ba/6a77ba62-ff0a-975c-059b-e73307f66433/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-04-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "883324671",
+      "name": "Acorns: Save & Invest Money",
+      "developer": "Acorns Grow Incorporated",
+      "url": "https://apps.apple.com/us/app/acorns-save-invest-money/id883324671?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/12/fb/cf12fbbe-4218-fb4d-5082-61beaf585e32/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "425199399",
+      "name": "Barclays US",
+      "developer": "Barclays Bank Delaware",
+      "url": "https://apps.apple.com/us/app/barclays-us/id425199399?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/17/44/1117443c-b265-e711-cde5-ca3cab269d4e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-03-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1600495551",
+      "name": "Bread Financial",
+      "developer": "Bread Financial Holdings, Inc.",
+      "url": "https://apps.apple.com/us/app/bread-financial/id1600495551?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/e7/17/79e71791-47fc-c1d8-0550-620022648f7c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-07-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1588301749",
+      "name": "Credit Genie: Get Cash Advance",
+      "developer": "Credit Genie",
+      "url": "https://apps.apple.com/us/app/credit-genie-get-cash-advance/id1588301749?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/2c/3d/912c3dba-c9cb-b47c-30e8-d1441157420a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-10-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1450304211",
+      "name": "Super.com-Cash Advance, Travel",
+      "developer": "Super.com Inc.",
+      "url": "https://apps.apple.com/us/app/super-com-cash-advance-travel/id1450304211?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/b5/45/37b545e1-dd00-7d18-7373-da42f8d6d451/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-09",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "1241984225",
+      "name": "Testerup: Test & Earn Rewards",
+      "developer": "aestimium GmbH",
+      "url": "https://apps.apple.com/us/app/testerup-test-earn-rewards/id1241984225?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/bb/39/dabb3911-eca6-fcde-6f68-6a3bc8753c64/tupAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-12-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 79,
-      "id": "458023433",
-      "name": "Splitwise",
-      "developer": "Splitwise, Inc.",
-      "url": "https://apps.apple.com/us/app/splitwise/id458023433?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/91/62/c69162ae-73b2-e166-9e3b-bfbaa8ea726c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-08-24",
+      "id": "1565576987",
+      "name": "Bilt Rewards",
+      "developer": "Bilt Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/bilt-rewards/id1565576987?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/a1/a8/09a1a8a4-dc24-6abe-5dc6-039bb20093da/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-06-18",
       "genres": [
         {
           "id": "6015",
@@ -1273,12 +1273,12 @@
     },
     {
       "rank": 80,
-      "id": "6449258739",
-      "name": "Concora Credit",
-      "developer": "CONCORA CREDIT INC.",
-      "url": "https://apps.apple.com/us/app/concora-credit/id6449258739?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/11/be/6911beff-a7f3-5b81-1cec-f192a0d8fda8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-07-17",
+      "id": "1395667279",
+      "name": "FloatMe: Fast Cash Advance App",
+      "developer": "FloatMe",
+      "url": "https://apps.apple.com/us/app/floatme-fast-cash-advance-app/id1395667279?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/da/a8/80daa8b8-2128-9d4e-54b2-b16e790a11c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-05",
       "genres": [
         {
           "id": "6015",
@@ -1289,12 +1289,12 @@
     },
     {
       "rank": 81,
-      "id": "1458274896",
-      "name": "Flex - Rent On Your Schedule",
-      "developer": "Flexible Finance, Inc.",
-      "url": "https://apps.apple.com/us/app/flex-rent-on-your-schedule/id1458274896?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/50/eb/fe50eb50-efc8-db1e-d1e8-4329eca06992/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-05-21",
+      "id": "1031312446",
+      "name": "CareCredit Mobile",
+      "developer": "Synchrony Financial",
+      "url": "https://apps.apple.com/us/app/carecredit-mobile/id1031312446?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a8/99/51a899cf-87fd-d6ff-45f5-f71c564bf685/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2015-10-29",
       "genres": [
         {
           "id": "6015",
@@ -1321,6 +1321,38 @@
     },
     {
       "rank": 83,
+      "id": "1492670702",
+      "name": "Binance.US - Buy Crypto & BTC",
+      "developer": "BAM Trading Services, Inc.",
+      "url": "https://apps.apple.com/us/app/binance-us-buy-crypto-btc/id1492670702?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/16/6a/2e166a61-3c21-19a1-0e0b-433d7ce3ce2e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-01-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "458023433",
+      "name": "Splitwise",
+      "developer": "Splitwise, Inc.",
+      "url": "https://apps.apple.com/us/app/splitwise/id458023433?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/91/62/c69162ae-73b2-e166-9e3b-bfbaa8ea726c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-08-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
       "id": "6450968733",
       "name": "Upstart: Personal Loans + More",
       "developer": "Upstart Network, Inc.",
@@ -1336,103 +1368,7 @@
       ]
     },
     {
-      "rank": 84,
-      "id": "413251709",
-      "name": "MetaTrader 5",
-      "developer": "MetaQuotes Software Corp.",
-      "url": "https://apps.apple.com/us/app/metatrader-5/id413251709?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-01-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "1507829573",
-      "name": "ATM Cash Advance・Instant Money",
-      "developer": "ATM.com, Inc.",
-      "url": "https://apps.apple.com/us/app/atm-cash-advance-instant-money/id1507829573?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/fa/57dcfa40-b24e-e21b-68b4-01d87aeff8c8/AppIconProd-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2020-10-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 86,
-      "id": "1179213067",
-      "name": "Webull: Investing & Trading",
-      "developer": "Webull Technologies Pte. Ltd.",
-      "url": "https://apps.apple.com/us/app/webull-investing-trading/id1179213067?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/58/0b/a3580b72-0508-bf00-b843-1219516ad5f2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-01-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "1031312446",
-      "name": "CareCredit Mobile",
-      "developer": "Synchrony Financial",
-      "url": "https://apps.apple.com/us/app/carecredit-mobile/id1031312446?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a8/99/51a899cf-87fd-d6ff-45f5-f71c564bf685/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2015-10-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "1565576987",
-      "name": "Bilt Rewards",
-      "developer": "Bilt Technologies, Inc.",
-      "url": "https://apps.apple.com/us/app/bilt-rewards/id1565576987?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/a1/a8/09a1a8a4-dc24-6abe-5dc6-039bb20093da/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-06-18",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "1398046228",
-      "name": "ebtEDGE",
-      "developer": "FIS",
-      "url": "https://apps.apple.com/us/app/ebtedge/id1398046228?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/f2/fc/42f2fc74-d10e-e17c-40cb-f5f0ff98b321/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
       "id": "303113127",
       "name": "PNC Mobile Banking",
       "developer": "PNC Bank, N.A.",
@@ -1448,13 +1384,13 @@
       ]
     },
     {
-      "rank": 91,
-      "id": "6467380679",
-      "name": "OPay Business",
-      "developer": "OPay Digital Services Pte.Ltd.",
-      "url": "https://apps.apple.com/us/app/opay-business/id6467380679?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/3c/85/7a3c8543-e9f7-a7ce-4ebc-b056c19d3ead/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2023-11-22",
+      "rank": 87,
+      "id": "6449258739",
+      "name": "Concora Credit",
+      "developer": "CONCORA CREDIT INC.",
+      "url": "https://apps.apple.com/us/app/concora-credit/id6449258739?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/11/be/6911beff-a7f3-5b81-1cec-f192a0d8fda8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-07-17",
       "genres": [
         {
           "id": "6015",
@@ -1464,7 +1400,39 @@
       ]
     },
     {
-      "rank": 92,
+      "rank": 88,
+      "id": "1179213067",
+      "name": "Webull: Investing & Trading",
+      "developer": "Webull Technologies Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/webull-investing-trading/id1179213067?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/58/0b/a3580b72-0508-bf00-b843-1219516ad5f2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-01-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "413251709",
+      "name": "MetaTrader 5",
+      "developer": "MetaQuotes Software Corp.",
+      "url": "https://apps.apple.com/us/app/metatrader-5/id413251709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-01-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
       "id": "6760541552",
       "name": "Cash Advance: Borrow Money App",
       "developer": "Rue des Jardins S.A.",
@@ -1480,13 +1448,13 @@
       ]
     },
     {
-      "rank": 93,
-      "id": "649008868",
-      "name": "TransUnion®",
-      "developer": "TransUnion",
-      "url": "https://apps.apple.com/us/app/transunion/id649008868?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/d6/ac/10d6ac72-57d6-fb72-3a8b-0a5243547d23/AppIcon-AppStore-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-07-02",
+      "rank": 91,
+      "id": "1507829573",
+      "name": "ATM Cash Advance・Instant Money",
+      "developer": "ATM.com, Inc.",
+      "url": "https://apps.apple.com/us/app/atm-cash-advance-instant-money/id1507829573?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/fa/57dcfa40-b24e-e21b-68b4-01d87aeff8c8/AppIconProd-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2020-10-27",
       "genres": [
         {
           "id": "6015",
@@ -1496,7 +1464,23 @@
       ]
     },
     {
-      "rank": 94,
+      "rank": 92,
+      "id": "1398046228",
+      "name": "ebtEDGE",
+      "developer": "FIS",
+      "url": "https://apps.apple.com/us/app/ebtedge/id1398046228?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/f2/fc/42f2fc74-d10e-e17c-40cb-f5f0ff98b321/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
       "id": "335186209",
       "name": "Vanguard: Save, Invest, Retire",
       "developer": "The Vanguard Group, Inc.",
@@ -1512,71 +1496,7 @@
       ]
     },
     {
-      "rank": 95,
-      "id": "338010821",
-      "name": "Discover Mobile",
-      "developer": "Discover Financial Services",
-      "url": "https://apps.apple.com/us/app/discover-mobile/id338010821?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3e/d7/c13ed73c-e3e6-7e34-495e-f600cc47dc35/AppIconProd-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2009-11-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "1288339409",
-      "name": "Trust: Crypto & Bitcoin Wallet",
-      "developer": "DApps Platform Software Services Ltd.",
-      "url": "https://apps.apple.com/us/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/15/3d/c7153d57-d5bf-19e6-c99b-02d552020771/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-26",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
-      "id": "468738585",
-      "name": "Fifth Third: 53 Mobile Banking",
-      "developer": "FifthThird Bank",
-      "url": "https://apps.apple.com/us/app/fifth-third-53-mobile-banking/id468738585?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/60/22/eb6022aa-2796-c6df-81b7-011d52c798f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2011-11-16",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 98,
-      "id": "6777914163",
-      "name": "Cash Advance Now: Borrow Money",
-      "developer": "THE BUSINESS FINANCE COMPANY LTD",
-      "url": "https://apps.apple.com/us/app/cash-advance-now-borrow-money/id6777914163?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/5c/74/3d5c7479-e9e1-d28a-cd2b-ebf633180f0b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finance",
-          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 99,
+      "rank": 94,
       "id": "6759454662",
       "name": "Cherry: The Smarter Way to Pay",
       "developer": "Cherry Technologies, Inc.",
@@ -1592,13 +1512,93 @@
       ]
     },
     {
-      "rank": 100,
+      "rank": 95,
+      "id": "649008868",
+      "name": "TransUnion®",
+      "developer": "TransUnion",
+      "url": "https://apps.apple.com/us/app/transunion/id649008868?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/d6/ac/10d6ac72-57d6-fb72-3a8b-0a5243547d23/AppIcon-AppStore-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-07-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "338010821",
+      "name": "Discover Mobile",
+      "developer": "Discover Financial Services",
+      "url": "https://apps.apple.com/us/app/discover-mobile/id338010821?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3e/d7/c13ed73c-e3e6-7e34-495e-f600cc47dc35/AppIconProd-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2009-11-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6448634850",
+      "name": "Split Pay: Split Bills in Two",
+      "developer": "Visible Ideas",
+      "url": "https://apps.apple.com/us/app/split-pay-split-bills-in-two/id6448634850?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e6/d8/2ce6d898-76a4-1ad1-e157-cb3e1361cc05/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-09-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
       "id": "1598432977",
       "name": "Phantom: Trading Wallet",
       "developer": "Phantom Technologies Incorporated",
       "url": "https://apps.apple.com/us/app/phantom-trading-wallet/id1598432977?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/97/52/f697526a-4680-4e44-a772-9eafc606f88c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "release_date": "2022-01-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "468738585",
+      "name": "Fifth Third: 53 Mobile Banking",
+      "developer": "FifthThird Bank",
+      "url": "https://apps.apple.com/us/app/fifth-third-53-mobile-banking/id468738585?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/60/22/eb6022aa-2796-c6df-81b7-011d52c798f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-11-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finance",
+          "url": "https://apps.apple.com/us/genre/ios-finance/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "1628197245",
+      "name": "Ramp",
+      "developer": "Ramp Business Corporation",
+      "url": "https://apps.apple.com/us/app/ramp/id1628197245?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/f4/5e/5ef45e90-7c0f-5cd5-96ae-883002fec6a5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-09-06",
       "genres": [
         {
           "id": "6015",

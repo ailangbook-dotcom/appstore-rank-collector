@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:13:29.676659+09:00",
+  "collected_at": "2026-09-24T20:36:42.671764+09:00",
   "date": "2026-09-24",
   "country": "hk",
   "chart": "top-free",
@@ -73,22 +73,6 @@
     },
     {
       "rank": 5,
-      "id": "496488073",
-      "name": "Cityline Ticketing",
-      "developer": "Cityline (Hong Kong) Limited",
-      "url": "https://apps.apple.com/hk/app/cityline-ticketing/id496488073?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/bd/95/e0bd9522-b4b4-821e-87d0-8a4374923334/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2012-02-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "id": "6504849169",
       "name": "NetShort - 熱門短劇盡情觀賞",
       "developer": "NETSTORY PTE. LTD.",
@@ -104,13 +88,29 @@
       ]
     },
     {
+      "rank": 6,
+      "id": "6469772210",
+      "name": "NAMCO HK",
+      "developer": "NAMCO ENTERPRISES ASIA Ltd.",
+      "url": "https://apps.apple.com/hk/app/namco-hk/id6469772210?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/6e/91/556e91d7-74d9-45d9-7ea5-ad73a4756c4c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-19",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 7,
-      "id": "1479814602",
-      "name": "央视频-看亚运会",
-      "developer": "Yangshipin",
-      "url": "https://apps.apple.com/hk/app/%E5%A4%AE%E8%A7%86%E9%A2%91-%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A/id1479814602?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/46/2e/f1462ee6-c81d-5f7c-83b4-9cd64f577524/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2019-11-19",
+      "id": "496488073",
+      "name": "Cityline Ticketing",
+      "developer": "Cityline (Hong Kong) Limited",
+      "url": "https://apps.apple.com/hk/app/cityline-ticketing/id496488073?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/bd/95/e0bd9522-b4b4-821e-87d0-8a4374923334/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-02-12",
       "genres": [
         {
           "id": "6016",
@@ -121,12 +121,12 @@
     },
     {
       "rank": 8,
-      "id": "1636235979",
-      "name": "ReelShort - 全網熱門短劇盡情觀賞",
-      "developer": "NewLeaf Publishing",
-      "url": "https://apps.apple.com/hk/app/reelshort-%E5%85%A8%E7%B6%B2%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87%E7%9B%A1%E6%83%85%E8%A7%80%E8%B3%9E/id1636235979?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/28/2c/26282c66-9999-8579-4771-ff14ee341682/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-07",
+      "id": "1479814602",
+      "name": "央视频-看亚运会",
+      "developer": "Yangshipin",
+      "url": "https://apps.apple.com/hk/app/%E5%A4%AE%E8%A7%86%E9%A2%91-%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A/id1479814602?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/46/2e/f1462ee6-c81d-5f7c-83b4-9cd64f577524/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2019-11-19",
       "genres": [
         {
           "id": "6016",
@@ -153,12 +153,12 @@
     },
     {
       "rank": 10,
-      "id": "6670430706",
-      "name": "DramaWave- 熱門短劇/日劇/韓劇，復仇逆襲精彩絕倫",
-      "developer": "SKYWORK AI PTE LTD",
-      "url": "https://apps.apple.com/hk/app/dramawave-%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87-%E6%97%A5%E5%8A%87-%E9%9F%93%E5%8A%87-%E5%BE%A9%E4%BB%87%E9%80%86%E8%A5%B2%E7%B2%BE%E5%BD%A9%E7%B5%95%E5%80%AB/id6670430706?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-12-26",
+      "id": "6480028108",
+      "name": "Fantopia",
+      "developer": "FANTOPIA AISA PTE. LTD.",
+      "url": "https://apps.apple.com/hk/app/fantopia/id6480028108?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/22/22/c3222250-ea17-bc59-88d3-4eccee905563/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-04-22",
       "genres": [
         {
           "id": "6016",
@@ -169,70 +169,6 @@
     },
     {
       "rank": 11,
-      "id": "6758667154",
-      "name": "VibeShort：AI 短劇 & 熱門漫劇",
-      "developer": "AGILE QUADRANT MEDIA LIMITED",
-      "url": "https://apps.apple.com/hk/app/vibeshort-ai-%E7%9F%AD%E5%8A%87-%E7%86%B1%E9%96%80%E6%BC%AB%E5%8A%87/id6758667154?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/f9/2e/5bf92e8c-128d-e63a-9ed7-f4585db67861/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "id": "513829338",
-      "name": "大麦 - 电影、演出、体育购票平台",
-      "developer": "Beijing Damai Cultural Media Development Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/%E5%A4%A7%E9%BA%A6-%E7%94%B5%E5%BD%B1-%E6%BC%94%E5%87%BA-%E4%BD%93%E8%82%B2%E8%B4%AD%E7%A5%A8%E5%B9%B3%E5%8F%B0/id513829338?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/81/8b/fd818b59-42f2-2156-d18b-a736b8ad0d3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2012-04-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "id": "6447627028",
-      "name": "uutix-演唱會演出展覽購票平台",
-      "developer": "HONGKONG MAOYAN LIVE LIMITED",
-      "url": "https://apps.apple.com/hk/app/uutix-%E6%BC%94%E5%94%B1%E6%9C%83%E6%BC%94%E5%87%BA%E5%B1%95%E8%A6%BD%E8%B3%BC%E7%A5%A8%E5%B9%B3%E5%8F%B0/id6447627028?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/62/a5/2862a5a5-cf13-8dd1-817f-f17c336c117f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-09-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "id": "6445905219",
-      "name": "DramaBox - 全網熱門短劇、海量精品短視頻隨心看",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "url": "https://apps.apple.com/hk/app/dramabox-%E5%85%A8%E7%B6%B2%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87-%E6%B5%B7%E9%87%8F%E7%B2%BE%E5%93%81%E7%9F%AD%E8%A6%96%E9%A0%BB%E9%9A%A8%E5%BF%83%E7%9C%8B/id6445905219?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/97/9f/07979f7c-ae2a-57c3-7bc2-59a9bbaac868/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
       "id": "6514312894",
       "name": "FlickReels - AI故事短劇 重新定義敘事邊界",
       "developer": "FARSUN PTE. LTD.",
@@ -248,13 +184,77 @@
       ]
     },
     {
+      "rank": 12,
+      "id": "6445905219",
+      "name": "DramaBox - 全網熱門短劇、海量精品短視頻隨心看",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "url": "https://apps.apple.com/hk/app/dramabox-%E5%85%A8%E7%B6%B2%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87-%E6%B5%B7%E9%87%8F%E7%B2%BE%E5%93%81%E7%9F%AD%E8%A6%96%E9%A0%BB%E9%9A%A8%E5%BF%83%E7%9C%8B/id6445905219?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/97/9f/07979f7c-ae2a-57c3-7bc2-59a9bbaac868/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-18",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "513829338",
+      "name": "大麦 - 电影、演出、体育购票平台",
+      "developer": "Beijing Damai Cultural Media Development Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E5%A4%A7%E9%BA%A6-%E7%94%B5%E5%BD%B1-%E6%BC%94%E5%87%BA-%E4%BD%93%E8%82%B2%E8%B4%AD%E7%A5%A8%E5%B9%B3%E5%8F%B0/id513829338?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/81/8b/fd818b59-42f2-2156-d18b-a736b8ad0d3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2012-04-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "1636235979",
+      "name": "ReelShort - 全網熱門短劇盡情觀賞",
+      "developer": "NewLeaf Publishing",
+      "url": "https://apps.apple.com/hk/app/reelshort-%E5%85%A8%E7%B6%B2%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87%E7%9B%A1%E6%83%85%E8%A7%80%E8%B3%9E/id1636235979?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/28/2c/26282c66-9999-8579-4771-ff14ee341682/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-08-07",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "6447627028",
+      "name": "uutix-演唱會演出展覽購票平台",
+      "developer": "HONGKONG MAOYAN LIVE LIMITED",
+      "url": "https://apps.apple.com/hk/app/uutix-%E6%BC%94%E5%94%B1%E6%9C%83%E6%BC%94%E5%87%BA%E5%B1%95%E8%A6%BD%E8%B3%BC%E7%A5%A8%E5%B9%B3%E5%8F%B0/id6447627028?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/62/a5/2862a5a5-cf13-8dd1-817f-f17c336c117f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-09-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 16,
-      "id": "6654905600",
-      "name": "MoreTickets - 亞洲規模No.1演出門票交易平台",
-      "developer": "MORE TICKETS PTE. LIMITED",
-      "url": "https://apps.apple.com/hk/app/moretickets-%E4%BA%9E%E6%B4%B2%E8%A6%8F%E6%A8%A1no-1%E6%BC%94%E5%87%BA%E9%96%80%E7%A5%A8%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0/id6654905600?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/14/d2/ab14d288-1816-95b6-5999-fb80ab3f7e2f/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-09-04",
+      "id": "807365065",
+      "name": "MCL Cinemas - Ticketing",
+      "developer": "Multiplex Cinema Limited",
+      "url": "https://apps.apple.com/hk/app/mcl-cinemas-ticketing/id807365065?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/17/9a/a0179a89-4cc6-a293-9d44-251ddd14b5ac/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-02-12",
       "genres": [
         {
           "id": "6016",
@@ -265,12 +265,12 @@
     },
     {
       "rank": 17,
-      "id": "363590051",
-      "name": "Netflix",
-      "developer": "Netflix, Inc.",
-      "url": "https://apps.apple.com/hk/app/netflix/id363590051?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/91/60/809160d5-8984-b3ae-7c9b-a8e5db927df2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2016-01-06",
+      "id": "6758667154",
+      "name": "VibeShort：AI 短劇 & 熱門漫劇",
+      "developer": "AGILE QUADRANT MEDIA LIMITED",
+      "url": "https://apps.apple.com/hk/app/vibeshort-ai-%E7%9F%AD%E5%8A%87-%E7%86%B1%E9%96%80%E6%BC%AB%E5%8A%87/id6758667154?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/f9/2e/5bf92e8c-128d-e63a-9ed7-f4585db67861/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-25",
       "genres": [
         {
           "id": "6016",
@@ -281,12 +281,12 @@
     },
     {
       "rank": 18,
-      "id": "6480028108",
-      "name": "Fantopia",
-      "developer": "FANTOPIA AISA PTE. LTD.",
-      "url": "https://apps.apple.com/hk/app/fantopia/id6480028108?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/22/22/c3222250-ea17-bc59-88d3-4eccee905563/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-04-22",
+      "id": "363590051",
+      "name": "Netflix",
+      "developer": "Netflix, Inc.",
+      "url": "https://apps.apple.com/hk/app/netflix/id363590051?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/91/60/809160d5-8984-b3ae-7c9b-a8e5db927df2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2016-01-06",
       "genres": [
         {
           "id": "6016",
@@ -313,12 +313,12 @@
     },
     {
       "rank": 20,
-      "id": "6757742913",
-      "name": "Veritickets - 演出賽事票務平台",
-      "developer": "FUNTEE PTE. LTD.",
-      "url": "https://apps.apple.com/hk/app/veritickets-%E6%BC%94%E5%87%BA%E8%B3%BD%E4%BA%8B%E7%A5%A8%E5%8B%99%E5%B9%B3%E5%8F%B0/id6757742913?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/d1/ff/6ed1ffa7-d2d5-5ef3-f050-1be2efb0dc49/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-02",
+      "id": "6670430706",
+      "name": "DramaWave- 熱門短劇/日劇/韓劇，復仇逆襲精彩絕倫",
+      "developer": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/hk/app/dramawave-%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87-%E6%97%A5%E5%8A%87-%E9%9F%93%E5%8A%87-%E5%BE%A9%E4%BB%87%E9%80%86%E8%A5%B2%E7%B2%BE%E5%BD%A9%E7%B5%95%E5%80%AB/id6670430706?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-12-26",
       "genres": [
         {
           "id": "6016",
@@ -329,6 +329,22 @@
     },
     {
       "rank": 21,
+      "id": "6654905600",
+      "name": "MoreTickets - 亞洲規模No.1演出門票交易平台",
+      "developer": "MORE TICKETS PTE. LIMITED",
+      "url": "https://apps.apple.com/hk/app/moretickets-%E4%BA%9E%E6%B4%B2%E8%A6%8F%E6%A8%A1no-1%E6%BC%94%E5%87%BA%E9%96%80%E7%A5%A8%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0/id6654905600?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/14/d2/ab14d288-1816-95b6-5999-fb80ab3f7e2f/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-09-04",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
       "id": "1461999674",
       "name": "iQIYI -《愛情有煙火》熱播中",
       "developer": "IQIYI INTERNATIONAL SINGAPORE PTE. LTD.",
@@ -344,151 +360,7 @@
       ]
     },
     {
-      "rank": 22,
-      "id": "6469772210",
-      "name": "NAMCO HK",
-      "developer": "NAMCO ENTERPRISES ASIA Ltd.",
-      "url": "https://apps.apple.com/hk/app/namco-hk/id6469772210?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/6e/91/556e91d7-74d9-45d9-7ea5-ad73a4756c4c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2023-11-19",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 23,
-      "id": "458318329",
-      "name": "腾讯视频-《兰香如故》独播",
-      "developer": "Tencent Technology (Shenzhen) Company Limited",
-      "url": "https://apps.apple.com/hk/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85-%E7%8B%AC%E6%92%AD/id458318329?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/85/0f/eb850f77-1c48-ff35-306a-d2091746ceab/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-09-21",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "id": "953433135",
-      "name": "viagogo Tickets",
-      "developer": "viagogo",
-      "url": "https://apps.apple.com/hk/app/viagogo-tickets/id953433135?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5f/55/d65f5587-e17e-fa2d-e83a-5f54e004ceb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2015-07-31",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "id": "495369748",
-      "name": "Steam Mobile",
-      "developer": "Valve",
-      "url": "https://apps.apple.com/hk/app/steam-mobile/id495369748?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e1/8d/1de18df0-9f13-4bdb-728a-ddc7ecaf9849/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-01-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "807365065",
-      "name": "MCL Cinemas - Ticketing",
-      "developer": "Multiplex Cinema Limited",
-      "url": "https://apps.apple.com/hk/app/mcl-cinemas-ticketing/id807365065?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/17/9a/a0179a89-4cc6-a293-9d44-251ddd14b5ac/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-02-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "1619761040",
-      "name": "YOUKU - 電視劇、電影、綜藝、動漫",
-      "developer": "Jet Brilliant Inc.",
-      "url": "https://apps.apple.com/hk/app/youku-%E9%9B%BB%E8%A6%96%E5%8A%87-%E9%9B%BB%E5%BD%B1-%E7%B6%9C%E8%97%9D-%E5%8B%95%E6%BC%AB/id1619761040?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/85/32/a4853232-e0c4-5550-06a5-7ce985e6f310/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-07-08",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "id": "336141475",
-      "name": "优酷视频-《无可替代》全网独播",
-      "developer": "Youku.com Inc.",
-      "url": "https://apps.apple.com/hk/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id336141475?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/e5/93/dfe5939f-bb8d-f358-0627-4bd32dcda759/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2010-03-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "id": "371680815",
-      "name": "RTHK隨身版",
-      "developer": "Radio Television Hong Kong",
-      "url": "https://apps.apple.com/hk/app/rthk%E9%9A%A8%E8%BA%AB%E7%89%88/id371680815?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/99/ca/2899caaf-4ba2-1863-fa30-ca900f7af369/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2010-05-30",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "id": "1077150310",
-      "name": "Riot Mobile",
-      "developer": "Riot Games",
-      "url": "https://apps.apple.com/hk/app/riot-mobile/id1077150310?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/3d/a7/573da7fe-a329-953d-9e3f-f37928744dd1/Prod_AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-02",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
       "id": "1294743651",
       "name": "EMPEROR CINEMAS",
       "developer": "Emperor Group",
@@ -504,13 +376,13 @@
       ]
     },
     {
-      "rank": 32,
-      "id": "504274740",
-      "name": "猫眼-演唱会音乐节脱口秀电影话剧音乐剧展览密室逃脱剧本杀玩乐",
-      "developer": "Beijing Maoyan Culture Media Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/%E7%8C%AB%E7%9C%BC-%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E4%B9%90%E8%8A%82%E8%84%B1%E5%8F%A3%E7%A7%80%E7%94%B5%E5%BD%B1%E8%AF%9D%E5%89%A7%E9%9F%B3%E4%B9%90%E5%89%A7%E5%B1%95%E8%A7%88%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E5%89%A7%E6%9C%AC%E6%9D%80%E7%8E%A9%E4%B9%90/id504274740?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/93/5d/18935dff-1aad-50c3-8bfa-c2feba69c28e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-02-28",
+      "rank": 24,
+      "id": "6757742913",
+      "name": "Veritickets - 演出賽事票務平台",
+      "developer": "FUNTEE PTE. LTD.",
+      "url": "https://apps.apple.com/hk/app/veritickets-%E6%BC%94%E5%87%BA%E8%B3%BD%E4%BA%8B%E7%A5%A8%E5%8B%99%E5%B9%B3%E5%8F%B0/id6757742913?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/d1/ff/6ed1ffa7-d2d5-5ef3-f050-1be2efb0dc49/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-02",
       "genres": [
         {
           "id": "6016",
@@ -520,13 +392,13 @@
       ]
     },
     {
-      "rank": 33,
-      "id": "1666653815",
-      "name": "HBO Max：串流播放電視節目和電影",
-      "developer": "WarnerMedia Global Digital Services, LLC",
-      "url": "https://apps.apple.com/hk/app/hbo-max-%E4%B8%B2%E6%B5%81%E6%92%AD%E6%94%BE%E9%9B%BB%E8%A6%96%E7%AF%80%E7%9B%AE%E5%92%8C%E9%9B%BB%E5%BD%B1/id1666653815?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/a6/10/54a61045-95b0-4368-3aa0-77ecad9f5dd5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-11-18",
+      "rank": 25,
+      "id": "458318329",
+      "name": "腾讯视频-《兰香如故》独播",
+      "developer": "Tencent Technology (Shenzhen) Company Limited",
+      "url": "https://apps.apple.com/hk/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85-%E7%8B%AC%E6%92%AD/id458318329?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/85/0f/eb850f77-1c48-ff35-306a-d2091746ceab/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-09-21",
       "genres": [
         {
           "id": "6016",
@@ -536,13 +408,13 @@
       ]
     },
     {
-      "rank": 34,
-      "id": "1441531611",
-      "name": "WeTV - 騰訊視頻海外版",
-      "developer": "Image Future Investment (HK) Limited",
-      "url": "https://apps.apple.com/hk/app/wetv-%E9%A8%B0%E8%A8%8A%E8%A6%96%E9%A0%BB%E6%B5%B7%E5%A4%96%E7%89%88/id1441531611?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/25/72/8825725c-9f33-261b-b164-9e7de09c08c0/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2019-07-19",
+      "rank": 26,
+      "id": "953433135",
+      "name": "viagogo Tickets",
+      "developer": "viagogo",
+      "url": "https://apps.apple.com/hk/app/viagogo-tickets/id953433135?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5f/55/d65f5587-e17e-fa2d-e83a-5f54e004ceb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-07-31",
       "genres": [
         {
           "id": "6016",
@@ -552,13 +424,13 @@
       ]
     },
     {
-      "rank": 35,
-      "id": "6502377927",
-      "name": "StardustTV - 熱門短劇、甜寵爽劇隨心看",
-      "developer": "Hongxing Media Co., Limited",
-      "url": "https://apps.apple.com/hk/app/stardusttv-%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87-%E7%94%9C%E5%AF%B5%E7%88%BD%E5%8A%87%E9%9A%A8%E5%BF%83%E7%9C%8B/id6502377927?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/32/10/ea32103f-337e-3001-64a4-5e891f0348c7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-07-03",
+      "rank": 27,
+      "id": "336141475",
+      "name": "优酷视频-《无可替代》全网独播",
+      "developer": "Youku.com Inc.",
+      "url": "https://apps.apple.com/hk/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id336141475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/e5/93/dfe5939f-bb8d-f358-0627-4bd32dcda759/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2010-03-13",
       "genres": [
         {
           "id": "6016",
@@ -568,13 +440,13 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "1446075923",
-      "name": "Disney+",
-      "developer": "Disney",
-      "url": "https://apps.apple.com/hk/app/disney/id1446075923?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/92/b0/a392b0e7-2c60-7d7e-6f31-2b94754d37b7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-11-15",
+      "rank": 28,
+      "id": "1619761040",
+      "name": "YOUKU - 電視劇、電影、綜藝、動漫",
+      "developer": "Jet Brilliant Inc.",
+      "url": "https://apps.apple.com/hk/app/youku-%E9%9B%BB%E8%A6%96%E5%8A%87-%E9%9B%BB%E5%BD%B1-%E7%B6%9C%E8%97%9D-%E5%8B%95%E6%BC%AB/id1619761040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/85/32/a4853232-e0c4-5550-06a5-7ce985e6f310/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-07-08",
       "genres": [
         {
           "id": "6016",
@@ -584,13 +456,13 @@
       ]
     },
     {
-      "rank": 37,
-      "id": "403690922",
-      "name": "Broadway Circuit 百老匯院線",
-      "developer": "Golden Dynamic Enterprises Limited",
-      "url": "https://apps.apple.com/hk/app/broadway-circuit-%E7%99%BE%E8%80%81%E5%8C%AF%E9%99%A2%E7%B7%9A/id403690922?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/8b/8e/598b8e6b-43c5-4654-c12f-24de1bd6b190/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2010-11-13",
+      "rank": 29,
+      "id": "495369748",
+      "name": "Steam Mobile",
+      "developer": "Valve",
+      "url": "https://apps.apple.com/hk/app/steam-mobile/id495369748?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e1/8d/1de18df0-9f13-4bdb-728a-ddc7ecaf9849/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-01-26",
       "genres": [
         {
           "id": "6016",
@@ -600,55 +472,7 @@
       ]
     },
     {
-      "rank": 38,
-      "id": "6464002625",
-      "name": "ShortMax - 海量熱門短劇、全網爽劇盡情觀賞！",
-      "developer": "SHORTTV LIMITED",
-      "url": "https://apps.apple.com/hk/app/shortmax-%E6%B5%B7%E9%87%8F%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87-%E5%85%A8%E7%B6%B2%E7%88%BD%E5%8A%87%E7%9B%A1%E6%83%85%E8%A7%80%E8%B3%9E/id6464002625?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/9d/a5/f59da5d2-d870-2370-e022-8dc0a98ab993/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-11",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "501956183",
-      "name": "Now TV - 體育、新聞、娛樂、紀實 一APP即買即睇",
-      "developer": "Now TV Limited",
-      "url": "https://apps.apple.com/hk/app/now-tv-%E9%AB%94%E8%82%B2-%E6%96%B0%E8%81%9E-%E5%A8%9B%E6%A8%82-%E7%B4%80%E5%AF%A6-%E4%B8%80app%E5%8D%B3%E8%B2%B7%E5%8D%B3%E7%9D%87/id501956183?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/3f/9e/183f9e42-61f4-b156-f558-faf9e67c854e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-05-09",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "6756250570",
-      "name": "Prank App - Voice Changer",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "url": "https://apps.apple.com/hk/app/prank-app-voice-changer/id6756250570?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/30/8f/3c308fd0-3c4b-a556-259e-d0d0c9459358/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-10",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
+      "rank": 30,
       "id": "1476921059",
       "name": "Wefun-語音、聊天、派對、遊戲",
       "developer": "FUCONNECT PTE. LTD.",
@@ -664,7 +488,151 @@
       ]
     },
     {
-      "rank": 42,
+      "rank": 31,
+      "id": "371680815",
+      "name": "RTHK隨身版",
+      "developer": "Radio Television Hong Kong",
+      "url": "https://apps.apple.com/hk/app/rthk%E9%9A%A8%E8%BA%AB%E7%89%88/id371680815?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/99/ca/2899caaf-4ba2-1863-fa30-ca900f7af369/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2010-05-30",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1446075923",
+      "name": "Disney+",
+      "developer": "Disney",
+      "url": "https://apps.apple.com/hk/app/disney/id1446075923?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/a3/33/5aa333ba-cc14-bead-a8e5-4345b87cc887/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-11-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "1441531611",
+      "name": "WeTV - 騰訊視頻海外版",
+      "developer": "Image Future Investment (HK) Limited",
+      "url": "https://apps.apple.com/hk/app/wetv-%E9%A8%B0%E8%A8%8A%E8%A6%96%E9%A0%BB%E6%B5%B7%E5%A4%96%E7%89%88/id1441531611?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/25/72/8825725c-9f33-261b-b164-9e7de09c08c0/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-07-19",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "6464002625",
+      "name": "ShortMax - 海量熱門短劇、全網爽劇盡情觀賞！",
+      "developer": "SHORTTV LIMITED",
+      "url": "https://apps.apple.com/hk/app/shortmax-%E6%B5%B7%E9%87%8F%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87-%E5%85%A8%E7%B6%B2%E7%88%BD%E5%8A%87%E7%9B%A1%E6%83%85%E8%A7%80%E8%B3%9E/id6464002625?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/9d/a5/f59da5d2-d870-2370-e022-8dc0a98ab993/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-11",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "1077150310",
+      "name": "Riot Mobile",
+      "developer": "Riot Games",
+      "url": "https://apps.apple.com/hk/app/riot-mobile/id1077150310?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/3d/a7/573da7fe-a329-953d-9e3f-f37928744dd1/Prod_AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "403690922",
+      "name": "Broadway Circuit 百老匯院線",
+      "developer": "Golden Dynamic Enterprises Limited",
+      "url": "https://apps.apple.com/hk/app/broadway-circuit-%E7%99%BE%E8%80%81%E5%8C%AF%E9%99%A2%E7%B7%9A/id403690922?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/8b/8e/598b8e6b-43c5-4654-c12f-24de1bd6b190/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2010-11-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "504274740",
+      "name": "猫眼-演唱会音乐节脱口秀电影话剧音乐剧展览密室逃脱剧本杀玩乐",
+      "developer": "Beijing Maoyan Culture Media Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E7%8C%AB%E7%9C%BC-%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E4%B9%90%E8%8A%82%E8%84%B1%E5%8F%A3%E7%A7%80%E7%94%B5%E5%BD%B1%E8%AF%9D%E5%89%A7%E9%9F%B3%E4%B9%90%E5%89%A7%E5%B1%95%E8%A7%88%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E5%89%A7%E6%9C%AC%E6%9D%80%E7%8E%A9%E4%B9%90/id504274740?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/93/5d/18935dff-1aad-50c3-8bfa-c2feba69c28e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-02-28",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "501956183",
+      "name": "Now TV - 體育、新聞、娛樂、紀實 一APP即買即睇",
+      "developer": "Now TV Limited",
+      "url": "https://apps.apple.com/hk/app/now-tv-%E9%AB%94%E8%82%B2-%E6%96%B0%E8%81%9E-%E5%A8%9B%E6%A8%82-%E7%B4%80%E5%AF%A6-%E4%B8%80app%E5%8D%B3%E8%B2%B7%E5%8D%B3%E7%9D%87/id501956183?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/3f/9e/183f9e42-61f4-b156-f558-faf9e67c854e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-05-09",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6756250570",
+      "name": "Prank App - Voice Changer",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "url": "https://apps.apple.com/hk/app/prank-app-voice-changer/id6756250570?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/30/8f/3c308fd0-3c4b-a556-259e-d0d0c9459358/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
       "id": "1054861613",
       "name": "摩天轮-演唱会、赛事、剧",
       "developer": "Shanghai RuiShang Information Technology Co., Ltd.",
@@ -680,7 +648,23 @@
       ]
     },
     {
-      "rank": 43,
+      "rank": 41,
+      "id": "1666653815",
+      "name": "HBO Max：串流播放電視節目和電影",
+      "developer": "WarnerMedia Global Digital Services, LLC",
+      "url": "https://apps.apple.com/hk/app/hbo-max-%E4%B8%B2%E6%B5%81%E6%92%AD%E6%94%BE%E9%9B%BB%E8%A6%96%E7%AF%80%E7%9B%AE%E5%92%8C%E9%9B%BB%E5%BD%B1/id1666653815?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/a6/10/54a61045-95b0-4368-3aa0-77ecad9f5dd5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-11-18",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
       "id": "1044456188",
       "name": "Patreon",
       "developer": "Patreon",
@@ -696,13 +680,29 @@
       ]
     },
     {
+      "rank": 43,
+      "id": "6741790631",
+      "name": "Crushie Al：AI聊天與陪伴，虛擬主角的沉浸式互動",
+      "developer": "SoulZ AI Inc.",
+      "url": "https://apps.apple.com/hk/app/crushie-al-ai%E8%81%8A%E5%A4%A9%E8%88%87%E9%99%AA%E4%BC%B4-%E8%99%9B%E6%93%AC%E4%B8%BB%E8%A7%92%E7%9A%84%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BA%92%E5%8B%95/id6741790631?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/66/6e/8b666efd-7613-b877-ad7a-dfef9e99f3af/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-03-31",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 44,
-      "id": "910513149",
-      "name": "全民K歌-抢麦新玩法",
-      "developer": "Tencent Technology (Shanghai) Company Limited",
-      "url": "https://apps.apple.com/hk/app/%E5%85%A8%E6%B0%91k%E6%AD%8C-%E6%8A%A2%E9%BA%A6%E6%96%B0%E7%8E%A9%E6%B3%95/id910513149?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/11/6f/36116fdb-2150-2f7a-9964-5594706df873/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-09-09",
+      "id": "6502377927",
+      "name": "StardustTV - 熱門短劇、甜寵爽劇隨心看",
+      "developer": "Hongxing Media Co., Limited",
+      "url": "https://apps.apple.com/hk/app/stardusttv-%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87-%E7%94%9C%E5%AF%B5%E7%88%BD%E5%8A%87%E9%9A%A8%E5%BF%83%E7%9C%8B/id6502377927?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/32/10/ea32103f-337e-3001-64a4-5e891f0348c7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-03",
       "genres": [
         {
           "id": "6016",
@@ -713,12 +713,12 @@
     },
     {
       "rank": 45,
-      "id": "448292203",
-      "name": "Neway",
-      "developer": "Neway Karaoke Box Ltd.",
-      "url": "https://apps.apple.com/hk/app/neway/id448292203?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/2f/a2/2e2fa2ed-ff3a-ae26-68ec-9713a6ccfaf3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2011-08-15",
+      "id": "1568014274",
+      "name": "Dino - 遇見新朋友",
+      "developer": "THE GREAT DINO LIMITED",
+      "url": "https://apps.apple.com/hk/app/dino-%E9%81%87%E8%A6%8B%E6%96%B0%E6%9C%8B%E5%8F%8B/id1568014274?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/73/ad/b873ad85-80a2-741d-582c-f6e4b1324be1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-10",
       "genres": [
         {
           "id": "6016",
@@ -729,12 +729,12 @@
     },
     {
       "rank": 46,
-      "id": "410896080",
-      "name": "PlayStation App",
-      "developer": "PlayStation Mobile Inc.",
-      "url": "https://apps.apple.com/hk/app/playstation-app/id410896080?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/8b/15/1f8b15f6-836e-4f85-9562-42f6945e7d41/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2013-12-11",
+      "id": "6717572591",
+      "name": "pump.fun - speculate on trends",
+      "developer": "Maius Imperium Limited",
+      "url": "https://apps.apple.com/hk/app/pump-fun-speculate-on-trends/id6717572591?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/51/bf/5651bf09-f6f8-af6c-753f-7717b6668cf4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-10-03",
       "genres": [
         {
           "id": "6016",
@@ -761,12 +761,12 @@
     },
     {
       "rank": 48,
-      "id": "6572286716",
-      "name": "Lovory：互動戀愛短劇",
-      "developer": "Future Copilot (HK) Limited",
-      "url": "https://apps.apple.com/hk/app/lovory-%E4%BA%92%E5%8B%95%E6%88%80%E6%84%9B%E7%9F%AD%E5%8A%87/id6572286716?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/59/7d/a5597dd9-09bd-e500-5bfd-90efcf882b9a/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/100x100bb.png",
-      "release_date": "2024-08-28",
+      "id": "910513149",
+      "name": "全民K歌-抢麦新玩法",
+      "developer": "Tencent Technology (Shanghai) Company Limited",
+      "url": "https://apps.apple.com/hk/app/%E5%85%A8%E6%B0%91k%E6%AD%8C-%E6%8A%A2%E9%BA%A6%E6%96%B0%E7%8E%A9%E6%B3%95/id910513149?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/11/6f/36116fdb-2150-2f7a-9964-5594706df873/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-09-09",
       "genres": [
         {
           "id": "6016",
@@ -777,12 +777,12 @@
     },
     {
       "rank": 49,
-      "id": "6764007927",
-      "name": "Amorshort",
-      "developer": "American Zhihe Information Technology LLC",
-      "url": "https://apps.apple.com/hk/app/amorshort/id6764007927?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6e/f6/976ef674-8cd2-aa09-e50e-d14c8b566681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-30",
+      "id": "448292203",
+      "name": "Neway",
+      "developer": "Neway Karaoke Box Ltd.",
+      "url": "https://apps.apple.com/hk/app/neway/id448292203?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/2f/a2/2e2fa2ed-ff3a-ae26-68ec-9713a6ccfaf3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2011-08-15",
       "genres": [
         {
           "id": "6016",
@@ -793,118 +793,6 @@
     },
     {
       "rank": 50,
-      "id": "6741790631",
-      "name": "Crushie Al：AI聊天與陪伴，虛擬主角的沉浸式互動",
-      "developer": "SoulZ AI Inc.",
-      "url": "https://apps.apple.com/hk/app/crushie-al-ai%E8%81%8A%E5%A4%A9%E8%88%87%E9%99%AA%E4%BC%B4-%E8%99%9B%E6%93%AC%E4%B8%BB%E8%A7%92%E7%9A%84%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BA%92%E5%8B%95/id6741790631?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/66/6e/8b666efd-7613-b877-ad7a-dfef9e99f3af/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-03-31",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "1557823712",
-      "name": "WePlay - 線上桌遊吧",
-      "developer": "WEJOY PTE. LTD.",
-      "url": "https://apps.apple.com/hk/app/weplay-%E7%B7%9A%E4%B8%8A%E6%A1%8C%E9%81%8A%E5%90%A7/id1557823712?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/0c/94/960c94ed-ebe1-6ac5-291c-25a7f33ff7d4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "463715309",
-      "name": "Hong Kong Toolbar",
-      "developer": "Commercial Radio Interactive",
-      "url": "https://apps.apple.com/hk/app/hong-kong-toolbar/id463715309?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/91/1d/16911dda-f2b8-8190-b6f5-e4d7cd212654/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2011-10-02",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1252347596",
-      "name": "冒險樂園",
-      "developer": "Jumpin Gym U.S.A Ltd",
-      "url": "https://apps.apple.com/hk/app/%E5%86%92%E9%9A%AA%E6%A8%82%E5%9C%92/id1252347596?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ce/dc/b3cedc28-7f3e-3ea4-6b1b-f64e42e4b971/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2017-07-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "1234806557",
-      "name": "Nintendo Switch App",
-      "developer": "Nintendo Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/nintendo-switch-app/id1234806557?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/59/33/b55933e1-949c-4a34-a00c-a02f35df610b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-04-21",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "6448176203",
-      "name": "GoodShort (夯短劇) - 全台豐富熱門短劇隨心看",
-      "developer": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD.",
-      "url": "https://apps.apple.com/hk/app/goodshort-%E5%A4%AF%E7%9F%AD%E5%8A%87-%E5%85%A8%E5%8F%B0%E8%B1%90%E5%AF%8C%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87%E9%9A%A8%E5%BF%83%E7%9C%8B/id6448176203?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b3/47/6db347c4-e4d6-bc06-c108-68eccb8bcb74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "1568014274",
-      "name": "Dino - 遇見新朋友",
-      "developer": "THE GREAT DINO LIMITED",
-      "url": "https://apps.apple.com/hk/app/dino-%E9%81%87%E8%A6%8B%E6%96%B0%E6%9C%8B%E5%8F%8B/id1568014274?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/73/ad/b873ad85-80a2-741d-582c-f6e4b1324be1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-06-10",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
       "id": "746894884",
       "name": "Google TV：觀看電影與電視節目",
       "developer": "Google",
@@ -920,7 +808,71 @@
       ]
     },
     {
-      "rank": 58,
+      "rank": 51,
+      "id": "410896080",
+      "name": "PlayStation App",
+      "developer": "PlayStation Mobile Inc.",
+      "url": "https://apps.apple.com/hk/app/playstation-app/id410896080?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/8b/15/1f8b15f6-836e-4f85-9562-42f6945e7d41/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-12-11",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "1234806557",
+      "name": "Nintendo Switch App",
+      "developer": "Nintendo Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/nintendo-switch-app/id1234806557?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/59/33/b55933e1-949c-4a34-a00c-a02f35df610b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-04-21",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "545519333",
+      "name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/hk/app/amazon-prime-video/id545519333?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/b8/7b/d8b87b64-ab21-e7f3-504b-95058905d555/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-12-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6448176203",
+      "name": "GoodShort (夯短劇) - 全台豐富熱門短劇隨心看",
+      "developer": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD.",
+      "url": "https://apps.apple.com/hk/app/goodshort-%E5%A4%AF%E7%9F%AD%E5%8A%87-%E5%85%A8%E5%8F%B0%E8%B1%90%E5%AF%8C%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87%E9%9A%A8%E5%BF%83%E7%9C%8B/id6448176203?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b3/47/6db347c4-e4d6-bc06-c108-68eccb8bcb74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-12",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
       "id": "1080187984",
       "name": "myTV SUPER - 原創、劇集、綜藝等精彩節目",
       "developer": "TVB",
@@ -936,12 +888,28 @@
       ]
     },
     {
-      "rank": 59,
+      "rank": 56,
+      "id": "463715309",
+      "name": "Hong Kong Toolbar",
+      "developer": "Commercial Radio Interactive",
+      "url": "https://apps.apple.com/hk/app/hong-kong-toolbar/id463715309?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/91/1d/16911dda-f2b8-8190-b6f5-e4d7cd212654/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
       "id": "1313147771",
       "name": "Tokyo Disney Resort App",
       "developer": "Oriental Land Co., Ltd.",
       "url": "https://apps.apple.com/hk/app/tokyo-disney-resort-app/id1313147771?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/45/dc/6445dcda-dc07-85f1-d671-ffc22cd9201b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/7c/4c/3f7c4c22-c7de-4e8a-6fd9-12b22c0c5dd3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "release_date": "2020-06-28",
       "genres": [
         {
@@ -952,13 +920,13 @@
       ]
     },
     {
-      "rank": 60,
-      "id": "1244505010",
-      "name": "小黑盒 - 八千万游戏玩家社区",
-      "developer": "Qingfeng(Beijing)Technology Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/%E5%B0%8F%E9%BB%91%E7%9B%92-%E5%85%AB%E5%8D%83%E4%B8%87%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E7%A4%BE%E5%8C%BA/id1244505010?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/59/17/a0591734-a5ca-6f40-9b40-713e7a09f0a0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-07-22",
+      "rank": 58,
+      "id": "1557823712",
+      "name": "WePlay - 線上桌遊吧",
+      "developer": "WEJOY PTE. LTD.",
+      "url": "https://apps.apple.com/hk/app/weplay-%E7%B7%9A%E4%B8%8A%E6%A1%8C%E9%81%8A%E5%90%A7/id1557823712?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/0c/94/960c94ed-ebe1-6ac5-291c-25a7f33ff7d4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-26",
       "genres": [
         {
           "id": "6016",
@@ -968,87 +936,7 @@
       ]
     },
     {
-      "rank": 61,
-      "id": "545519333",
-      "name": "Amazon Prime Video",
-      "developer": "AMZN Mobile LLC",
-      "url": "https://apps.apple.com/hk/app/amazon-prime-video/id545519333?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/bc/cb/a4bccbb1-7a9d-f2dd-fdc2-dbba3ec4b266/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2016-12-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "871095743",
-      "name": "虎牙直播-游戏互动直播平台",
-      "developer": "广州虎牙信息科技有限公司",
-      "url": "https://apps.apple.com/hk/app/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD-%E6%B8%B8%E6%88%8F%E4%BA%92%E5%8A%A8%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0/id871095743?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/36/af/1936af3a-072e-963e-1f21-e50d676bef2d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-06-09",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "6717572591",
-      "name": "pump.fun - speculate on trends",
-      "developer": "Maius Imperium Limited",
-      "url": "https://apps.apple.com/hk/app/pump-fun-speculate-on-trends/id6717572591?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/51/bf/5651bf09-f6f8-af6c-753f-7717b6668cf4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-10-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "6468901311",
-      "name": "Enjoy - AI 小鎮",
-      "developer": "Enjoy Global, Inc.",
-      "url": "https://apps.apple.com/hk/app/enjoy-ai-%E5%B0%8F%E9%8E%AE/id6468901311?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/d1/fc/cdd1fc0e-5b0d-bbc2-fbd2-1b44bea41385/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-30",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "1248884143",
-      "name": "香港收音機 HK Radio for Hong Kong",
-      "developer": "Likely Labs LTD",
-      "url": "https://apps.apple.com/hk/app/%E9%A6%99%E6%B8%AF%E6%94%B6%E9%9F%B3%E6%A9%9F-hk-radio-for-hong-kong/id1248884143?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/29/1b/70291bf6-6522-4eef-3433-1973f426a0fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-06-22",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
+      "rank": 59,
       "id": "1036095179",
       "name": "Viu",
       "developer": "PCCW OTT (Hong Kong) Limited",
@@ -1064,13 +952,125 @@
       ]
     },
     {
+      "rank": 60,
+      "id": "1389775096",
+      "name": "teamLab",
+      "developer": "teamLab Inc.",
+      "url": "https://apps.apple.com/hk/app/teamlab/id1389775096?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ed/52/a4ed526c-106e-5b51-495f-a5a4deade52f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-06-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6739925704",
+      "name": "Floze：沉浸式 AI 角色聊天與互動",
+      "developer": "Printage inc.",
+      "url": "https://apps.apple.com/hk/app/floze-%E6%B2%89%E6%B5%B8%E5%BC%8F-ai-%E8%A7%92%E8%89%B2%E8%81%8A%E5%A4%A9%E8%88%87%E4%BA%92%E5%8B%95/id6739925704?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/f3/1f/4cf31f5b-0a99-66b6-213e-7cbdb2794bca/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-28",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "6764007927",
+      "name": "Amorshort",
+      "developer": "American Zhihe Information Technology LLC",
+      "url": "https://apps.apple.com/hk/app/amorshort/id6764007927?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6e/f6/976ef674-8cd2-aa09-e50e-d14c8b566681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-30",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "871095743",
+      "name": "虎牙直播-游戏互动直播平台",
+      "developer": "广州虎牙信息科技有限公司",
+      "url": "https://apps.apple.com/hk/app/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD-%E6%B8%B8%E6%88%8F%E4%BA%92%E5%8A%A8%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0/id871095743?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/36/af/1936af3a-072e-963e-1f21-e50d676bef2d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-06-09",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6768593043",
+      "name": "BlinkDrama：每日短劇精選",
+      "developer": "Atlas Ventures Culture & Technology Limited",
+      "url": "https://apps.apple.com/hk/app/blinkdrama-%E6%AF%8F%E6%97%A5%E7%9F%AD%E5%8A%87%E7%B2%BE%E9%81%B8/id6768593043?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/2e/cf/972ecfe5-9000-fc79-9b76-4c67ad809c8e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-29",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1252347596",
+      "name": "冒險樂園",
+      "developer": "Jumpin Gym U.S.A Ltd",
+      "url": "https://apps.apple.com/hk/app/%E5%86%92%E9%9A%AA%E6%A8%82%E5%9C%92/id1252347596?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ce/dc/b3cedc28-7f3e-3ea4-6b1b-f64e42e4b971/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2017-07-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6748804238",
+      "name": "Frontia：AI 電影級互動劇",
+      "developer": "Deepgrov Co., Ltd",
+      "url": "https://apps.apple.com/hk/app/frontia-ai-%E9%9B%BB%E5%BD%B1%E7%B4%9A%E4%BA%92%E5%8B%95%E5%8A%87/id6748804238?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/85/d3/1d85d3d9-61a4-6a11-6d4e-a069daeda2b4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-31",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 67,
-      "id": "1102650114",
-      "name": "巴哈姆特動畫瘋",
-      "developer": "ONEUP NETWORK CORPORATION",
-      "url": "https://apps.apple.com/hk/app/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E5%8B%95%E7%95%AB%E7%98%8B/id1102650114?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/c5/77/98c57718-5a7c-e96d-ffc1-fe33166645df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-05-08",
+      "id": "1664036357",
+      "name": "他TA星球 - 語音連結的溫暖宇宙",
+      "developer": "Hainan Xinhe Network Technology Company Limited.",
+      "url": "https://apps.apple.com/hk/app/%E4%BB%96ta%E6%98%9F%E7%90%83-%E8%AA%9E%E9%9F%B3%E9%80%A3%E7%B5%90%E7%9A%84%E6%BA%AB%E6%9A%96%E5%AE%87%E5%AE%99/id1664036357?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/94/99/1b9499f6-23be-b2c6-b29f-dbad5f412527/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-01-16",
       "genres": [
         {
           "id": "6016",
@@ -1081,12 +1081,12 @@
     },
     {
       "rank": 68,
-      "id": "1641638840",
-      "name": "coogoong",
-      "developer": "QUICKWINSTUDIO",
-      "url": "https://apps.apple.com/hk/app/coogoong/id1641638840?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/51/ab/da51abfb-3bca-3609-6c1c-125d75ec529a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-12-01",
+      "id": "6468901311",
+      "name": "Enjoy - AI 小鎮",
+      "developer": "Enjoy Global, Inc.",
+      "url": "https://apps.apple.com/hk/app/enjoy-ai-%E5%B0%8F%E9%8E%AE/id6468901311?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/d1/fc/cdd1fc0e-5b0d-bbc2-fbd2-1b44bea41385/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-30",
       "genres": [
         {
           "id": "6016",
@@ -1113,12 +1113,12 @@
     },
     {
       "rank": 70,
-      "id": "6763498117",
-      "name": "StoryFlick",
-      "developer": "KIMO CULTURE CO., LIMITED",
-      "url": "https://apps.apple.com/hk/app/storyflick/id6763498117?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/dd/f5/f7ddf5dd-7b97-cb0e-cb3a-7d66b03640b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-24",
+      "id": "1102650114",
+      "name": "巴哈姆特動畫瘋",
+      "developer": "ONEUP NETWORK CORPORATION",
+      "url": "https://apps.apple.com/hk/app/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E5%8B%95%E7%95%AB%E7%98%8B/id1102650114?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/c5/77/98c57718-5a7c-e96d-ffc1-fe33166645df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-05-08",
       "genres": [
         {
           "id": "6016",
@@ -1129,12 +1129,12 @@
     },
     {
       "rank": 71,
-      "id": "6739925704",
-      "name": "Floze：沉浸式 AI 角色聊天與互動",
-      "developer": "Printage inc.",
-      "url": "https://apps.apple.com/hk/app/floze-%E6%B2%89%E6%B5%B8%E5%BC%8F-ai-%E8%A7%92%E8%89%B2%E8%81%8A%E5%A4%A9%E8%88%87%E4%BA%92%E5%8B%95/id6739925704?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/f3/1f/4cf31f5b-0a99-66b6-213e-7cbdb2794bca/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-28",
+      "id": "1244505010",
+      "name": "小黑盒 - 八千万游戏玩家社区",
+      "developer": "Qingfeng(Beijing)Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E5%B0%8F%E9%BB%91%E7%9B%92-%E5%85%AB%E5%8D%83%E4%B8%87%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E7%A4%BE%E5%8C%BA/id1244505010?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/09/43/c709434e-bfe8-2738-8528-cdd5262e035d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-07-22",
       "genres": [
         {
           "id": "6016",
@@ -1161,12 +1161,12 @@
     },
     {
       "rank": 73,
-      "id": "6748804238",
-      "name": "Frontia：AI 電影級互動劇",
-      "developer": "Deepgrov Co., Ltd",
-      "url": "https://apps.apple.com/hk/app/frontia-ai-%E9%9B%BB%E5%BD%B1%E7%B4%9A%E4%BA%92%E5%8B%95%E5%8A%87/id6748804238?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/85/d3/1d85d3d9-61a4-6a11-6d4e-a069daeda2b4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-31",
+      "id": "1248884143",
+      "name": "香港收音機 HK Radio for Hong Kong",
+      "developer": "Likely Labs LTD",
+      "url": "https://apps.apple.com/hk/app/%E9%A6%99%E6%B8%AF%E6%94%B6%E9%9F%B3%E6%A9%9F-hk-radio-for-hong-kong/id1248884143?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/29/1b/70291bf6-6522-4eef-3433-1973f426a0fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-06-22",
       "genres": [
         {
           "id": "6016",
@@ -1177,12 +1177,12 @@
     },
     {
       "rank": 74,
-      "id": "1052455390",
-      "name": "票牛-演唱会音乐节购票平台",
-      "developer": "上海颂品网络科技有限公司",
-      "url": "https://apps.apple.com/hk/app/%E7%A5%A8%E7%89%9B-%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E4%B9%90%E8%8A%82%E8%B4%AD%E7%A5%A8%E5%B9%B3%E5%8F%B0/id1052455390?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/da/30/2eda30d2-6fa2-abb7-9597-be61c18f6aac/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-11-07",
+      "id": "6749289027",
+      "name": "影藝戲院",
+      "developer": "Vizualize Limited",
+      "url": "https://apps.apple.com/hk/app/%E5%BD%B1%E8%97%9D%E6%88%B2%E9%99%A2/id6749289027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/97/89/939789c8-55e5-c444-70de-2269dc3b9bda/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-07",
       "genres": [
         {
           "id": "6016",
@@ -1193,12 +1193,12 @@
     },
     {
       "rank": 75,
-      "id": "6768240254",
-      "name": "Drama: Watch Short Stories",
-      "developer": "Kuku Technologies Limited",
-      "url": "https://apps.apple.com/hk/app/drama-watch-short-stories/id6768240254?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d2/60/ffd260dc-f470-b64c-e2e8-1cb441dd8bef/appIconFreeDrama-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-09-01",
+      "id": "1456217076",
+      "name": "9.81 PARK",
+      "developer": "DSM Corporation",
+      "url": "https://apps.apple.com/hk/app/9-81-park/id1456217076?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/30/77/2d307737-ed15-633a-9cf2-b3745d42f25e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-31",
       "genres": [
         {
           "id": "6016",
@@ -1209,54 +1209,6 @@
     },
     {
       "rank": 76,
-      "id": "6768593043",
-      "name": "BlinkDrama：每日短劇精選",
-      "developer": "Atlas Ventures Culture & Technology Limited",
-      "url": "https://apps.apple.com/hk/app/blinkdrama-%E6%AF%8F%E6%97%A5%E7%9F%AD%E5%8A%87%E7%B2%BE%E9%81%B8/id6768593043?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/2e/cf/972ecfe5-9000-fc79-9b76-4c67ad809c8e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "1389775096",
-      "name": "teamLab",
-      "developer": "teamLab Inc.",
-      "url": "https://apps.apple.com/hk/app/teamlab/id1389775096?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ed/52/a4ed526c-106e-5b51-495f-a5a4deade52f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-06-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "1664036357",
-      "name": "他TA星球 - 語音連結的溫暖宇宙",
-      "developer": "Hainan Xinhe Network Technology Company Limited.",
-      "url": "https://apps.apple.com/hk/app/%E4%BB%96ta%E6%98%9F%E7%90%83-%E8%AA%9E%E9%9F%B3%E9%80%A3%E7%B5%90%E7%9A%84%E6%BA%AB%E6%9A%96%E5%AE%87%E5%AE%99/id1664036357?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/94/99/1b9499f6-23be-b2c6-b29f-dbad5f412527/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-01-16",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
       "id": "936971630",
       "name": "YouTube Kids",
       "developer": "Google",
@@ -1272,39 +1224,7 @@
       ]
     },
     {
-      "rank": 80,
-      "id": "6468945072",
-      "name": "PopoVibe: Shorts, Big Vibe",
-      "developer": "HK IReader Technology Limited",
-      "url": "https://apps.apple.com/hk/app/popovibe-shorts-big-vibe/id6468945072?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/c3/a4/51c3a4f5-a006-63cc-e4cd-0689109e3213/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-10-24",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "487922291",
-      "name": "Eventbrite",
-      "developer": "Eventbrite",
-      "url": "https://apps.apple.com/hk/app/eventbrite/id487922291?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c8/f7/22c8f7b1-cb93-db52-d703-6e36c6ff9067/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2011-12-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
+      "rank": 77,
       "id": "1295034410",
       "name": "芒果TV國際-Mango TV",
       "developer": "快乐阳光(香港)",
@@ -1320,55 +1240,7 @@
       ]
     },
     {
-      "rank": 83,
-      "id": "1241040030",
-      "name": "Battle.net",
-      "developer": "Blizzard Entertainment, Inc.",
-      "url": "https://apps.apple.com/hk/app/battle-net/id1241040030?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/97/fe/b097feb6-276a-e77c-dcb5-97fa054c5bda/AppIconGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-09-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "1456217076",
-      "name": "9.81 PARK",
-      "developer": "DSM Corporation",
-      "url": "https://apps.apple.com/hk/app/9-81-park/id1456217076?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/70/4c/1a704c00-edd8-dde3-e71b-3a2eb5329a06/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-05-31",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "6784152036",
-      "name": "碎片熱門小說",
-      "developer": "WU WEN PTE. LTD.",
-      "url": "https://apps.apple.com/hk/app/%E7%A2%8E%E7%89%87%E7%86%B1%E9%96%80%E5%B0%8F%E8%AA%AA/id6784152036?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/e0/70/93e07069-0e4b-1d88-895d-d81324e58f04/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-07-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
+      "rank": 78,
       "id": "1204090346",
       "name": "哔哩哔哩概念",
       "developer": "bilibili",
@@ -1384,13 +1256,13 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "6756595533",
-      "name": "火龙漫剧",
-      "developer": "Tencent Technology (Shenzhen) Company Limited",
-      "url": "https://apps.apple.com/hk/app/%E7%81%AB%E9%BE%99%E6%BC%AB%E5%89%A7/id6756595533?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/d5/ae/0bd5ae54-71f0-dcfc-b902-ae3a33b07f95/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-02-09",
+      "rank": 79,
+      "id": "6758744926",
+      "name": "Enkio：AI 音樂影片生成器",
+      "developer": "YEABO LIMITED",
+      "url": "https://apps.apple.com/hk/app/enkio-ai-%E9%9F%B3%E6%A8%82%E5%BD%B1%E7%89%87%E7%94%9F%E6%88%90%E5%99%A8/id6758744926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/46/15/9946150e-01bb-4304-8771-eec7613b01ea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-27",
       "genres": [
         {
           "id": "6016",
@@ -1400,13 +1272,13 @@
       ]
     },
     {
-      "rank": 88,
-      "id": "1137055503",
-      "name": "寬宏售票系統",
-      "developer": "Acer e-Enabling Service Business Inc.",
-      "url": "https://apps.apple.com/hk/app/%E5%AF%AC%E5%AE%8F%E5%94%AE%E7%A5%A8%E7%B3%BB%E7%B5%B1/id1137055503?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/a9/a5/b2a9a561-cc12-c63b-4061-bd5ea4301125/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2016-09-01",
+      "rank": 80,
+      "id": "6763498117",
+      "name": "StoryFlick",
+      "developer": "KIMO CULTURE CO., LIMITED",
+      "url": "https://apps.apple.com/hk/app/storyflick/id6763498117?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/dd/f5/f7ddf5dd-7b97-cb0e-cb3a-7d66b03640b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-24",
       "genres": [
         {
           "id": "6016",
@@ -1416,13 +1288,13 @@
       ]
     },
     {
-      "rank": 89,
-      "id": "911255068",
-      "name": "HKJC TV - 馬會電視頻道",
-      "developer": "The Hong Kong Jockey Club",
-      "url": "https://apps.apple.com/hk/app/hkjc-tv-%E9%A6%AC%E6%9C%83%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93/id911255068?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/2d/d9/f12dd9a6-ca82-3ad4-5523-9d856ef469e3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2015-01-22",
+      "rank": 81,
+      "id": "6572286716",
+      "name": "Lovory：互動戀愛短劇",
+      "developer": "Future Copilot (HK) Limited",
+      "url": "https://apps.apple.com/hk/app/lovory-%E4%BA%92%E5%8B%95%E6%88%80%E6%84%9B%E7%9F%AD%E5%8A%87/id6572286716?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/59/7d/a5597dd9-09bd-e500-5bfd-90efcf882b9a/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/100x100bb.png",
+      "release_date": "2024-08-28",
       "genres": [
         {
           "id": "6016",
@@ -1432,13 +1304,13 @@
       ]
     },
     {
-      "rank": 90,
-      "id": "6788279757",
-      "name": "BeMi Love:AI戀愛聊天·你的專屬男友",
-      "developer": "Foshine Limited",
-      "url": "https://apps.apple.com/hk/app/bemi-love-ai%E6%88%80%E6%84%9B%E8%81%8A%E5%A4%A9-%E4%BD%A0%E7%9A%84%E5%B0%88%E5%B1%AC%E7%94%B7%E5%8F%8B/id6788279757?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/f7/0f/92f70f68-5632-6fcd-e773-500dcc83d100/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-22",
+      "rank": 82,
+      "id": "6503421271",
+      "name": "Vigloo - 短篇影集",
+      "developer": "Spoonlabs, Inc.",
+      "url": "https://apps.apple.com/hk/app/vigloo-%E7%9F%AD%E7%AF%87%E5%BD%B1%E9%9B%86/id6503421271?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9c/b8/859cb8c2-c502-2cec-584d-719a0f6a8895/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-06-30",
       "genres": [
         {
           "id": "6016",
@@ -1448,13 +1320,13 @@
       ]
     },
     {
-      "rank": 91,
-      "id": "1091178201",
-      "name": "ViuTV",
-      "developer": "HK Television Entertainment Company Limited (HKTVE)",
-      "url": "https://apps.apple.com/hk/app/viutv/id1091178201?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ee/24/1aee24a0-1ea3-1fd2-2793-35fe7202c583/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-03-31",
+      "rank": 83,
+      "id": "6768240254",
+      "name": "Drama: Watch Short Stories",
+      "developer": "Kuku Technologies Limited",
+      "url": "https://apps.apple.com/hk/app/drama-watch-short-stories/id6768240254?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/63/a3/ce63a300-bf2b-8d27-3a39-cd0878c22d15/appIconFreeDrama-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-09-01",
       "genres": [
         {
           "id": "6016",
@@ -1464,13 +1336,13 @@
       ]
     },
     {
-      "rank": 92,
-      "id": "497702817",
-      "name": "Fever: Events & Tickets",
-      "developer": "Fever Labs, Inc.",
-      "url": "https://apps.apple.com/hk/app/fever-events-tickets/id497702817?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/70/ba/e670ba1d-3cb3-0ab2-72db-7806ecebed5d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2012-05-25",
+      "rank": 84,
+      "id": "1641638840",
+      "name": "coogoong",
+      "developer": "QUICKWINSTUDIO",
+      "url": "https://apps.apple.com/hk/app/coogoong/id1641638840?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/51/ab/da51abfb-3bca-3609-6c1c-125d75ec529a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-12-01",
       "genres": [
         {
           "id": "6016",
@@ -1480,23 +1352,7 @@
       ]
     },
     {
-      "rank": 93,
-      "id": "6505087203",
-      "name": "tixbay: Buy Event Tickets",
-      "developer": "SONG PIN HONGKONG LIMITED",
-      "url": "https://apps.apple.com/hk/app/tixbay-buy-event-tickets/id6505087203?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/7c/6f/b67c6f98-fef9-4e5c-900d-ee7b51b1fdd2/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-08-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "娛樂",
-          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
+      "rank": 85,
       "id": "1568652097",
       "name": "Harbour Cityzen",
       "developer": "Harbour City Estates Limited",
@@ -1512,13 +1368,13 @@
       ]
     },
     {
-      "rank": 95,
-      "id": "6742006251",
-      "name": "Drama Go - 海量熱門短劇",
-      "developer": "CODEJOY TECHNOLOGY LIMITED",
-      "url": "https://apps.apple.com/hk/app/drama-go-%E6%B5%B7%E9%87%8F%E7%86%B1%E9%96%80%E7%9F%AD%E5%8A%87/id6742006251?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/5a/09/635a09e0-eecd-3491-ed8b-dae8c6a27d83/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-27",
+      "rank": 86,
+      "id": "487922291",
+      "name": "Eventbrite",
+      "developer": "Eventbrite",
+      "url": "https://apps.apple.com/hk/app/eventbrite/id487922291?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c8/f7/22c8f7b1-cb93-db52-d703-6e36c6ff9067/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-18",
       "genres": [
         {
           "id": "6016",
@@ -1528,13 +1384,13 @@
       ]
     },
     {
-      "rank": 96,
-      "id": "6806893848",
-      "name": "皮皮蘑菇",
-      "developer": "Lucas Tai",
-      "url": "https://apps.apple.com/hk/app/%E7%9A%AE%E7%9A%AE%E8%98%91%E8%8F%87/id6806893848?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/3f/a8/b53fa801-ebad-0b9f-a466-307eafbf35fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-09-09",
+      "rank": 87,
+      "id": "6784152036",
+      "name": "碎片熱門小說",
+      "developer": "WU WEN PTE. LTD.",
+      "url": "https://apps.apple.com/hk/app/%E7%A2%8E%E7%89%87%E7%86%B1%E9%96%80%E5%B0%8F%E8%AA%AA/id6784152036?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/e0/70/93e07069-0e4b-1d88-895d-d81324e58f04/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-13",
       "genres": [
         {
           "id": "6016",
@@ -1544,13 +1400,13 @@
       ]
     },
     {
-      "rank": 97,
-      "id": "6741501595",
-      "name": "iDrama - 一秒入戲，心跳加速",
-      "developer": "HK Good Drama Technology Limited",
-      "url": "https://apps.apple.com/hk/app/idrama-%E4%B8%80%E7%A7%92%E5%85%A5%E6%88%B2-%E5%BF%83%E8%B7%B3%E5%8A%A0%E9%80%9F/id6741501595?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/87/bf/7a87bfd3-56e0-025a-281a-c5839f7c54f1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-02-12",
+      "rank": 88,
+      "id": "1091178201",
+      "name": "ViuTV",
+      "developer": "HK Television Entertainment Company Limited (HKTVE)",
+      "url": "https://apps.apple.com/hk/app/viutv/id1091178201?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ee/24/1aee24a0-1ea3-1fd2-2793-35fe7202c583/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-03-31",
       "genres": [
         {
           "id": "6016",
@@ -1560,7 +1416,23 @@
       ]
     },
     {
-      "rank": 98,
+      "rank": 89,
+      "id": "497702817",
+      "name": "Fever: Events & Tickets",
+      "developer": "Fever Labs, Inc.",
+      "url": "https://apps.apple.com/hk/app/fever-events-tickets/id497702817?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/70/ba/e670ba1d-3cb3-0ab2-72db-7806ecebed5d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2012-05-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
       "id": "6757374961",
       "name": "DramaLocal",
       "developer": "SiHai",
@@ -1576,13 +1448,141 @@
       ]
     },
     {
+      "rank": 91,
+      "id": "1052455390",
+      "name": "票牛-演唱会音乐节购票平台",
+      "developer": "上海颂品网络科技有限公司",
+      "url": "https://apps.apple.com/hk/app/%E7%A5%A8%E7%89%9B-%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E4%B9%90%E8%8A%82%E8%B4%AD%E7%A5%A8%E5%B9%B3%E5%8F%B0/id1052455390?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/da/30/2eda30d2-6fa2-abb7-9597-be61c18f6aac/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-07",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1241040030",
+      "name": "Battle.net",
+      "developer": "Blizzard Entertainment, Inc.",
+      "url": "https://apps.apple.com/hk/app/battle-net/id1241040030?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/97/fe/b097feb6-276a-e77c-dcb5-97fa054c5bda/AppIconGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-09-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6754601768",
+      "name": "StreamRecorder",
+      "developer": "Streamrecorder",
+      "url": "https://apps.apple.com/hk/app/streamrecorder/id6754601768?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/b6/1a/6ab61a4f-7c45-03a1-4b21-46704ed8aa7d/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2026-05-21",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "459355968",
+      "name": "MegaBox",
+      "developer": "MegaBox Development Company Limited",
+      "url": "https://apps.apple.com/hk/app/megabox/id459355968?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/03/f1/4203f141-f4f1-6a4d-6825-b2736a4f30b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-09-30",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1599299476",
+      "name": "BANDAI TCG ＋",
+      "developer": "BANDAI Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/bandai-tcg/id1599299476?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/50/d7/a450d717-315d-eaae-1dfd-99848cdd0433/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-07",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6550896618",
+      "name": "嗨唱 - AI演唱，全民開心歡樂party，一起唱歌聊天交友",
+      "developer": "KULE TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/hk/app/%E5%97%A8%E5%94%B1-ai%E6%BC%94%E5%94%B1-%E5%85%A8%E6%B0%91%E9%96%8B%E5%BF%83%E6%AD%A1%E6%A8%82party-%E4%B8%80%E8%B5%B7%E5%94%B1%E6%AD%8C%E8%81%8A%E5%A4%A9%E4%BA%A4%E5%8F%8B/id6550896618?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/db/47/42db4753-2767-a51a-0cf1-b20b5f865f90/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-07-23",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6774482579",
+      "name": "OmniLore - AI文字冒險小說",
+      "developer": "Sign Works Interactive Entertainment LLC",
+      "url": "https://apps.apple.com/hk/app/omnilore-ai%E6%96%87%E5%AD%97%E5%86%92%E9%9A%AA%E5%B0%8F%E8%AA%AA/id6774482579?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/19/62/fa1962d8-828c-9c81-b92f-85f7197e2dec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-06-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "911255068",
+      "name": "HKJC TV - 馬會電視頻道",
+      "developer": "The Hong Kong Jockey Club",
+      "url": "https://apps.apple.com/hk/app/hkjc-tv-%E9%A6%AC%E6%9C%83%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93/id911255068?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/2d/d9/f12dd9a6-ca82-3ad4-5523-9d856ef469e3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-22",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "娛樂",
+          "url": "https://apps.apple.com/hk/genre/ios-%E5%A8%9B%E6%A8%82/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 99,
-      "id": "1048524688",
-      "name": "Delta - Game Emulator",
-      "developer": "Testut Tech",
-      "url": "https://apps.apple.com/hk/app/delta-game-emulator/id1048524688?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/08/91/ed089193-2334-fd9b-752e-fc330791ee48/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-04-17",
+      "id": "1318233975",
+      "name": "Dazzly絢石工坊——按數字填色的鑽石藝術",
+      "developer": "GEODE",
+      "url": "https://apps.apple.com/hk/app/dazzly%E7%B5%A2%E7%9F%B3%E5%B7%A5%E5%9D%8A-%E6%8C%89%E6%95%B8%E5%AD%97%E5%A1%AB%E8%89%B2%E7%9A%84%E9%91%BD%E7%9F%B3%E8%97%9D%E8%A1%93/id1318233975?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/d3/a5/aed3a5f9-ea6f-df93-850d-4583fd624126/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-12-05",
       "genres": [
         {
           "id": "6016",

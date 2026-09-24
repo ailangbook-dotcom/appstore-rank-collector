@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T00:12:54.104520+09:00",
+  "collected_at": "2026-09-24T20:36:21.097428+09:00",
   "date": "2026-09-24",
   "country": "sg",
   "chart": "top-free",
@@ -41,12 +41,12 @@
     },
     {
       "rank": 3,
-      "id": "6670430706",
-      "name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "url": "https://apps.apple.com/sg/app/dramawave-dramas-reels/id6670430706?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-10-02",
+      "id": "934459219",
+      "name": "JioHotstar",
+      "developer": "JIOSTAR INDIA PRIVATE LIMITED",
+      "url": "https://apps.apple.com/sg/app/jiohotstar/id934459219?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/59/71/2159711d-fcca-50e1-79ee-6adc15012167/AppIcon-IN-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-30",
       "genres": [
         {
           "id": "6016",
@@ -73,22 +73,6 @@
     },
     {
       "rank": 5,
-      "id": "934459219",
-      "name": "JioHotstar",
-      "developer": "JIOSTAR INDIA PRIVATE LIMITED",
-      "url": "https://apps.apple.com/sg/app/jiohotstar/id934459219?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/59/71/2159711d-fcca-50e1-79ee-6adc15012167/AppIcon-IN-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-30",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "id": "6504849169",
       "name": "NetShort - Popular Dramas & TV",
       "developer": "NETSTORY PTE. LTD.",
@@ -104,13 +88,29 @@
       ]
     },
     {
+      "rank": 6,
+      "id": "6670430706",
+      "name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/sg/app/dramawave-dramas-reels/id6670430706?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-10-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 7,
-      "id": "1517062289",
-      "name": "bilibili‑Every video you love",
-      "developer": "BILIBILI SINGAPORE PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/bilibili-every-video-you-love/id1517062289?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/92/b4/6d92b451-1685-3b03-88b0-e11dedf8126f/appicon-inter-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-08-03",
+      "id": "6514312894",
+      "name": "FlickReels - AI Story & Drama",
+      "developer": "FARSUN PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/flickreels-ai-story-drama/id6514312894?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/40/84/9a4084f9-9e2c-8dcb-3015-54cdf2ee5def/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-07-17",
       "genres": [
         {
           "id": "6016",
@@ -137,12 +137,12 @@
     },
     {
       "rank": 9,
-      "id": "6514312894",
-      "name": "FlickReels - AI Story & Drama",
-      "developer": "FARSUN PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/flickreels-ai-story-drama/id6514312894?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/40/84/9a4084f9-9e2c-8dcb-3015-54cdf2ee5def/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-07-17",
+      "id": "1517062289",
+      "name": "bilibili‑Every video you love",
+      "developer": "BILIBILI SINGAPORE PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/bilibili-every-video-you-love/id1517062289?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/92/b4/6d92b451-1685-3b03-88b0-e11dedf8126f/appicon-inter-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-08-03",
       "genres": [
         {
           "id": "6016",
@@ -185,54 +185,6 @@
     },
     {
       "rank": 12,
-      "id": "545519333",
-      "name": "Amazon Prime Video",
-      "developer": "AMZN Mobile LLC",
-      "url": "https://apps.apple.com/sg/app/amazon-prime-video/id545519333?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/bc/cb/a4bccbb1-7a9d-f2dd-fdc2-dbba3ec4b266/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2016-12-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "id": "6753056421",
-      "name": "Teo Heng",
-      "developer": "Mobile Cards Technologies Private Limited",
-      "url": "https://apps.apple.com/sg/app/teo-heng/id6753056421?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/65/56/fd655610-089a-9b5a-6621-4c89d5040b52/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2025-10-02",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "id": "1461999674",
-      "name": "iQIYI - Dramas, Anime, Shows",
-      "developer": "IQIYI INTERNATIONAL SINGAPORE PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/iqiyi-dramas-anime-shows/id1461999674?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/65/18/6f651822-0adb-7a20-7aa9-3fc9408bc581/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-06-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
       "id": "6480028108",
       "name": "Fantopia",
       "developer": "FANTOPIA AISA PTE. LTD.",
@@ -248,12 +200,60 @@
       ]
     },
     {
+      "rank": 13,
+      "id": "545519333",
+      "name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/sg/app/amazon-prime-video/id545519333?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/b8/7b/d8b87b64-ab21-e7f3-504b-95058905d555/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-12-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "6753056421",
+      "name": "Teo Heng",
+      "developer": "Mobile Cards Technologies Private Limited",
+      "url": "https://apps.apple.com/sg/app/teo-heng/id6753056421?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/65/56/fd655610-089a-9b5a-6621-4c89d5040b52/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-10-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "1461999674",
+      "name": "iQIYI - Dramas, Anime, Shows",
+      "developer": "IQIYI INTERNATIONAL SINGAPORE PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/iqiyi-dramas-anime-shows/id1461999674?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/65/18/6f651822-0adb-7a20-7aa9-3fc9408bc581/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-06-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 16,
       "id": "1446075923",
       "name": "Disney+",
       "developer": "Disney",
       "url": "https://apps.apple.com/sg/app/disney/id1446075923?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/92/b0/a392b0e7-2c60-7d7e-6f31-2b94754d37b7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/a3/33/5aa333ba-cc14-bead-a8e5-4345b87cc887/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "release_date": "2021-02-22",
       "genres": [
         {
@@ -265,12 +265,12 @@
     },
     {
       "rank": 17,
-      "id": "6448176203",
-      "name": "GoodShort - Short Dramas Hub",
-      "developer": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/goodshort-short-dramas-hub/id6448176203?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b3/47/6db347c4-e4d6-bc06-c108-68eccb8bcb74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-12",
+      "id": "566561555",
+      "name": "mewatch - Video | Movies | TV",
+      "developer": "Mediacorp Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/mewatch-video-movies-tv/id566561555?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/21/3b/f0213be9-b7ba-f5f9-0898-56083c3aa3aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-01-15",
       "genres": [
         {
           "id": "6016",
@@ -297,12 +297,12 @@
     },
     {
       "rank": 19,
-      "id": "566561555",
-      "name": "mewatch - Video | Movies | TV",
-      "developer": "Mediacorp Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/mewatch-video-movies-tv/id566561555?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/21/3b/f0213be9-b7ba-f5f9-0898-56083c3aa3aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-01-15",
+      "id": "6448176203",
+      "name": "GoodShort - Short Dramas Hub",
+      "developer": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/goodshort-short-dramas-hub/id6448176203?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b3/47/6db347c4-e4d6-bc06-c108-68eccb8bcb74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-12",
       "genres": [
         {
           "id": "6016",
@@ -313,70 +313,6 @@
     },
     {
       "rank": 20,
-      "id": "6738081517",
-      "name": "DramaReels: Dramas and Series",
-      "developer": "SKYWORK AI PTE LTD",
-      "url": "https://apps.apple.com/sg/app/dramareels-dramas-and-series/id6738081517?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/ec/a5/ebeca5c3-d958-6bca-85dc-09e56cf90b96/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-12-10",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "id": "6445905219",
-      "name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/dramabox-stream-drama-shorts/id6445905219?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/97/9f/07979f7c-ae2a-57c3-7bc2-59a9bbaac868/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "id": "1479814602",
-      "name": "央视频-看亚运会",
-      "developer": "Yangshipin",
-      "url": "https://apps.apple.com/sg/app/%E5%A4%AE%E8%A7%86%E9%A2%91-%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A/id1479814602?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/46/2e/f1462ee6-c81d-5f7c-83b4-9cd64f577524/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2019-11-19",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "id": "495369748",
-      "name": "Steam Mobile",
-      "developer": "Valve",
-      "url": "https://apps.apple.com/sg/app/steam-mobile/id495369748?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e1/8d/1de18df0-9f13-4bdb-728a-ddc7ecaf9849/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-01-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
       "id": "1441531611",
       "name": "WeTV Asian & Local Dramas",
       "developer": "Image Future Investment (HK) Limited",
@@ -392,13 +328,77 @@
       ]
     },
     {
+      "rank": 21,
+      "id": "495369748",
+      "name": "Steam Mobile",
+      "developer": "Valve",
+      "url": "https://apps.apple.com/sg/app/steam-mobile/id495369748?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e1/8d/1de18df0-9f13-4bdb-728a-ddc7ecaf9849/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-01-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "6768593043",
+      "name": "BlinkDrama - Short Dramas",
+      "developer": "Atlas Ventures Culture & Technology Limited",
+      "url": "https://apps.apple.com/sg/app/blinkdrama-short-dramas/id6768593043?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/2e/cf/972ecfe5-9000-fc79-9b76-4c67ad809c8e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-29",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "6772791762",
+      "name": "CashFlicks",
+      "developer": "Shanghai Bitui Technology Co., Ltd.",
+      "url": "https://apps.apple.com/sg/app/cashflicks/id6772791762?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/13/48/ee134820-43e9-f102-85c8-e5e2ba5fac6a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-14",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "6445905219",
+      "name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/dramabox-stream-drama-shorts/id6445905219?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/97/9f/07979f7c-ae2a-57c3-7bc2-59a9bbaac868/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-18",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 25,
-      "id": "1476921059",
-      "name": "Wefun - Chat, Party and Game",
-      "developer": "FUCONNECT PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/wefun-chat-party-and-game/id1476921059?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/a7/d0/10a7d09c-217b-9dba-27cb-d83de6bf154e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-09-10",
+      "id": "1479814602",
+      "name": "央视频-看亚运会",
+      "developer": "Yangshipin",
+      "url": "https://apps.apple.com/sg/app/%E5%A4%AE%E8%A7%86%E9%A2%91-%E7%9C%8B%E4%BA%9A%E8%BF%90%E4%BC%9A/id1479814602?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/46/2e/f1462ee6-c81d-5f7c-83b4-9cd64f577524/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2019-11-19",
       "genres": [
         {
           "id": "6016",
@@ -425,12 +425,12 @@
     },
     {
       "rank": 27,
-      "id": "6757374961",
-      "name": "DramaLocal",
-      "developer": "SiHai",
-      "url": "https://apps.apple.com/sg/app/dramalocal/id6757374961?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/87/c6/d587c658-f2ad-3c52-968a-bbb59a7e3433/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-29",
+      "id": "1313147771",
+      "name": "Tokyo Disney Resort App",
+      "developer": "Oriental Land Co., Ltd.",
+      "url": "https://apps.apple.com/sg/app/tokyo-disney-resort-app/id1313147771?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/7c/4c/3f7c4c22-c7de-4e8a-6fd9-12b22c0c5dd3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2020-06-28",
       "genres": [
         {
           "id": "6016",
@@ -441,38 +441,6 @@
     },
     {
       "rank": 28,
-      "id": "6596771144",
-      "name": "status - sims but social media",
-      "developer": "WishRoll Inc.",
-      "url": "https://apps.apple.com/sg/app/status-sims-but-social-media/id6596771144?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/b6/97/40b69761-3ca4-cb9b-97eb-37f1236c1c1b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-10-21",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "id": "6768593043",
-      "name": "BlinkDrama - Short Dramas",
-      "developer": "Atlas Ventures Culture & Technology Limited",
-      "url": "https://apps.apple.com/sg/app/blinkdrama-short-dramas/id6768593043?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/2e/cf/972ecfe5-9000-fc79-9b76-4c67ad809c8e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
       "id": "1077150310",
       "name": "Riot Mobile",
       "developer": "Riot Games",
@@ -488,13 +456,45 @@
       ]
     },
     {
+      "rank": 29,
+      "id": "1036095179",
+      "name": "Viu",
+      "developer": "PCCW OTT (Hong Kong) Limited",
+      "url": "https://apps.apple.com/sg/app/viu/id1036095179?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/98/8f/27988f57-6509-e171-6d98-e5f54849af98/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-29",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "1476921059",
+      "name": "Wefun - Chat, Party and Game",
+      "developer": "FUCONNECT PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/wefun-chat-party-and-game/id1476921059?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/a7/d0/10a7d09c-217b-9dba-27cb-d83de6bf154e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-09-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 31,
-      "id": "6756250570",
-      "name": "Prank App - Voice Changer",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "url": "https://apps.apple.com/sg/app/prank-app-voice-changer/id6756250570?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/30/8f/3c308fd0-3c4b-a556-259e-d0d0c9459358/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-10",
+      "id": "500601166",
+      "name": "SISTIC",
+      "developer": "SISTIC.com Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/sistic/id500601166?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/c6/6e/7ac66eaa-1df9-fbe6-29a8-997baaa32108/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2012-02-14",
       "genres": [
         {
           "id": "6016",
@@ -505,12 +505,12 @@
     },
     {
       "rank": 32,
-      "id": "746894884",
-      "name": "Google TV: Watch movies & TV",
-      "developer": "Google",
-      "url": "https://apps.apple.com/sg/app/google-tv-watch-movies-tv/id746894884?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/68/c3/6c68c3d5-2151-af9a-f08b-0ed76ed210ad/logo_google_tv_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2015-07-30",
+      "id": "6757374961",
+      "name": "DramaLocal",
+      "developer": "SiHai",
+      "url": "https://apps.apple.com/sg/app/dramalocal/id6757374961?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/87/c6/d587c658-f2ad-3c52-968a-bbb59a7e3433/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-29",
       "genres": [
         {
           "id": "6016",
@@ -521,12 +521,12 @@
     },
     {
       "rank": 33,
-      "id": "500601166",
-      "name": "SISTIC",
-      "developer": "SISTIC.com Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/sistic/id500601166?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/c6/6e/7ac66eaa-1df9-fbe6-29a8-997baaa32108/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2012-02-14",
+      "id": "746894884",
+      "name": "Google TV: Watch movies & TV",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/google-tv-watch-movies-tv/id746894884?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/68/c3/6c68c3d5-2151-af9a-f08b-0ed76ed210ad/logo_google_tv_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-07-30",
       "genres": [
         {
           "id": "6016",
@@ -553,166 +553,6 @@
     },
     {
       "rank": 35,
-      "id": "6772791762",
-      "name": "CashFlicks",
-      "developer": "Shanghai Bitui Technology Co., Ltd.",
-      "url": "https://apps.apple.com/sg/app/cashflicks/id6772791762?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/13/48/ee134820-43e9-f102-85c8-e5e2ba5fac6a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-14",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 36,
-      "id": "6502377927",
-      "name": "StardustTV - Short Drama&Movie",
-      "developer": "Hongxing Media Co., Limited",
-      "url": "https://apps.apple.com/sg/app/stardusttv-short-drama-movie/id6502377927?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/32/10/ea32103f-337e-3001-64a4-5e891f0348c7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-07-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "1313147771",
-      "name": "Tokyo Disney Resort App",
-      "developer": "Oriental Land Co., Ltd.",
-      "url": "https://apps.apple.com/sg/app/tokyo-disney-resort-app/id1313147771?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/45/dc/6445dcda-dc07-85f1-d671-ffc22cd9201b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2020-06-28",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "1036095179",
-      "name": "Viu",
-      "developer": "PCCW OTT (Hong Kong) Limited",
-      "url": "https://apps.apple.com/sg/app/viu/id1036095179?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/98/8f/27988f57-6509-e171-6d98-e5f54849af98/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2015-12-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "6754670348",
-      "name": "Netmirror : Movies & Shows Map",
-      "developer": "Nguyen Thi Hong Nhi",
-      "url": "https://apps.apple.com/sg/app/netmirror-movies-shows-map/id6754670348?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/ee/43/a8ee436a-2c3c-2b16-594f-b587b936391a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2025-11-02",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "936971630",
-      "name": "YouTube Kids",
-      "developer": "Google",
-      "url": "https://apps.apple.com/sg/app/youtube-kids/id936971630?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/23/a7/1523a7b2-0ea3-3468-da60-c03c138ec395/logo_youtube_kids_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2016-11-08",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "6468901311",
-      "name": "Enjoy - AI Town",
-      "developer": "Enjoy Global, Inc.",
-      "url": "https://apps.apple.com/sg/app/enjoy-ai-town/id6468901311?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/d1/fc/cdd1fc0e-5b0d-bbc2-fbd2-1b44bea41385/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-30",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1619761040",
-      "name": "YOUKU-Drama, Film, Show, Anime",
-      "developer": "Jet Brilliant Inc.",
-      "url": "https://apps.apple.com/sg/app/youku-drama-film-show-anime/id1619761040?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/85/32/a4853232-e0c4-5550-06a5-7ce985e6f310/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-07-08",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "953433135",
-      "name": "viagogo Tickets",
-      "developer": "viagogo",
-      "url": "https://apps.apple.com/sg/app/viagogo-tickets/id953433135?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5f/55/d65f5587-e17e-fa2d-e83a-5f54e004ceb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2015-07-31",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "6768240254",
-      "name": "Drama: Watch Short Stories",
-      "developer": "Kuku Technologies Limited",
-      "url": "https://apps.apple.com/sg/app/drama-watch-short-stories/id6768240254?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d2/60/ffd260dc-f470-b64c-e2e8-1cb441dd8bef/appIconFreeDrama-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-09-01",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
       "id": "1336023106",
       "name": "BookMyShow Partner",
       "developer": "Bigtree Entertainment Pvt. Ltd.",
@@ -728,7 +568,39 @@
       ]
     },
     {
-      "rank": 46,
+      "rank": 36,
+      "id": "1619761040",
+      "name": "YOUKU-Drama, Film, Show, Anime",
+      "developer": "Jet Brilliant Inc.",
+      "url": "https://apps.apple.com/sg/app/youku-drama-film-show-anime/id1619761040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/85/32/a4853232-e0c4-5550-06a5-7ce985e6f310/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-07-08",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "6756250570",
+      "name": "Prank App - Voice Changer",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "url": "https://apps.apple.com/sg/app/prank-app-voice-changer/id6756250570?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/30/8f/3c308fd0-3c4b-a556-259e-d0d0c9459358/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
       "id": "1060133120",
       "name": "Kakee: Endless Fun & Rewards",
       "developer": "SO DRAMA ENTERTAINMENT",
@@ -744,13 +616,141 @@
       ]
     },
     {
+      "rank": 39,
+      "id": "6596771144",
+      "name": "status - sims but social media",
+      "developer": "WishRoll Inc.",
+      "url": "https://apps.apple.com/sg/app/status-sims-but-social-media/id6596771144?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/b6/97/40b69761-3ca4-cb9b-97eb-37f1236c1c1b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-10-21",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "487922291",
+      "name": "Eventbrite",
+      "developer": "Eventbrite",
+      "url": "https://apps.apple.com/sg/app/eventbrite/id487922291?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c8/f7/22c8f7b1-cb93-db52-d703-6e36c6ff9067/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-18",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "437330879",
+      "name": "Goosechase",
+      "developer": "Goosechase Adventures Inc.",
+      "url": "https://apps.apple.com/sg/app/goosechase/id437330879?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/54/7e/3a547efd-9586-b5eb-b07b-508b8ce9373e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-05-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "6738081517",
+      "name": "DramaReels: Dramas and Series",
+      "developer": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/sg/app/dramareels-dramas-and-series/id6738081517?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/ec/a5/ebeca5c3-d958-6bca-85dc-09e56cf90b96/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-12-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "6763498117",
+      "name": "StoryFlick",
+      "developer": "KIMO CULTURE CO., LIMITED",
+      "url": "https://apps.apple.com/sg/app/storyflick/id6763498117?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/dd/f5/f7ddf5dd-7b97-cb0e-cb3a-7d66b03640b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "936971630",
+      "name": "YouTube Kids",
+      "developer": "Google",
+      "url": "https://apps.apple.com/sg/app/youtube-kids/id936971630?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/23/a7/1523a7b2-0ea3-3468-da60-c03c138ec395/logo_youtube_kids_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-11-08",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "6502377927",
+      "name": "StardustTV - Short Drama&Movie",
+      "developer": "Hongxing Media Co., Limited",
+      "url": "https://apps.apple.com/sg/app/stardusttv-short-drama-movie/id6502377927?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/32/10/ea32103f-337e-3001-64a4-5e891f0348c7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "293615901",
+      "name": "iGV",
+      "developer": "Golden Village Multiplex Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/igv/id293615901?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/01/2e/a7012ee5-4085-4902-399f-ecce65c7d3e5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2008-12-12",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 47,
-      "id": "6738098034",
-      "name": "My Muse: Series & Drama Live",
-      "developer": "Zereli Limited",
-      "url": "https://apps.apple.com/sg/app/my-muse-series-drama-live/id6738098034?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/9c/ea/559ceaba-36b2-d810-f906-20e12ac9b14e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-11-19",
+      "id": "1557823712",
+      "name": "WePlay - Games & Party",
+      "developer": "WEJOY PTE. LTD.",
+      "url": "https://apps.apple.com/sg/app/weplay-games-party/id1557823712?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/0c/94/960c94ed-ebe1-6ac5-291c-25a7f33ff7d4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-10",
       "genres": [
         {
           "id": "6016",
@@ -777,182 +777,6 @@
     },
     {
       "rank": 49,
-      "id": "410896080",
-      "name": "PlayStation App",
-      "developer": "PlayStation Mobile Inc.",
-      "url": "https://apps.apple.com/sg/app/playstation-app/id410896080?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/8b/15/1f8b15f6-836e-4f85-9562-42f6945e7d41/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2013-12-11",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "id": "6760212236",
-      "name": "Burmese Tv-BStream",
-      "developer": "Thet Zaw Lat",
-      "url": "https://apps.apple.com/sg/app/burmese-tv-bstream/id6760212236?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/d9/d2/79d9d2d8-3bb2-9010-9166-d3fa9264a4e4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-03-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "293615901",
-      "name": "iGV",
-      "developer": "Golden Village Multiplex Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/igv/id293615901?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/01/2e/a7012ee5-4085-4902-399f-ecce65c7d3e5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2008-12-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "587794258",
-      "name": "Sony LIV",
-      "developer": "SONY PICTURES NETWORKS INDIA PVT LTD",
-      "url": "https://apps.apple.com/sg/app/sony-liv/id587794258?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/9b/09/e39b0982-9fa8-3476-3e7c-12399a7fe3d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-12-27",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "6763498117",
-      "name": "StoryFlick",
-      "developer": "KIMO CULTURE CO., LIMITED",
-      "url": "https://apps.apple.com/sg/app/storyflick/id6763498117?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/dd/f5/f7ddf5dd-7b97-cb0e-cb3a-7d66b03640b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-24",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "413024972",
-      "name": "Golden Screen Cinemas",
-      "developer": "Golden Screen Cinemas Sdn Bhd",
-      "url": "https://apps.apple.com/sg/app/golden-screen-cinemas/id413024972?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/af/30/f0af30a5-0398-c08a-3b9e-7ec14ea56152/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2011-01-21",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "487922291",
-      "name": "Eventbrite",
-      "developer": "Eventbrite",
-      "url": "https://apps.apple.com/sg/app/eventbrite/id487922291?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c8/f7/22c8f7b1-cb93-db52-d703-6e36c6ff9067/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2011-12-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "6503421271",
-      "name": "Vigloo - Premier Short Dramas",
-      "developer": "Spoonlabs, Inc.",
-      "url": "https://apps.apple.com/sg/app/vigloo-premier-short-dramas/id6503421271?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9c/b8/859cb8c2-c502-2cec-584d-719a0f6a8895/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-06-30",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "1477175837",
-      "name": "MyID – One ID for Everything",
-      "developer": "MyTel",
-      "url": "https://apps.apple.com/sg/app/myid-one-id-for-everything/id1477175837?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/c9/37/29c93792-96c2-3955-b804-83914317d006/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2019-09-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "6465895541",
-      "name": "JoyReels - Enjoy Short Dramas",
-      "developer": "UREELS PTE.LTD.",
-      "url": "https://apps.apple.com/sg/app/joyreels-enjoy-short-dramas/id6465895541?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9e/ec/ab9eecf2-6023-d137-45f0-f08c381f5656/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-27",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "6764007927",
-      "name": "Amorshort",
-      "developer": "American Zhihe Information Technology LLC",
-      "url": "https://apps.apple.com/sg/app/amorshort/id6764007927?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6e/f6/976ef674-8cd2-aa09-e50e-d14c8b566681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
       "id": "458318329",
       "name": "腾讯视频-《兰香如故》独播",
       "developer": "Tencent Technology (Shenzhen) Company Limited",
@@ -968,13 +792,13 @@
       ]
     },
     {
-      "rank": 61,
-      "id": "513829338",
-      "name": "大麦 - 电影、演出、体育购票平台",
-      "developer": "Beijing Damai Cultural Media Development Co., Ltd.",
-      "url": "https://apps.apple.com/sg/app/%E5%A4%A7%E9%BA%A6-%E7%94%B5%E5%BD%B1-%E6%BC%94%E5%87%BA-%E4%BD%93%E8%82%B2%E8%B4%AD%E7%A5%A8%E5%B9%B3%E5%8F%B0/id513829338?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/81/8b/fd818b59-42f2-2156-d18b-a736b8ad0d3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2012-04-03",
+      "rank": 50,
+      "id": "953433135",
+      "name": "viagogo Tickets",
+      "developer": "viagogo",
+      "url": "https://apps.apple.com/sg/app/viagogo-tickets/id953433135?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5f/55/d65f5587-e17e-fa2d-e83a-5f54e004ceb0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-07-31",
       "genres": [
         {
           "id": "6016",
@@ -984,13 +808,13 @@
       ]
     },
     {
-      "rank": 62,
-      "id": "6464002625",
-      "name": "ShortMax - Short Dramas & TV",
-      "developer": "SHORTTV LIMITED",
-      "url": "https://apps.apple.com/sg/app/shortmax-short-dramas-tv/id6464002625?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/9d/a5/f59da5d2-d870-2370-e022-8dc0a98ab993/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-09-11",
+      "rank": 51,
+      "id": "6754670348",
+      "name": "Netmirror : Movies & Shows Map",
+      "developer": "Nguyen Thi Hong Nhi",
+      "url": "https://apps.apple.com/sg/app/netmirror-movies-shows-map/id6754670348?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/ee/43/a8ee436a-2c3c-2b16-594f-b587b936391a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-11-02",
       "genres": [
         {
           "id": "6016",
@@ -1000,13 +824,13 @@
       ]
     },
     {
-      "rank": 63,
-      "id": "6769714352",
-      "name": "MVShort",
-      "developer": "Chetan Dhave",
-      "url": "https://apps.apple.com/sg/app/mvshort/id6769714352?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/6a/69/1f6a6996-309c-cf1f-ddef-a3e56ffad54e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-05-15",
+      "rank": 52,
+      "id": "6768240254",
+      "name": "Drama: Watch Short Stories",
+      "developer": "Kuku Technologies Limited",
+      "url": "https://apps.apple.com/sg/app/drama-watch-short-stories/id6768240254?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/63/a3/ce63a300-bf2b-8d27-3a39-cd0878c22d15/appIconFreeDrama-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-09-01",
       "genres": [
         {
           "id": "6016",
@@ -1016,13 +840,13 @@
       ]
     },
     {
-      "rank": 64,
-      "id": "1571103348",
-      "name": "Timezone Fun App",
-      "developer": "Teeg",
-      "url": "https://apps.apple.com/sg/app/timezone-fun-app/id1571103348?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/f1/65/d6f165c0-61c8-f5c7-dff6-9349d37fe9dc/AppIcon-0-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-09-08",
+      "rank": 53,
+      "id": "6504531515",
+      "name": "RUD",
+      "developer": "Racing Underdog Sdn. Bhd.",
+      "url": "https://apps.apple.com/sg/app/rud/id6504531515?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/6f/85/ec6f8551-a8b0-bd22-e379-244d029665d0/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-16",
       "genres": [
         {
           "id": "6016",
@@ -1032,183 +856,7 @@
       ]
     },
     {
-      "rank": 65,
-      "id": "894546091",
-      "name": "WEBTOON: Manga, Comics, Manhwa",
-      "developer": "NAVER WEBTOON Ltd.",
-      "url": "https://apps.apple.com/sg/app/webtoon-manga-comics-manhwa/id894546091?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/15/55/241555e7-4af3-c3c6-97b6-a34148bb8112/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-07-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "1234806557",
-      "name": "Nintendo Switch App",
-      "developer": "Nintendo Co., Ltd.",
-      "url": "https://apps.apple.com/sg/app/nintendo-switch-app/id1234806557?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/59/33/b55933e1-949c-4a34-a00c-a02f35df610b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-06-24",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "6761961323",
-      "name": "ValoStore - Valorant Store",
-      "developer": "SEHYUN JUN",
-      "url": "https://apps.apple.com/sg/app/valostore-valorant-store/id6761961323?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/ab/d2/61abd230-81a2-0ed8-e42d-78142346a9c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "561632513",
-      "name": "Peatix",
-      "developer": "Peatix Inc",
-      "url": "https://apps.apple.com/sg/app/peatix/id561632513?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/14/2c/c8142cc7-8741-0b7f-b9cf-64997b3012d3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2012-10-16",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "445553058",
-      "name": "Viki: Asian Dramas, Movies, TV",
-      "developer": "ViKi Inc.",
-      "url": "https://apps.apple.com/sg/app/viki-asian-dramas-movies-tv/id445553058?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/08/72/0f087236-017c-e3b0-601c-b50eaff98926/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2011-07-15",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "586220439",
-      "name": "StarHub TV+",
-      "developer": "StarHub Cable Vision Ltd",
-      "url": "https://apps.apple.com/sg/app/starhub-tv/id586220439?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/4a/2d/a44a2d9e-65ca-3061-b5da-86615cee8c78/prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-07-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1048524688",
-      "name": "Delta - Game Emulator",
-      "developer": "Testut Tech",
-      "url": "https://apps.apple.com/sg/app/delta-game-emulator/id1048524688?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/08/91/ed089193-2334-fd9b-752e-fc330791ee48/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-04-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "1557823712",
-      "name": "WePlay - Games & Party",
-      "developer": "WEJOY PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/weplay-games-party/id1557823712?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/0c/94/960c94ed-ebe1-6ac5-291c-25a7f33ff7d4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-10",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "6761247061",
-      "name": "OOC: The Playable Anime",
-      "developer": "New AI Entertainment Inc.",
-      "url": "https://apps.apple.com/sg/app/ooc-the-playable-anime/id6761247061?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/e7/26/95e72672-68d2-425f-e4f9-a0474dfe4258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-15",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "6469587141",
-      "name": "Playlet: Watch Short Dramas&TV",
-      "developer": "MicroShowtime Limited",
-      "url": "https://apps.apple.com/sg/app/playlet-watch-short-dramas-tv/id6469587141?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/c3/09/b1c309ed-1605-a06b-9c04-a24fe5db92d9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-12-04",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "6749611503",
-      "name": "Seer Drama:Short & Mini Series",
-      "developer": "HONG KONG WANHONG INTERNATIONAL LIMITED",
-      "url": "https://apps.apple.com/sg/app/seer-drama-short-mini-series/id6749611503?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/40/ba/9c40bacf-7240-3370-c643-ecb66f41c04b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-08-11",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
+      "rank": 54,
       "id": "1548857482",
       "name": "BiliBili -HD Anime, Videos",
       "developer": "BALABOOM PTE LTD",
@@ -1224,7 +872,55 @@
       ]
     },
     {
-      "rank": 77,
+      "rank": 55,
+      "id": "6468901311",
+      "name": "Enjoy - AI Town",
+      "developer": "Enjoy Global, Inc.",
+      "url": "https://apps.apple.com/sg/app/enjoy-ai-town/id6468901311?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/d1/fc/cdd1fc0e-5b0d-bbc2-fbd2-1b44bea41385/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-30",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "587794258",
+      "name": "Sony LIV",
+      "developer": "SONY PICTURES NETWORKS INDIA PVT LTD",
+      "url": "https://apps.apple.com/sg/app/sony-liv/id587794258?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/9b/09/e39b0982-9fa8-3476-3e7c-12399a7fe3d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-27",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "894546091",
+      "name": "WEBTOON: Manga, Comics, Manhwa",
+      "developer": "NAVER WEBTOON Ltd.",
+      "url": "https://apps.apple.com/sg/app/webtoon-manga-comics-manhwa/id894546091?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/15/55/241555e7-4af3-c3c6-97b6-a34148bb8112/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-07-12",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
       "id": "497702817",
       "name": "Fever: Events & Tickets",
       "developer": "Fever Labs, Inc.",
@@ -1240,13 +936,13 @@
       ]
     },
     {
-      "rank": 78,
-      "id": "6478151552",
-      "name": "Pocket Saga - Short Dramas",
-      "developer": "Pocket FM Corp",
-      "url": "https://apps.apple.com/sg/app/pocket-saga-short-dramas/id6478151552?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/53/ae/0f53ae67-774c-ed68-f3b1-3226189b6c3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-09-24",
+      "rank": 59,
+      "id": "6738098034",
+      "name": "My Muse: Series & Drama Live",
+      "developer": "Zereli Limited",
+      "url": "https://apps.apple.com/sg/app/my-muse-series-drama-live/id6738098034?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/9c/ea/559ceaba-36b2-d810-f906-20e12ac9b14e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-19",
       "genres": [
         {
           "id": "6016",
@@ -1256,7 +952,279 @@
       ]
     },
     {
-      "rank": 79,
+      "rank": 60,
+      "id": "445553058",
+      "name": "Viki: Asian Dramas, Movies, TV",
+      "developer": "ViKi Inc.",
+      "url": "https://apps.apple.com/sg/app/viki-asian-dramas-movies-tv/id445553058?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/08/72/0f087236-017c-e3b0-601c-b50eaff98926/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-07-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "413024972",
+      "name": "Golden Screen Cinemas",
+      "developer": "Golden Screen Cinemas Sdn Bhd",
+      "url": "https://apps.apple.com/sg/app/golden-screen-cinemas/id413024972?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/af/30/f0af30a5-0398-c08a-3b9e-7ec14ea56152/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-01-21",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "1477175837",
+      "name": "MyID – One ID for Everything",
+      "developer": "MyTel",
+      "url": "https://apps.apple.com/sg/app/myid-one-id-for-everything/id1477175837?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/c9/37/29c93792-96c2-3955-b804-83914317d006/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2019-09-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6465895541",
+      "name": "JoyReels - Enjoy Short Dramas",
+      "developer": "UREELS PTE.LTD.",
+      "url": "https://apps.apple.com/sg/app/joyreels-enjoy-short-dramas/id6465895541?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/9e/ec/ab9eecf2-6023-d137-45f0-f08c381f5656/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-27",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "513829338",
+      "name": "大麦 - 电影、演出、体育购票平台",
+      "developer": "Beijing Damai Cultural Media Development Co., Ltd.",
+      "url": "https://apps.apple.com/sg/app/%E5%A4%A7%E9%BA%A6-%E7%94%B5%E5%BD%B1-%E6%BC%94%E5%87%BA-%E4%BD%93%E8%82%B2%E8%B4%AD%E7%A5%A8%E5%B9%B3%E5%8F%B0/id513829338?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/81/8b/fd818b59-42f2-2156-d18b-a736b8ad0d3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2012-04-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6761247061",
+      "name": "OOC: The Playable Anime",
+      "developer": "New AI Entertainment Inc.",
+      "url": "https://apps.apple.com/sg/app/ooc-the-playable-anime/id6761247061?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/e7/26/95e72672-68d2-425f-e4f9-a0474dfe4258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6503421271",
+      "name": "Vigloo - Premier Short Dramas",
+      "developer": "Spoonlabs, Inc.",
+      "url": "https://apps.apple.com/sg/app/vigloo-premier-short-dramas/id6503421271?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9c/b8/859cb8c2-c502-2cec-584d-719a0f6a8895/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-06-30",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "586220439",
+      "name": "StarHub TV+",
+      "developer": "StarHub Cable Vision Ltd",
+      "url": "https://apps.apple.com/sg/app/starhub-tv/id586220439?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/4a/2d/a44a2d9e-65ca-3061-b5da-86615cee8c78/prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-07-12",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "6464002625",
+      "name": "ShortMax - Short Dramas & TV",
+      "developer": "SHORTTV LIMITED",
+      "url": "https://apps.apple.com/sg/app/shortmax-short-dramas-tv/id6464002625?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/9d/a5/f59da5d2-d870-2370-e022-8dc0a98ab993/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-11",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "410896080",
+      "name": "PlayStation App",
+      "developer": "PlayStation Mobile Inc.",
+      "url": "https://apps.apple.com/sg/app/playstation-app/id410896080?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/8b/15/1f8b15f6-836e-4f85-9562-42f6945e7d41/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-12-11",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1568014274",
+      "name": "Dino - Meet Your Friends",
+      "developer": "THE GREAT DINO LIMITED",
+      "url": "https://apps.apple.com/sg/app/dino-meet-your-friends/id1568014274?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/73/ad/b873ad85-80a2-741d-582c-f6e4b1324be1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "1234806557",
+      "name": "Nintendo Switch App",
+      "developer": "Nintendo Co., Ltd.",
+      "url": "https://apps.apple.com/sg/app/nintendo-switch-app/id1234806557?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/59/33/b55933e1-949c-4a34-a00c-a02f35df610b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-06-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6769714352",
+      "name": "MVShort",
+      "developer": "Chetan Dhave",
+      "url": "https://apps.apple.com/sg/app/mvshort/id6769714352?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/6a/69/1f6a6996-309c-cf1f-ddef-a3e56ffad54e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-05-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1571103348",
+      "name": "Timezone Fun App",
+      "developer": "Teeg",
+      "url": "https://apps.apple.com/sg/app/timezone-fun-app/id1571103348?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/f1/65/d6f165c0-61c8-f5c7-dff6-9349d37fe9dc/AppIcon-0-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2021-09-08",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "6749611503",
+      "name": "Seer Drama:Short & Mini Series",
+      "developer": "HONG KONG WANHONG INTERNATIONAL LIMITED",
+      "url": "https://apps.apple.com/sg/app/seer-drama-short-mini-series/id6749611503?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/40/ba/9c40bacf-7240-3370-c643-ecb66f41c04b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-11",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "6754934335",
+      "name": "F1® Exhibition: Companion",
+      "developer": "NVRSE",
+      "url": "https://apps.apple.com/sg/app/f1-exhibition-companion/id6754934335?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/9a/c6/bf9ac6a1-ec9c-50dd-1d88-2246716afa38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6746781192",
+      "name": "Imposter Who? - Word Game",
+      "developer": "Sokak Technologies Inc.",
+      "url": "https://apps.apple.com/sg/app/imposter-who-word-game/id6746781192?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/32/2e/6b322eb9-3350-910a-4b92-6801fc978917/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-06-05",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
       "id": "6737497276",
       "name": "Kuku TV: Stream Drama & Series",
       "developer": "Kuku Technologies Limited",
@@ -1272,13 +1240,45 @@
       ]
     },
     {
+      "rank": 78,
+      "id": "6741501595",
+      "name": "iDrama – Short Dramas & Reels",
+      "developer": "HK Good Drama Technology Limited",
+      "url": "https://apps.apple.com/sg/app/idrama-short-dramas-reels/id6741501595?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/87/bf/7a87bfd3-56e0-025a-281a-c5839f7c54f1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-02-12",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "1549139441",
+      "name": "Genting SkyWorlds",
+      "developer": "Resorts World Genting",
+      "url": "https://apps.apple.com/sg/app/genting-skyworlds/id1549139441?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/7d/8c/b67d8c96-2553-44a6-2fff-3c15d57c0d98/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-05",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 80,
-      "id": "1115565258",
-      "name": "Singtel Cast",
-      "developer": "Singtel Idea Factory Pte Ltd",
-      "url": "https://apps.apple.com/sg/app/singtel-cast/id1115565258?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/1c/38/9e1c38a2-a3c7-9749-32a3-88a82701c20a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-07-01",
+      "id": "6758563145",
+      "name": "HotDrama - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/sg/app/hotdrama-dramas-reels/id6758563145?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/99/9e/90999e1b-df40-355a-4af6-8802b138e382/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-22",
       "genres": [
         {
           "id": "6016",
@@ -1289,12 +1289,12 @@
     },
     {
       "rank": 81,
-      "id": "342792525",
-      "name": "IMDb",
-      "developer": "IMDb",
-      "url": "https://apps.apple.com/sg/app/imdb/id342792525?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/14/fb/4114fb83-f30a-11c6-8592-2be6b377301f/IMDbAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-02-16",
+      "id": "6776180188",
+      "name": "MultiShorts",
+      "developer": "Mu Shahil A Rashid",
+      "url": "https://apps.apple.com/sg/app/multishorts/id6776180188?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b5/7c/f6b57c62-eb90-8ed8-d132-ae65c6a80a7d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-03",
       "genres": [
         {
           "id": "6016",
@@ -1305,12 +1305,12 @@
     },
     {
       "rank": 82,
-      "id": "6747032146",
-      "name": "DramaSpot",
-      "developer": "Nanjing Manqian Network Technology Co., LTD",
-      "url": "https://apps.apple.com/sg/app/dramaspot/id6747032146?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/31/14/023114f7-9484-b6e9-ac20-108812017070/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-13",
+      "id": "561632513",
+      "name": "Peatix",
+      "developer": "Peatix Inc",
+      "url": "https://apps.apple.com/sg/app/peatix/id561632513?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/14/2c/c8142cc7-8741-0b7f-b9cf-64997b3012d3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2012-10-16",
       "genres": [
         {
           "id": "6016",
@@ -1337,6 +1337,54 @@
     },
     {
       "rank": 84,
+      "id": "1620679167",
+      "name": "SSME - 8K Live Wallpaper",
+      "developer": "忠 叶",
+      "url": "https://apps.apple.com/sg/app/ssme-8k-live-wallpaper/id1620679167?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/78/c6/b378c6a7-0bff-da91-8444-613c5fe0f768/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-05-08",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "963785828",
+      "name": "My Robi",
+      "developer": "Robi Axiata Limited",
+      "url": "https://apps.apple.com/sg/app/my-robi/id963785828?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/73/09f073a5-b8a7-7a26-b00d-467e8fb26adf/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-04-14",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1115565258",
+      "name": "Singtel Cast",
+      "developer": "Singtel Idea Factory Pte Ltd",
+      "url": "https://apps.apple.com/sg/app/singtel-cast/id1115565258?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/1c/38/9e1c38a2-a3c7-9749-32a3-88a82701c20a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-07-01",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
       "id": "6770945784",
       "name": "Video Downloader & Editor Play",
       "developer": "Judy Carolyn",
@@ -1352,167 +1400,7 @@
       ]
     },
     {
-      "rank": 85,
-      "id": "6741501595",
-      "name": "iDrama – Short Dramas & Reels",
-      "developer": "HK Good Drama Technology Limited",
-      "url": "https://apps.apple.com/sg/app/idrama-short-dramas-reels/id6741501595?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/87/bf/7a87bfd3-56e0-025a-281a-c5839f7c54f1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-02-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
-      "id": "1044456188",
-      "name": "Patreon",
-      "developer": "Patreon",
-      "url": "https://apps.apple.com/sg/app/patreon/id1044456188?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/89/d0/8089d0f2-2df7-3633-929e-6cd8a9cabeac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-10-14",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "336141475",
-      "name": "优酷视频-《无可替代》全网独播",
-      "developer": "Youku.com Inc.",
-      "url": "https://apps.apple.com/sg/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id336141475?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/e5/93/dfe5939f-bb8d-f358-0627-4bd32dcda759/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2010-03-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 88,
-      "id": "1538433480",
-      "name": "Pocket FM: Audio Dramas",
-      "developer": "Pocket FM Corp",
-      "url": "https://apps.apple.com/sg/app/pocket-fm-audio-dramas/id1538433480?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/79/1f/c3791f6f-5983-0630-2a35-6fa8da1d4ea7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-02",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6790503277",
-      "name": "Angie: Long Distance Couples",
-      "developer": "Riky Candjaya Halim",
-      "url": "https://apps.apple.com/sg/app/angie-long-distance-couples/id6790503277?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/16/15/80161540-0eab-98f9-d703-0dc0ee1fffda/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-12",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "938243056",
-      "name": "Top Sticker Maker Pack Studio",
-      "developer": "Aplicativos Legais",
-      "url": "https://apps.apple.com/sg/app/top-sticker-maker-pack-studio/id938243056?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/b8/60/77b860db-7e5d-a86c-2ed8-329204e04d0b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-11-14",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1568014274",
-      "name": "Dino - Meet Your Friends",
-      "developer": "THE GREAT DINO LIMITED",
-      "url": "https://apps.apple.com/sg/app/dino-meet-your-friends/id1568014274?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/73/ad/b873ad85-80a2-741d-582c-f6e4b1324be1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-06-10",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "6757948021",
-      "name": "Popia - AI Stories & Creators",
-      "developer": "METASTONE PTE. LTD.",
-      "url": "https://apps.apple.com/sg/app/popia-ai-stories-creators/id6757948021?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/e0/d4/bfe0d429-1276-bc99-08b3-db19d42a7219/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "1241040030",
-      "name": "Battle.net",
-      "developer": "Blizzard Entertainment, Inc.",
-      "url": "https://apps.apple.com/sg/app/battle-net/id1241040030?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/97/fe/b097feb6-276a-e77c-dcb5-97fa054c5bda/AppIconGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-09-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "6746781192",
-      "name": "Imposter Who? - Word Game",
-      "developer": "Sokak Technologies Inc.",
-      "url": "https://apps.apple.com/sg/app/imposter-who-word-game/id6746781192?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/32/2e/6b322eb9-3350-910a-4b92-6801fc978917/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-06-05",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "Entertainment",
-          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
       "id": "1642456061",
       "name": "Aentry",
       "developer": "Aentry pte. ltd.",
@@ -1528,13 +1416,125 @@
       ]
     },
     {
+      "rank": 89,
+      "id": "6478151552",
+      "name": "Pocket Saga - Short Dramas",
+      "developer": "Pocket FM Corp",
+      "url": "https://apps.apple.com/sg/app/pocket-saga-short-dramas/id6478151552?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/53/ae/0f53ae67-774c-ed68-f3b1-3226189b6c3d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "743691886",
+      "name": "Zee 5",
+      "developer": "Z5X Global FZ-LLC",
+      "url": "https://apps.apple.com/sg/app/zee-5/id743691886?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/0b/8a/650b8a84-1e2a-1657-1d84-56c0caf6695d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-11-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6764007927",
+      "name": "Amorshort",
+      "developer": "American Zhihe Information Technology LLC",
+      "url": "https://apps.apple.com/sg/app/amorshort/id6764007927?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6e/f6/976ef674-8cd2-aa09-e50e-d14c8b566681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1048524688",
+      "name": "Delta - Game Emulator",
+      "developer": "Testut Tech",
+      "url": "https://apps.apple.com/sg/app/delta-game-emulator/id1048524688?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/08/91/ed089193-2334-fd9b-752e-fc330791ee48/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-04-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6443795989",
+      "name": "Timbre App",
+      "developer": "Quality Zone Technologies Pte. Ltd.",
+      "url": "https://apps.apple.com/sg/app/timbre-app/id6443795989?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/42/17/71421787-2351-4b0f-a990-c65c944f4eb8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-28",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "938243056",
+      "name": "Top Sticker Maker Pack Studio",
+      "developer": "Aplicativos Legais",
+      "url": "https://apps.apple.com/sg/app/top-sticker-maker-pack-studio/id938243056?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/b8/60/77b860db-7e5d-a86c-2ed8-329204e04d0b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-11-14",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1546973783",
+      "name": "Pazzy",
+      "developer": "CAVATER SDN. BHD.",
+      "url": "https://apps.apple.com/sg/app/pazzy/id1546973783?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/d9/32/3ed93228-b216-f44a-09ba-874ee3cffb5f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "Entertainment",
+          "url": "https://apps.apple.com/sg/genre/ios-entertainment/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 96,
-      "id": "963785828",
-      "name": "My Robi",
-      "developer": "Robi Axiata Limited",
-      "url": "https://apps.apple.com/sg/app/my-robi/id963785828?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/b2/75/7bb275df-aba4-9e6c-40db-2e50381507bd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-04-14",
+      "id": "6502895473",
+      "name": "StoReel - Movies, Dramas & TV",
+      "developer": "Storeel Us Inc.",
+      "url": "https://apps.apple.com/sg/app/storeel-movies-dramas-tv/id6502895473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/ba/65/11ba6594-34c1-a130-3966-a4b1a0611b82/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-06-19",
       "genres": [
         {
           "id": "6016",
@@ -1545,12 +1545,12 @@
     },
     {
       "rank": 97,
-      "id": "1456217076",
-      "name": "9.81 PARK",
-      "developer": "DSM Corporation",
-      "url": "https://apps.apple.com/sg/app/9-81-park/id1456217076?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/70/4c/1a704c00-edd8-dde3-e71b-3a2eb5329a06/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-05-31",
+      "id": "336141475",
+      "name": "优酷视频-《无可替代》全网独播",
+      "developer": "Youku.com Inc.",
+      "url": "https://apps.apple.com/sg/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id336141475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/e5/93/dfe5939f-bb8d-f358-0627-4bd32dcda759/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2010-03-13",
       "genres": [
         {
           "id": "6016",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "1546973783",
-      "name": "Pazzy",
-      "developer": "CAVATER SDN. BHD.",
-      "url": "https://apps.apple.com/sg/app/pazzy/id1546973783?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/2f/ad/da2fad20-436f-2a7b-bba9-8ca86fc500fa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2021-03-17",
+      "id": "6670699388",
+      "name": "Movie Plex: Movies & TV Show",
+      "developer": "Ravi Munjani",
+      "url": "https://apps.apple.com/sg/app/movie-plex-movies-tv-show/id6670699388?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/9a/d1/d59ad162-b606-2ffd-9eca-09ac101a0f5b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-17",
       "genres": [
         {
           "id": "6016",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "1549139441",
-      "name": "Genting SkyWorlds",
-      "developer": "Resorts World Genting",
-      "url": "https://apps.apple.com/sg/app/genting-skyworlds/id1549139441?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/7d/8c/b67d8c96-2553-44a6-2fff-3c15d57c0d98/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-05",
+      "id": "1456217076",
+      "name": "9.81 PARK",
+      "developer": "DSM Corporation",
+      "url": "https://apps.apple.com/sg/app/9-81-park/id1456217076?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/30/77/2d307737-ed15-633a-9cf2-b3745d42f25e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-31",
       "genres": [
         {
           "id": "6016",

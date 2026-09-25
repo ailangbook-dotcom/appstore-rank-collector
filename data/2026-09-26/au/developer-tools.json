@@ -1,0 +1,1611 @@
+{
+  "collected_at": "2026-09-26T00:12:34.131412+09:00",
+  "date": "2026-09-26",
+  "country": "au",
+  "chart": "top-free",
+  "category": "developer-tools",
+  "genre_id": 6026,
+  "count": 100,
+  "apps": [
+    {
+      "rank": 1,
+      "id": "899247664",
+      "name": "TestFlight",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/au/app/testflight/id899247664?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/b0/9f/2bb09f8f-2409-26da-6e8c-223946acfaef/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/100x100bb.png",
+      "release_date": "2014-09-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "1477376905",
+      "name": "GitHub",
+      "developer": "GitHub",
+      "url": "https://apps.apple.com/au/app/github/id1477376905?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/a9/bd/1ea9bd40-50de-3b12-4c9e-e5a32fe7886f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2020-03-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "6504506653",
+      "name": "Sekai: Create · Remix · Play",
+      "developer": "Sekai",
+      "url": "https://apps.apple.com/au/app/sekai-create-remix-play/id6504506653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/aa/63/85aa6391-39ca-6d5e-8343-3ce8f557b0f0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-06-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "982107779",
+      "name": "Expo Go",
+      "developer": "Nametag",
+      "url": "https://apps.apple.com/au/app/expo-go/id982107779?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/3f/a0/2c3fa009-3ec4-3d27-8e25-9c1bae9288bb/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-08-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "1602054864",
+      "name": "O-KAM Pro",
+      "developer": "Shenzhen VeePai IoT Intelligent Technology LLC",
+      "url": "https://apps.apple.com/au/app/o-kam-pro/id1602054864?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a8/f3/3ba8f36f-c398-abaa-767d-464791641ed9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-06",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "640199958",
+      "name": "Apple Developer",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/au/app/apple-developer/id640199958?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/93/f0/7293f0ed-249c-f6f4-0bd1-3dbabdbd8d1c/AppIcon-Release-0-1x_U007epad-0-0-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2013-06-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "1614022293",
+      "name": "Replit: Vibe Code with AI Fast",
+      "developer": "Replit",
+      "url": "https://apps.apple.com/au/app/replit-vibe-code-with-ai-fast/id1614022293?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/4d/69/494d69c8-c1a9-7e85-d6c4-4952d4a5b4d4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-18",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "6767085653",
+      "name": "Cursor",
+      "developer": "Anysphere",
+      "url": "https://apps.apple.com/au/app/cursor/id6767085653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/6b/43/0f6b43b9-8225-7a83-8c2d-d86e930a6f90/AppIcon-Light-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-06-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "6755608044",
+      "name": "LocalDevVPN",
+      "developer": "Coxson Engineering LLC",
+      "url": "https://apps.apple.com/au/app/localdevvpn/id6755608044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/0c/c0/f90cc0a7-6cf8-902c-11ce-5e5fa4ea2731/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2025-12-04",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "1234793120",
+      "name": "App Store Connect",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/au/app/app-store-connect/id1234793120?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/8d/25/cb8d25e0-3334-00f5-0ff8-0598503d6705/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/100x100bb.png",
+      "release_date": "2018-06-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "549039908",
+      "name": "Termius - Modern SSH Client",
+      "developer": "Termius Corporation",
+      "url": "https://apps.apple.com/au/app/termius-modern-ssh-client/id549039908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/3f/41/b63f41e9-52f7-7188-4a01-80a6f8bfb4b9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2012-08-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "1405459188",
+      "name": "Scriptable",
+      "developer": "Simon B. Støvring",
+      "url": "https://apps.apple.com/au/app/scriptable/id1405459188?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "1536579599",
+      "name": "BluetoothAssistant",
+      "developer": "Hangzhou OrangeJuice Technology Co., Ltd.",
+      "url": "https://apps.apple.com/au/app/bluetoothassistant/id1536579599?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/7a/1c/517a1c98-261f-ab2a-905c-2ccf65a13198/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "1473805438",
+      "name": "a-Shell",
+      "developer": "Nicolas Holzschuch",
+      "url": "https://apps.apple.com/au/app/a-shell/id1473805438?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/c7/ee/21c7eeac-a801-2727-11ef-6cd3b41a1640/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-10-25",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "6766130217",
+      "name": "Orca IDE",
+      "developer": "Lovecast LLC",
+      "url": "https://apps.apple.com/au/app/orca-ide/id6766130217?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/b3/29/89b32922-c086-9d30-fd7c-ac48e1392aa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "1436902243",
+      "name": "iSH Shell",
+      "developer": "Theodore Dubois",
+      "url": "https://apps.apple.com/au/app/ish-shell/id1436902243?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/78/e3/7a78e31a-10c7-f56e-822d-c1edf05d66e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2020-10-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "6768007081",
+      "name": "Supabase Go",
+      "developer": "Sarfraz Ali Shaher Syed",
+      "url": "https://apps.apple.com/au/app/supabase-go/id6768007081?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/81/a7/8c81a717-a5f0-33cf-bafe-6c5474d8fe61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "6785842690",
+      "name": "Goiey - Collect, Share, Chat",
+      "developer": "Emma Koupferschmitt",
+      "url": "https://apps.apple.com/au/app/goiey-collect-share-chat/id6785842690?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/4b/b4/e24bb48f-0e19-3984-0825-cf2494323582/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-07-05",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "6444399635",
+      "name": "Python Coding Editor & IDE App",
+      "developer": "Cloudbit d.o.o.",
+      "url": "https://apps.apple.com/au/app/python-coding-editor-ide-app/id6444399635?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/25/0a/d6250a94-5c6f-814d-dbe2-892edd78f5cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "1610773520",
+      "name": "NextVPN: Fast & Secure Proxy",
+      "developer": "Surf Safe Network Ltd",
+      "url": "https://apps.apple.com/au/app/nextvpn-fast-secure-proxy/id1610773520?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/fc/03/c7fc032a-e9d1-6476-85ce-45d5770104e0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-03-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "1667492380",
+      "name": "Appboard: App Store Rankings",
+      "developer": "Dongchan Son",
+      "url": "https://apps.apple.com/au/app/appboard-app-store-rankings/id1667492380?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/bc/b2/85bcb2bf-d724-2746-471e-dd14fa03f716/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-04-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "6758113780",
+      "name": "Curseforge Addons for MCPE",
+      "developer": "MINICRAFT LLC",
+      "url": "https://apps.apple.com/au/app/curseforge-addons-for-mcpe/id6758113780?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/3f/6b/403f6b40-703c-649b-4179-4e3a83ec651a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-18",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "1463298887",
+      "name": "Userscripts",
+      "developer": "Justin Wasack",
+      "url": "https://apps.apple.com/au/app/userscripts/id1463298887?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/be/20/47be20a2-fedd-cf0b-3a35-476ae727ae01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "1606772645",
+      "name": "Google Play Console",
+      "developer": "Google",
+      "url": "https://apps.apple.com/au/app/google-play-console/id1606772645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f0/35/9ef035e6-3a2e-494f-42b7-b9d3619202a4/logo_play_console_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-08-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "6745097949",
+      "name": "v0",
+      "developer": "Vercel, Inc",
+      "url": "https://apps.apple.com/au/app/v0/id6745097949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/7c/98/b87c98f3-9b0f-3fac-2854-1aa133418c8e/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-10-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "1643688878",
+      "name": "Apps Connect",
+      "developer": "CITY OF THE SKY NETWORK",
+      "url": "https://apps.apple.com/au/app/apps-connect/id1643688878?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/55/83/b25583a9-ccfc-90a9-16a8-8073e408778d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "6787819824",
+      "name": "T3 Code - Remote Claude & more",
+      "developer": "T3 Tools, Inc.",
+      "url": "https://apps.apple.com/au/app/t3-code-remote-claude-more/id6787819824?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/db/db/b9dbdb4a-afec-94ec-6653-a885216d1764/app-icon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-07-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "6767006319",
+      "name": "Hermex",
+      "developer": "Uzair Ansar",
+      "url": "https://apps.apple.com/au/app/hermex/id6767006319?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/0a/02/b00a0247-1bd6-0e03-b357-b11587648b50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "6742786598",
+      "name": "iProxy - Sys admin tools",
+      "developer": "N-Lab",
+      "url": "https://apps.apple.com/au/app/iproxy-sys-admin-tools/id6742786598?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/1c/8b/661c8ba2-27f7-d410-0c77-341f08769bb9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-03-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "6740740427",
+      "name": "Vercel Client Mobile — Rev",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/au/app/vercel-client-mobile-rev/id6740740427?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/07/12/1d071270-cb40-f54c-f1a0-0ed58e7bdfa5/icon-ios-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-02-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "1049254261",
+      "name": "Textastic Code Editor",
+      "developer": "Alexander Blach",
+      "url": "https://apps.apple.com/au/app/textastic-code-editor/id1049254261?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fb/9f/06fb9f52-1d64-90ef-eb67-82b0c4164073/Textastic_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-03-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "6748029391",
+      "name": "Emergent AI: Vibe Code Apps",
+      "developer": "Emergent Labs Inc",
+      "url": "https://apps.apple.com/au/app/emergent-ai-vibe-code-apps/id6748029391?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/34/75/f2347547-9403-6a9f-f243-6245716b90e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-08-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "1522870046",
+      "name": "Device Monitor²",
+      "developer": "Fast-Devs Project",
+      "url": "https://apps.apple.com/au/app/device-monitor/id1522870046?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/fc/70/57fc701c-621d-d258-9ecf-9bf2b4d052de/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-01-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "1462586500",
+      "name": "Python IDE & Jupyter – Juno",
+      "developer": "Rational Matter",
+      "url": "https://apps.apple.com/au/app/python-ide-jupyter-juno/id1462586500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/39/55/6b395515-bb07-4aa7-6a26-e57228c55a60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-09-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "6757998015",
+      "name": "Digital Neon Night Clock",
+      "developer": "Rihlat Riasah",
+      "url": "https://apps.apple.com/au/app/digital-neon-night-clock/id6757998015?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c3/9c/acc39c51-6c97-5354-f0a8-07374bb1535b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "6770260745",
+      "name": "AI App Builder Architect",
+      "developer": "Beniamin Bar Chad",
+      "url": "https://apps.apple.com/au/app/ai-app-builder-architect/id6770260745?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/cb/5f/3ecb5f12-1416-96d6-e3bf-5c256b457976/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "6790977764",
+      "name": "Hermes Conduit",
+      "developer": "Long Cheung Ho",
+      "url": "https://apps.apple.com/au/app/hermes-conduit/id6790977764?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/4a/ae/8f4aae78-ee7e-b390-e825-1baaeb404d36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-06",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "6765638488",
+      "name": "Busymate DevTools",
+      "developer": "Sergiu Toderascu",
+      "url": "https://apps.apple.com/au/app/busymate-devtools/id6765638488?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/e9/d0/10e9d073-6edf-9dd1-ebf2-be89013e5ec0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-06-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6446215341",
+      "name": "Cookie-Editor",
+      "developer": "Christophe Gagnier",
+      "url": "https://apps.apple.com/au/app/cookie-editor/id6446215341?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/56/54/fa56545f-d5db-1d67-a470-59a24e491ce2/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
+      "release_date": "2023-03-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "6751451801",
+      "name": "NetLens",
+      "developer": "冰冰 邓",
+      "url": "https://apps.apple.com/au/app/netlens/id6751451801?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b9/25/f9b925ba-373b-f076-90ec-7ce80f776887/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "6755712493",
+      "name": "Railway.com",
+      "developer": "RailwayApp",
+      "url": "https://apps.apple.com/au/app/railway-com/id6755712493?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/a5/2d/b8a52db0-54b4-7db5-8bd7-e7a00567037e/ios-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-06-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "6753293376",
+      "name": "Bluetooth Auto Connect",
+      "developer": "Damuben Kachhad",
+      "url": "https://apps.apple.com/au/app/bluetooth-auto-connect/id6753293376?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/df/41/d3df4164-a5d8-d59e-4188-02a540ff3f20/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "1447489375",
+      "name": "Koder Code Editor",
+      "developer": "Reny Mustika",
+      "url": "https://apps.apple.com/au/app/koder-code-editor/id1447489375?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/1c/a1/eb1ca1c1-be59-166e-4c27-a9823613128a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2018-12-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "6753083462",
+      "name": "Power Apps Mobile Preview",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/au/app/power-apps-mobile-preview/id6753083462?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/b7/da/27b7daf8-0fc7-249d-45e8-eac27e2cb1f6/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2026-06-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "6748314140",
+      "name": "Proxmox VE Companion",
+      "developer": "Proxmox Server Solutions GmbH",
+      "url": "https://apps.apple.com/au/app/proxmox-ve-companion/id6748314140?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/bd/85/23bd8541-8ba0-fec7-e3e4-81c102288dbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-12-30",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1038574481",
+      "name": "Kodex",
+      "developer": "Bruno Philipe Resende Silva",
+      "url": "https://apps.apple.com/au/app/kodex/id1038574481?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/2a/fd/c72afd80-a64a-a929-0e20-fd2e82313ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2018-03-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "1509085044",
+      "name": "Bluetooth Inspector",
+      "developer": "George Garside",
+      "url": "https://apps.apple.com/au/app/bluetooth-inspector/id1509085044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/a5/1c/58a51c57-b0c3-5c10-c813-2892408acc95/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-05-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "6757859949",
+      "name": "Moshi: herdr/tmux on SSH/MOSH",
+      "developer": "Moshi Tech Ltd.",
+      "url": "https://apps.apple.com/au/app/moshi-herdr-tmux-on-ssh-mosh/id6757859949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/84/d6/2d84d6fa-bb44-e293-8d54-aa4efb375f52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "6755102943",
+      "name": "Nano AI - for Ollama",
+      "developer": "一鸣 刘",
+      "url": "https://apps.apple.com/au/app/nano-ai-for-ollama/id6755102943?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/3c/3b/103c3b12-7a0f-7517-df30-f5f0ea226f80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-11-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1442620678",
+      "name": "Surge 5",
+      "developer": "Surge Networks Inc.",
+      "url": "https://apps.apple.com/au/app/surge-5/id1442620678?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ab/3f/49ab3f82-3504-abd3-6e61-92b927d70e65/AppIconS-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1580431405",
+      "name": "HTML Editor",
+      "developer": "Intrepid",
+      "url": "https://apps.apple.com/au/app/html-editor/id1580431405?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/13/74/ed137412-aa38-deb3-b838-2c02e31cdc64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "6742807404",
+      "name": "Easy SSH",
+      "developer": "Argsment Limited",
+      "url": "https://apps.apple.com/au/app/easy-ssh/id6742807404?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/dc/62/f2dc6215-0cf7-dd6a-e898-3dcbd59dee46/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-03-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "6478240412",
+      "name": "Rootly",
+      "developer": "Rootly Inc.",
+      "url": "https://apps.apple.com/au/app/rootly/id6478240412?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/f1/f5/b8f1f59d-7f01-0822-ff69-8f86809f545e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1584825745",
+      "name": "Web Inspector",
+      "developer": "And a Dinosaur",
+      "url": "https://apps.apple.com/au/app/web-inspector/id1584825745?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/c1/f6/d2c1f6e0-ca8b-47cf-b7af-4fbfd9cd216e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-09-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "1594898306",
+      "name": "Blink Shell, Build & Code",
+      "developer": "Blink Shell, Inc",
+      "url": "https://apps.apple.com/au/app/blink-shell-build-code/id1594898306?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/5c/61/f05c617a-b6a2-1566-63f7-724c69efdc56/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2022-02-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1568442831",
+      "name": "Desktop Browser • Zoomable",
+      "developer": "Actowise LLC",
+      "url": "https://apps.apple.com/au/app/desktop-browser-zoomable/id1568442831?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/8a/63/0c8a638e-2826-e7f9-c0e8-7f44f430cc8a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2021-05-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1567050762",
+      "name": "Thermals",
+      "developer": "George Garside",
+      "url": "https://apps.apple.com/au/app/thermals/id1567050762?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c3/2b/68c32bee-0884-0adb-13ce-c8ae43ebc9b7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "6751236191",
+      "name": "Hubble Connect",
+      "developer": "Hubble Network",
+      "url": "https://apps.apple.com/au/app/hubble-connect/id6751236191?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/0f/37/e40f379e-b93e-318f-4fab-415eb1148bf9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "1436650069",
+      "name": "Pyto IDE",
+      "developer": "Develobile S.p.A.",
+      "url": "https://apps.apple.com/au/app/pyto-ide/id1436650069?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/18/35fb18d1-6367-1c1c-2b2f-4f5eb068a5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "6738411328",
+      "name": "Python Coding",
+      "developer": "婉媚 邵",
+      "url": "https://apps.apple.com/au/app/python-coding/id6738411328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/d0/c0/fdd0c0fb-4e27-b634-f96e-99431cd97b25/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "1578710731",
+      "name": "Wifi Analyzer: Network Scanner",
+      "developer": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+      "url": "https://apps.apple.com/au/app/wifi-analyzer-network-scanner/id1578710731?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/47/f7/1047f713-039d-7318-fa6a-d5bb8dcf58aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-07-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "1312141691",
+      "name": "Stream - Network Debug Tool",
+      "developer": "Stream Lab Inc.",
+      "url": "https://apps.apple.com/au/app/stream-network-debug-tool/id1312141691?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/18/cf/ec/18cfec38-3bb2-a06f-fe0f-4a995477379a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-01-04",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6593663767",
+      "name": "ZenVPN - Free Super Fast VPN",
+      "developer": "Surf Safe Network Ltd",
+      "url": "https://apps.apple.com/au/app/zenvpn-free-super-fast-vpn/id6593663767?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e8/6d/14e86d7b-0eda-73bb-1831-32c22fbced24/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-08-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "1543537943",
+      "name": "a-Shell mini",
+      "developer": "Nicolas Holzschuch",
+      "url": "https://apps.apple.com/au/app/a-shell-mini/id1543537943?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/4d/47/034d47f9-4932-67e4-929f-40bf530533d9/AppIcon-mini-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6754670070",
+      "name": "Terminal & SSH",
+      "developer": "TERMUX LIMITED LIABILITY COMPANY",
+      "url": "https://apps.apple.com/au/app/terminal-ssh/id6754670070?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/a4/43/b1a44322-d8e8-9692-0dbc-284e6f0c1fb2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-15",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1548193893",
+      "name": "Runestone Text Editor",
+      "developer": "Simon B. Støvring",
+      "url": "https://apps.apple.com/au/app/runestone-text-editor/id1548193893?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/58/72/3b587215-d653-a34f-5517-db48f9d98a62/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-05-05",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6757406313",
+      "name": "OpenCode Mobile App",
+      "developer": "Rodrigo Mendoza",
+      "url": "https://apps.apple.com/au/app/opencode-mobile-app/id6757406313?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/0c/70/cd0c7092-e4fe-f132-f1c8-8c2765db50fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "6753074404",
+      "name": "avoGate",
+      "developer": "Avocado VPN Technologies",
+      "url": "https://apps.apple.com/au/app/avogate/id6753074404?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/3d/c9/b13dc9f9-2e76-2910-0706-8133b717cf8a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-24",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6739386030",
+      "name": "Bluetooth Controller BT/LE",
+      "developer": "Alper Vural",
+      "url": "https://apps.apple.com/au/app/bluetooth-controller-bt-le/id6739386030?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/6f/7b/566f7bc4-bffe-2db2-dc27-e80efdbfb7c0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-12-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "6797263135",
+      "name": "Heeler for herdr",
+      "developer": "野 张",
+      "url": "https://apps.apple.com/au/app/heeler-for-herdr/id6797263135?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/96/69/569669f8-934e-8bfe-9859-e44d6c565378/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "1450994949",
+      "name": "Carnets - Jupyter",
+      "developer": "Nicolas Holzschuch",
+      "url": "https://apps.apple.com/au/app/carnets-jupyter/id1450994949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/78/7f/cb787ffe-6932-41d3-8633-bd7ff6995bc6/AppIcon-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-04-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6754570005",
+      "name": "N8N Automations — Nathan",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/au/app/n8n-automations-nathan/id6754570005?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/55/fa/7755fa80-4151-30ba-72a4-93f6c9887670/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6757701908",
+      "name": "Claude Code Notifier Companion",
+      "developer": "TouchTap",
+      "url": "https://apps.apple.com/au/app/claude-code-notifier-companion/id6757701908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/bb/c7/5bbbc75a-1c51-5281-3863-7c81e7c765d4/AppIcon-0-1x_U007ephone-0-1-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2026-01-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "6499217307",
+      "name": "ALDI GARDEN",
+      "developer": "aspiria nonfood GmbH",
+      "url": "https://apps.apple.com/au/app/aldi-garden/id6499217307?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a6/20/78a6206a-d2d9-9857-3f04-fdb3cdd49373/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-04-30",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1508712998",
+      "name": "Spectre VPN",
+      "developer": "Passion Only",
+      "url": "https://apps.apple.com/au/app/spectre-vpn/id1508712998?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/8f/1c/918f1c34-cfda-c208-93d0-6279d2e986a9/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1544159771",
+      "name": "Unity Face Capture",
+      "developer": "Unity Technologies ApS",
+      "url": "https://apps.apple.com/au/app/unity-face-capture/id1544159771?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/4f/10/d44f109b-47a8-1fe1-edc6-c7ced3d19c72/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1606625287",
+      "name": "Subtext",
+      "developer": "Charcoal Design",
+      "url": "https://apps.apple.com/au/app/subtext/id1606625287?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/48/69/e0486944-75c3-6daa-f463-2b59730f72de/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-02-01",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "6755708389",
+      "name": "Termiux",
+      "developer": "TERMUX LIMITED LIABILITY COMPANY",
+      "url": "https://apps.apple.com/au/app/termiux/id6755708389?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/11/8d/17118d2c-d837-63a9-3bc2-751501fa95b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "6788926383",
+      "name": "Superset: 100+ Coding Agents",
+      "developer": "Superset Inc.",
+      "url": "https://apps.apple.com/au/app/superset-100-coding-agents/id6788926383?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/87/b4/b887b4a8-daed-82a2-d077-ba71c189850c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "6747904566",
+      "name": "Campaign In Your Pocket",
+      "developer": "Campaign In Your Pocket",
+      "url": "https://apps.apple.com/au/app/campaign-in-your-pocket/id6747904566?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/40/1c/3b401c4b-79a1-b716-d1e1-50b3c0cf4478/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-07-25",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6761357475",
+      "name": "Clash Lite - Clash for iOS",
+      "developer": "Hood Lawn Service Inc.",
+      "url": "https://apps.apple.com/au/app/clash-lite-clash-for-ios/id6761357475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/81/d6/0181d602-a1a1-d1f4-804b-aa5ab1de7fa7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-04-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1544728400",
+      "name": "xTerminal - SSH Terminal Shell",
+      "developer": "婉媚 邵",
+      "url": "https://apps.apple.com/au/app/xterminal-ssh-terminal-shell/id1544728400?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/21/34/2d213415-2aee-4293-058a-7b387cd8c681/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "6767423666",
+      "name": "Milq AI: Mobile App Builder",
+      "developer": "Milq",
+      "url": "https://apps.apple.com/au/app/milq-ai-mobile-app-builder/id6767423666?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/81/c3/df81c32a-f4c7-12c5-341e-3de2e38fb13c/milq_icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-08-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1336634154",
+      "name": "SSH Client - Secure ShellFish",
+      "developer": "Anders Borum",
+      "url": "https://apps.apple.com/au/app/ssh-client-secure-shellfish/id1336634154?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/9d/b2/b29db28e-25b2-dab6-d215-28e97759613e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-06-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6758781401",
+      "name": "LG Remote ©",
+      "developer": "Free Vpn Fast",
+      "url": "https://apps.apple.com/au/app/lg-remote/id6758781401?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/99/06/ae9906d5-adf8-c2d9-c43e-3612dea4d5bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-03-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1573972480",
+      "name": "Colorlogix - Color Design Tool",
+      "developer": "Onloft Software LLC",
+      "url": "https://apps.apple.com/au/app/colorlogix-color-design-tool/id1573972480?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/06/56/57065683-8a2a-5d72-d2fa-120ef00eadca/Colorlogix-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-08-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1551292695",
+      "name": "Proxyman - Capture HTTPS",
+      "developer": "Proxyman LLC",
+      "url": "https://apps.apple.com/au/app/proxyman-capture-https/id1551292695?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/58/c2/8c58c2fc-6457-65ff-ed5e-8a905f678a7d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-03-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "1663675754",
+      "name": "GDevelop - Create & Play Games",
+      "developer": "GDEVELOP FRANCE",
+      "url": "https://apps.apple.com/au/app/gdevelop-create-play-games/id1663675754?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/8b/bd/d58bbd83-c719-d02e-8345-9d4854848cd8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-04-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "1661004679",
+      "name": "WebView - Tester",
+      "developer": "Tommy Gaessler",
+      "url": "https://apps.apple.com/au/app/webview-tester/id1661004679?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ae/47/0fae4714-c96a-906b-0a1e-d1b062d54c24/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-12-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6791228564",
+      "name": "Conductor.build",
+      "developer": "Melty, Inc.",
+      "url": "https://apps.apple.com/au/app/conductor-build/id6791228564?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/e2/33/3be23360-b0b6-dc7c-126b-c1c702850d48/conductor-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-09-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1519423539",
+      "name": "nRF Connect Device Manager",
+      "developer": "Nordic Semiconductor ASA",
+      "url": "https://apps.apple.com/au/app/nrf-connect-device-manager/id1519423539?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9b/97/f19b9707-588f-a65f-548d-8f346421f360/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-08-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "6785566876",
+      "name": "WLOC: Location Changer",
+      "developer": "就洪 邓",
+      "url": "https://apps.apple.com/au/app/wloc-location-changer/id6785566876?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/1e/3a/b41e3a40-db9b-5199-efb4-28e053b65dc9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6450932949",
+      "name": "ProxyPin - Open Source Capture",
+      "developer": "Minimalist Network Co., Ltd.",
+      "url": "https://apps.apple.com/au/app/proxypin-open-source-capture/id6450932949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/71/ba/9d71ba67-d206-15b7-7db0-748e391a3904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-08-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6743181258",
+      "name": "Cloudflare Remote",
+      "developer": "Emre Keles",
+      "url": "https://apps.apple.com/au/app/cloudflare-remote/id6743181258?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/d3/a5/e4d3a574-ac10-0569-b226-08f36ea38ac2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-03-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1601434613",
+      "name": "Store Redirect",
+      "developer": "翔 何",
+      "url": "https://apps.apple.com/au/app/store-redirect/id1601434613?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/14/55/c31455e4-7ecd-643c-50b7-77b2630e2934/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6450956188",
+      "name": "Network Sniffer",
+      "developer": "CHENGDU MIAOZHI TECHNOLOGY CO., LTD.",
+      "url": "https://apps.apple.com/au/app/network-sniffer/id6450956188?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/87/30/ef87301f-df05-50b6-ab66-20d6abcc41e2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2024-02-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "1473768340",
+      "name": "App Maker.",
+      "developer": "Joseph Hinkle",
+      "url": "https://apps.apple.com/au/app/app-maker/id1473768340?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b7/de/ab/b7deabab-c6c8-fd24-810c-5752b62b9e29/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2020-04-05",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "6749337619",
+      "name": "SQL Practice: Learn Database",
+      "developer": "Marton Greber",
+      "url": "https://apps.apple.com/au/app/sql-practice-learn-database/id6749337619?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/bd/0a/76bd0a25-f9a9-e2fe-064c-4b9e14aa1dbd/icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-08-04",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "497714887",
+      "name": "WebSSH - Sysadmin Toolbox",
+      "developer": "MENGUS ARNAUD",
+      "url": "https://apps.apple.com/au/app/webssh-sysadmin-toolbox/id497714887?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/a4/ad/fea4ad67-ffd6-5fbe-6351-fc2d2ad3a6be/WebSSH_TwentySix_Singularity-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-03-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "1560655497",
+      "name": "'Proto' for Figma",
+      "developer": "Florian Windbacher",
+      "url": "https://apps.apple.com/au/app/proto-for-figma/id1560655497?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/aa/af/53/aaaf5332-c164-1872-2f7b-c1568712998b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2021-04-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Developer Tools",
+          "url": "https://apps.apple.com/au/genre/ios-developer-tools/id6026?uo=2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24",
+ "updated": "2026-09-25",
  "apps": [
   {
    "id": "6793831470",
@@ -718,6 +718,15 @@
      "version": "1.3.8",
      "rating": 4.94,
      "remeasured": "iTunes lookup 3x cache-busted max"
+    },
+    {
+     "date": "2026-09-25",
+     "reviews": 844,
+     "version": "1.3.9",
+     "rating": 4.93,
+     "remeasured": "3x cache-busted max",
+     "note": "+6",
+     "delta": 6
     }
    ]
   },
@@ -1011,6 +1020,15 @@
      "version": "1.0.28",
      "rating": 4.904,
      "remeasured": "iTunes lookup 3x cache-busted max"
+    },
+    {
+     "date": "2026-09-25",
+     "reviews": 2619,
+     "version": "1.0.28",
+     "rating": 4.9,
+     "remeasured": "3x cache-busted max",
+     "note": "+27 (전일 +72 대비 증가폭 둔화)",
+     "delta": 27
     }
    ]
   },
@@ -1091,6 +1109,15 @@
      "version": "1.29.0",
      "rating": 4.646,
      "remeasured": "iTunes lookup 3x cache-busted max"
+    },
+    {
+     "date": "2026-09-25",
+     "reviews": 2074,
+     "version": "1.29.1",
+     "rating": 4.64,
+     "remeasured": "3x cache-busted max",
+     "note": "+7",
+     "delta": 7
     }
    ]
   },
@@ -1237,6 +1264,15 @@
      "rating": 3.833,
      "remeasured": "iTunes lookup 3x cache-busted max",
      "note": "관찰 종료 상태 유지 — n=1 근거 소진 판정은 변경 없음."
+    },
+    {
+     "date": "2026-09-25",
+     "reviews": 25,
+     "version": "1.3.3",
+     "rating": 3.72,
+     "remeasured": "3x cache-busted max",
+     "note": "+1, 관찰 종료 상태 유지",
+     "delta": 1
     }
    ]
   },
@@ -1716,6 +1752,16 @@
      "rating": 4.862,
      "remeasured": "iTunes lookup 3x cache-busted max + games RSS top100 직접 확인",
      "note": "4일차 첫 순위 하락(games#51→#69, -18). 리뷰는 계속 증가(+7) — 광고 감쇠 시작으로 판정."
+    },
+    {
+     "date": "2026-09-25",
+     "rank": "games#86",
+     "reviews": 101,
+     "version": "1.0.7",
+     "rating": 4.87,
+     "remeasured": "3x cache-busted max",
+     "note": "games RSS top100 직접 조회로 순위 재확인. 5일차: #50->#51->#51->#69->#86 지속 하락, 리뷰는 계속 증가(+7) — 광고감쇠 확정",
+     "delta": 7
     }
    ]
   }

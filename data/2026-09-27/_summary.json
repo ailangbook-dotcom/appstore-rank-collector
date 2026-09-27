@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "collected_at": "2026-09-27T00:10:30.963292+09:00",
+  "collected_at": "2026-09-27T20:09:51.611785+09:00",
   "chart": "top-free",
   "limit": 100,
   "countries": {
@@ -236,7 +236,7 @@
         },
         "finance": {
           "genre_id": 6015,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-27/gb/finance.json"
         },
@@ -456,7 +456,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 99,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-27/au/productivity.json"
         },
@@ -492,7 +492,7 @@
         },
         "finance": {
           "genre_id": 6015,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-27/au/finance.json"
         },
@@ -520,7 +520,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 98,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-27/sg/productivity.json"
         },
@@ -638,7 +638,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-27/tw/graphics-design.json"
         }
@@ -648,7 +648,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 99,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-27/hk/productivity.json"
         },
@@ -702,7 +702,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-27/hk/graphics-design.json"
         }
@@ -742,7 +742,7 @@
         },
         "education": {
           "genre_id": 6017,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-27/nl/education.json"
         },
@@ -840,7 +840,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 97,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-27/nz/productivity.json"
         },
@@ -876,7 +876,7 @@
         },
         "finance": {
           "genre_id": 6015,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-27/nz/finance.json"
         },

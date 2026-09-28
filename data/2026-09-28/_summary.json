@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "collected_at": "2026-09-28T00:10:33.453377+09:00",
+  "collected_at": "2026-09-28T18:10:17.001634+09:00",
   "chart": "top-free",
   "limit": 100,
   "countries": {
@@ -456,7 +456,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 99,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-28/au/productivity.json"
         },
@@ -492,7 +492,7 @@
         },
         "finance": {
           "genre_id": 6015,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-28/au/finance.json"
         },
@@ -684,7 +684,7 @@
         },
         "finance": {
           "genre_id": 6015,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-28/hk/finance.json"
         },
@@ -840,7 +840,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 99,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-28/nz/productivity.json"
         },

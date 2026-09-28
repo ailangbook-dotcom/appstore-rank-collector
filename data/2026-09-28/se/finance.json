@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28T00:13:36.862265+09:00",
+  "collected_at": "2026-09-28T18:13:16.880656+09:00",
   "date": "2026-09-28",
   "country": "se",
   "chart": "top-free",
@@ -41,12 +41,12 @@
     },
     {
       "rank": 3,
-      "id": "1115120118",
-      "name": "Klarna: Smart vardagsekonomi",
-      "developer": "Klarna Bank AB",
-      "url": "https://apps.apple.com/se/app/klarna-smart-vardagsekonomi/id1115120118?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/9a/2f/f89a2f8c-8d5d-71a3-5681-cb5159e73a20/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-06-22",
+      "id": "1569382782",
+      "name": "Walley",
+      "developer": "Norion Bank AB",
+      "url": "https://apps.apple.com/se/app/walley/id1569382782?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/77/fc/3d77fca7-04f9-396a-f69d-5715399360c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-23",
       "genres": [
         {
           "id": "6015",
@@ -57,12 +57,12 @@
     },
     {
       "rank": 4,
-      "id": "1569382782",
-      "name": "Walley",
-      "developer": "Norion Bank AB",
-      "url": "https://apps.apple.com/se/app/walley/id1569382782?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/77/fc/3d77fca7-04f9-396a-f69d-5715399360c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-08-23",
+      "id": "1115120118",
+      "name": "Klarna: Smart vardagsekonomi",
+      "developer": "Klarna Bank AB",
+      "url": "https://apps.apple.com/se/app/klarna-smart-vardagsekonomi/id1115120118?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/ca/8d/28ca8d14-2521-75ed-6ec3-c48eca5b9b6c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-22",
       "genres": [
         {
           "id": "6015",
@@ -89,12 +89,12 @@
     },
     {
       "rank": 6,
-      "id": "563204724",
-      "name": "Swish betalningar",
-      "developer": "Getswish AB",
-      "url": "https://apps.apple.com/se/app/swish-betalningar/id563204724?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/56/e7/a956e723-eaed-6021-60aa-544e9c5025e5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-12-12",
+      "id": "283646709",
+      "name": "PayPal",
+      "developer": "PayPal, Inc.",
+      "url": "https://apps.apple.com/se/app/paypal/id283646709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/02/a5/8002a537-334c-2fd2-4d99-0bb207ced71f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-03",
       "genres": [
         {
           "id": "6015",
@@ -121,12 +121,12 @@
     },
     {
       "rank": 8,
-      "id": "283646709",
-      "name": "PayPal",
-      "developer": "PayPal, Inc.",
-      "url": "https://apps.apple.com/se/app/paypal/id283646709?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/02/a5/8002a537-334c-2fd2-4d99-0bb207ced71f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-03",
+      "id": "563204724",
+      "name": "Swish betalningar",
+      "developer": "Getswish AB",
+      "url": "https://apps.apple.com/se/app/swish-betalningar/id563204724?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/56/e7/a956e723-eaed-6021-60aa-544e9c5025e5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-12-12",
       "genres": [
         {
           "id": "6015",
@@ -201,22 +201,6 @@
     },
     {
       "rank": 13,
-      "id": "6468263762",
-      "name": "Folksam Försäkringsbolag",
-      "developer": "Folksam",
-      "url": "https://apps.apple.com/se/app/folksam-f%C3%B6rs%C3%A4kringsbolag/id6468263762?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/cd/e7/65cde78a-f6ef-dbf1-0b17-4af8ad928890/folksam-app-icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-01-10",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 14,
       "id": "1330613161",
       "name": "Northmill Bank",
       "developer": "Northmill Bank AB",
@@ -232,7 +216,39 @@
       ]
     },
     {
+      "rank": 14,
+      "id": "6468263762",
+      "name": "Folksam Försäkringsbolag",
+      "developer": "Folksam",
+      "url": "https://apps.apple.com/se/app/folksam-f%C3%B6rs%C3%A4kringsbolag/id6468263762?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/cd/e7/65cde78a-f6ef-dbf1-0b17-4af8ad928890/folksam-app-icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-01-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 15,
+      "id": "426706646",
+      "name": "Länsförsäkringar",
+      "developer": "Länsförsäkringar",
+      "url": "https://apps.apple.com/se/app/l%C3%A4nsf%C3%B6rs%C3%A4kringar/id426706646?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/06/cb/3406cb1f-e74e-60a9-e22a-4c97e7b4a36b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-04-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
       "id": "458023433",
       "name": "Splitwise",
       "developer": "Splitwise, Inc.",
@@ -248,29 +264,13 @@
       ]
     },
     {
-      "rank": 16,
-      "id": "1503304218",
-      "name": "Elpy",
-      "developer": "Ellos AB",
-      "url": "https://apps.apple.com/se/app/elpy/id1503304218?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7d/78/c57d7824-26b5-599a-782e-6fe0d942b09a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 17,
-      "id": "571239441",
-      "name": "Nordea Mobile - Sverige",
-      "developer": "Nordea Bank Abp",
-      "url": "https://apps.apple.com/se/app/nordea-mobile-sverige/id571239441?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/bb/2eaebb5e-5a57-d8c2-3bf5-d95c399c3969/AppIcon_HH_SE-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-11-21",
+      "id": "499287475",
+      "name": "ICA Banken",
+      "developer": "ICA Banken AB",
+      "url": "https://apps.apple.com/se/app/ica-banken/id499287475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c1/28/bac1285e-6281-0611-526f-68650097f2d1/ICA_Banken-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-02-20",
       "genres": [
         {
           "id": "6015",
@@ -281,12 +281,12 @@
     },
     {
       "rank": 18,
-      "id": "426706646",
-      "name": "Länsförsäkringar",
-      "developer": "Länsförsäkringar",
-      "url": "https://apps.apple.com/se/app/l%C3%A4nsf%C3%B6rs%C3%A4kringar/id426706646?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/28/6e/fd286eea-ab83-1721-2390-b2ded2ae1e5c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2011-04-13",
+      "id": "571239441",
+      "name": "Nordea Mobile - Sverige",
+      "developer": "Nordea Bank Abp",
+      "url": "https://apps.apple.com/se/app/nordea-mobile-sverige/id571239441?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/6b/24/006b24a6-4854-0331-a899-a33b51f7c7b7/AppIcon_HH_SE-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-11-21",
       "genres": [
         {
           "id": "6015",
@@ -297,12 +297,12 @@
     },
     {
       "rank": 19,
-      "id": "499287475",
-      "name": "ICA Banken",
-      "developer": "ICA Banken AB",
-      "url": "https://apps.apple.com/se/app/ica-banken/id499287475?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c1/28/bac1285e-6281-0611-526f-68650097f2d1/ICA_Banken-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-02-20",
+      "id": "1503304218",
+      "name": "Elpy",
+      "developer": "Ellos AB",
+      "url": "https://apps.apple.com/se/app/elpy/id1503304218?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7d/78/c57d7824-26b5-599a-782e-6fe0d942b09a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-23",
       "genres": [
         {
           "id": "6015",
@@ -329,22 +329,6 @@
     },
     {
       "rank": 21,
-      "id": "984380185",
-      "name": "Vipps",
-      "developer": "Vipps MobilePay AS",
-      "url": "https://apps.apple.com/se/app/vipps/id984380185?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/2d/7d/7a2d7d38-5648-5b22-aa8d-d2fdd968be29/Vipps-PROD-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-05-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
       "id": "612261027",
       "name": "Wise - Global Money",
       "developer": "Wise Payments Ltd",
@@ -360,13 +344,29 @@
       ]
     },
     {
+      "rank": 22,
+      "id": "6741115427",
+      "name": "fomo - never miss out",
+      "developer": "fomo labs, inc",
+      "url": "https://apps.apple.com/se/app/fomo-never-miss-out/id6741115427?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/d9/f0/b1d9f0c5-a29e-4156-9a8f-a906c573ea81/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 23,
-      "id": "6741155189",
-      "name": "Avida",
-      "developer": "Avida Bank AB (publ)",
-      "url": "https://apps.apple.com/se/app/avida/id6741155189?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/d2/ab/2ad2abb5-ec22-a0b5-e355-afcb00870266/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-08-18",
+      "id": "984380185",
+      "name": "Vipps",
+      "developer": "Vipps MobilePay AS",
+      "url": "https://apps.apple.com/se/app/vipps/id984380185?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/42/47/7f4247e5-d23c-5e51-ec12-cf880ef7de56/VippsOrange-PROD-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-05-30",
       "genres": [
         {
           "id": "6015",
@@ -377,12 +377,12 @@
     },
     {
       "rank": 24,
-      "id": "561144546",
-      "name": "Amex SE",
-      "developer": "American Express",
-      "url": "https://apps.apple.com/se/app/amex-se/id561144546?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/a6/c8/dea6c8b4-b35a-1a15-cf68-29a298210c2d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-09-20",
+      "id": "6451455193",
+      "name": "Sambla",
+      "developer": "Sambla Group",
+      "url": "https://apps.apple.com/se/app/sambla/id6451455193?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/b9/26/adb926e3-a017-14d5-ac4d-b21d1ae30125/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-09-27",
       "genres": [
         {
           "id": "6015",
@@ -425,12 +425,12 @@
     },
     {
       "rank": 27,
-      "id": "6741115427",
-      "name": "fomo - never miss out",
-      "developer": "fomo labs, inc",
-      "url": "https://apps.apple.com/se/app/fomo-never-miss-out/id6741115427?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/d9/f0/b1d9f0c5-a29e-4156-9a8f-a906c573ea81/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-04-18",
+      "id": "6741155189",
+      "name": "Avida",
+      "developer": "Avida Bank AB (publ)",
+      "url": "https://apps.apple.com/se/app/avida/id6741155189?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/d2/ab/2ad2abb5-ec22-a0b5-e355-afcb00870266/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-08-18",
       "genres": [
         {
           "id": "6015",
@@ -441,12 +441,12 @@
     },
     {
       "rank": 28,
-      "id": "6451455193",
-      "name": "Sambla",
-      "developer": "Sambla Group",
-      "url": "https://apps.apple.com/se/app/sambla/id6451455193?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/b9/26/adb926e3-a017-14d5-ac4d-b21d1ae30125/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-09-27",
+      "id": "561144546",
+      "name": "Amex SE",
+      "developer": "American Express",
+      "url": "https://apps.apple.com/se/app/amex-se/id561144546?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/a6/c8/dea6c8b4-b35a-1a15-cf68-29a298210c2d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-09-20",
       "genres": [
         {
           "id": "6015",
@@ -457,38 +457,6 @@
     },
     {
       "rank": 29,
-      "id": "378393286",
-      "name": "Handelsbanken SE – Privat",
-      "developer": "Svenska Handelsbanken (publ)",
-      "url": "https://apps.apple.com/se/app/handelsbanken-se-privat/id378393286?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/c0/d2/40c0d242-028c-4245-b03d-12d8908f3609/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2010-06-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "id": "1127805969",
-      "name": "Tibber - Smartare el",
-      "developer": "Tibber",
-      "url": "https://apps.apple.com/se/app/tibber-smartare-el/id1127805969?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/b8/3c/6db83cc2-6af9-714a-643c-7069c67cb345/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-06-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
       "id": "1179422060",
       "name": "Opti",
       "developer": "Opti Sverige AB",
@@ -504,103 +472,7 @@
       ]
     },
     {
-      "rank": 32,
-      "id": "345038631",
-      "name": "Nordnet: Aktier & Fonder",
-      "developer": "Nordnet",
-      "url": "https://apps.apple.com/se/app/nordnet-aktier-fonder/id345038631?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/fe/88/bafe881b-c012-9a99-b4dc-d44af1c0a834/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2010-01-20",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
-      "id": "1284703331",
-      "name": "SBAB!",
-      "developer": "SBAB Bank AB (publ)",
-      "url": "https://apps.apple.com/se/app/sbab/id1284703331?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/1f/07/7e1f072d-271c-fc86-290a-d7e7626ba4e9/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-12-10",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
-      "id": "6478594592",
-      "name": "SEB Neo",
-      "developer": "Skandinaviska Enskilda Banken AB (publ)",
-      "url": "https://apps.apple.com/se/app/seb-neo/id6478594592?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/51/93/c6519350-a54b-e843-36df-6c9fa71663e1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-04-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 35,
-      "id": "1469889055",
-      "name": "Svea Bank",
-      "developer": "Svea Ekonomi",
-      "url": "https://apps.apple.com/se/app/svea-bank/id1469889055?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/bc/70/31bc709d-70b1-99f2-9c1e-8a3ecaec98a9/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2019-12-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 36,
-      "id": "1152860407",
-      "name": "Western Union Skicka pengar",
-      "developer": "Western Union Holdings, Inc.",
-      "url": "https://apps.apple.com/se/app/western-union-skicka-pengar/id1152860407?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/9f/4e/fb9f4e6c-f658-996d-f75c-97fe6ddb7c7b/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2016-09-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "526657154",
-      "name": "Sparbanken privat",
-      "developer": "Sparbankernas Service AB",
-      "url": "https://apps.apple.com/se/app/sparbanken-privat/id526657154?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/21/06/68210684-63fa-c75a-0903-421a46faab1b/SparbankernaPrivate-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-06-04",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
+      "rank": 30,
       "id": "1412749891",
       "name": "Anyfin",
       "developer": "Anyfin",
@@ -616,13 +488,13 @@
       ]
     },
     {
-      "rank": 39,
-      "id": "1624689010",
-      "name": "If försäkringar",
-      "developer": "If IT Services A/S",
-      "url": "https://apps.apple.com/se/app/if-f%C3%B6rs%C3%A4kringar/id1624689010?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/62/3a/61623a77-1675-3242-e96d-0dd939fe7e5c/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-03-01",
+      "rank": 31,
+      "id": "1469889055",
+      "name": "Svea Bank",
+      "developer": "Svea Ekonomi",
+      "url": "https://apps.apple.com/se/app/svea-bank/id1469889055?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/bc/70/31bc709d-70b1-99f2-9c1e-8a3ecaec98a9/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2019-12-05",
       "genres": [
         {
           "id": "6015",
@@ -632,39 +504,7 @@
       ]
     },
     {
-      "rank": 40,
-      "id": "674258465",
-      "name": "Remitly: Money transfer app",
-      "developer": "Remitly Inc",
-      "url": "https://apps.apple.com/se/app/remitly-money-transfer-app/id674258465?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/cd/64/0acd642b-2a54-7787-9cc3-6cd2e33c81cc/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "524132764",
-      "name": "Cost Split",
-      "developer": "Jacob Ivstam",
-      "url": "https://apps.apple.com/se/app/cost-split/id524132764?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1e/ff/e4/1effe40f-1724-24ee-9442-9106ebd2a89c/AppIcon-0-1x_U007emarketing-0-85-220-3.png/100x100bb.png",
-      "release_date": "2012-11-07",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
+      "rank": 32,
       "id": "1205990992",
       "name": "TradingView – Aktier & Krypto",
       "developer": "TradingView",
@@ -680,7 +520,119 @@
       ]
     },
     {
-      "rank": 43,
+      "rank": 33,
+      "id": "378393286",
+      "name": "Handelsbanken SE – Privat",
+      "developer": "Svenska Handelsbanken (publ)",
+      "url": "https://apps.apple.com/se/app/handelsbanken-se-privat/id378393286?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/c0/d2/40c0d242-028c-4245-b03d-12d8908f3609/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2010-06-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "1284703331",
+      "name": "SBAB!",
+      "developer": "SBAB Bank AB (publ)",
+      "url": "https://apps.apple.com/se/app/sbab/id1284703331?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/eb/ee/5bebee6b-d850-9f92-5037-469d80cf9879/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-12-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "1152860407",
+      "name": "Western Union Skicka pengar",
+      "developer": "Western Union Holdings, Inc.",
+      "url": "https://apps.apple.com/se/app/western-union-skicka-pengar/id1152860407?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/9f/4e/fb9f4e6c-f658-996d-f75c-97fe6ddb7c7b/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2016-09-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1127805969",
+      "name": "Tibber - Smartare el",
+      "developer": "Tibber",
+      "url": "https://apps.apple.com/se/app/tibber-smartare-el/id1127805969?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/b8/3c/6db83cc2-6af9-714a-643c-7069c67cb345/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-06-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "674258465",
+      "name": "Remitly: Money transfer app",
+      "developer": "Remitly Inc",
+      "url": "https://apps.apple.com/se/app/remitly-money-transfer-app/id674258465?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/89/f4/cd89f400-55ee-97b0-a821-36baf7e0ea95/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "1624689010",
+      "name": "If försäkringar",
+      "developer": "If IT Services A/S",
+      "url": "https://apps.apple.com/se/app/if-f%C3%B6rs%C3%A4kringar/id1624689010?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/62/3a/61623a77-1675-3242-e96d-0dd939fe7e5c/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-03-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "526657154",
+      "name": "Sparbanken privat",
+      "developer": "Sparbankernas Service AB",
+      "url": "https://apps.apple.com/se/app/sparbanken-privat/id526657154?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/21/06/68210684-63fa-c75a-0903-421a46faab1b/SparbankernaPrivate-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-06-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
       "id": "1560858500",
       "name": "Zaver | Pay. Save. Grow.",
       "developer": "Frink AB",
@@ -696,13 +648,13 @@
       ]
     },
     {
-      "rank": 44,
-      "id": "1413346006",
-      "name": "Taptap Send: Money Transfer",
-      "developer": "Taptap Send, Inc.",
-      "url": "https://apps.apple.com/se/app/taptap-send-money-transfer/id1413346006?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/8d/78/a28d78c0-f4c2-b688-0632-b16e02e05ecc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2025-04-15",
+      "rank": 41,
+      "id": "345038631",
+      "name": "Nordnet: Aktier & Fonder",
+      "developer": "Nordnet",
+      "url": "https://apps.apple.com/se/app/nordnet-aktier-fonder/id345038631?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/fe/88/bafe881b-c012-9a99-b4dc-d44af1c0a834/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2010-01-20",
       "genres": [
         {
           "id": "6015",
@@ -712,119 +664,7 @@
       ]
     },
     {
-      "rank": 45,
-      "id": "6757751464",
-      "name": "Söderberg & Partners Plus",
-      "developer": "Söderberg & Partners",
-      "url": "https://apps.apple.com/se/app/s%C3%B6derberg-partners-plus/id6757751464?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/5c/82/cb5c8287-cbbd-c4cd-5ddd-28834b2e471c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-02-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "1239432790",
-      "name": "Zlantar: Hela din ekonomi",
-      "developer": "Zlantar",
-      "url": "https://apps.apple.com/se/app/zlantar-hela-din-ekonomi/id1239432790?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ea/f7/99eaf7d8-fa29-8ace-c140-9aa2a16bbca3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-11-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "624499138",
-      "name": "MobilePay",
-      "developer": "Vipps MobilePay AS",
-      "url": "https://apps.apple.com/se/app/mobilepay/id624499138?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/92/64/729264be-82ee-0bc7-ae77-b8e5477e3494/MobilePay-PROD-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2013-05-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "id": "935778197",
-      "name": "Gimi - Veckopeng i mobilen",
-      "developer": "Gimi AB",
-      "url": "https://apps.apple.com/se/app/gimi-veckopeng-i-mobilen/id935778197?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/da/25/bfda2514-afa0-ecc7-e6ab-a4c875a97651/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2015-03-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "1063224472",
-      "name": "CarPay",
-      "developer": "Ziklo Bank AB",
-      "url": "https://apps.apple.com/se/app/carpay/id1063224472?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/31/b2/6231b22a-66dc-00b6-8635-27ae48e047f8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2016-03-11",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "id": "1065921908",
-      "name": "Ria Money Transfer",
-      "developer": "Ria Envia Inc.",
-      "url": "https://apps.apple.com/se/app/ria-money-transfer/id1065921908?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/75/fb/b875fb9a-4ea4-cf69-8074-d68d9f4919d0/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2020-07-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "1441419364",
-      "name": "Spendwise",
-      "developer": "SEB Kort Bank AB",
-      "url": "https://apps.apple.com/se/app/spendwise/id1441419364?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/be/5c/88be5cb8-e9fe-71cc-7d3e-1263c8a9dac5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-02-18",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
+      "rank": 42,
       "id": "1303668531",
       "name": "Hedvig",
       "developer": "Hedvig Forsakring AB",
@@ -840,13 +680,13 @@
       ]
     },
     {
-      "rank": 53,
-      "id": "1481461001",
-      "name": "Transfer Galaxy Money Transfer",
-      "developer": "Transfer Galaxy AB",
-      "url": "https://apps.apple.com/se/app/transfer-galaxy-money-transfer/id1481461001?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/48/8f/96488f30-c805-696e-bc45-122c17502728/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-02-03",
+      "rank": 43,
+      "id": "1239432790",
+      "name": "Zlantar: Hela din ekonomi",
+      "developer": "Zlantar",
+      "url": "https://apps.apple.com/se/app/zlantar-hela-din-ekonomi/id1239432790?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ea/f7/99eaf7d8-fa29-8ace-c140-9aa2a16bbca3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-11-15",
       "genres": [
         {
           "id": "6015",
@@ -856,13 +696,13 @@
       ]
     },
     {
-      "rank": 54,
-      "id": "566325832",
-      "name": "Trading 212 - Aktier & ETF",
-      "developer": "Trading 212",
-      "url": "https://apps.apple.com/se/app/trading-212-aktier-etf/id566325832?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4e/6c/aa4e6cdc-b749-88ee-2b86-c7d0dbe9a664/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2012-10-08",
+      "rank": 44,
+      "id": "6478594592",
+      "name": "SEB Neo",
+      "developer": "Skandinaviska Enskilda Banken AB (publ)",
+      "url": "https://apps.apple.com/se/app/seb-neo/id6478594592?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/51/93/c6519350-a54b-e843-36df-6c9fa71663e1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-08",
       "genres": [
         {
           "id": "6015",
@@ -872,13 +712,13 @@
       ]
     },
     {
-      "rank": 55,
-      "id": "1315948868",
-      "name": "Mobilbank SE – Danske Bank",
-      "developer": "Danske Bank Group",
-      "url": "https://apps.apple.com/se/app/mobilbank-se-danske-bank/id1315948868?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/24/ad/4924adbb-edd9-66fd-4195-c21f9fa05d77/MobileBank_SE-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2017-11-28",
+      "rank": 45,
+      "id": "6484069059",
+      "name": "Jupiter Mobile - Solana Wallet",
+      "developer": "Raccoon Labs Pte. Ltd.",
+      "url": "https://apps.apple.com/se/app/jupiter-mobile-solana-wallet/id6484069059?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/c6/c6/bfc6c682-8c23-2141-8294-f947b9bd6187/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-07-03",
       "genres": [
         {
           "id": "6015",
@@ -888,13 +728,13 @@
       ]
     },
     {
-      "rank": 56,
-      "id": "349866256",
-      "name": "tricount - Dela grupputgifter",
-      "developer": "Tricount",
-      "url": "https://apps.apple.com/se/app/tricount-dela-grupputgifter/id349866256?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2010-02-01",
+      "rank": 46,
+      "id": "6757751464",
+      "name": "Söderberg & Partners Plus",
+      "developer": "Söderberg & Partners",
+      "url": "https://apps.apple.com/se/app/s%C3%B6derberg-partners-plus/id6757751464?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/df/7f/e4df7fac-bca0-330e-66fc-4027f2096f09/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-02-02",
       "genres": [
         {
           "id": "6015",
@@ -904,55 +744,7 @@
       ]
     },
     {
-      "rank": 57,
-      "id": "886427730",
-      "name": "Coinbase: Köp krypto som BTC",
-      "developer": "Coinbase, Inc.",
-      "url": "https://apps.apple.com/se/app/coinbase-k%C3%B6p-krypto-som-btc/id886427730?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/2b/2e/f12b2e38-cc2b-e26c-ef05-0f5ba8b15418/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-06-21",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "6449253503",
-      "name": "Juba Express Money Transfer",
-      "developer": "Consulting International Europe AB",
-      "url": "https://apps.apple.com/se/app/juba-express-money-transfer/id6449253503?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/71/74/e17174a6-f943-ace3-1de3-dbd5e8481262/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-01-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "1068850213",
-      "name": "Lunar",
-      "developer": "Lunar Bank A/S",
-      "url": "https://apps.apple.com/se/app/lunar/id1068850213?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/fe/01/12fe0169-bba0-553f-0a14-4f42e02db6d9/lunar-app-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-12-11",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
+      "rank": 47,
       "id": "1598432977",
       "name": "Phantom: Trading Wallet",
       "developer": "Phantom Technologies Incorporated",
@@ -968,13 +760,221 @@
       ]
     },
     {
+      "rank": 48,
+      "id": "1413346006",
+      "name": "Taptap Send: Money Transfer",
+      "developer": "Taptap Send, Inc.",
+      "url": "https://apps.apple.com/se/app/taptap-send-money-transfer/id1413346006?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/8d/78/a28d78c0-f4c2-b688-0632-b16e02e05ecc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2025-04-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "935778197",
+      "name": "Gimi - Veckopeng i mobilen",
+      "developer": "Gimi AB",
+      "url": "https://apps.apple.com/se/app/gimi-veckopeng-i-mobilen/id935778197?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/da/25/bfda2514-afa0-ecc7-e6ab-a4c875a97651/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2015-03-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1063224472",
+      "name": "CarPay",
+      "developer": "Ziklo Bank AB",
+      "url": "https://apps.apple.com/se/app/carpay/id1063224472?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/31/b2/6231b22a-66dc-00b6-8635-27ae48e047f8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2016-03-11",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "524132764",
+      "name": "Cost Split",
+      "developer": "Jacob Ivstam",
+      "url": "https://apps.apple.com/se/app/cost-split/id524132764?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1e/ff/e4/1effe40f-1724-24ee-9442-9106ebd2a89c/AppIcon-0-1x_U007emarketing-0-85-220-3.png/100x100bb.png",
+      "release_date": "2012-11-07",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "886427730",
+      "name": "Coinbase: Köp krypto som BTC",
+      "developer": "Coinbase, Inc.",
+      "url": "https://apps.apple.com/se/app/coinbase-k%C3%B6p-krypto-som-btc/id886427730?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/2b/2e/f12b2e38-cc2b-e26c-ef05-0f5ba8b15418/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-06-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1065921908",
+      "name": "Ria Money Transfer",
+      "developer": "Ria Envia Inc.",
+      "url": "https://apps.apple.com/se/app/ria-money-transfer/id1065921908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/75/fb/b875fb9a-4ea4-cf69-8074-d68d9f4919d0/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1315948868",
+      "name": "Mobilbank SE – Danske Bank",
+      "developer": "Danske Bank Group",
+      "url": "https://apps.apple.com/se/app/mobilbank-se-danske-bank/id1315948868?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/15/e1/8915e102-1262-be42-2bc6-5ebaef6c9c24/MobileBank_SE-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2017-11-28",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "624499138",
+      "name": "MobilePay",
+      "developer": "Vipps MobilePay AS",
+      "url": "https://apps.apple.com/se/app/mobilepay/id624499138?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/92/64/729264be-82ee-0bc7-ae77-b8e5477e3494/MobilePay-PROD-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-05-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1481461001",
+      "name": "Transfer Galaxy Money Transfer",
+      "developer": "Transfer Galaxy AB",
+      "url": "https://apps.apple.com/se/app/transfer-galaxy-money-transfer/id1481461001?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/48/8f/96488f30-c805-696e-bc45-122c17502728/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-02-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "566325832",
+      "name": "Trading 212 - Aktier & ETF",
+      "developer": "Trading 212",
+      "url": "https://apps.apple.com/se/app/trading-212-aktier-etf/id566325832?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4e/6c/aa4e6cdc-b749-88ee-2b86-c7d0dbe9a664/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-10-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1068850213",
+      "name": "Lunar",
+      "developer": "Lunar Bank A/S",
+      "url": "https://apps.apple.com/se/app/lunar/id1068850213?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/fe/01/12fe0169-bba0-553f-0a14-4f42e02db6d9/lunar-app-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-12-11",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "349866256",
+      "name": "tricount - Dela grupputgifter",
+      "developer": "Tricount",
+      "url": "https://apps.apple.com/se/app/tricount-dela-grupputgifter/id349866256?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2010-02-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "936422955",
+      "name": "Buddy: Budgetera & Spara",
+      "developer": "Buddy Budgeting AB",
+      "url": "https://apps.apple.com/se/app/buddy-budgetera-spara/id936422955?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/ff/aa/70ffaa4f-a894-b89c-b98e-3557c834d76c/Buddy-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-11-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 61,
-      "id": "1481947260",
-      "name": "Kraken: Buy Bitcoin & Crypto",
-      "developer": "Kraken",
-      "url": "https://apps.apple.com/se/app/kraken-buy-bitcoin-crypto/id1481947260?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b6/e4/3bb6e417-ba13-0cfc-5605-85fefcae2656/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2020-11-12",
+      "id": "413251709",
+      "name": "MetaTrader 5",
+      "developer": "MetaQuotes Software Corp.",
+      "url": "https://apps.apple.com/se/app/metatrader-5/id413251709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-01-15",
       "genres": [
         {
           "id": "6015",
@@ -1001,12 +1001,12 @@
     },
     {
       "rank": 63,
-      "id": "1533808157",
-      "name": "Lassie",
-      "developer": "Lassie AB",
-      "url": "https://apps.apple.com/se/app/lassie/id1533808157?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/c3/8b/ecc38bb3-625d-3960-01cc-93bfe0e7f9bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2020-12-26",
+      "id": "1481947260",
+      "name": "Kraken: Buy Bitcoin & Crypto",
+      "developer": "Kraken",
+      "url": "https://apps.apple.com/se/app/kraken-buy-bitcoin-crypto/id1481947260?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b6/e4/3bb6e417-ba13-0cfc-5605-85fefcae2656/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-11-12",
       "genres": [
         {
           "id": "6015",
@@ -1017,182 +1017,6 @@
     },
     {
       "rank": 64,
-      "id": "1575499773",
-      "name": "PU Prime: Gold & Forex Trading",
-      "developer": "PU Prime Limited",
-      "url": "https://apps.apple.com/se/app/pu-prime-gold-forex-trading/id1575499773?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/7f/93/6b7f935e-4835-8bfb-90c7-45d4b272c3c6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2021-08-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "376991788",
-      "name": "Skandia och Skandiabanken",
-      "developer": "SkandiaBanken AB (publ)",
-      "url": "https://apps.apple.com/se/app/skandia-och-skandiabanken/id376991788?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/97/45/f197453f-3f55-da43-db3a-b1abbf42937c/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2010-06-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "1626744048",
-      "name": "District Mobile - Danske Bank",
-      "developer": "Danske Bank Group",
-      "url": "https://apps.apple.com/se/app/district-mobile-danske-bank/id1626744048?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/6c/20/8b6c20af-ee23-f4c7-518e-b4824e58fe4d/DistrictMobile_DK-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-22",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "1167398909",
-      "name": "Collector",
-      "developer": "Norion Bank AB",
-      "url": "https://apps.apple.com/se/app/collector/id1167398909?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/57/6a/87576a57-8dbf-f77a-5d73-0cc8cb416d68/CollectorAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-12-20",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "1499857038",
-      "name": "Revolut — Ekonomi för Unga",
-      "developer": "Revolut Ltd",
-      "url": "https://apps.apple.com/se/app/revolut-ekonomi-f%C3%B6r-unga/id1499857038?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/64/24/8f642488-24c8-29de-3849-a4b207e81e80/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2020-03-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "413251709",
-      "name": "MetaTrader 5",
-      "developer": "MetaQuotes Software Corp.",
-      "url": "https://apps.apple.com/se/app/metatrader-5/id413251709?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-01-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "1305771835",
-      "name": "Santander Sverige - Mobilbank",
-      "developer": "Santander Consumer Bank AS",
-      "url": "https://apps.apple.com/se/app/santander-sverige-mobilbank/id1305771835?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/03/23/67032371-815e-14d7-f3c9-54636dd3d6a3/AppIconSE-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2018-12-21",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1436799971",
-      "name": "Binance: Buy Bitcoin & Crypto",
-      "developer": "Binance Switzerland AG",
-      "url": "https://apps.apple.com/se/app/binance-buy-bitcoin-crypto/id1436799971?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/ad/85/4dad856f-0953-043a-9720-03c027cb00ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "572871387",
-      "name": "re:member",
-      "developer": "EnterCard",
-      "url": "https://apps.apple.com/se/app/re-member/id572871387?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/8c/50/9c8c5020-f803-5eea-acb1-b4f6786512ac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-11-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "1145360307",
-      "name": "SAS EuroBonus World Mastercard",
-      "developer": "SEB Kort Bank AB",
-      "url": "https://apps.apple.com/se/app/sas-eurobonus-world-mastercard/id1145360307?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/d2/3c/07d23cf9-5f5e-394a-723d-1244950aceb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-12-20",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "1457193681",
-      "name": "Swish Företag",
-      "developer": "Getswish AB",
-      "url": "https://apps.apple.com/se/app/swish-f%C3%B6retag/id1457193681?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/c1/f6/3ec1f6dc-3b09-6f52-ceb3-67d872274271/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-11-16",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
       "id": "1621020173",
       "name": "Budget Planner - Fleur",
       "developer": "Akash Jain",
@@ -1208,12 +1032,108 @@
       ]
     },
     {
-      "rank": 76,
+      "rank": 65,
+      "id": "1167398909",
+      "name": "Collector",
+      "developer": "Norion Bank AB",
+      "url": "https://apps.apple.com/se/app/collector/id1167398909?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/57/6a/87576a57-8dbf-f77a-5d73-0cc8cb416d68/CollectorAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-12-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6449253503",
+      "name": "Juba Express Money Transfer",
+      "developer": "Consulting International Europe AB",
+      "url": "https://apps.apple.com/se/app/juba-express-money-transfer/id6449253503?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/71/74/e17174a6-f943-ace3-1de3-dbd5e8481262/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-01-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "1436799971",
+      "name": "Binance: Buy Bitcoin & Crypto",
+      "developer": "Binance Switzerland AG",
+      "url": "https://apps.apple.com/se/app/binance-buy-bitcoin-crypto/id1436799971?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0d/84/a30d8426-fb29-5fc4-0be4-0bbbc7805b3f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1441419364",
+      "name": "Spendwise",
+      "developer": "SEB Kort Bank AB",
+      "url": "https://apps.apple.com/se/app/spendwise/id1441419364?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/be/5c/88be5cb8-e9fe-71cc-7d3e-1263c8a9dac5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-02-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "1575499773",
+      "name": "PU Prime: Gold & Forex Trading",
+      "developer": "PU Prime Limited",
+      "url": "https://apps.apple.com/se/app/pu-prime-gold-forex-trading/id1575499773?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/7f/93/6b7f935e-4835-8bfb-90c7-45d4b272c3c6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "376991788",
+      "name": "Skandia och Skandiabanken",
+      "developer": "SkandiaBanken AB (publ)",
+      "url": "https://apps.apple.com/se/app/skandia-och-skandiabanken/id376991788?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/97/45/f197453f-3f55-da43-db3a-b1abbf42937c/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2010-06-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
       "id": "1288339409",
       "name": "Trust: Crypto & Bitcoin Wallet",
       "developer": "DApps Platform Software Services Ltd.",
       "url": "https://apps.apple.com/se/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/15/3d/c7153d57-d5bf-19e6-c99b-02d552020771/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/f0/37/b9f0378d-263c-64c2-cf20-47ef4473d1a5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "release_date": "2017-09-26",
       "genres": [
         {
@@ -1224,55 +1144,7 @@
       ]
     },
     {
-      "rank": 77,
-      "id": "1156875272",
-      "name": "Suica",
-      "developer": "East Japan Railway Company",
-      "url": "https://apps.apple.com/se/app/suica/id1156875272?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/31/01/473101ed-564d-3f13-3c8b-3a1d9cd60880/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2016-10-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "6470205786",
-      "name": "Montrose",
-      "developer": "Montrose by Carnegie AB",
-      "url": "https://apps.apple.com/se/app/montrose/id6470205786?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f3/a9/40f3a9e3-2916-c7e4-8615-cb37948e11a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-09-26",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "1514429922",
-      "name": "Safello: Köp Bitcoin med SEK",
-      "developer": "Safello AB",
-      "url": "https://apps.apple.com/se/app/safello-k%C3%B6p-bitcoin-med-sek/id1514429922?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/c3/c6/1ac3c69d-12ee-725d-9dd7-149c898816d4/Safello-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-06-18",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
+      "rank": 72,
       "id": "417962622",
       "name": "Plus500 handel",
       "developer": "Plus500 Ltd",
@@ -1288,13 +1160,13 @@
       ]
     },
     {
-      "rank": 81,
-      "id": "936422955",
-      "name": "Buddy: Budgetera & Spara",
-      "developer": "Buddy Budgeting AB",
-      "url": "https://apps.apple.com/se/app/buddy-budgetera-spara/id936422955?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/ff/aa/70ffaa4f-a894-b89c-b98e-3557c834d76c/Buddy-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-11-13",
+      "rank": 73,
+      "id": "1499857038",
+      "name": "Revolut — Ekonomi för Unga",
+      "developer": "Revolut Ltd",
+      "url": "https://apps.apple.com/se/app/revolut-ekonomi-f%C3%B6r-unga/id1499857038?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/64/24/8f642488-24c8-29de-3849-a4b207e81e80/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-03-17",
       "genres": [
         {
           "id": "6015",
@@ -1304,13 +1176,13 @@
       ]
     },
     {
-      "rank": 82,
-      "id": "1442553810",
-      "name": "Lova",
-      "developer": "Instant Systems Sweden AB",
-      "url": "https://apps.apple.com/se/app/lova/id1442553810?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/4d/67/624d670e-c27e-d80d-09c5-f679f32835d9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-01-03",
+      "rank": 74,
+      "id": "1156875272",
+      "name": "Suica",
+      "developer": "East Japan Railway Company",
+      "url": "https://apps.apple.com/se/app/suica/id1156875272?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/31/01/473101ed-564d-3f13-3c8b-3a1d9cd60880/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-10-23",
       "genres": [
         {
           "id": "6015",
@@ -1320,7 +1192,87 @@
       ]
     },
     {
-      "rank": 83,
+      "rank": 75,
+      "id": "1145360307",
+      "name": "SAS EuroBonus World Mastercard",
+      "developer": "SEB Kort Bank AB",
+      "url": "https://apps.apple.com/se/app/sas-eurobonus-world-mastercard/id1145360307?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/d2/3c/07d23cf9-5f5e-394a-723d-1244950aceb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-12-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6470205786",
+      "name": "Montrose",
+      "developer": "Montrose by Carnegie AB",
+      "url": "https://apps.apple.com/se/app/montrose/id6470205786?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f3/a9/40f3a9e3-2916-c7e4-8615-cb37948e11a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "532556809",
+      "name": "Edenred Sweden",
+      "developer": "Edenred Sweden AB",
+      "url": "https://apps.apple.com/se/app/edenred-sweden/id532556809?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/8e/34/268e348a-16a8-b4c5-d96e-a82bd8a2b28d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-06-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "1533808157",
+      "name": "Lassie",
+      "developer": "Lassie AB",
+      "url": "https://apps.apple.com/se/app/lassie/id1533808157?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/c3/8b/ecc38bb3-625d-3960-01cc-93bfe0e7f9bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-12-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "572871387",
+      "name": "re:member",
+      "developer": "EnterCard",
+      "url": "https://apps.apple.com/se/app/re-member/id572871387?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/8c/50/9c8c5020-f803-5eea-acb1-b4f6786512ac/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-11-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
       "id": "627653827",
       "name": "AirPlus",
       "developer": "SEB Kort Bank AB",
@@ -1336,13 +1288,61 @@
       ]
     },
     {
+      "rank": 81,
+      "id": "6504841500",
+      "name": "XTrend Lite - Invest Your Way",
+      "developer": "RYNAT CAPITAL (PTY) Ltd",
+      "url": "https://apps.apple.com/se/app/xtrend-lite-invest-your-way/id6504841500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/68/d3/6668d36d-b27b-de7c-3cd4-4681a0217e07/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-10-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1514429922",
+      "name": "Safello: Köp Bitcoin med SEK",
+      "developer": "Safello AB",
+      "url": "https://apps.apple.com/se/app/safello-k%C3%B6p-bitcoin-med-sek/id1514429922?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/c3/c6/1ac3c69d-12ee-725d-9dd7-149c898816d4/Safello-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-06-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1305771835",
+      "name": "Santander Sverige - Mobilbank",
+      "developer": "Santander Consumer Bank AS",
+      "url": "https://apps.apple.com/se/app/santander-sverige-mobilbank/id1305771835?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/03/23/67032371-815e-14d7-f3c9-54636dd3d6a3/AppIconSE-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2018-12-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 84,
-      "id": "1538132865",
-      "name": "Ikano Kort",
-      "developer": "Ikano Bank AB (publ)",
-      "url": "https://apps.apple.com/se/app/ikano-kort/id1538132865?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/03/b6/8203b6db-286b-86e1-a859-8b27bc14f149/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-09-16",
+      "id": "1626744048",
+      "name": "District Mobile - Danske Bank",
+      "developer": "Danske Bank Group",
+      "url": "https://apps.apple.com/se/app/district-mobile-danske-bank/id1626744048?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/6c/20/8b6c20af-ee23-f4c7-518e-b4824e58fe4d/DistrictMobile_DK-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-22",
       "genres": [
         {
           "id": "6015",
@@ -1353,12 +1353,12 @@
     },
     {
       "rank": 85,
-      "id": "1623228342",
-      "name": "Link: En smartare plånbok",
-      "developer": "Stripe, LLC",
-      "url": "https://apps.apple.com/se/app/link-en-smartare-pl%C3%A5nbok/id1623228342?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/cd/03/76cd03fe-0ef3-0cff-64ab-9bf5c02a27f3/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-04-16",
+      "id": "1538132865",
+      "name": "Ikano Kort",
+      "developer": "Ikano Bank AB (publ)",
+      "url": "https://apps.apple.com/se/app/ikano-kort/id1538132865?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/03/b6/8203b6db-286b-86e1-a859-8b27bc14f149/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-09-16",
       "genres": [
         {
           "id": "6015",
@@ -1385,6 +1385,22 @@
     },
     {
       "rank": 87,
+      "id": "1442553810",
+      "name": "Lova",
+      "developer": "Instant Systems Sweden AB",
+      "url": "https://apps.apple.com/se/app/lova/id1442553810?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/4d/67/624d670e-c27e-d80d-09c5-f679f32835d9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-01-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
       "id": "1083073963",
       "name": "Dreams - Spara till drömmar",
       "developer": "Dreams Sustainable AB",
@@ -1400,29 +1416,13 @@
       ]
     },
     {
-      "rank": 88,
-      "id": "1140130413",
-      "name": "Paysend",
-      "developer": "Paysend Technology limited",
-      "url": "https://apps.apple.com/se/app/paysend/id1140130413?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/f8/02/5df802c6-9c59-ff2d-7fdf-d2d8e87899af/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-09-03",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 89,
-      "id": "6745866031",
-      "name": "Bybit.eu: köp BTC och krypto",
-      "developer": "Bybit EU GmbH",
-      "url": "https://apps.apple.com/se/app/bybit-eu-k%C3%B6p-btc-och-krypto/id6745866031?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/77/60/5277605d-f711-3988-390c-2a41fb58e0e9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-07-14",
+      "id": "1601301148",
+      "name": "Invo: Where Traders Are Made",
+      "developer": "Involio Inc.",
+      "url": "https://apps.apple.com/se/app/invo-where-traders-are-made/id1601301148?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/e4/22/bde4222a-8aac-71dc-4fd4-9c0c5dc2190b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-03-17",
       "genres": [
         {
           "id": "6015",
@@ -1433,12 +1433,12 @@
     },
     {
       "rank": 90,
-      "id": "6504841500",
-      "name": "XTrend Lite - Invest Your Way",
-      "developer": "RYNAT CAPITAL (PTY) Ltd",
-      "url": "https://apps.apple.com/se/app/xtrend-lite-invest-your-way/id6504841500?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/68/d3/6668d36d-b27b-de7c-3cd4-4681a0217e07/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
-      "release_date": "2024-10-21",
+      "id": "6445908902",
+      "name": "UpUp – presentkort",
+      "developer": "Uppskattade Upplevelser i Sverige AB",
+      "url": "https://apps.apple.com/se/app/upup-presentkort/id6445908902?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/11/15/8211157e-a164-506a-6c85-63130e580177/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-08-07",
       "genres": [
         {
           "id": "6015",
@@ -1449,38 +1449,6 @@
     },
     {
       "rank": 91,
-      "id": "6502614478",
-      "name": "Revolut X: Köp Bitcoin, Krypto",
-      "developer": "Revolut Ltd",
-      "url": "https://apps.apple.com/se/app/revolut-x-k%C3%B6p-bitcoin-krypto/id6502614478?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/d6/6d/9bd66d1f-a64c-7611-22e1-19b696f60c5d/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-      "release_date": "2025-03-18",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "6743373754",
-      "name": "Malsom: Money Transfer",
-      "developer": "MALSOM AB",
-      "url": "https://apps.apple.com/se/app/malsom-money-transfer/id6743373754?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/1c/96/491c9669-d01e-3729-53bc-eb65cdcafb85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
       "id": "1623332797",
       "name": "IKEA Finansiering",
       "developer": "Ikano Bank AB (publ)",
@@ -1496,76 +1464,44 @@
       ]
     },
     {
+      "rank": 92,
+      "id": "6745866031",
+      "name": "Bybit.eu: köp BTC och krypto",
+      "developer": "Bybit EU GmbH",
+      "url": "https://apps.apple.com/se/app/bybit-eu-k%C3%B6p-btc-och-krypto/id6745866031?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/77/60/5277605d-f711-3988-390c-2a41fb58e0e9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-07-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "406492428",
+      "name": "IG: Trading,index,valuta & CFD",
+      "developer": "IG Group",
+      "url": "https://apps.apple.com/se/app/ig-trading-index-valuta-cfd/id406492428?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/5e/65/2d5e659e-ae3b-7059-6793-1f3cb2e60cac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2011-02-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 94,
-      "id": "390631214",
-      "name": "DNB Mobile Bank",
-      "developer": "DNB ASA",
-      "url": "https://apps.apple.com/se/app/dnb-mobile-bank/id390631214?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/98/6c/93986c86-66c6-d3c3-4855-90e1fa023571/AppIconDNB-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-09-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "6740075772",
-      "name": "Banktjänster i Saldo-appen",
-      "developer": "Saldo Bank UAB",
-      "url": "https://apps.apple.com/se/app/banktj%C3%A4nster-i-saldo-appen/id6740075772?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a0/97/ada097eb-b05e-a9f1-8c4b-3c5dfdf9e538/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-05-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "532556809",
-      "name": "Edenred Sweden",
-      "developer": "Edenred Sweden AB",
-      "url": "https://apps.apple.com/se/app/edenred-sweden/id532556809?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/8e/34/268e348a-16a8-b4c5-d96e-a82bd8a2b28d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-06-10",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
-      "id": "6738336566",
-      "name": "Welcome Suica Mobile",
-      "developer": "East Japan Railway Company",
-      "url": "https://apps.apple.com/se/app/welcome-suica-mobile/id6738336566?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/75/f6/cc75f6a1-58d6-bd10-0881-737caa24d850/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finans",
-          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 98,
       "id": "973451676",
       "name": "Nordea Business SE",
       "developer": "Nordea Bank Abp",
       "url": "https://apps.apple.com/se/app/nordea-business-se/id973451676?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/cc/2d/b0cc2da9-de1f-4b68-8310-37b9a23b8166/AppIcon_CO_SE-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c5/87/3bc5874c-7123-1b97-d860-0c7a9b2d0e70/AppIcon_CO_SE-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2015-05-27",
       "genres": [
         {
@@ -1576,7 +1512,7 @@
       ]
     },
     {
-      "rank": 99,
+      "rank": 95,
       "id": "1445437142",
       "name": "LF Finans - Ditt kreditkort",
       "developer": "Wasa Kredit",
@@ -1592,13 +1528,77 @@
       ]
     },
     {
+      "rank": 96,
+      "id": "1457193681",
+      "name": "Swish Företag",
+      "developer": "Getswish AB",
+      "url": "https://apps.apple.com/se/app/swish-f%C3%B6retag/id1457193681?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/c1/f6/3ec1f6dc-3b09-6f52-ceb3-67d872274271/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-11-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "1262148500",
+      "name": "Crypto.com - Köp BTC, CRO",
+      "developer": "Crypto.com",
+      "url": "https://apps.apple.com/se/app/crypto-com-k%C3%B6p-btc-cro/id1262148500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/c8/84/f7c884fd-3370-c2ed-5413-52983298517f/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-08-31",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "6740075772",
+      "name": "Banktjänster i Saldo-appen",
+      "developer": "Saldo Bank UAB",
+      "url": "https://apps.apple.com/se/app/banktj%C3%A4nster-i-saldo-appen/id6740075772?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a0/97/ada097eb-b05e-a9f1-8c4b-3c5dfdf9e538/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-05-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "1140130413",
+      "name": "Paysend",
+      "developer": "Paysend Technology limited",
+      "url": "https://apps.apple.com/se/app/paysend/id1140130413?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/f8/02/5df802c6-9c59-ff2d-7fdf-d2d8e87899af/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-09-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finans",
+          "url": "https://apps.apple.com/se/genre/ios-finans/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 100,
-      "id": "1500360633",
-      "name": "XTrend Speed Trading",
-      "developer": "RYNAT CAPITAL (PTY) Ltd",
-      "url": "https://apps.apple.com/se/app/xtrend-speed-trading/id1500360633?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/70/82/5c708225-5273-41b3-814d-612d58183c0e/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-04-14",
+      "id": "6502614478",
+      "name": "Revolut X: Köp Bitcoin, Krypto",
+      "developer": "Revolut Ltd",
+      "url": "https://apps.apple.com/se/app/revolut-x-k%C3%B6p-bitcoin-krypto/id6502614478?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/d6/6d/9bd66d1f-a64c-7611-22e1-19b696f60c5d/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+      "release_date": "2025-03-18",
       "genres": [
         {
           "id": "6015",

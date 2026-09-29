@@ -1,0 +1,988 @@
+{
+  "date": "2026-09-29",
+  "collected_at": "2026-09-29T18:14:05.084760+09:00",
+  "chart": "top-free",
+  "limit": 100,
+  "countries": {
+    "us": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\us\\games.json"
+        }
+      }
+    },
+    "jp": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\jp\\games.json"
+        }
+      }
+    },
+    "kr": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\kr\\games.json"
+        }
+      }
+    },
+    "gb": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\gb\\games.json"
+        }
+      }
+    },
+    "de": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\de\\games.json"
+        }
+      }
+    },
+    "fr": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\fr\\games.json"
+        }
+      }
+    },
+    "ca": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\ca\\games.json"
+        }
+      }
+    },
+    "au": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\au\\games.json"
+        }
+      }
+    },
+    "sg": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\sg\\games.json"
+        }
+      }
+    },
+    "tw": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\tw\\games.json"
+        }
+      }
+    },
+    "hk": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\hk\\games.json"
+        }
+      }
+    },
+    "nl": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nl\\games.json"
+        }
+      }
+    },
+    "se": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 99,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\se\\games.json"
+        }
+      }
+    },
+    "nz": {
+      "categories": {
+        "productivity": {
+          "genre_id": 6007,
+          "count": 98,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\productivity.json"
+        },
+        "utilities": {
+          "genre_id": 6002,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\utilities.json"
+        },
+        "photo-video": {
+          "genre_id": 6008,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\photo-video.json"
+        },
+        "lifestyle": {
+          "genre_id": 6012,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\lifestyle.json"
+        },
+        "health-fitness": {
+          "genre_id": 6013,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\health-fitness.json"
+        },
+        "education": {
+          "genre_id": 6017,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\education.json"
+        },
+        "finance": {
+          "genre_id": 6015,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\finance.json"
+        },
+        "entertainment": {
+          "genre_id": 6016,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\entertainment.json"
+        },
+        "developer-tools": {
+          "genre_id": 6026,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\developer-tools.json"
+        },
+        "graphics-design": {
+          "genre_id": 6027,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\graphics-design.json"
+        },
+        "games": {
+          "genre_id": 6014,
+          "count": 100,
+          "status": "success",
+          "file": "data\\2026-09-29\\nz\\games.json"
+        }
+      }
+    }
+  }
+}

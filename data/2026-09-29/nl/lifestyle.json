@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-29T00:13:26.232849+09:00",
+  "collected_at": "2026-09-29T18:12:44.880975+09:00",
   "date": "2026-09-29",
   "country": "nl",
   "chart": "top-free",
@@ -9,22 +9,6 @@
   "apps": [
     {
       "rank": 1,
-      "id": "496189385",
-      "name": "Vodafone & Ziggo",
-      "developer": "Vodafone Libertel B.V.",
-      "url": "https://apps.apple.com/nl/app/vodafone-ziggo/id496189385?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/35/55/c3355524-434b-81cd-f33e-a0f9cf5a5c62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2012-02-28",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "id": "1530944632",
       "name": "Mijn DHL",
       "developer": "DHL eCommerce (Netherlands) B.V.",
@@ -40,13 +24,29 @@
       ]
     },
     {
+      "rank": 2,
+      "id": "496189385",
+      "name": "Vodafone & Ziggo",
+      "developer": "Vodafone Libertel B.V.",
+      "url": "https://apps.apple.com/nl/app/vodafone-ziggo/id496189385?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/35/55/c3355524-434b-81cd-f33e-a0f9cf5a5c62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-02-28",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 3,
-      "id": "1107631390",
-      "name": "AttaPoll - Betaalde enquêtes",
-      "developer": "AttaPoll Ltd",
-      "url": "https://apps.apple.com/nl/app/attapoll-betaalde-enqu%C3%AAtes/id1107631390?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/8b/d9/c08bd91d-eba1-7ad2-2a44-662eea3f41bf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2019-04-18",
+      "id": "513218878",
+      "name": "PostNL",
+      "developer": "PostNL Holding B.V.",
+      "url": "https://apps.apple.com/nl/app/postnl/id513218878?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/02/fc/e202fc0e-d35c-7f6a-f6fe-53546083a8b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2012-04-04",
       "genres": [
         {
           "id": "6012",
@@ -57,12 +57,12 @@
     },
     {
       "rank": 4,
-      "id": "513218878",
-      "name": "PostNL",
-      "developer": "PostNL Holding B.V.",
-      "url": "https://apps.apple.com/nl/app/postnl/id513218878?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/02/fc/e202fc0e-d35c-7f6a-f6fe-53546083a8b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2012-04-04",
+      "id": "1107631390",
+      "name": "AttaPoll - Betaalde enquêtes",
+      "developer": "AttaPoll Ltd",
+      "url": "https://apps.apple.com/nl/app/attapoll-betaalde-enqu%C3%AAtes/id1107631390?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/8b/d9/c08bd91d-eba1-7ad2-2a44-662eea3f41bf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2019-04-18",
       "genres": [
         {
           "id": "6012",
@@ -89,12 +89,12 @@
     },
     {
       "rank": 6,
-      "id": "1222822904",
-      "name": "SmartThings",
-      "developer": "Samsung Electronics Co., Ltd.",
-      "url": "https://apps.apple.com/nl/app/smartthings/id1222822904?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/65/37/48653734-dc0e-4e6f-a66b-31cfd99ebb6f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-06-19",
+      "id": "1424956516",
+      "name": "Anker eufy",
+      "developer": "Power Mobile Life LLC",
+      "url": "https://apps.apple.com/nl/app/anker-eufy/id1424956516?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d8/38/7bd838b1-5ca1-081d-70b6-d63cd8f6dedc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-29",
       "genres": [
         {
           "id": "6012",
@@ -105,12 +105,12 @@
     },
     {
       "rank": 7,
-      "id": "1424956516",
-      "name": "Anker eufy",
-      "developer": "Power Mobile Life LLC",
-      "url": "https://apps.apple.com/nl/app/anker-eufy/id1424956516?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d8/38/7bd838b1-5ca1-081d-70b6-d63cd8f6dedc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-29",
+      "id": "1222822904",
+      "name": "SmartThings",
+      "developer": "Samsung Electronics Co., Ltd.",
+      "url": "https://apps.apple.com/nl/app/smartthings/id1222822904?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/f1/35/49f135d4-db99-4f98-1f24-413d40389f87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-06-19",
       "genres": [
         {
           "id": "6012",
@@ -153,38 +153,6 @@
     },
     {
       "rank": 10,
-      "id": "932002377",
-      "name": "lootjestrekken.nl | drawnames",
-      "developer": "Meetrix Online",
-      "url": "https://apps.apple.com/nl/app/lootjestrekken-nl-drawnames/id932002377?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/47/87/bb478796-d9b9-e6fd-6b51-0523afcebadb/AppIconGlassEffect-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-10-04",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "id": "6797868182",
-      "name": "Stoptober 2026",
-      "developer": "Lama Lama",
-      "url": "https://apps.apple.com/nl/app/stoptober-2026/id6797868182?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/07/57/88075744-a249-4aac-f8c9-3b2638445b84/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-22",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 12,
       "id": "1115101477",
       "name": "SmartLife: Smart Living",
       "developer": "Volcano Technology Limited",
@@ -200,13 +168,13 @@
       ]
     },
     {
-      "rank": 13,
-      "id": "901397789",
-      "name": "Home Connect App",
-      "developer": "Home Connect GmbH",
-      "url": "https://apps.apple.com/nl/app/home-connect-app/id901397789?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/b2/4b/6ab24b30-1679-3abb-878d-a570395a41af/AppIconAppStore-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2015-06-29",
+      "rank": 11,
+      "id": "932002377",
+      "name": "lootjestrekken.nl | drawnames",
+      "developer": "Meetrix Online",
+      "url": "https://apps.apple.com/nl/app/lootjestrekken-nl-drawnames/id932002377?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/47/87/bb478796-d9b9-e6fd-6b51-0523afcebadb/AppIconGlassEffect-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-10-04",
       "genres": [
         {
           "id": "6012",
@@ -216,23 +184,7 @@
       ]
     },
     {
-      "rank": 14,
-      "id": "1479674177",
-      "name": "Intratuin: Planten & Wonen",
-      "developer": "Intratuin",
-      "url": "https://apps.apple.com/nl/app/intratuin-planten-wonen/id1479674177?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/45/70/504570dc-6116-ee93-1065-6a5e5a2173e7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-11-16",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
+      "rank": 12,
       "id": "547702041",
       "name": "Tinder",
       "developer": "Tinder LLC",
@@ -248,13 +200,13 @@
       ]
     },
     {
-      "rank": 16,
-      "id": "1484774206",
-      "name": "Budbee",
-      "developer": "Budbee Holding AB",
-      "url": "https://apps.apple.com/nl/app/budbee/id1484774206?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/15/99/a9159923-9c15-9f4b-d5b7-84c1edac50fe/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-03-11",
+      "rank": 13,
+      "id": "6797868182",
+      "name": "Stoptober 2026",
+      "developer": "Lama Lama",
+      "url": "https://apps.apple.com/nl/app/stoptober-2026/id6797868182?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/07/57/88075744-a249-4aac-f8c9-3b2638445b84/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-22",
       "genres": [
         {
           "id": "6012",
@@ -264,7 +216,7 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 14,
       "id": "1478108023",
       "name": "Breeze - Alleen échte dates",
       "developer": "Breeze Social B.V.",
@@ -280,23 +232,7 @@
       ]
     },
     {
-      "rank": 18,
-      "id": "396908589",
-      "name": "Disneyland® Paris",
-      "developer": "Disneyland Paris",
-      "url": "https://apps.apple.com/nl/app/disneyland-paris/id396908589?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/90/31/36903158-0a2d-c0b8-195e-1368333982d1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "release_date": "2010-11-03",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
+      "rank": 15,
       "id": "930441707",
       "name": "Bumble: Dating app & Vrienden",
       "developer": "Bumble Holding Limited",
@@ -312,13 +248,13 @@
       ]
     },
     {
-      "rank": 20,
-      "id": "680819774",
-      "name": "Google Home",
-      "developer": "Google",
-      "url": "https://apps.apple.com/nl/app/google-home/id680819774?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/22/eb/5122ebfc-4cee-accb-ce94-62ec474d6527/logo_home_app_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-10-16",
+      "rank": 16,
+      "id": "901397789",
+      "name": "Home Connect App",
+      "developer": "Home Connect GmbH",
+      "url": "https://apps.apple.com/nl/app/home-connect-app/id901397789?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/b2/4b/6ab24b30-1679-3abb-878d-a570395a41af/AppIconAppStore-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2015-06-29",
       "genres": [
         {
           "id": "6012",
@@ -328,87 +264,7 @@
       ]
     },
     {
-      "rank": 21,
-      "id": "926252661",
-      "name": "Ring - Always Home",
-      "developer": "Ring.com",
-      "url": "https://apps.apple.com/nl/app/ring-always-home/id926252661?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d5/bc/8dd5bc5b-72f6-6362-026e-39e1c80b82be/AppIcon-NH-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-11-18",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "id": "582007913",
-      "name": "Tesla",
-      "developer": "Tesla, Inc.",
-      "url": "https://apps.apple.com/nl/app/tesla/id582007913?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/c7/1c/bec71cde-bb42-a942-cb0d-c50fcecdfd52/ProdAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2013-08-07",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "id": "1560608630",
-      "name": "DĀK",
-      "developer": "Woningnet N.V.",
-      "url": "https://apps.apple.com/nl/app/d%C4%81k/id1560608630?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/b1/2d/7ab12d7f-0461-6f51-e9ba-eeac55b383b9/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-04-06",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "id": "6785790471",
-      "name": "Statiegeld App",
-      "developer": "Crebos online solutions",
-      "url": "https://apps.apple.com/nl/app/statiegeld-app/id6785790471?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/5c/03/a55c0302-0e20-72cf-6d82-ca36e000bbdd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "id": "814443140",
-      "name": "Treatwell: Haar en schoonheid",
-      "developer": "Treatwell Limited",
-      "url": "https://apps.apple.com/nl/app/treatwell-haar-en-schoonheid/id814443140?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/50/2a/8f502a92-dfb8-4767-18a6-fde747fa726e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-03-01",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
+      "rank": 17,
       "id": "1055281310",
       "name": "Philips Hue",
       "developer": "Signify Netherlands B.V.",
@@ -424,13 +280,13 @@
       ]
     },
     {
-      "rank": 27,
-      "id": "6739778354",
-      "name": "Stekkies",
-      "developer": "Stekkies",
-      "url": "https://apps.apple.com/nl/app/stekkies/id6739778354?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/7f/f0/ec7ff07b-51d5-7827-8423-8c6ee11dab16/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-01-09",
+      "rank": 18,
+      "id": "1484774206",
+      "name": "Budbee",
+      "developer": "Budbee Holding AB",
+      "url": "https://apps.apple.com/nl/app/budbee/id1484774206?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/15/99/a9159923-9c15-9f4b-d5b7-84c1edac50fe/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-03-11",
       "genres": [
         {
           "id": "6012",
@@ -440,7 +296,71 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 19,
+      "id": "680819774",
+      "name": "Google Home",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nl/app/google-home/id680819774?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/22/eb/5122ebfc-4cee-accb-ce94-62ec474d6527/logo_home_app_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-10-16",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "926252661",
+      "name": "Ring - Always Home",
+      "developer": "Ring.com",
+      "url": "https://apps.apple.com/nl/app/ring-always-home/id926252661?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d5/bc/8dd5bc5b-72f6-6362-026e-39e1c80b82be/AppIcon-NH-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-11-18",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "1560608630",
+      "name": "DĀK",
+      "developer": "Woningnet N.V.",
+      "url": "https://apps.apple.com/nl/app/d%C4%81k/id1560608630?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/b1/2d/7ab12d7f-0461-6f51-e9ba-eeac55b383b9/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-04-06",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "396908589",
+      "name": "Disneyland® Paris",
+      "developer": "Disneyland Paris",
+      "url": "https://apps.apple.com/nl/app/disneyland-paris/id396908589?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/90/31/36903158-0a2d-c0b8-195e-1368333982d1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "release_date": "2010-11-03",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
       "id": "1462875428",
       "name": "Roborock",
       "developer": "Beijing Roborock Technology Co., Ltd.",
@@ -456,7 +376,39 @@
       ]
     },
     {
-      "rank": 29,
+      "rank": 24,
+      "id": "6739778354",
+      "name": "Stekkies",
+      "developer": "Stekkies",
+      "url": "https://apps.apple.com/nl/app/stekkies/id6739778354?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/7f/f0/ec7ff07b-51d5-7827-8423-8c6ee11dab16/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-01-09",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "1479674177",
+      "name": "Intratuin: Planten & Wonen",
+      "developer": "Intratuin",
+      "url": "https://apps.apple.com/nl/app/intratuin-planten-wonen/id1479674177?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/45/70/504570dc-6116-ee93-1065-6a5e5a2173e7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-11-16",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
       "id": "1492427207",
       "name": "HomeWizard Energy",
       "developer": "HomeWizard B.V.",
@@ -472,7 +424,7 @@
       ]
     },
     {
-      "rank": 30,
+      "rank": 27,
       "id": "6475289987",
       "name": "Move.nl",
       "developer": "Realworks",
@@ -488,13 +440,61 @@
       ]
     },
     {
-      "rank": 31,
+      "rank": 28,
+      "id": "814443140",
+      "name": "Treatwell: Haar en schoonheid",
+      "developer": "Treatwell Limited",
+      "url": "https://apps.apple.com/nl/app/treatwell-haar-en-schoonheid/id814443140?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/50/2a/8f502a92-dfb8-4767-18a6-fde747fa726e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-03-01",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
       "id": "993504342",
       "name": "LG ThinQ",
       "developer": "LG Electronics, Inc.",
       "url": "https://apps.apple.com/nl/app/lg-thinq/id993504342?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/9b/09/269b0904-8261-a87d-b885-2abf17a37e2f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "release_date": "2016-09-08",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "582007913",
+      "name": "Tesla",
+      "developer": "Tesla, Inc.",
+      "url": "https://apps.apple.com/nl/app/tesla/id582007913?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/c7/1c/bec71cde-bb42-a942-cb0d-c50fcecdfd52/ProdAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2013-08-07",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "6785790471",
+      "name": "Statiegeld App",
+      "developer": "Crebos online solutions",
+      "url": "https://apps.apple.com/nl/app/statiegeld-app/id6785790471?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/5c/03/a55c0302-0e20-72cf-6d82-ca36e000bbdd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-15",
       "genres": [
         {
           "id": "6012",
@@ -521,38 +521,6 @@
     },
     {
       "rank": 33,
-      "id": "1472718009",
-      "name": "TP-Link Tapo",
-      "developer": "TP-Link Systems Inc.",
-      "url": "https://apps.apple.com/nl/app/tp-link-tapo/id1472718009?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/20/a5/0620a586-d25d-396e-59b2-0547b363482f/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-09-16",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
-      "id": "1517566572",
-      "name": "Volkswagen",
-      "developer": "Volkswagen",
-      "url": "https://apps.apple.com/nl/app/volkswagen/id1517566572?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/95/05/21950536-bb4a-047f-d414-f16787418d24/AppIcon_beta-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-09-04",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 35,
       "id": "1046782864",
       "name": "ENGIE Energie NL",
       "developer": "ENGIE Nederland Retail B.V.",
@@ -568,103 +536,39 @@
       ]
     },
     {
+      "rank": 34,
+      "id": "1472718009",
+      "name": "TP-Link Tapo",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/nl/app/tp-link-tapo/id1472718009?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/20/a5/0620a586-d25d-396e-59b2-0547b363482f/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-09-16",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "1517566572",
+      "name": "Volkswagen",
+      "developer": "Volkswagen",
+      "url": "https://apps.apple.com/nl/app/volkswagen/id1517566572?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/95/05/21950536-bb4a-047f-d414-f16787418d24/AppIcon_beta-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-09-04",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 36,
-      "id": "333206289",
-      "name": "Alipay - Simplify Your Life",
-      "developer": "Alipay (Hangzhou) Technology Co., Ltd.",
-      "url": "https://apps.apple.com/nl/app/alipay-simplify-your-life/id333206289?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/83/3c/49833c6e-247b-4abd-bc82-459887acd961/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2009-10-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "993135524",
-      "name": "MyDyson™",
-      "developer": "Dyson Inc.",
-      "url": "https://apps.apple.com/nl/app/mydyson/id993135524?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ec/4c/45ec4c2f-d07b-6be9-a511-c5677bbc784a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2016-03-30",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "414543719",
-      "name": "momox: Tweedehands verkopen",
-      "developer": "momox SE",
-      "url": "https://apps.apple.com/nl/app/momox-tweedehands-verkopen/id414543719?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/93/fa/9893fa48-b2b3-494e-f740-475cdd7148a3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-09",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "391120743",
-      "name": "NEW YORKER - Mode & Lifestyle",
-      "developer": "New Yorker",
-      "url": "https://apps.apple.com/nl/app/new-yorker-mode-lifestyle/id391120743?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/3e/90/fc3e9020-ffda-cefc-5574-0d912eb26fbf/app_icon_prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2010-10-06",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "489185828",
-      "name": "happn - lokale dating & chat",
-      "developer": "HAPPN SAS",
-      "url": "https://apps.apple.com/nl/app/happn-lokale-dating-chat/id489185828?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c0/2d/b7c02d9a-f384-1ec6-555f-99a5ba9fc58c/AppIcon-Black-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2012-03-07",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "409609608",
-      "name": "My Love - Relationship Counter",
-      "developer": "Bjoern Bartels",
-      "url": "https://apps.apple.com/nl/app/my-love-relationship-counter/id409609608?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/2d/c1/1c2dc1a0-7e1f-abe3-cb87-9cacae0a3240/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2010-12-18",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
       "id": "887914690",
       "name": "Feeld: voor koppels & singles",
       "developer": "Feeld Ltd",
@@ -680,23 +584,7 @@
       ]
     },
     {
-      "rank": 43,
-      "id": "672904239",
-      "name": "I Am Sober - Ik ben nuchter",
-      "developer": "I Am Sober LLC",
-      "url": "https://apps.apple.com/nl/app/i-am-sober-ik-ben-nuchter/id672904239?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/6b/67/bf6b67c5-471a-957c-b44f-714071989282/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2013-07-19",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
+      "rank": 37,
       "id": "6572296119",
       "name": "Tipsy Chat: Live Your Story",
       "developer": "LIGHTSPEED INTELLIGENCE LTD",
@@ -712,13 +600,13 @@
       ]
     },
     {
-      "rank": 45,
-      "id": "1487652920",
-      "name": "Mercedes-Benz",
-      "developer": "Mercedes-Benz AG",
-      "url": "https://apps.apple.com/nl/app/mercedes-benz/id1487652920?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/66/8c/cc668c0a-fe4f-5819-7cb5-a53f1d9780cb/AppIcon-0-0-1x_U007ephone-0-1-0-P3-0-85-220.png/100x100bb.png",
-      "release_date": "2020-07-01",
+      "rank": 38,
+      "id": "333206289",
+      "name": "Alipay - Simplify Your Life",
+      "developer": "Alipay (Hangzhou) Technology Co., Ltd.",
+      "url": "https://apps.apple.com/nl/app/alipay-simplify-your-life/id333206289?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/83/3c/49833c6e-247b-4abd-bc82-459887acd961/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2009-10-15",
       "genres": [
         {
           "id": "6012",
@@ -728,13 +616,13 @@
       ]
     },
     {
-      "rank": 46,
-      "id": "690661663",
-      "name": "PURE: Daten en chatten",
-      "developer": "Online Classifieds AG",
-      "url": "https://apps.apple.com/nl/app/pure-daten-en-chatten/id690661663?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/0d/9b/2c0d9b52-9304-4fbc-f3bf-2e6a0a08b19d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2013-10-25",
+      "rank": 39,
+      "id": "993135524",
+      "name": "MyDyson™",
+      "developer": "Dyson Inc.",
+      "url": "https://apps.apple.com/nl/app/mydyson/id993135524?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ec/4c/45ec4c2f-d07b-6be9-a511-c5677bbc784a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2016-03-30",
       "genres": [
         {
           "id": "6012",
@@ -744,7 +632,71 @@
       ]
     },
     {
-      "rank": 47,
+      "rank": 40,
+      "id": "409609608",
+      "name": "My Love - Relationship Counter",
+      "developer": "Bjoern Bartels",
+      "url": "https://apps.apple.com/nl/app/my-love-relationship-counter/id409609608?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/2d/c1/1c2dc1a0-7e1f-abe3-cb87-9cacae0a3240/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2010-12-18",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "391120743",
+      "name": "NEW YORKER - Mode & Lifestyle",
+      "developer": "New Yorker",
+      "url": "https://apps.apple.com/nl/app/new-yorker-mode-lifestyle/id391120743?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/3e/90/fc3e9020-ffda-cefc-5574-0d912eb26fbf/app_icon_prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2010-10-06",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "489185828",
+      "name": "happn - lokale dating & chat",
+      "developer": "HAPPN SAS",
+      "url": "https://apps.apple.com/nl/app/happn-lokale-dating-chat/id489185828?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c0/2d/b7c02d9a-f384-1ec6-555f-99a5ba9fc58c/AppIcon-Black-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-03-07",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "1605170923",
+      "name": "GoWish",
+      "developer": "Onskeskyen ApS",
+      "url": "https://apps.apple.com/nl/app/gowish/id1605170923?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/45/12/004512f0-792f-947b-e5a6-01a02a83d25d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-04-03",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
       "id": "1297230801",
       "name": "Fresha voor klanten",
       "developer": "Fresha.com Holding Inc.",
@@ -760,13 +712,13 @@
       ]
     },
     {
-      "rank": 48,
-      "id": "930406907",
-      "name": "Miele app – Smart Home",
-      "developer": "Miele & Cie. KG",
-      "url": "https://apps.apple.com/nl/app/miele-app-smart-home/id930406907?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/c6/2c/bdc62c86-5167-1fef-b37d-65885f4cf423/mielelogo-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-12-03",
+      "rank": 45,
+      "id": "690661663",
+      "name": "PURE: Daten en chatten",
+      "developer": "Online Classifieds AG",
+      "url": "https://apps.apple.com/nl/app/pure-daten-en-chatten/id690661663?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/0d/9b/2c0d9b52-9304-4fbc-f3bf-2e6a0a08b19d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2013-10-25",
       "genres": [
         {
           "id": "6012",
@@ -776,7 +728,23 @@
       ]
     },
     {
-      "rank": 49,
+      "rank": 46,
+      "id": "672904239",
+      "name": "I Am Sober - Ik ben nuchter",
+      "developer": "I Am Sober LLC",
+      "url": "https://apps.apple.com/nl/app/i-am-sober-ik-ben-nuchter/id672904239?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/b9/81/6cb981de-5d47-11a0-84f7-9882d70c0496/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2013-07-19",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
       "id": "951812684",
       "name": "Glovo: Food & Grocery Delivery",
       "developer": "Glovoapp 23 SL",
@@ -792,13 +760,45 @@
       ]
     },
     {
+      "rank": 48,
+      "id": "1587655962",
+      "name": "WiZ Connected",
+      "developer": "Signify Netherlands B.V.",
+      "url": "https://apps.apple.com/nl/app/wiz-connected/id1587655962?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/73/32/69733271-c688-2ca9-bdde-31078e833f9b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-20",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "1487652920",
+      "name": "Mercedes-Benz",
+      "developer": "Mercedes-Benz AG",
+      "url": "https://apps.apple.com/nl/app/mercedes-benz/id1487652920?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/66/8c/cc668c0a-fe4f-5819-7cb5-a53f1d9780cb/AppIcon-0-0-1x_U007ephone-0-1-0-P3-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-01",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 50,
-      "id": "1605170923",
-      "name": "GoWish",
-      "developer": "Onskeskyen ApS",
-      "url": "https://apps.apple.com/nl/app/gowish/id1605170923?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/45/12/004512f0-792f-947b-e5a6-01a02a83d25d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-04-03",
+      "id": "930406907",
+      "name": "Miele app – Smart Home",
+      "developer": "Miele & Cie. KG",
+      "url": "https://apps.apple.com/nl/app/miele-app-smart-home/id930406907?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/c6/2c/bdc62c86-5167-1fef-b37d-65885f4cf423/mielelogo-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-12-03",
       "genres": [
         {
           "id": "6012",
@@ -841,12 +841,12 @@
     },
     {
       "rank": 53,
-      "id": "1587655962",
-      "name": "WiZ Connected",
-      "developer": "Signify Netherlands B.V.",
-      "url": "https://apps.apple.com/nl/app/wiz-connected/id1587655962?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/73/32/69733271-c688-2ca9-bdde-31078e833f9b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-10-20",
+      "id": "1099568401",
+      "name": "Home Assistant",
+      "developer": "Nabu Casa, Inc",
+      "url": "https://apps.apple.com/nl/app/home-assistant/id1099568401?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f4/b2/c1f4b2c5-4e0a-c2c5-e0ed-d696a12dbf49/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-04-15",
       "genres": [
         {
           "id": "6012",
@@ -905,102 +905,6 @@
     },
     {
       "rank": 57,
-      "id": "1667527748",
-      "name": "NousLib: open-minded dating",
-      "developer": "CBK Interactive",
-      "url": "https://apps.apple.com/nl/app/nouslib-open-minded-dating/id1667527748?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/14/4d/64144d26-92d3-3285-f54e-48d2d10ac323/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-12-05",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "880332077",
-      "name": "Resideo - Smart Home",
-      "developer": "Resideo Technologies, Inc.",
-      "url": "https://apps.apple.com/nl/app/resideo-smart-home/id880332077?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/c1/51/e7c151b0-99be-c2f8-e9f0-c777d420c32c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-09-27",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "1099568401",
-      "name": "Home Assistant",
-      "developer": "Nabu Casa, Inc",
-      "url": "https://apps.apple.com/nl/app/home-assistant/id1099568401?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f4/b2/c1f4b2c5-4e0a-c2c5-e0ed-d696a12dbf49/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-04-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "6472498645",
-      "name": "Apple Uitnodigingen",
-      "developer": "Apple",
-      "url": "https://apps.apple.com/nl/app/apple-uitnodigingen/id6472498645?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/c7/0c/b6c70c7c-89dd-7a2b-69e1-9e9ddedb6f6d/Invites-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2025-02-04",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "862433220",
-      "name": "Flexa Visualizer",
-      "developer": "AkzoNobel Decorative Coatings B.V.",
-      "url": "https://apps.apple.com/nl/app/flexa-visualizer/id862433220?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/97/ba/0e97baf2-8eab-963e-28af-b67ec58b2b4b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2014-05-14",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "1599494494",
-      "name": "AEG",
-      "developer": "Electrolux",
-      "url": "https://apps.apple.com/nl/app/aeg/id1599494494?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/c3/9c/30c39c8b-7660-3b9c-b012-dae7cb915ec1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-06-07",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
       "id": "6788858736",
       "name": "De Meedenker",
       "developer": "Jordy Johanna Maria van Tongeren",
@@ -1016,103 +920,7 @@
       ]
     },
     {
-      "rank": 64,
-      "id": "1068421785",
-      "name": "Kinder - Find Baby Names",
-      "developer": "Krijn Haasnoot",
-      "url": "https://apps.apple.com/nl/app/kinder-find-baby-names/id1068421785?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/40/d9/d940d94f-7e04-9971-1c76-bc2a95baba5f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2016-02-08",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "1519398796",
-      "name": "ConnectLife",
-      "developer": "ConnectLife, LLC.",
-      "url": "https://apps.apple.com/nl/app/connectlife/id1519398796?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/11/77/e21177ca-4b36-ca28-e8ca-50b43391f852/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-09-03",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "1460522683",
-      "name": "MAWAQIT - Horaires de prière",
-      "developer": "Mawaqit",
-      "url": "https://apps.apple.com/nl/app/mawaqit-horaires-de-pri%C3%A8re/id1460522683?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/e6/7b/03e67b9f-84bb-d55f-8b39-91cd1d5d59e6/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-05-07",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "1222980795",
-      "name": "Meet5: Ontmoet nieuwe mensen",
-      "developer": "Meet5 GmbH",
-      "url": "https://apps.apple.com/nl/app/meet5-ontmoet-nieuwe-mensen/id1222980795?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/41/e9/e941e9f9-260e-82a5-4dfc-1911b6f7c9e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-09-25",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "500122729",
-      "name": "Lexa | Dating App, Meet Local",
-      "developer": "Lexa.nl",
-      "url": "https://apps.apple.com/nl/app/lexa-dating-app-meet-local/id500122729?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/1d/63/cc1d63aa-49d1-43d8-b362-e17b04d52aa1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2012-03-22",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "468416419",
-      "name": "SmartSpotter - Verdien geld",
-      "developer": "SmartSpotter BV",
-      "url": "https://apps.apple.com/nl/app/smartspotter-verdien-geld/id468416419?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/94/5d/c0945d65-49a7-df37-d7c8-80a3580a522c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2011-11-18",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
+      "rank": 58,
       "id": "1163786766",
       "name": "Alarmy - Wekker med muziek",
       "developer": "Delight Room Co., Ltd.",
@@ -1128,13 +936,13 @@
       ]
     },
     {
-      "rank": 71,
-      "id": "6481705400",
-      "name": "Alta Daily: Digital AI Closet",
-      "developer": "Flagship AI, Inc",
-      "url": "https://apps.apple.com/nl/app/alta-daily-digital-ai-closet/id6481705400?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/8c/98/eb8c9827-7f19-a214-f509-088c2acc7dd7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-03-13",
+      "rank": 59,
+      "id": "468416419",
+      "name": "SmartSpotter - Verdien geld",
+      "developer": "SmartSpotter BV",
+      "url": "https://apps.apple.com/nl/app/smartspotter-verdien-geld/id468416419?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/94/5d/c0945d65-49a7-df37-d7c8-80a3580a522c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-11-18",
       "genres": [
         {
           "id": "6012",
@@ -1144,13 +952,13 @@
       ]
     },
     {
-      "rank": 72,
-      "id": "6477829244",
-      "name": "Droppie",
-      "developer": "CleanCycle",
-      "url": "https://apps.apple.com/nl/app/droppie/id6477829244?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/3f/53/c93f539e-c6f5-aceb-2ea5-22d3f791aeb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-05-26",
+      "rank": 60,
+      "id": "1460522683",
+      "name": "MAWAQIT - Horaires de prière",
+      "developer": "Mawaqit",
+      "url": "https://apps.apple.com/nl/app/mawaqit-horaires-de-pri%C3%A8re/id1460522683?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/6d/1e/826d1e15-59c6-b65c-59dd-9e1999044043/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-07",
       "genres": [
         {
           "id": "6012",
@@ -1160,13 +968,13 @@
       ]
     },
     {
-      "rank": 73,
-      "id": "6741682784",
-      "name": "NEW - appWash by Miele",
-      "developer": "Miele Operations and Payment Solutions GmbH",
-      "url": "https://apps.apple.com/nl/app/new-appwash-by-miele/id6741682784?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/fc/49/e8fc498f-e61c-89e1-edce-e95332231cef/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2026-03-25",
+      "rank": 61,
+      "id": "1068421785",
+      "name": "Kinder - Find Baby Names",
+      "developer": "Krijn Haasnoot",
+      "url": "https://apps.apple.com/nl/app/kinder-find-baby-names/id1068421785?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/40/d9/d940d94f-7e04-9971-1c76-bc2a95baba5f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-02-08",
       "genres": [
         {
           "id": "6012",
@@ -1176,13 +984,13 @@
       ]
     },
     {
-      "rank": 74,
-      "id": "1018640620",
-      "name": "One4all cadeaukaarten",
-      "developer": "GVS GIFT VOUCHER SHOP DESIGNATED ACTIVITY COMPANY",
-      "url": "https://apps.apple.com/nl/app/one4all-cadeaukaarten/id1018640620?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/82/3e/58823e24-0ad9-bccf-e221-ba6fa5d468f2/AppIcon_Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-12-21",
+      "rank": 62,
+      "id": "880332077",
+      "name": "Resideo - Smart Home",
+      "developer": "Resideo Technologies, Inc.",
+      "url": "https://apps.apple.com/nl/app/resideo-smart-home/id880332077?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/c1/51/e7c151b0-99be-c2f8-e9f0-c777d420c32c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-09-27",
       "genres": [
         {
           "id": "6012",
@@ -1192,7 +1000,71 @@
       ]
     },
     {
-      "rank": 75,
+      "rank": 63,
+      "id": "414543719",
+      "name": "momox: Tweedehands verkopen",
+      "developer": "momox SE",
+      "url": "https://apps.apple.com/nl/app/momox-tweedehands-verkopen/id414543719?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/93/fa/9893fa48-b2b3-494e-f740-475cdd7148a3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-09",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "1667527748",
+      "name": "NousLib: open-minded dating",
+      "developer": "CBK Interactive",
+      "url": "https://apps.apple.com/nl/app/nouslib-open-minded-dating/id1667527748?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/14/4d/64144d26-92d3-3285-f54e-48d2d10ac323/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-12-05",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "500122729",
+      "name": "Lexa | Dating App, Meet Local",
+      "developer": "Lexa.nl",
+      "url": "https://apps.apple.com/nl/app/lexa-dating-app-meet-local/id500122729?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/1d/63/cc1d63aa-49d1-43d8-b362-e17b04d52aa1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2012-03-22",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6472498645",
+      "name": "Apple Uitnodigingen",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/nl/app/apple-uitnodigingen/id6472498645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/c7/0c/b6c70c7c-89dd-7a2b-69e1-9e9ddedb6f6d/Invites-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2025-02-04",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
       "id": "440588804",
       "name": "Roamler - Geld verdienen",
       "developer": "Roamler B.V.",
@@ -1208,7 +1080,71 @@
       ]
     },
     {
-      "rank": 76,
+      "rank": 68,
+      "id": "1519398796",
+      "name": "ConnectLife",
+      "developer": "ConnectLife, LLC.",
+      "url": "https://apps.apple.com/nl/app/connectlife/id1519398796?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/27/23/63272349-723e-675b-4f20-82625cdf5a4b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-09-03",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "1222980795",
+      "name": "Meet5: Ontmoet nieuwe mensen",
+      "developer": "Meet5 GmbH",
+      "url": "https://apps.apple.com/nl/app/meet5-ontmoet-nieuwe-mensen/id1222980795?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/41/e9/e941e9f9-260e-82a5-4dfc-1911b6f7c9e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-09-25",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "6741682784",
+      "name": "NEW - appWash by Miele",
+      "developer": "Miele Operations and Payment Solutions GmbH",
+      "url": "https://apps.apple.com/nl/app/new-appwash-by-miele/id6741682784?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/fc/49/e8fc498f-e61c-89e1-edce-e95332231cef/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2026-03-25",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "862433220",
+      "name": "Flexa Visualizer",
+      "developer": "AkzoNobel Decorative Coatings B.V.",
+      "url": "https://apps.apple.com/nl/app/flexa-visualizer/id862433220?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/97/ba/0e97baf2-8eab-963e-28af-b67ec58b2b4b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2014-05-14",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
       "id": "1095418609",
       "name": "Ford™",
       "developer": "Ford Motor Co.",
@@ -1224,13 +1160,77 @@
       ]
     },
     {
+      "rank": 73,
+      "id": "6795541234",
+      "name": "Histamine Voeding",
+      "developer": "Mountaineers",
+      "url": "https://apps.apple.com/nl/app/histamine-voeding/id6795541234?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/34/86/1e3486c9-b416-3a37-42d9-fc97e2440d32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-29",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1599494494",
+      "name": "AEG",
+      "developer": "Electrolux",
+      "url": "https://apps.apple.com/nl/app/aeg/id1599494494?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/c3/9c/30c39c8b-7660-3b9c-b012-dae7cb915ec1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-06-07",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "6738955296",
+      "name": "Woonnet Haaglanden",
+      "developer": "Zig Websoftware",
+      "url": "https://apps.apple.com/nl/app/woonnet-haaglanden/id6738955296?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/e7/bb/f3e7bbe4-8124-249b-e216-f7bab2bb5c08/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-30",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1596550932",
+      "name": "NGL - anonymous q&a",
+      "developer": "NGL Labs, LLC",
+      "url": "https://apps.apple.com/nl/app/ngl-anonymous-q-a/id1596550932?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a8/39/99a83969-52be-eb88-f716-044cf44c97df/AppIcon-0-0-1x_U007emarketing-0-3-0-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2021-12-10",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 77,
-      "id": "1063166247",
-      "name": "Ajax Security System",
-      "developer": "Ajax Systems Inc",
-      "url": "https://apps.apple.com/nl/app/ajax-security-system/id1063166247?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/a4/0b/5fa40b4e-5731-76b0-34af-c891ac741b3d/AppIcon-Ajax-0-0-1x_U007ephone-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2016-01-16",
+      "id": "6481705400",
+      "name": "Alta Daily: Digital AI Closet",
+      "developer": "Flagship AI, Inc",
+      "url": "https://apps.apple.com/nl/app/alta-daily-digital-ai-closet/id6481705400?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/8c/98/eb8c9827-7f19-a214-f509-088c2acc7dd7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-03-13",
       "genres": [
         {
           "id": "6012",
@@ -1241,22 +1241,6 @@
     },
     {
       "rank": 78,
-      "id": "6805972681",
-      "name": "Card Reminder: Wallet",
-      "developer": "Valentyna Rudnitska",
-      "url": "https://apps.apple.com/nl/app/card-reminder-wallet/id6805972681?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/d5/e1/e0d5e11c-ee8d-aa92-9c3b-6cb2c694e908/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-01",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
       "id": "1487415423",
       "name": "Air+",
       "developer": "Versuni Netherlands B.V",
@@ -1272,7 +1256,39 @@
       ]
     },
     {
+      "rank": 79,
+      "id": "1076159017",
+      "name": "Kamer inrichten KI: 3D huis AR",
+      "developer": "Room Planner Ltd",
+      "url": "https://apps.apple.com/nl/app/kamer-inrichten-ki-3d-huis-ar/id1076159017?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/b8/3a/eab83a43-4d08-8224-f5ed-add0ece1d79c/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-08",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 80,
+      "id": "1449965397",
+      "name": "Knipklok",
+      "developer": "SinaSoft",
+      "url": "https://apps.apple.com/nl/app/knipklok/id1449965397?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/8b/1b/608b1b21-1cbb-9a07-a801-18530a6d78b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-19",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
       "id": "1624758651",
       "name": "Couple Joy: Relatie Teller",
       "developer": "HEARTBIT S.R.L.",
@@ -1288,29 +1304,13 @@
       ]
     },
     {
-      "rank": 81,
-      "id": "1503536800",
-      "name": "RideMovi Smart Sharing Service",
-      "developer": "Ride Movi",
-      "url": "https://apps.apple.com/nl/app/ridemovi-smart-sharing-service/id1503536800?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/82/f2/e382f2f8-bbc1-f254-3b02-7faa15481cec/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2020-05-26",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 82,
-      "id": "1488902826",
-      "name": "Smart M-Air",
-      "developer": "MITSUBISHI HEAVY INDUSTRIES THERMAL SYSTEMS, LTD.",
-      "url": "https://apps.apple.com/nl/app/smart-m-air/id1488902826?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/d3/58/10d3589f-66ae-117f-8498-bd4a9459a00a/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-03",
+      "id": "969997496",
+      "name": "Muzz: Waar Moslims Trouwen",
+      "developer": "MUZZ LTD",
+      "url": "https://apps.apple.com/nl/app/muzz-waar-moslims-trouwen/id969997496?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/fb/ab/c3fbab0a-270f-e741-c19a-c5451dd38af6/AppIcon_Muzz-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-03-03",
       "genres": [
         {
           "id": "6012",
@@ -1321,12 +1321,12 @@
     },
     {
       "rank": 83,
-      "id": "6738537088",
-      "name": "YarnPal – Haken & Breien",
-      "developer": "PIXELCELL.LIMITED",
-      "url": "https://apps.apple.com/nl/app/yarnpal-haken-breien/id6738537088?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/92/73/2492739b-4627-8a5b-f0c2-2ae0dca631be/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-12-19",
+      "id": "1435800024",
+      "name": "Homey — A better smart home",
+      "developer": "Athom B.V.",
+      "url": "https://apps.apple.com/nl/app/homey-a-better-smart-home/id1435800024?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b9/33/19b93376-a7db-aa1f-99ab-bfc161b93f4a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-01-15",
       "genres": [
         {
           "id": "6012",
@@ -1353,12 +1353,12 @@
     },
     {
       "rank": 85,
-      "id": "1493268178",
-      "name": "DMSS",
-      "developer": "DongBin",
-      "url": "https://apps.apple.com/nl/app/dmss/id1493268178?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/47/83/224783f5-ac3e-0dac-f866-6a21b4118b89/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-01-10",
+      "id": "1063166247",
+      "name": "Ajax Security System",
+      "developer": "Ajax Systems Inc",
+      "url": "https://apps.apple.com/nl/app/ajax-security-system/id1063166247?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/a4/0b/5fa40b4e-5731-76b0-34af-c891ac741b3d/AppIcon-Ajax-0-0-1x_U007ephone-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2016-01-16",
       "genres": [
         {
           "id": "6012",
@@ -1369,12 +1369,12 @@
     },
     {
       "rank": 86,
-      "id": "1463391677",
-      "name": "TaHoma by Somfy",
-      "developer": "SOMFY SAS",
-      "url": "https://apps.apple.com/nl/app/tahoma-by-somfy/id1463391677?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f4/d6/13f4d604-da52-b7f3-6689-be7da2669826/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-20",
+      "id": "1488902826",
+      "name": "Smart M-Air",
+      "developer": "MITSUBISHI HEAVY INDUSTRIES THERMAL SYSTEMS, LTD.",
+      "url": "https://apps.apple.com/nl/app/smart-m-air/id1488902826?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/d3/58/10d3589f-66ae-117f-8498-bd4a9459a00a/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-03",
       "genres": [
         {
           "id": "6012",
@@ -1385,12 +1385,12 @@
     },
     {
       "rank": 87,
-      "id": "1076159017",
-      "name": "Kamer inrichten KI: 3D huis AR",
-      "developer": "Room Planner Ltd",
-      "url": "https://apps.apple.com/nl/app/kamer-inrichten-ki-3d-huis-ar/id1076159017?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/b8/3a/eab83a43-4d08-8224-f5ed-add0ece1d79c/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-04-08",
+      "id": "1044998081",
+      "name": "Nuki Smart Lock",
+      "developer": "Nuki Home Solutions GmbH",
+      "url": "https://apps.apple.com/nl/app/nuki-smart-lock/id1044998081?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4e/64/6f4e643b-a273-abc5-4bd8-68bb89b2b57f/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2016-05-23",
       "genres": [
         {
           "id": "6012",
@@ -1401,12 +1401,12 @@
     },
     {
       "rank": 88,
-      "id": "1449965397",
-      "name": "Knipklok",
-      "developer": "SinaSoft",
-      "url": "https://apps.apple.com/nl/app/knipklok/id1449965397?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/8b/1b/608b1b21-1cbb-9a07-a801-18530a6d78b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-19",
+      "id": "1018640620",
+      "name": "One4all cadeaukaarten",
+      "developer": "GVS GIFT VOUCHER SHOP DESIGNATED ACTIVITY COMPANY",
+      "url": "https://apps.apple.com/nl/app/one4all-cadeaukaarten/id1018640620?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/82/3e/58823e24-0ad9-bccf-e221-ba6fa5d468f2/AppIcon_Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-12-21",
       "genres": [
         {
           "id": "6012",
@@ -1417,12 +1417,12 @@
     },
     {
       "rank": 89,
-      "id": "969997496",
-      "name": "Muzz: Waar Moslims Trouwen",
-      "developer": "MUZZ LTD",
-      "url": "https://apps.apple.com/nl/app/muzz-waar-moslims-trouwen/id969997496?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/fb/ab/c3fbab0a-270f-e741-c19a-c5451dd38af6/AppIcon_Muzz-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-03-03",
+      "id": "6477829244",
+      "name": "Droppie",
+      "developer": "CleanCycle",
+      "url": "https://apps.apple.com/nl/app/droppie/id6477829244?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/3f/53/c93f539e-c6f5-aceb-2ea5-22d3f791aeb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-05-26",
       "genres": [
         {
           "id": "6012",
@@ -1433,54 +1433,6 @@
     },
     {
       "rank": 90,
-      "id": "1435800024",
-      "name": "Homey — A better smart home",
-      "developer": "Athom B.V.",
-      "url": "https://apps.apple.com/nl/app/homey-a-better-smart-home/id1435800024?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b9/33/19b93376-a7db-aa1f-99ab-bfc161b93f4a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-01-15",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "994098803",
-      "name": "Findmykids: Locatie Delen",
-      "developer": "LETEM LTD",
-      "url": "https://apps.apple.com/nl/app/findmykids-locatie-delen/id994098803?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/6f/12/486f1295-4e6d-71c4-07d8-92d53f4f870c/AppIcon-Kids-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2015-12-13",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "1489209093",
-      "name": "Microsoft Family Safety",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/nl/app/microsoft-family-safety/id1489209093?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/77/d2/e077d2cd-e92c-97bc-beff-2cfaab27dfb2/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-07-28",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
       "id": "1544760744",
       "name": "Philips Avent Baby Monitor+",
       "developer": "Philips",
@@ -1496,13 +1448,13 @@
       ]
     },
     {
-      "rank": 94,
-      "id": "6738955296",
-      "name": "Woonnet Haaglanden",
-      "developer": "Zig Websoftware",
-      "url": "https://apps.apple.com/nl/app/woonnet-haaglanden/id6738955296?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/e7/bb/f3e7bbe4-8124-249b-e216-f7bab2bb5c08/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-04-30",
+      "rank": 91,
+      "id": "1489209093",
+      "name": "Microsoft Family Safety",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nl/app/microsoft-family-safety/id1489209093?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/a4/db/91a4db14-d96d-39e2-4b3b-5e39480d572e/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-07-28",
       "genres": [
         {
           "id": "6012",
@@ -1512,23 +1464,7 @@
       ]
     },
     {
-      "rank": 95,
-      "id": "1207759655",
-      "name": "Amex Experiences",
-      "developer": "American Express Holding",
-      "url": "https://apps.apple.com/nl/app/amex-experiences/id1207759655?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/62/ae/1b62ae7c-77a2-ebbc-e4fe-f3a9376561a3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2019-09-02",
-      "genres": [
-        {
-          "id": "6012",
-          "name": "Lifestyle",
-          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
+      "rank": 92,
       "id": "957323480",
       "name": "米家",
       "developer": "Beijing Xiaomi Co., Ltd",
@@ -1544,13 +1480,77 @@
       ]
     },
     {
+      "rank": 93,
+      "id": "994098803",
+      "name": "Findmykids: Locatie Delen",
+      "developer": "LETEM LTD",
+      "url": "https://apps.apple.com/nl/app/findmykids-locatie-delen/id994098803?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/6f/12/486f1295-4e6d-71c4-07d8-92d53f4f870c/AppIcon-Kids-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-13",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "1577975475",
+      "name": "Cosmos: Zoek en Ontdek",
+      "developer": "Cosmos Entity",
+      "url": "https://apps.apple.com/nl/app/cosmos-zoek-en-ontdek/id1577975475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/08/e5/4108e5b8-68de-3978-5aaf-58c7b73aa6ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-07-13",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "574418486",
+      "name": "tado°",
+      "developer": "tado°",
+      "url": "https://apps.apple.com/nl/app/tado/id574418486?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/b4/50/51b450eb-79c0-fa65-4cd6-ba60901e5d4c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-02-12",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1329458504",
+      "name": "ECOVACS HOME",
+      "developer": "Ecovacs",
+      "url": "https://apps.apple.com/nl/app/ecovacs-home/id1329458504?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/21/f4/7e21f491-6f69-3d17-d305-f6b692db231c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-05-03",
+      "genres": [
+        {
+          "id": "6012",
+          "name": "Lifestyle",
+          "url": "https://apps.apple.com/nl/genre/ios-lifestyle/id6012?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 97,
-      "id": "1042814349",
-      "name": "HUD™ Bedroom Dating App",
-      "developer": "HUD STUDIO LIMITED",
-      "url": "https://apps.apple.com/nl/app/hud-bedroom-dating-app/id1042814349?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/95/8e/3f958e76-8bb6-ea83-07d3-a9f27b60b5d6/Hud_App_Icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-11-03",
+      "id": "1493268178",
+      "name": "DMSS",
+      "developer": "DongBin",
+      "url": "https://apps.apple.com/nl/app/dmss/id1493268178?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/47/83/224783f5-ac3e-0dac-f866-6a21b4118b89/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-01-10",
       "genres": [
         {
           "id": "6012",
@@ -1561,12 +1561,12 @@
     },
     {
       "rank": 98,
-      "id": "1660045967",
-      "name": "Shelly Smart Control",
-      "developer": "SHELLY EUROPE EOOD",
-      "url": "https://apps.apple.com/nl/app/shelly-smart-control/id1660045967?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/bd/af/10bdaf38-ab68-d537-268f-5b1d73e212e9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-02-25",
+      "id": "6447687475",
+      "name": "Wooniezie",
+      "developer": "Zig Websoftware",
+      "url": "https://apps.apple.com/nl/app/wooniezie/id6447687475?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/f9/66/e5f966c7-07fd-0fbf-b51e-a75f45a5e396/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-07-11",
       "genres": [
         {
           "id": "6012",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "1596550932",
-      "name": "NGL - anonymous q&a",
-      "developer": "NGL Labs, LLC",
-      "url": "https://apps.apple.com/nl/app/ngl-anonymous-q-a/id1596550932?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a8/39/99a83969-52be-eb88-f716-044cf44c97df/AppIcon-0-0-1x_U007emarketing-0-3-0-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2021-12-10",
+      "id": "6470341023",
+      "name": "Thuispoort",
+      "developer": "Zig Websoftware",
+      "url": "https://apps.apple.com/nl/app/thuispoort/id6470341023?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/9b/63/c99b63bc-e4f8-605f-19d3-16967ae873f8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-06-03",
       "genres": [
         {
           "id": "6012",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "1044998081",
-      "name": "Nuki Smart Lock",
-      "developer": "Nuki Home Solutions GmbH",
-      "url": "https://apps.apple.com/nl/app/nuki-smart-lock/id1044998081?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4e/64/6f4e643b-a273-abc5-4bd8-68bb89b2b57f/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2016-05-23",
+      "id": "6737291521",
+      "name": "PlayStation Family",
+      "developer": "PlayStation Mobile Inc.",
+      "url": "https://apps.apple.com/nl/app/playstation-family/id6737291521?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/5b/cd/075bcdf2-12ed-c0a9-7c2e-3fab80690970/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-10",
       "genres": [
         {
           "id": "6012",

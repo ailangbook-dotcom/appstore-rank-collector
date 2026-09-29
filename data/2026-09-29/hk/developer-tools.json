@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-29T00:13:18.176145+09:00",
+  "collected_at": "2026-09-29T18:12:38.041500+09:00",
   "date": "2026-09-29",
   "country": "hk",
   "chart": "top-free",
@@ -105,22 +105,6 @@
     },
     {
       "rank": 7,
-      "id": "1442620678",
-      "name": "Surge 5",
-      "developer": "Surge Networks Inc.",
-      "url": "https://apps.apple.com/hk/app/surge-5/id1442620678?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ab/3f/49ab3f82-3504-abd3-6e61-92b927d70e65/AppIconS-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "id": "6761357475",
       "name": "Clash Lite - Clash for iOS",
       "developer": "Hood Lawn Service Inc.",
@@ -136,39 +120,23 @@
       ]
     },
     {
+      "rank": 8,
+      "id": "1442620678",
+      "name": "Surge 5",
+      "developer": "Surge Networks Inc.",
+      "url": "https://apps.apple.com/hk/app/surge-5/id1442620678?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ab/3f/49ab3f82-3504-abd3-6e61-92b927d70e65/AppIconS-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 9,
-      "id": "549039908",
-      "name": "Termius - Modern SSH Client",
-      "developer": "Termius Corporation",
-      "url": "https://apps.apple.com/hk/app/termius-modern-ssh-client/id549039908?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/3f/41/b63f41e9-52f7-7188-4a01-80a6f8bfb4b9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2012-08-07",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "id": "1405459188",
-      "name": "Scriptable",
-      "developer": "Simon B. Støvring",
-      "url": "https://apps.apple.com/hk/app/scriptable/id1405459188?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-21",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 11,
       "id": "640199958",
       "name": "Apple Developer",
       "developer": "Apple",
@@ -184,13 +152,13 @@
       ]
     },
     {
-      "rank": 12,
-      "id": "1312141691",
-      "name": "Stream",
-      "developer": "Stream Lab Inc.",
-      "url": "https://apps.apple.com/hk/app/stream/id1312141691?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/18/cf/ec/18cfec38-3bb2-a06f-fe0f-4a995477379a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-01-04",
+      "rank": 10,
+      "id": "549039908",
+      "name": "Termius - Modern SSH Client",
+      "developer": "Termius Corporation",
+      "url": "https://apps.apple.com/hk/app/termius-modern-ssh-client/id549039908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/3f/41/b63f41e9-52f7-7188-4a01-80a6f8bfb4b9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2012-08-07",
       "genres": [
         {
           "id": "6026",
@@ -200,7 +168,23 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 11,
+      "id": "1405459188",
+      "name": "Scriptable",
+      "developer": "Simon B. Støvring",
+      "url": "https://apps.apple.com/hk/app/scriptable/id1405459188?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
       "id": "982107779",
       "name": "Expo Go",
       "developer": "Nametag",
@@ -216,39 +200,7 @@
       ]
     },
     {
-      "rank": 14,
-      "id": "1234793120",
-      "name": "App Store Connect",
-      "developer": "Apple",
-      "url": "https://apps.apple.com/hk/app/app-store-connect/id1234793120?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/8d/25/cb8d25e0-3334-00f5-0ff8-0598503d6705/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/100x100bb.png",
-      "release_date": "2018-06-13",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 15,
-      "id": "1463298887",
-      "name": "Userscripts",
-      "developer": "Justin Wasack",
-      "url": "https://apps.apple.com/hk/app/userscripts/id1463298887?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/be/20/47be20a2-fedd-cf0b-3a35-476ae727ae01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-05-14",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "id": "6755794662",
       "name": "rootshell: Local Terminal, SSH",
       "developer": "Rootshell LLC",
@@ -264,13 +216,13 @@
       ]
     },
     {
-      "rank": 17,
-      "id": "6766130217",
-      "name": "Orca IDE",
-      "developer": "Lovecast LLC",
-      "url": "https://apps.apple.com/hk/app/orca-ide/id6766130217?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/b3/29/89b32922-c086-9d30-fd7c-ac48e1392aa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-07",
+      "rank": 14,
+      "id": "1463298887",
+      "name": "Userscripts",
+      "developer": "Justin Wasack",
+      "url": "https://apps.apple.com/hk/app/userscripts/id1463298887?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/be/20/47be20a2-fedd-cf0b-3a35-476ae727ae01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-14",
       "genres": [
         {
           "id": "6026",
@@ -280,23 +232,7 @@
       ]
     },
     {
-      "rank": 18,
-      "id": "6444399635",
-      "name": "Python Coding Editor & IDE App",
-      "developer": "Cloudbit d.o.o.",
-      "url": "https://apps.apple.com/hk/app/python-coding-editor-ide-app/id6444399635?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/25/0a/d6250a94-5c6f-814d-dbe2-892edd78f5cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-11-16",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
+      "rank": 15,
       "id": "1447489375",
       "name": "Koder Code Editor",
       "developer": "Reny Mustika",
@@ -312,13 +248,13 @@
       ]
     },
     {
-      "rank": 20,
-      "id": "1473805438",
-      "name": "a-Shell",
-      "developer": "Nicolas Holzschuch",
-      "url": "https://apps.apple.com/hk/app/a-shell/id1473805438?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/c7/ee/21c7eeac-a801-2727-11ef-6cd3b41a1640/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-10-25",
+      "rank": 16,
+      "id": "1312141691",
+      "name": "Stream",
+      "developer": "Stream Lab Inc.",
+      "url": "https://apps.apple.com/hk/app/stream/id1312141691?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/18/cf/ec/18cfec38-3bb2-a06f-fe0f-4a995477379a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-01-04",
       "genres": [
         {
           "id": "6026",
@@ -328,87 +264,7 @@
       ]
     },
     {
-      "rank": 21,
-      "id": "6785566876",
-      "name": "WLOC：定位修改助手",
-      "developer": "就洪 邓",
-      "url": "https://apps.apple.com/hk/app/wloc-%E5%AE%9A%E4%BD%8D%E4%BF%AE%E6%94%B9%E5%8A%A9%E6%89%8B/id6785566876?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/1e/3a/b41e3a40-db9b-5199-efb4-28e053b65dc9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-07",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "id": "6740740427",
-      "name": "Rev for Vercel",
-      "developer": "FarFetched",
-      "url": "https://apps.apple.com/hk/app/rev-for-vercel/id6740740427?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/07/12/1d071270-cb40-f54c-f1a0-0ed58e7bdfa5/icon-ios-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2025-02-20",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "id": "6797383968",
-      "name": "VPN - Feichi",
-      "developer": "Kevin Feichi",
-      "url": "https://apps.apple.com/hk/app/vpn-feichi/id6797383968?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/f8/45/bff84549-4220-8ffc-27d0-4344c6fe4413/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-20",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "id": "1049254261",
-      "name": "Textastic Code Editor",
-      "developer": "Alexander Blach",
-      "url": "https://apps.apple.com/hk/app/textastic-code-editor/id1049254261?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fb/9f/06fb9f52-1d64-90ef-eb67-82b0c4164073/Textastic_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-03-12",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "id": "1508712998",
-      "name": "Spectre VPN",
-      "developer": "Passion Only",
-      "url": "https://apps.apple.com/hk/app/spectre-vpn/id1508712998?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/8f/1c/918f1c34-cfda-c208-93d0-6279d2e986a9/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-16",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
+      "rank": 17,
       "id": "1437086352",
       "name": "CSDN-程序员计算机技术交友学习社区",
       "developer": "CSDN Network Technology Co., Ltd.",
@@ -424,13 +280,13 @@
       ]
     },
     {
-      "rank": 27,
-      "id": "1436902243",
-      "name": "iSH Shell",
-      "developer": "Theodore Dubois",
-      "url": "https://apps.apple.com/hk/app/ish-shell/id1436902243?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/78/e3/7a78e31a-10c7-f56e-822d-c1edf05d66e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2020-10-22",
+      "rank": 18,
+      "id": "6746705587",
+      "name": "Vibe Coding Toolkit",
+      "developer": "Nick Norris",
+      "url": "https://apps.apple.com/hk/app/vibe-coding-toolkit/id6746705587?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a0/27/66a027ef-923a-e017-353d-80ff52e80db1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-13",
       "genres": [
         {
           "id": "6026",
@@ -440,13 +296,13 @@
       ]
     },
     {
-      "rank": 28,
-      "id": "1621431814",
-      "name": "Loco Staff",
-      "developer": "Locolla",
-      "url": "https://apps.apple.com/hk/app/loco-staff/id1621431814?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8c/89/4b8c8977-1fc3-27d4-8020-1d0ee710c5c3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-03-28",
+      "rank": 19,
+      "id": "1234793120",
+      "name": "App Store Connect",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/hk/app/app-store-connect/id1234793120?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/8d/25/cb8d25e0-3334-00f5-0ff8-0598503d6705/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/100x100bb.png",
+      "release_date": "2018-06-13",
       "genres": [
         {
           "id": "6026",
@@ -456,13 +312,13 @@
       ]
     },
     {
-      "rank": 29,
-      "id": "6757406313",
-      "name": "OpenCode Mobile App",
-      "developer": "Rodrigo Mendoza",
-      "url": "https://apps.apple.com/hk/app/opencode-mobile-app/id6757406313?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/0c/70/cd0c7092-e4fe-f132-f1c8-8c2765db50fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-26",
+      "rank": 20,
+      "id": "6766130217",
+      "name": "Orca IDE",
+      "developer": "Lovecast LLC",
+      "url": "https://apps.apple.com/hk/app/orca-ide/id6766130217?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/b3/29/89b32922-c086-9d30-fd7c-ac48e1392aa6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-07",
       "genres": [
         {
           "id": "6026",
@@ -472,13 +328,13 @@
       ]
     },
     {
-      "rank": 30,
-      "id": "6767006319",
-      "name": "Hermex",
-      "developer": "Uzair Ansar",
-      "url": "https://apps.apple.com/hk/app/hermex/id6767006319?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/0a/02/b00a0247-1bd6-0e03-b357-b11587648b50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-02",
+      "rank": 21,
+      "id": "1049254261",
+      "name": "Textastic Code Editor",
+      "developer": "Alexander Blach",
+      "url": "https://apps.apple.com/hk/app/textastic-code-editor/id1049254261?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fb/9f/06fb9f52-1d64-90ef-eb67-82b0c4164073/Textastic_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-03-12",
       "genres": [
         {
           "id": "6026",
@@ -488,61 +344,13 @@
       ]
     },
     {
-      "rank": 31,
-      "id": "6757859949",
-      "name": "Moshi: SSH/MOSH 上的 herdr/tmux",
-      "developer": "Moshi Tech Ltd.",
-      "url": "https://apps.apple.com/hk/app/moshi-ssh-mosh-%E4%B8%8A%E7%9A%84-herdr-tmux/id6757859949?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/e2/7d/85e27dc1-22d4-518a-ba42-578c0d185e1f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-21",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
-      "id": "6748571505",
-      "name": "Happy: Codex & Claude Code App",
-      "developer": "Bulka, LLC",
-      "url": "https://apps.apple.com/hk/app/happy-codex-claude-code-app/id6748571505?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/f5/4c/3df54c59-caf6-6fc4-d7d8-a7e23ad68961/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-07-21",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
-      "id": "1445874902",
-      "name": "HTTP Catcher",
-      "developer": "MESS LAB LTD",
-      "url": "https://apps.apple.com/hk/app/http-catcher/id1445874902?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/af/ba/c7/afbac795-6256-bf28-4561-0ee18a27bc31/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2018-12-12",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
-      "id": "1543537943",
-      "name": "a-Shell mini",
+      "rank": 22,
+      "id": "1473805438",
+      "name": "a-Shell",
       "developer": "Nicolas Holzschuch",
-      "url": "https://apps.apple.com/hk/app/a-shell-mini/id1543537943?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/4d/47/034d47f9-4932-67e4-929f-40bf530533d9/AppIcon-mini-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-12-09",
+      "url": "https://apps.apple.com/hk/app/a-shell/id1473805438?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/c7/ee/21c7eeac-a801-2727-11ef-6cd3b41a1640/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-10-25",
       "genres": [
         {
           "id": "6026",
@@ -552,7 +360,23 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 23,
+      "id": "6785566876",
+      "name": "WLOC：定位修改助手",
+      "developer": "就洪 邓",
+      "url": "https://apps.apple.com/hk/app/wloc-%E5%AE%9A%E4%BD%8D%E4%BF%AE%E6%94%B9%E5%8A%A9%E6%89%8B/id6785566876?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/1e/3a/b41e3a40-db9b-5199-efb4-28e053b65dc9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
       "id": "6801154272",
       "name": "Zcode Mobile",
       "developer": "越 王",
@@ -568,13 +392,13 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "1604737154",
-      "name": "貓罐子",
-      "developer": "KUAN LIN LIU",
-      "url": "https://apps.apple.com/hk/app/%E8%B2%93%E7%BD%90%E5%AD%90/id1604737154?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/98/90/3f/98903fca-0fa6-733a-0350-693fd4bed85c/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2024-02-21",
+      "rank": 25,
+      "id": "6757406313",
+      "name": "OpenCode Mobile App",
+      "developer": "Rodrigo Mendoza",
+      "url": "https://apps.apple.com/hk/app/opencode-mobile-app/id6757406313?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/0c/70/cd0c7092-e4fe-f132-f1c8-8c2765db50fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-26",
       "genres": [
         {
           "id": "6026",
@@ -584,23 +408,7 @@
       ]
     },
     {
-      "rank": 37,
-      "id": "1536579599",
-      "name": "蓝牙调试助手",
-      "developer": "Hangzhou OrangeJuice Technology Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/%E8%93%9D%E7%89%99%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/id1536579599?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/7a/1c/517a1c98-261f-ab2a-905c-2ccf65a13198/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-26",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
+      "rank": 26,
       "id": "6753352219",
       "name": "黑洞加速器VPN-高速连接全球网络加速",
       "developer": "YuTina",
@@ -616,151 +424,7 @@
       ]
     },
     {
-      "rank": 39,
-      "id": "6787125178",
-      "name": "Agents Anywhere",
-      "developer": "梦鑫 杨",
-      "url": "https://apps.apple.com/hk/app/agents-anywhere/id6787125178?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/d2/4b/7dd24b2b-3376-57e3-8516-6954ae689b71/ios-dark-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-07-28",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "1436650069",
-      "name": "Pyto IDE",
-      "developer": "Develobile S.p.A.",
-      "url": "https://apps.apple.com/hk/app/pyto-ide/id1436650069?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/18/35fb18d1-6367-1c1c-2b2f-4f5eb068a5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-23",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "989642999",
-      "name": "Shelly - SSH Client",
-      "developer": "Touch Foo",
-      "url": "https://apps.apple.com/hk/app/shelly-ssh-client/id989642999?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/86/cf/7186cf38-45f4-1b02-ec0e-4f46eef82f51/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "release_date": "2016-06-11",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "6755102943",
-      "name": "Nano AI - for Ollama",
-      "developer": "一鸣 刘",
-      "url": "https://apps.apple.com/hk/app/nano-ai-for-ollama/id6755102943?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/3c/3b/103c3b12-7a0f-7517-df30-f5f0ea226f80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-11-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "6787819824",
-      "name": "T3 Code - Remote Claude & more",
-      "developer": "T3 Tools, Inc.",
-      "url": "https://apps.apple.com/hk/app/t3-code-remote-claude-more/id6787819824?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/db/db/b9dbdb4a-afec-94ec-6653-a885216d1764/app-icon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2026-07-29",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "1601434613",
-      "name": "Store Redirect",
-      "developer": "翔 何",
-      "url": "https://apps.apple.com/hk/app/store-redirect/id1601434613?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/14/55/c31455e4-7ecd-643c-50b7-77b2630e2934/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-12",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "6755708389",
-      "name": "Termiux",
-      "developer": "TERMUX LIMITED LIABILITY COMPANY",
-      "url": "https://apps.apple.com/hk/app/termiux/id6755708389?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/11/8d/17118d2c-d837-63a9-3bc2-751501fa95b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "6800792515",
-      "name": "omg.dev: Claude Code & Codex",
-      "developer": "Chun Hung Kok",
-      "url": "https://apps.apple.com/hk/app/omg-dev-claude-code-codex/id6800792515?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/cb/c0/5bcbc042-9b80-7ee2-ead6-2beb4081c4d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-31",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "6451132116",
-      "name": "Spider Proxy - HTTP（S）抓包調試工具",
-      "developer": "南京诸葛文化传媒有限公司",
-      "url": "https://apps.apple.com/hk/app/spider-proxy-http-s-%E6%8A%93%E5%8C%85%E8%AA%BF%E8%A9%A6%E5%B7%A5%E5%85%B7/id6451132116?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/ee/60/a9ee6081-1243-e244-c472-3a6771f4bbb4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-07-31",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
+      "rank": 27,
       "id": "6450932949",
       "name": "ProxyPin - Open Source Capture",
       "developer": "Minimalist Network Co., Ltd.",
@@ -776,13 +440,13 @@
       ]
     },
     {
-      "rank": 49,
-      "id": "1606772645",
-      "name": "Google Play Console",
-      "developer": "Google",
-      "url": "https://apps.apple.com/hk/app/google-play-console/id1606772645?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f0/35/9ef035e6-3a2e-494f-42b7-b9d3619202a4/logo_play_console_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-08-27",
+      "rank": 28,
+      "id": "1614022293",
+      "name": "Replit: Vibe Code with AI Fast",
+      "developer": "Replit",
+      "url": "https://apps.apple.com/hk/app/replit-vibe-code-with-ai-fast/id1614022293?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/4d/69/494d69c8-c1a9-7e85-d6c4-4952d4a5b4d4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-18",
       "genres": [
         {
           "id": "6026",
@@ -792,13 +456,13 @@
       ]
     },
     {
-      "rank": 50,
-      "id": "6782706682",
-      "name": "Toplify: App Rankings",
-      "developer": "Chuta Dmytro",
-      "url": "https://apps.apple.com/hk/app/toplify-app-rankings/id6782706682?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/4e/9c/6a4e9cd0-6cfb-6ab6-2c79-e897e0d5f380/ToplifyIcons-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-07-25",
+      "rank": 29,
+      "id": "6757859949",
+      "name": "Moshi: SSH/MOSH 上的 herdr/tmux",
+      "developer": "Moshi Tech Ltd.",
+      "url": "https://apps.apple.com/hk/app/moshi-ssh-mosh-%E4%B8%8A%E7%9A%84-herdr-tmux/id6757859949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/02/b6/ee02b6f3-6eb1-1036-8fc1-d72436fae481/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-21",
       "genres": [
         {
           "id": "6026",
@@ -808,7 +472,23 @@
       ]
     },
     {
-      "rank": 51,
+      "rank": 30,
+      "id": "6444399635",
+      "name": "Python Coding Editor & IDE App",
+      "developer": "Cloudbit d.o.o.",
+      "url": "https://apps.apple.com/hk/app/python-coding-editor-ide-app/id6444399635?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/25/0a/d6250a94-5c6f-814d-dbe2-892edd78f5cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
       "id": "1551292695",
       "name": "Proxyman - Capture HTTPS",
       "developer": "Proxyman LLC",
@@ -824,13 +504,13 @@
       ]
     },
     {
-      "rank": 52,
-      "id": "6794432532",
-      "name": "Temp Number | Receive SMS",
-      "developer": "Yarden Mitrani",
-      "url": "https://apps.apple.com/hk/app/temp-number-receive-sms/id6794432532?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/e7/d5/d9e7d557-3d27-f4d3-8063-2f358c255917/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-16",
+      "rank": 32,
+      "id": "1536579599",
+      "name": "蓝牙调试助手",
+      "developer": "Hangzhou OrangeJuice Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E8%93%9D%E7%89%99%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/id1536579599?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/7a/1c/517a1c98-261f-ab2a-905c-2ccf65a13198/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-26",
       "genres": [
         {
           "id": "6026",
@@ -840,13 +520,13 @@
       ]
     },
     {
-      "rank": 53,
-      "id": "1470936215",
-      "name": "力扣 LeetCode",
-      "developer": "领扣网络",
-      "url": "https://apps.apple.com/hk/app/%E5%8A%9B%E6%89%A3-leetcode/id1470936215?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/5b/1e/915b1ec5-031c-7dfa-dec4-1bd296cb50bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-12-10",
+      "rank": 33,
+      "id": "1436902243",
+      "name": "iSH Shell",
+      "developer": "Theodore Dubois",
+      "url": "https://apps.apple.com/hk/app/ish-shell/id1436902243?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/78/e3/7a78e31a-10c7-f56e-822d-c1edf05d66e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2020-10-22",
       "genres": [
         {
           "id": "6026",
@@ -856,13 +536,13 @@
       ]
     },
     {
-      "rank": 54,
-      "id": "1610958307",
-      "name": "Storm Sniffer - HTTP抓包工具",
-      "developer": "Hunan Storm Technology Co.,Ltd",
-      "url": "https://apps.apple.com/hk/app/storm-sniffer-http%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7/id1610958307?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/7d/c4/157dc4b1-52cc-f246-0672-1879b09a295b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-04-09",
+      "rank": 34,
+      "id": "6740740427",
+      "name": "Rev for Vercel",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/hk/app/rev-for-vercel/id6740740427?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/07/12/1d071270-cb40-f54c-f1a0-0ed58e7bdfa5/icon-ios-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-02-20",
       "genres": [
         {
           "id": "6026",
@@ -872,13 +552,13 @@
       ]
     },
     {
-      "rank": 55,
-      "id": "6797263135",
-      "name": "Heeler for herdr",
-      "developer": "野 张",
-      "url": "https://apps.apple.com/hk/app/heeler-for-herdr/id6797263135?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/cb/d7/e1cbd71d-898e-3313-58ae-3057362222e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-08",
+      "rank": 35,
+      "id": "6797383968",
+      "name": "VPN - Feichi",
+      "developer": "Kevin Feichi",
+      "url": "https://apps.apple.com/hk/app/vpn-feichi/id6797383968?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/f8/45/bff84549-4220-8ffc-27d0-4344c6fe4413/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-20",
       "genres": [
         {
           "id": "6026",
@@ -888,13 +568,13 @@
       ]
     },
     {
-      "rank": 56,
-      "id": "6745097949",
-      "name": "v0",
-      "developer": "Vercel, Inc",
-      "url": "https://apps.apple.com/hk/app/v0/id6745097949?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/7c/98/b87c98f3-9b0f-3fac-2854-1aa133418c8e/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2025-10-23",
+      "rank": 36,
+      "id": "6767006319",
+      "name": "Hermex",
+      "developer": "Uzair Ansar",
+      "url": "https://apps.apple.com/hk/app/hermex/id6767006319?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/0a/02/b00a0247-1bd6-0e03-b357-b11587648b50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-02",
       "genres": [
         {
           "id": "6026",
@@ -904,119 +584,7 @@
       ]
     },
     {
-      "rank": 57,
-      "id": "6770260745",
-      "name": "AI App Builder Architect",
-      "developer": "Beniamin Bar Chad",
-      "url": "https://apps.apple.com/hk/app/ai-app-builder-architect/id6770260745?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/cb/5f/3ecb5f12-1416-96d6-e3bf-5c256b457976/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "6757998015",
-      "name": "數位霓虹夜間時鐘",
-      "developer": "Rihlat Riasah",
-      "url": "https://apps.apple.com/hk/app/%E6%95%B8%E4%BD%8D%E9%9C%93%E8%99%B9%E5%A4%9C%E9%96%93%E6%99%82%E9%90%98/id6757998015?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c3/9c/acc39c51-6c97-5354-f0a8-07374bb1535b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-12",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "6746749546",
-      "name": "XRay Connect",
-      "developer": "DV Lottery Photo Tool",
-      "url": "https://apps.apple.com/hk/app/xray-connect/id6746749546?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/99/2b/fa992bd1-e077-04b5-2ac0-310a26cd1a5d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-23",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "6742807404",
-      "name": "荔枝 SSH",
-      "developer": "Argsment Limited",
-      "url": "https://apps.apple.com/hk/app/%E8%8D%94%E6%9E%9D-ssh/id6742807404?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/dc/62/f2dc6215-0cf7-dd6a-e898-3dcbd59dee46/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2025-03-10",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "6466878964",
-      "name": "Trymata Testing",
-      "developer": "Trymata",
-      "url": "https://apps.apple.com/hk/app/trymata-testing/id6466878964?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/06/14/b10614ec-98b9-749c-6be2-d1c3f29a5998/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-01-16",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "1038574481",
-      "name": "Kodex",
-      "developer": "Bruno Philipe Resende Silva",
-      "url": "https://apps.apple.com/hk/app/kodex/id1038574481?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/2a/fd/c72afd80-a64a-a929-0e20-fd2e82313ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2018-03-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "1544749600",
-      "name": "Swifty Compiler: Swift IDE",
-      "developer": "Hassan Taleb",
-      "url": "https://apps.apple.com/hk/app/swifty-compiler-swift-ide/id1544749600?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/c9/68/f1c968b3-3603-8688-33fd-4106e8f8d05a/SwiftyCompiler-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-12-31",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
+      "rank": 37,
       "id": "1450994949",
       "name": "Carnets - Jupyter",
       "developer": "Nicolas Holzschuch",
@@ -1032,13 +600,13 @@
       ]
     },
     {
-      "rank": 65,
-      "id": "395135555",
-      "name": "Unix/Linux CLI Commands",
-      "developer": "Bahtiyar Polat",
-      "url": "https://apps.apple.com/hk/app/unix-linux-cli-commands/id395135555?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/9a/01/919a0156-e7d0-7242-3438-44935655f89e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2010-10-03",
+      "rank": 38,
+      "id": "1436650069",
+      "name": "Pyto IDE",
+      "developer": "Develobile S.p.A.",
+      "url": "https://apps.apple.com/hk/app/pyto-ide/id1436650069?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/18/35fb18d1-6367-1c1c-2b2f-4f5eb068a5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-23",
       "genres": [
         {
           "id": "6026",
@@ -1048,7 +616,71 @@
       ]
     },
     {
-      "rank": 66,
+      "rank": 39,
+      "id": "6800792515",
+      "name": "omg.dev: Claude Code & Codex",
+      "developer": "Chun Hung Kok",
+      "url": "https://apps.apple.com/hk/app/omg-dev-claude-code-codex/id6800792515?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/cb/c0/5bcbc042-9b80-7ee2-ead6-2beb4081c4d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-31",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "1508712998",
+      "name": "Spectre VPN",
+      "developer": "Passion Only",
+      "url": "https://apps.apple.com/hk/app/spectre-vpn/id1508712998?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/8f/1c/918f1c34-cfda-c208-93d0-6279d2e986a9/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "1543537943",
+      "name": "a-Shell mini",
+      "developer": "Nicolas Holzschuch",
+      "url": "https://apps.apple.com/hk/app/a-shell-mini/id1543537943?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/4d/47/034d47f9-4932-67e4-929f-40bf530533d9/AppIcon-mini-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "6746749546",
+      "name": "XRay Connect",
+      "developer": "DV Lottery Photo Tool",
+      "url": "https://apps.apple.com/hk/app/xray-connect/id6746749546?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/99/2b/fa992bd1-e077-04b5-2ac0-310a26cd1a5d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
       "id": "6754570005",
       "name": "N8N Automations — Nathan",
       "developer": "FarFetched",
@@ -1064,39 +696,7 @@
       ]
     },
     {
-      "rank": 67,
-      "id": "6768007081",
-      "name": "Supabase Go",
-      "developer": "Sarfraz Ali Shaher Syed",
-      "url": "https://apps.apple.com/hk/app/supabase-go/id6768007081?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/81/a7/8c81a717-a5f0-33cf-bafe-6c5474d8fe61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-05-27",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6759328000",
-      "name": "HTML 编辑器 : HTML 查看器",
-      "developer": "Hardik Khanesa",
-      "url": "https://apps.apple.com/hk/app/html-%E7%BC%96%E8%BE%91%E5%99%A8-html-%E6%9F%A5%E7%9C%8B%E5%99%A8/id6759328000?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/c8/7f/44c87fce-a22d-51cf-6b56-16b148c441ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-20",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
+      "rank": 44,
       "id": "1548193893",
       "name": "Runestone Text Editor",
       "developer": "Simon B. Støvring",
@@ -1112,13 +712,13 @@
       ]
     },
     {
-      "rank": 70,
-      "id": "1483790257",
-      "name": "Text Editor.",
-      "developer": "TAPUNIVERSE LLC",
-      "url": "https://apps.apple.com/hk/app/text-editor/id1483790257?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/67/e9/3667e95d-f1a2-54d1-de12-7466e95a30ba/TextEditor-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-10-18",
+      "rank": 45,
+      "id": "1462586500",
+      "name": "Python IDE 與 Jupyter – Juno",
+      "developer": "Rational Matter",
+      "url": "https://apps.apple.com/hk/app/python-ide-%E8%88%87-jupyter-juno/id1462586500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/39/55/6b395515-bb07-4aa7-6a26-e57228c55a60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-09-26",
       "genres": [
         {
           "id": "6026",
@@ -1128,151 +728,7 @@
       ]
     },
     {
-      "rank": 71,
-      "id": "1397406775",
-      "name": "Python3 IDE Fresh Edition",
-      "developer": "小文 黄",
-      "url": "https://apps.apple.com/hk/app/python3-ide-fresh-edition/id1397406775?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/2b/d7/b32bd7dd-d0cd-3d30-93f0-623dd954d521/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-07-24",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "1519423539",
-      "name": "nRF Connect Device Manager",
-      "developer": "Nordic Semiconductor ASA",
-      "url": "https://apps.apple.com/hk/app/nrf-connect-device-manager/id1519423539?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9b/97/f19b9707-588f-a65f-548d-8f346421f360/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-08-03",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "6753987304",
-      "name": "PythonIDE：Python 程式碼編輯器",
-      "developer": "文禄 张",
-      "url": "https://apps.apple.com/hk/app/pythonide-python-%E7%A8%8B%E5%BC%8F%E7%A2%BC%E7%B7%A8%E8%BC%AF%E5%99%A8/id6753987304?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/2b/61/ce2b6157-7b7c-88af-da99-91af0772cb97/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-02-13",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "6475648822",
-      "name": "MarkChart - Mermaid 編輯器",
-      "developer": "Alexandre Colucci",
-      "url": "https://apps.apple.com/hk/app/markchart-mermaid-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6475648822?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/ae/c7/daaec735-9613-68ad-d760-1ce82421e693/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2024-01-30",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "6739025628",
-      "name": "SmartTable",
-      "developer": "志军 陈",
-      "url": "https://apps.apple.com/hk/app/smarttable/id6739025628?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/46/97/20469771-9278-2435-433b-24d3c5107c59/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-01-05",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "6758781401",
-      "name": "LG Remote Control for LG TV",
-      "developer": "Free Vpn Fast",
-      "url": "https://apps.apple.com/hk/app/lg-remote-control-for-lg-tv/id6758781401?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/99/06/ae9906d5-adf8-c2d9-c43e-3612dea4d5bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-03-10",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "6753701067",
-      "name": "ProScan: PDF Scanner",
-      "developer": "PSCD TECHNOLOGY DEVELOPMENT COMPANY LIMITED",
-      "url": "https://apps.apple.com/hk/app/proscan-pdf-scanner/id6753701067?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/8d/c5/498dc57d-1bdf-865f-09f5-7db93ae0cd2e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-11-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "1526335325",
-      "name": "蓝牙连接助手",
-      "developer": "魁鹏 宋",
-      "url": "https://apps.apple.com/hk/app/%E8%93%9D%E7%89%99%E8%BF%9E%E6%8E%A5%E5%8A%A9%E6%89%8B/id1526335325?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/87/5d/7d/875d7d63-5f26-7a01-95f1-50a3c127662c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2020-08-06",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "6444783184",
-      "name": "JiHu GitLab",
-      "developer": "GitLab Information Technology (Hubei) Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/jihu-gitlab/id6444783184?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/34/1b/46341bcc-09c7-8f3e-7d2e-2d6b55826c90/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
+      "rank": 46,
       "id": "6748314140",
       "name": "Proxmox VE Companion",
       "developer": "Proxmox Server Solutions GmbH",
@@ -1288,13 +744,13 @@
       ]
     },
     {
-      "rank": 81,
-      "id": "6744579428",
-      "name": "ProxMan",
-      "developer": "Routecore LLC",
-      "url": "https://apps.apple.com/hk/app/proxman/id6744579428?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/ef/c1/09efc13c-7d84-bb17-df2c-8544f59328c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-05-26",
+      "rank": 47,
+      "id": "1621431814",
+      "name": "Loco Staff",
+      "developer": "Locolla",
+      "url": "https://apps.apple.com/hk/app/loco-staff/id1621431814?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8c/89/4b8c8977-1fc3-27d4-8020-1d0ee710c5c3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-03-28",
       "genres": [
         {
           "id": "6026",
@@ -1304,13 +760,13 @@
       ]
     },
     {
-      "rank": 82,
-      "id": "6796254486",
-      "name": "AI Token",
-      "developer": "Logicton, Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/ai-token/id6796254486?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/4c/9c/c94c9c0c-df86-83bd-3994-7d96f73ff9b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-08-03",
+      "rank": 48,
+      "id": "6779323783",
+      "name": "橙云 - Cloudflare",
+      "developer": "Longyan Xinluo Zhejia Technology Co., Ltd",
+      "url": "https://apps.apple.com/hk/app/%E6%A9%99%E4%BA%91-cloudflare/id6779323783?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/51/5d/c2515d1d-091b-c0b8-6bbd-e4cde517710d/Orange_Cloud-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-16",
       "genres": [
         {
           "id": "6026",
@@ -1320,268 +776,12 @@
       ]
     },
     {
-      "rank": 83,
-      "id": "1611993508",
-      "name": "DevTools Extension",
-      "developer": "浩鑫 庄",
-      "url": "https://apps.apple.com/hk/app/devtools-extension/id1611993508?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/67/7c/32677c95-7485-7e3f-a60f-298b9a861cba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2022-03-05",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "6461381501",
-      "name": "MAX加速器 – 安全快速的VPN加速器",
-      "developer": "BYTEBURN",
-      "url": "https://apps.apple.com/hk/app/max%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%AE%89%E5%85%A8%E5%BF%AB%E9%80%9F%E7%9A%84vpn%E5%8A%A0%E9%80%9F%E5%99%A8/id6461381501?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/4e/ee/544eee0e-9443-4a02-98f1-1dbbd7e58d2c/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2023-08-21",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "6742872285",
-      "name": "ATerminal",
-      "developer": "Wuhan Henda Technology Co., Ltd",
-      "url": "https://apps.apple.com/hk/app/aterminal/id6742872285?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/42/f5/0f42f578-0df8-e629-4520-81df5be80f1c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-06-12",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
-      "id": "6753707203",
-      "name": "Jupyter Notebook - JuCode",
-      "developer": "Devang Samirbhai Shah",
-      "url": "https://apps.apple.com/hk/app/jupyter-notebook-jucode/id6753707203?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/af/6b/9aaf6b18-f78b-7400-74fc-fb5043e2f4b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-10-08",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "6748534773",
-      "name": "Supanator: Supabase Manager",
-      "developer": "Layton Labs AB",
-      "url": "https://apps.apple.com/hk/app/supanator-supabase-manager/id6748534773?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/5d/7a/635d7a05-f6d0-617f-7853-963b1db04fff/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-07-30",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "6746274402",
-      "name": "ShadowTerm ssh & mosh Terminal",
-      "developer": "Carlos Savcic",
-      "url": "https://apps.apple.com/hk/app/shadowterm-ssh-mosh-terminal/id6746274402?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ad/3c/ddad3c96-edaf-a4a3-8e0c-d035e210fa3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-07-19",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6739793743",
-      "name": "CC2.0",
-      "developer": "DSC Logistics (Beijing) Co.,Ltd",
-      "url": "https://apps.apple.com/hk/app/cc2-0/id6739793743?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/ec/24/0eec248b-836a-d8e1-be34-c58bd52c74f8/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2025-02-05",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "6466040283",
-      "name": "Python编程 - 软件开发启蒙算法入门面试刷题神器",
-      "developer": "钦 闵",
-      "url": "https://apps.apple.com/hk/app/python%E7%BC%96%E7%A8%8B-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%90%AF%E8%92%99%E7%AE%97%E6%B3%95%E5%85%A5%E9%97%A8%E9%9D%A2%E8%AF%95%E5%88%B7%E9%A2%98%E7%A5%9E%E5%99%A8/id6466040283?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/df/2b/f4df2b0b-2797-9da8-9be8-71b1695a53b3/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-09-14",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "6741714545",
-      "name": "Netli.fyi: Netlify Client",
-      "developer": "Fenrir Digital",
-      "url": "https://apps.apple.com/hk/app/netli-fyi-netlify-client/id6741714545?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/63/a4/c663a4b3-16f0-92eb-ae95-38e3bb2720f9/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-02-09",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "6749166422",
-      "name": "Flutter Liquid Glass Kit",
-      "developer": "Ahmed Omar",
-      "url": "https://apps.apple.com/hk/app/flutter-liquid-glass-kit/id6749166422?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/86/d6/cf86d675-58e9-10c5-d046-89e06ca6d350/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-07-28",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "6444859929",
-      "name": "Qorvo NI Background",
-      "developer": "Qorvo",
-      "url": "https://apps.apple.com/hk/app/qorvo-ni-background/id6444859929?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/e2/54/96e25401-4ccb-be70-c517-1a6c3776c550/AppIcon-1x_U007emarketing-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-12-22",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "6737130008",
-      "name": "MultiSet",
-      "developer": "MultiSet AI Inc.",
-      "url": "https://apps.apple.com/hk/app/multiset/id6737130008?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1d/2c/e31d2c44-cad1-223f-764c-3ab9995bd98e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-11-24",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "6471904062",
-      "name": "NovaStar VXDeviceInfo",
-      "developer": "OlympianLED",
-      "url": "https://apps.apple.com/hk/app/novastar-vxdeviceinfo/id6471904062?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/39/ee/1539ee3f-2e91-8d6d-f23b-4f16ad657789/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
-      "release_date": "2023-12-28",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "6478018751",
-      "name": "Alto Daily Habit Tracker",
-      "developer": "System Operator LLC",
-      "url": "https://apps.apple.com/hk/app/alto-daily-habit-tracker/id6478018751?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/80/30/428030bd-2725-1a1e-40d3-bd215f9c80d1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-02-20",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
-      "id": "1624836041",
-      "name": "NUOCSACH2HN",
-      "developer": "HANOI WATER SUPPLY NUMBER 2 JOINT STOCK COMPANY",
-      "url": "https://apps.apple.com/hk/app/nuocsach2hn/id1624836041?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/94/3e/36943e83-d545-71c2-dcef-b76a5e065964/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-05-17",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 98,
-      "id": "6757487565",
-      "name": "SQL Professional Editor",
-      "developer": "mustafa hamdan",
-      "url": "https://apps.apple.com/hk/app/sql-professional-editor/id6757487565?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/cc/fa/2eccfa52-c80b-2a6d-ce8e-17465255fb21/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-01-07",
-      "genres": [
-        {
-          "id": "6026",
-          "name": "開發人員工具",
-          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 99,
-      "id": "6453695914",
-      "name": "APCSP",
-      "developer": "Appotronics Corporation Limited",
-      "url": "https://apps.apple.com/hk/app/apcsp/id6453695914?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/0a/45/ba0a45b4-8740-1a97-ab34-95f1d7ce0d96/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "rank": 49,
+      "id": "6451132116",
+      "name": "Spider Proxy - HTTP（S）抓包調試工具",
+      "developer": "南京诸葛文化传媒有限公司",
+      "url": "https://apps.apple.com/hk/app/spider-proxy-http-s-%E6%8A%93%E5%8C%85%E8%AA%BF%E8%A9%A6%E5%B7%A5%E5%85%B7/id6451132116?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/ee/60/a9ee6081-1243-e244-c472-3a6771f4bbb4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "release_date": "2023-07-31",
       "genres": [
         {
@@ -1592,13 +792,813 @@
       ]
     },
     {
+      "rank": 50,
+      "id": "6758554297",
+      "name": "Happier：遠端 Claude Code、Codex",
+      "developer": "Leeroy Brun",
+      "url": "https://apps.apple.com/hk/app/happier-%E9%81%A0%E7%AB%AF-claude-code-codex/id6758554297?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/df/9a/6bdf9a5f-b262-e558-b5b2-3fe6656ec454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1672453872",
+      "name": "Python Editor App",
+      "developer": "Andromeda Corp LTD",
+      "url": "https://apps.apple.com/hk/app/python-editor-app/id1672453872?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b9/cd/9ab9cd62-b238-ce1e-1862-55e3f1e25092/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-02-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "6758050739",
+      "name": "Macky: Remote Mac & Terminal",
+      "developer": "Velosify Private Limited",
+      "url": "https://apps.apple.com/hk/app/macky-remote-mac-terminal/id6758050739?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/a5/05/d3a505d9-df6f-ae30-c54a-43ec0cae8a05/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "6770581039",
+      "name": "/cards: Claude Code Flashcards",
+      "developer": "Parra LLC",
+      "url": "https://apps.apple.com/hk/app/cards-claude-code-flashcards/id6770581039?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/10/ac/d010ac1e-6630-6b1c-ab0c-590c5d07eb9e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6790977764",
+      "name": "Hermes Conduit",
+      "developer": "Long Cheung Ho",
+      "url": "https://apps.apple.com/hk/app/hermes-conduit/id6790977764?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/f9/8c/b8f98cda-5e65-6b25-b00d-63a4c8b081b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-06",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "1665428917",
+      "name": "查看IDFA",
+      "developer": "洁欣 严",
+      "url": "https://apps.apple.com/hk/app/%E6%9F%A5%E7%9C%8Bidfa/id1665428917?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/3b/7d/353b7dfe-0e73-94bf-7925-00702b37076f/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-02-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1563531494",
+      "name": "RichTap Creator",
+      "developer": "Shanghai Ruisheng Kaitai Acoustic Science And Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/richtap-creator/id1563531494?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/91/3d/f5913d2d-2b20-880d-9fd4-18b743551ad2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "6748571505",
+      "name": "Happy: Codex & Claude Code App",
+      "developer": "Bulka, LLC",
+      "url": "https://apps.apple.com/hk/app/happy-codex-claude-code-app/id6748571505?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/f5/4c/3df54c59-caf6-6fc4-d7d8-a7e23ad68961/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-07-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1621133381",
+      "name": "Swifter for SwiftUI",
+      "developer": "Wido",
+      "url": "https://apps.apple.com/hk/app/swifter-for-swiftui/id1621133381?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/82/96/e88296ce-79c6-7218-a915-569592e3db83/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-01-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "6758272626",
+      "name": "CMD: SSH終端、DOS、Ping",
+      "developer": "Sunandan Sekhar Das",
+      "url": "https://apps.apple.com/hk/app/cmd-ssh%E7%B5%82%E7%AB%AF-dos-ping/id6758272626?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/dc/7d/49dc7d4f-df7a-fd20-70c6-06f178847857/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "1581290510",
+      "name": "Code Editor - Compiler & IDE",
+      "developer": "Rhythm Software",
+      "url": "https://apps.apple.com/hk/app/code-editor-compiler-ide/id1581290510?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/6b/62/986b626f-5fdb-6533-7be7-a2a591353b31/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2022-04-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6757942320",
+      "name": "可拓",
+      "developer": "海南数据交易服务有限公司",
+      "url": "https://apps.apple.com/hk/app/%E5%8F%AF%E6%8B%93/id6757942320?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/d8/b5/c0d8b568-7434-e7c9-d3f1-b834844193e2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "6759448996",
+      "name": "UDP TCP Sender & Receiver",
+      "developer": "Chun Yu Leung",
+      "url": "https://apps.apple.com/hk/app/udp-tcp-sender-receiver/id6759448996?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/b3/d2/84b3d2a3-e3ed-ecd7-9ade-7f5c7b6c3df4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "1447750768",
+      "name": "Jayson",
+      "developer": "Simon B. Støvring",
+      "url": "https://apps.apple.com/hk/app/jayson/id1447750768?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/85/09/b4850939-5d32-24e6-f4a3-bd1459db2cbf/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-02-01",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "1624248084",
+      "name": "Algorithms: Animation Display",
+      "developer": "森 林",
+      "url": "https://apps.apple.com/hk/app/algorithms-animation-display/id1624248084?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/3d/db/9b3ddbaa-e51e-a2d2-7acf-78ddeaacc786/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-01-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6448629269",
+      "name": "Device Info Tool",
+      "developer": "IDB LLC",
+      "url": "https://apps.apple.com/hk/app/device-info-tool/id6448629269?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/83/0c/ad830c21-1887-8c69-c2cb-2852a45ac3ea/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-07-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1514942957",
+      "name": "代碼大師 - 移動端程序開發工具",
+      "developer": "Shanghai Dazhuo Information Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E4%BB%A3%E7%A2%BC%E5%A4%A7%E5%B8%AB-%E7%A7%BB%E5%8B%95%E7%AB%AF%E7%A8%8B%E5%BA%8F%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7/id1514942957?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a2/af/c0a2afeb-4e86-06a6-53ea-e35ffb3166f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-08-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6753083462",
+      "name": "Power Apps Mobile Preview",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/hk/app/power-apps-mobile-preview/id6753083462?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/a2/f0/dba2f053-dc2e-eec1-bc98-91f39f234d99/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2026-06-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1159218671",
+      "name": "mp4 to gif, video to gif maker",
+      "developer": "Sounak Sarkar",
+      "url": "https://apps.apple.com/hk/app/mp4-to-gif-video-to-gif-maker/id1159218671?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/20/5d/c7205da9-e4ce-21c3-67ee-ada250fdd709/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2016-10-01",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6755721056",
+      "name": "STEP File Viewer",
+      "developer": "维 艾",
+      "url": "https://apps.apple.com/hk/app/step-file-viewer/id6755721056?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/43/4e/3c434ea4-3a4a-1fab-dccc-da53fb4f6699/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-12-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1581548562",
+      "name": "Docker Manager GUI - WhaleDeck",
+      "developer": "Florian Seida",
+      "url": "https://apps.apple.com/hk/app/docker-manager-gui-whaledeck/id1581548562?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/cf/b406cfdb-7499-5ad9-ffb2-7ecfba675f17/WhaleDeck_Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-05-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6740245899",
+      "name": "Nginx Mobile Dashboard",
+      "developer": "Kryton Labs LLC",
+      "url": "https://apps.apple.com/hk/app/nginx-mobile-dashboard/id6740245899?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/b0/c9/7fb0c92c-ecdb-3a17-30dd-5f020f7442ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-01-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6569249932",
+      "name": "UDP TCP Network Utility",
+      "developer": "Youri Berentsen",
+      "url": "https://apps.apple.com/hk/app/udp-tcp-network-utility/id6569249932?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/8e/e3/268ee366-5cdb-b204-0e1a-927339bab5c1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-08-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6747045182",
+      "name": "Universal S3 client",
+      "developer": "Consulting WEB3 & Data VV LIMITED",
+      "url": "https://apps.apple.com/hk/app/universal-s3-client/id6747045182?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/9d/3f/839d3f09-818e-4560-cb2a-5f9d1aaad5ef/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-06-30",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "6794121509",
+      "name": "hark - developer notifications",
+      "developer": "Ryan Vogel",
+      "url": "https://apps.apple.com/hk/app/hark-developer-notifications/id6794121509?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/e7/90/d6e790af-a403-6723-71f0-12147c1fff1f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-30",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "6778709602",
+      "name": "HaloShell",
+      "developer": "Changsha Huanhui Yingchen Network Technology Co., Ltd",
+      "url": "https://apps.apple.com/hk/app/haloshell/id6778709602?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/4a/bd/f44abddc-0c0e-7217-ca7f-ccb8c064378a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6758634909",
+      "name": "RaidMan",
+      "developer": "Routecore LLC",
+      "url": "https://apps.apple.com/hk/app/raidman/id6758634909?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/75/5e/03755e39-774e-5b91-3b86-3dd50b5c37fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-06-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6765586092",
+      "name": "Regex Playground",
+      "developer": "Nirav Parmar",
+      "url": "https://apps.apple.com/hk/app/regex-playground/id6765586092?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/ed/00/01ed001a-abf9-726f-81b8-b42e5c6da823/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-01",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "6763365337",
+      "name": "Find My Device",
+      "developer": "Georgy Natsvlishvili",
+      "url": "https://apps.apple.com/hk/app/find-my-device/id6763365337?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/ee/17/5aee1710-c6c9-73c7-b005-6ee1b4ad96bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "6810990515",
+      "name": "yxcode",
+      "developer": "理想 姜",
+      "url": "https://apps.apple.com/hk/app/yxcode/id6810990515?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/68/4d/69684d1d-e664-3ac1-d1ed-ddd39c552091/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "6799964195",
+      "name": "Diagrammar: Mermaid Diagram",
+      "developer": "Bakhtiyor Khodjaev",
+      "url": "https://apps.apple.com/hk/app/diagrammar-mermaid-diagram/id6799964195?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/fa/1e/54fa1eb2-0a09-5ce1-91f6-8b893e70831b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-24",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6759075283",
+      "name": "Muxly: Native tmux & SSH",
+      "developer": "Whale shark s. r. o.",
+      "url": "https://apps.apple.com/hk/app/muxly-native-tmux-ssh/id6759075283?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/32/3a/6a323a11-c072-8cad-b081-65f0338dd10c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1445874902",
+      "name": "HTTP Catcher",
+      "developer": "MESS LAB LTD",
+      "url": "https://apps.apple.com/hk/app/http-catcher/id1445874902?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/af/ba/c7/afbac795-6256-bf28-4561-0ee18a27bc31/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2018-12-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "6800266871",
+      "name": "LocationLab",
+      "developer": "SHU-CHIH LIN",
+      "url": "https://apps.apple.com/hk/app/locationlab/id6800266871?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/ad/21/70ad2158-ddf6-92f8-431b-5fcc9dbda51d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1604737154",
+      "name": "貓罐子",
+      "developer": "KUAN LIN LIU",
+      "url": "https://apps.apple.com/hk/app/%E8%B2%93%E7%BD%90%E5%AD%90/id1604737154?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/98/90/3f/98903fca-0fa6-733a-0350-693fd4bed85c/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2024-02-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6794432532",
+      "name": "Temp Number | Receive SMS",
+      "developer": "Yarden Mitrani",
+      "url": "https://apps.apple.com/hk/app/temp-number-receive-sms/id6794432532?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/e7/d5/d9e7d557-3d27-f4d3-8063-2f358c255917/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1610958307",
+      "name": "Storm Sniffer - HTTP抓包工具",
+      "developer": "Hunan Storm Technology Co.,Ltd",
+      "url": "https://apps.apple.com/hk/app/storm-sniffer-http%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7/id1610958307?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/7d/c4/157dc4b1-52cc-f246-0672-1879b09a295b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-04-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1606772645",
+      "name": "Google Play Console",
+      "developer": "Google",
+      "url": "https://apps.apple.com/hk/app/google-play-console/id1606772645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f0/35/9ef035e6-3a2e-494f-42b7-b9d3619202a4/logo_play_console_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-08-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6466878964",
+      "name": "Trymata Testing",
+      "developer": "Trymata",
+      "url": "https://apps.apple.com/hk/app/trymata-testing/id6466878964?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/06/14/b10614ec-98b9-749c-6be2-d1c3f29a5998/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-01-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "6787125178",
+      "name": "Agents Anywhere",
+      "developer": "梦鑫 杨",
+      "url": "https://apps.apple.com/hk/app/agents-anywhere/id6787125178?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/d2/4b/7dd24b2b-3376-57e3-8516-6954ae689b71/ios-dark-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-07-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6768007081",
+      "name": "Supabase Go",
+      "developer": "Sarfraz Ali Shaher Syed",
+      "url": "https://apps.apple.com/hk/app/supabase-go/id6768007081?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/81/a7/8c81a717-a5f0-33cf-bafe-6c5474d8fe61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "989642999",
+      "name": "Shelly - SSH Client",
+      "developer": "Touch Foo",
+      "url": "https://apps.apple.com/hk/app/shelly-ssh-client/id989642999?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/86/cf/7186cf38-45f4-1b02-ec0e-4f46eef82f51/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "release_date": "2016-06-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1544728400",
+      "name": "xTerminal - SSH Terminal Shell",
+      "developer": "婉媚 邵",
+      "url": "https://apps.apple.com/hk/app/xterminal-ssh-terminal-shell/id1544728400?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/21/34/2d213415-2aee-4293-058a-7b387cd8c681/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1336634154",
+      "name": "SSH Client - Secure ShellFish",
+      "developer": "Anders Borum",
+      "url": "https://apps.apple.com/hk/app/ssh-client-secure-shellfish/id1336634154?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/99/3c/dc993c57-3546-087f-eadb-8f789ef462ff/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-06-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6755102943",
+      "name": "Nano AI - for Ollama",
+      "developer": "一鸣 刘",
+      "url": "https://apps.apple.com/hk/app/nano-ai-for-ollama/id6755102943?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/3c/3b/103c3b12-7a0f-7517-df30-f5f0ea226f80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-11-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "6787819824",
+      "name": "T3 Code - Remote Claude & more",
+      "developer": "T3 Tools, Inc.",
+      "url": "https://apps.apple.com/hk/app/t3-code-remote-claude-more/id6787819824?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/db/db/b9dbdb4a-afec-94ec-6653-a885216d1764/app-icon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-07-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1601434613",
+      "name": "Store Redirect",
+      "developer": "翔 何",
+      "url": "https://apps.apple.com/hk/app/store-redirect/id1601434613?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/14/55/c31455e4-7ecd-643c-50b7-77b2630e2934/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "896694807",
+      "name": "Git client - Working Copy",
+      "developer": "Anders Borum",
+      "url": "https://apps.apple.com/hk/app/git-client-working-copy/id896694807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/9e/2e/779e2ea9-d7a3-f014-a287-e273539095b2/Regular-Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-11-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "6474268307",
+      "name": "Enchanted Developers Only",
+      "developer": "Augustinas Malinauskas",
+      "url": "https://apps.apple.com/hk/app/enchanted-developers-only/id6474268307?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/50/4d/a2504d41-3095-85b6-4db0-9ae7ef0b8eaa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-12-15",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "6755708389",
+      "name": "Termiux",
+      "developer": "TERMUX LIMITED LIABILITY COMPANY",
+      "url": "https://apps.apple.com/hk/app/termiux/id6755708389?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4c/01/aa4c0197-f9f5-4461-f8ee-f6522b73921e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "開發人員工具",
+          "url": "https://apps.apple.com/hk/genre/ios-%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E5%B7%A5%E5%85%B7/id6026?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 100,
-      "id": "6812587737",
-      "name": "KoKo - Intent Computing",
-      "developer": "维 刘",
-      "url": "https://apps.apple.com/hk/app/koko-intent-computing/id6812587737?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/cb/b3/ffcbb3ec-4d5f-aa90-ecf2-8cb2ca24ad4a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-27",
+      "id": "6782706682",
+      "name": "Toplify: App Rankings",
+      "developer": "Chuta Dmytro",
+      "url": "https://apps.apple.com/hk/app/toplify-app-rankings/id6782706682?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/4e/9c/6a4e9cd0-6cfb-6ab6-2c79-e897e0d5f380/ToplifyIcons-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-25",
       "genres": [
         {
           "id": "6026",

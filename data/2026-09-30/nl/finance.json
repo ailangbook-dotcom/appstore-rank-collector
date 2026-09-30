@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-30T00:13:28.111420+09:00",
+  "collected_at": "2026-09-30T18:12:40.757500+09:00",
   "date": "2026-09-30",
   "country": "nl",
   "chart": "top-free",
@@ -9,12 +9,12 @@
   "apps": [
     {
       "rank": 1,
-      "id": "6753981016",
-      "name": "MijnLoket",
-      "developer": "Loket.nl",
-      "url": "https://apps.apple.com/nl/app/mijnloket/id6753981016?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/54/be/3654be85-2afd-e766-93a3-58d061249094/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-27",
+      "id": "1605760107",
+      "name": "Woolsocks: The money app",
+      "developer": "Woolsocks AG",
+      "url": "https://apps.apple.com/nl/app/woolsocks-the-money-app/id1605760107?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/c5/17/3ec517d4-843a-edd0-1862-3bdd4f9c43f7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-06-29",
       "genres": [
         {
           "id": "6015",
@@ -41,12 +41,12 @@
     },
     {
       "rank": 3,
-      "id": "1605760107",
-      "name": "Woolsocks: The money app",
-      "developer": "Woolsocks AG",
-      "url": "https://apps.apple.com/nl/app/woolsocks-the-money-app/id1605760107?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/b3/cc/ccb3cc10-118e-7726-e9ab-34ef860b7902/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-06-29",
+      "id": "6753981016",
+      "name": "MijnLoket",
+      "developer": "Loket.nl",
+      "url": "https://apps.apple.com/nl/app/mijnloket/id6753981016?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/54/be/3654be85-2afd-e766-93a3-58d061249094/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-27",
       "genres": [
         {
           "id": "6015",
@@ -89,22 +89,6 @@
     },
     {
       "rank": 6,
-      "id": "346790636",
-      "name": "Rabobank",
-      "developer": "Rabobank Nederland",
-      "url": "https://apps.apple.com/nl/app/rabobank/id346790636?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/e7/df/d7e7dfb1-2916-2bbf-3f38-9d0a8fa67c44/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-02-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "id": "1154059529",
       "name": "WieBetaaltWat - Splitser",
       "developer": "Splitser B.V.",
@@ -120,55 +104,7 @@
       ]
     },
     {
-      "rank": 8,
-      "id": "283646709",
-      "name": "PayPal",
-      "developer": "PayPal, Inc.",
-      "url": "https://apps.apple.com/nl/app/paypal/id283646709?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/04/3c/a8043c56-a7b6-f98b-ccf8-85768c9cef4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-03",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "id": "1159220609",
-      "name": "Ockto",
-      "developer": "Ockto B.V.",
-      "url": "https://apps.apple.com/nl/app/ockto/id1159220609?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/d9/c5/0ed9c531-cbda-4dac-6a2c-f80c00c6938c/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2016-10-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "id": "474495017",
-      "name": "ING Nederland",
-      "developer": "ING",
-      "url": "https://apps.apple.com/nl/app/ing-nederland/id474495017?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/3b/af/9f3baf36-bb40-4ed6-a2e2-bbdf9f2579cb/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-11-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 11,
+      "rank": 7,
       "id": "566325832",
       "name": "Trading 212 - Stocks & ETFs",
       "developer": "Trading 212",
@@ -184,13 +120,13 @@
       ]
     },
     {
-      "rank": 12,
-      "id": "1011193821",
-      "name": "Nationale-Nederlanden",
-      "developer": "Nationale Nederlanden",
-      "url": "https://apps.apple.com/nl/app/nationale-nederlanden/id1011193821?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b4/32/97b432ab-728e-4a84-4f8f-0c8bcca654ce/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-08-03",
+      "rank": 8,
+      "id": "346790636",
+      "name": "Rabobank",
+      "developer": "Rabobank Nederland",
+      "url": "https://apps.apple.com/nl/app/rabobank/id346790636?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/e7/df/d7e7dfb1-2916-2bbf-3f38-9d0a8fa67c44/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-02-01",
       "genres": [
         {
           "id": "6015",
@@ -200,7 +136,55 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 9,
+      "id": "474495017",
+      "name": "ING Nederland",
+      "developer": "ING",
+      "url": "https://apps.apple.com/nl/app/ing-nederland/id474495017?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/3b/af/9f3baf36-bb40-4ed6-a2e2-bbdf9f2579cb/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-11-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "283646709",
+      "name": "PayPal",
+      "developer": "PayPal, Inc.",
+      "url": "https://apps.apple.com/nl/app/paypal/id283646709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/04/3c/a8043c56-a7b6-f98b-ccf8-85768c9cef4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "1159220609",
+      "name": "Ockto",
+      "developer": "Ockto B.V.",
+      "url": "https://apps.apple.com/nl/app/ockto/id1159220609?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/d9/c5/0ed9c531-cbda-4dac-6a2c-f80c00c6938c/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2016-10-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
       "id": "439728011",
       "name": "ABN AMRO",
       "developer": "ABN AMRO Bank N.V.",
@@ -216,13 +200,29 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "1021178150",
       "name": "bunq",
       "developer": "bunq",
       "url": "https://apps.apple.com/nl/app/bunq/id1021178150?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b4/95/cdb4953e-fa0a-c441-f689-3f074a0ccccf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "release_date": "2015-11-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "1011193821",
+      "name": "Nationale-Nederlanden",
+      "developer": "Nationale Nederlanden",
+      "url": "https://apps.apple.com/nl/app/nationale-nederlanden/id1011193821?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b4/32/97b432ab-728e-4a84-4f8f-0c8bcca654ce/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-08-03",
       "genres": [
         {
           "id": "6015",
@@ -265,22 +265,6 @@
     },
     {
       "rank": 17,
-      "id": "1438647102",
-      "name": "Dyme: Budget, Geld & Kasboek",
-      "developer": "Dyme B.V.",
-      "url": "https://apps.apple.com/nl/app/dyme-budget-geld-kasboek/id1438647102?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/fd/5c/65fd5ce7-d2de-40bc-6671-5ac7e34546d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 18,
       "id": "1099174456",
       "name": "DEGIRO: Beleggen & Trading",
       "developer": "DEGIRO",
@@ -296,7 +280,7 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "612261027",
       "name": "Wise",
       "developer": "Wise Payments Ltd",
@@ -312,23 +296,7 @@
       ]
     },
     {
-      "rank": 20,
-      "id": "6469126558",
-      "name": "a.s.r.",
-      "developer": "ASR Nederland N.V.",
-      "url": "https://apps.apple.com/nl/app/a-s-r/id6469126558?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/25/7c/d8257c6c-2df2-213f-34de-f8ff2e803653/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-12-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "id": "6741115427",
       "name": "fomo - never miss out",
       "developer": "fomo labs, inc",
@@ -344,13 +312,45 @@
       ]
     },
     {
+      "rank": 20,
+      "id": "1438647102",
+      "name": "Dyme: Budget, Geld & Kasboek",
+      "developer": "Dyme B.V.",
+      "url": "https://apps.apple.com/nl/app/dyme-budget-geld-kasboek/id1438647102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/fd/5c/65fd5ce7-d2de-40bc-6671-5ac7e34546d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "6469126558",
+      "name": "a.s.r.",
+      "developer": "ASR Nederland N.V.",
+      "url": "https://apps.apple.com/nl/app/a-s-r/id6469126558?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/25/7c/d8257c6c-2df2-213f-34de-f8ff2e803653/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-12-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 22,
-      "id": "529493145",
-      "name": "Knab Bankieren",
-      "developer": "Knab N.V.",
-      "url": "https://apps.apple.com/nl/app/knab-bankieren/id529493145?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/aa/07/2faa0707-9893-ce49-f80f-1cd921d5084f/KnabAppIconStore-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2012-09-19",
+      "id": "1483903423",
+      "name": "Bitvavo: Crypto kopen & traden",
+      "developer": "Bitvavo B.V.",
+      "url": "https://apps.apple.com/nl/app/bitvavo-crypto-kopen-traden/id1483903423?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/f4/b8/a6f4b8ad-f34d-c16b-bf01-88cc093ff826/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-05-28",
       "genres": [
         {
           "id": "6015",
@@ -361,12 +361,12 @@
     },
     {
       "rank": 23,
-      "id": "1483903423",
-      "name": "Bitvavo: Crypto kopen & traden",
-      "developer": "Bitvavo B.V.",
-      "url": "https://apps.apple.com/nl/app/bitvavo-crypto-kopen-traden/id1483903423?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/f4/b8/a6f4b8ad-f34d-c16b-bf01-88cc093ff826/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-05-28",
+      "id": "529493145",
+      "name": "Knab Bankieren",
+      "developer": "Knab N.V.",
+      "url": "https://apps.apple.com/nl/app/knab-bankieren/id529493145?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/aa/07/2faa0707-9893-ce49-f80f-1cd921d5084f/KnabAppIconStore-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-09-19",
       "genres": [
         {
           "id": "6015",
@@ -393,54 +393,6 @@
     },
     {
       "rank": 25,
-      "id": "6740264975",
-      "name": "ING Commercial Card",
-      "developer": "ING",
-      "url": "https://apps.apple.com/nl/app/ing-commercial-card/id6740264975?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5c/2f/0f5c2f1b-9c1e-987a-90c2-e1f3e378ef59/AppIcon-ING-Prod-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-08-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "6457256416",
-      "name": "Brand New Day",
-      "developer": "Brand New Day Bank N.V.",
-      "url": "https://apps.apple.com/nl/app/brand-new-day/id6457256416?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/c1/ea/cec1eaae-ae09-95ea-bbd1-24178b4363e8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-11-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "6748376285",
-      "name": "Statieheld",
-      "developer": "StatieHeld B.V.",
-      "url": "https://apps.apple.com/nl/app/statieheld/id6748376285?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/80/5d/c5805dd0-3481-7355-60cd-2aebe7a66dbb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-09-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
       "id": "6446936203",
       "name": "Bonnetje",
       "developer": "Bonnetje",
@@ -456,87 +408,7 @@
       ]
     },
     {
-      "rank": 29,
-      "id": "930053447",
-      "name": "Centraal Beheer",
-      "developer": "Centraal Beheer Achmea",
-      "url": "https://apps.apple.com/nl/app/centraal-beheer/id930053447?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/82/71/cf827185-fae9-47f5-668b-42a29e4e2c6f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2014-11-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "id": "1475227559",
-      "name": "Freo Aanlever App",
-      "developer": "Freo",
-      "url": "https://apps.apple.com/nl/app/freo-aanlever-app/id1475227559?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/48/f5/7748f5ef-2c16-f8f1-5342-a2565b5c3de7/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2019-08-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
-      "id": "1515520813",
-      "name": "Raisin: Hoge rentes & Beleggen",
-      "developer": "Raisin SE",
-      "url": "https://apps.apple.com/nl/app/raisin-hoge-rentes-beleggen/id1515520813?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/30/0e/8b300e86-62c8-0d4c-97b4-fcec0354ca97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2020-07-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
-      "id": "1047571861",
-      "name": "Univé",
-      "developer": "Univé",
-      "url": "https://apps.apple.com/nl/app/univ%C3%A9/id1047571861?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/4e/a4/cc4ea4c6-ace7-5be0-aae3-c792b4012641/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2015-10-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
-      "id": "6698897106",
-      "name": "BUUT",
-      "developer": "ABN AMRO Bank N.V.",
-      "url": "https://apps.apple.com/nl/app/buut/id6698897106?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/6d/0f/736d0fd2-95dd-3018-645e-97ecf4a066f3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-04-16",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
+      "rank": 26,
       "id": "413251709",
       "name": "MetaTrader 5",
       "developer": "MetaQuotes Software Corp.",
@@ -552,7 +424,119 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 27,
+      "id": "1047571861",
+      "name": "Univé",
+      "developer": "Univé",
+      "url": "https://apps.apple.com/nl/app/univ%C3%A9/id1047571861?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/4e/a4/cc4ea4c6-ace7-5be0-aae3-c792b4012641/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2015-10-23",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "1475227559",
+      "name": "Freo Aanlever App",
+      "developer": "Freo",
+      "url": "https://apps.apple.com/nl/app/freo-aanlever-app/id1475227559?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/48/f5/7748f5ef-2c16-f8f1-5342-a2565b5c3de7/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-08-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "6457256416",
+      "name": "Brand New Day",
+      "developer": "Brand New Day Bank N.V.",
+      "url": "https://apps.apple.com/nl/app/brand-new-day/id6457256416?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/c1/ea/cec1eaae-ae09-95ea-bbd1-24178b4363e8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "6698897106",
+      "name": "BUUT",
+      "developer": "ABN AMRO Bank N.V.",
+      "url": "https://apps.apple.com/nl/app/buut/id6698897106?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/6d/0f/736d0fd2-95dd-3018-645e-97ecf4a066f3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "930053447",
+      "name": "Centraal Beheer",
+      "developer": "Centraal Beheer Achmea",
+      "url": "https://apps.apple.com/nl/app/centraal-beheer/id930053447?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/82/71/cf827185-fae9-47f5-668b-42a29e4e2c6f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2014-11-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "6748376285",
+      "name": "Statieheld",
+      "developer": "StatieHeld B.V.",
+      "url": "https://apps.apple.com/nl/app/statieheld/id6748376285?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/80/5d/c5805dd0-3481-7355-60cd-2aebe7a66dbb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "6740264975",
+      "name": "ING Commercial Card",
+      "developer": "ING",
+      "url": "https://apps.apple.com/nl/app/ing-commercial-card/id6740264975?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5c/2f/0f5c2f1b-9c1e-987a-90c2-e1f3e378ef59/AppIcon-ING-Prod-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-08-25",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
       "id": "1199782520",
       "name": "Western Union Nederland",
       "developer": "Western Union Holdings, Inc.",
@@ -568,55 +552,7 @@
       ]
     },
     {
-      "rank": 36,
-      "id": "1473455257",
-      "name": "Mollie",
-      "developer": "Mollie B.V.",
-      "url": "https://apps.apple.com/nl/app/mollie/id1473455257?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/f2/7f/eff27fc8-6a09-0506-6c15-55875bca976d/prod-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-12-16",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "621240801",
-      "name": "OHRA",
-      "developer": "Nationale-Nederlanden Schadeverzekering Maatschappij N.V.",
-      "url": "https://apps.apple.com/nl/app/ohra/id621240801?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/42/e7/2042e7c7-4a55-95b5-353b-039da1fc24b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-05-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "505201814",
-      "name": "ICS Creditcard",
-      "developer": "International Card Services B.V.",
-      "url": "https://apps.apple.com/nl/app/ics-creditcard/id505201814?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4d/a2/be4da203-6681-74a6-86fc-83dcb10eed0a/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2012-03-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
+      "rank": 35,
       "id": "6467049008",
       "name": "Robinhood: Crypto; 5% op €",
       "developer": "Robinhood Markets, Inc.",
@@ -632,13 +568,13 @@
       ]
     },
     {
-      "rank": 40,
-      "id": "1618201603",
-      "name": "ING Aanleveren",
-      "developer": "ING",
-      "url": "https://apps.apple.com/nl/app/ing-aanleveren/id1618201603?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/85/11/6b8511aa-dedb-ac88-5660-7498d3a38d5e/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-01-18",
+      "rank": 36,
+      "id": "1515520813",
+      "name": "Raisin: Hoge rentes & Beleggen",
+      "developer": "Raisin SE",
+      "url": "https://apps.apple.com/nl/app/raisin-hoge-rentes-beleggen/id1515520813?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/30/0e/8b300e86-62c8-0d4c-97b4-fcec0354ca97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-07-13",
       "genres": [
         {
           "id": "6015",
@@ -648,7 +584,7 @@
       ]
     },
     {
-      "rank": 41,
+      "rank": 37,
       "id": "674258465",
       "name": "Remitly App: Geld Verzenden",
       "developer": "Remitly Inc",
@@ -664,199 +600,7 @@
       ]
     },
     {
-      "rank": 42,
-      "id": "1156875272",
-      "name": "Suica",
-      "developer": "East Japan Railway Company",
-      "url": "https://apps.apple.com/nl/app/suica/id1156875272?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/31/01/473101ed-564d-3f13-3c8b-3a1d9cd60880/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2016-10-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "1276585367",
-      "name": "KUARIO",
-      "developer": "KUARIO BV",
-      "url": "https://apps.apple.com/nl/app/kuario/id1276585367?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/2f/cb/162fcb7e-fa17-a1b4-aa70-653587672150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2017-10-09",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "1413346006",
-      "name": "Taptap Send: Money Transfer",
-      "developer": "Taptap Send, Inc.",
-      "url": "https://apps.apple.com/nl/app/taptap-send-money-transfer/id1413346006?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/8d/78/a28d78c0-f4c2-b688-0632-b16e02e05ecc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "6450836606",
-      "name": "UnitedConsumers",
-      "developer": "UnitedConsumers",
-      "url": "https://apps.apple.com/nl/app/unitedconsumers/id6450836606?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/37/dd/4437dd67-fd75-6811-9d6a-908320278890/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-07-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "1512743190",
-      "name": "VerzekeringApp",
-      "developer": "N.V. Noordhollandsche van 1816",
-      "url": "https://apps.apple.com/nl/app/verzekeringapp/id1512743190?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/89/75/a8897507-7adb-cf2d-7ad9-d229a9f5237b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-03-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "533135816",
-      "name": "Amex Nederland",
-      "developer": "American Express",
-      "url": "https://apps.apple.com/nl/app/amex-nederland/id533135816?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/7a/34/307a340d-94ee-74f7-5539-2f2890681428/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-06-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "id": "1436969262",
-      "name": "Revolut Business",
-      "developer": "Revolut Ltd",
-      "url": "https://apps.apple.com/nl/app/revolut-business/id1436969262?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/ea/75/6eea75a6-6240-8afc-ffcf-f152d10480c2/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-12-19",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "943436673",
-      "name": "Amendes.gouv",
-      "developer": "Direction générale des Finances publiques",
-      "url": "https://apps.apple.com/nl/app/amendes-gouv/id943436673?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/c8/be/d7c8be4c-c3af-011e-9048-573006c03381/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2015-01-20",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "id": "1409599830",
-      "name": "Coinmerce - bitcoin trading",
-      "developer": "Coinmerce BV",
-      "url": "https://apps.apple.com/nl/app/coinmerce-bitcoin-trading/id1409599830?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/d1/fa/99d1fab2-18d9-ea57-3f9e-9a955cd80065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-07-29",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "1598432977",
-      "name": "Phantom: Trading Wallet",
-      "developer": "Phantom Technologies Incorporated",
-      "url": "https://apps.apple.com/nl/app/phantom-trading-wallet/id1598432977?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/97/52/f697526a-4680-4e44-a772-9eafc606f88c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-01-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "1585670233",
-      "name": "SNS",
-      "developer": "De Volksbank",
-      "url": "https://apps.apple.com/nl/app/sns/id1585670233?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8c/bb/6f8cbbe6-73bf-12ff-7778-093f1f3afc11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-04-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1542788309",
-      "name": "in3",
-      "developer": "in3",
-      "url": "https://apps.apple.com/nl/app/in3/id1542788309?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/fa/7d/ecfa7de7-87ff-c439-06f9-fd25b83d4e0e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-03-04",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
+      "rank": 38,
       "id": "1481947260",
       "name": "Kraken: Koop Bitcoin en Crypto",
       "developer": "Kraken",
@@ -872,13 +616,13 @@
       ]
     },
     {
-      "rank": 55,
-      "id": "349866256",
-      "name": "tricount - Uitgaven delen",
-      "developer": "Tricount",
-      "url": "https://apps.apple.com/nl/app/tricount-uitgaven-delen/id349866256?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2010-02-01",
+      "rank": 39,
+      "id": "621240801",
+      "name": "OHRA",
+      "developer": "Nationale-Nederlanden Schadeverzekering Maatschappij N.V.",
+      "url": "https://apps.apple.com/nl/app/ohra/id621240801?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/42/e7/2042e7c7-4a55-95b5-353b-039da1fc24b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-05-06",
       "genres": [
         {
           "id": "6015",
@@ -888,13 +632,13 @@
       ]
     },
     {
-      "rank": 56,
-      "id": "886427730",
-      "name": "Coinbase: Koop BTC, ETH, SOL",
-      "developer": "Coinbase, Inc.",
-      "url": "https://apps.apple.com/nl/app/coinbase-koop-btc-eth-sol/id886427730?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/2a/93/6f2a9371-7da6-5d87-48a6-189319ce460c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-06-21",
+      "rank": 40,
+      "id": "1473455257",
+      "name": "Mollie",
+      "developer": "Mollie B.V.",
+      "url": "https://apps.apple.com/nl/app/mollie/id1473455257?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/f2/7f/eff27fc8-6a09-0506-6c15-55875bca976d/prod-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-12-16",
       "genres": [
         {
           "id": "6015",
@@ -904,45 +648,13 @@
       ]
     },
     {
-      "rank": 57,
-      "id": "458023433",
-      "name": "Splitwise",
-      "developer": "Splitwise, Inc.",
-      "url": "https://apps.apple.com/nl/app/splitwise/id458023433?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/91/62/c69162ae-73b2-e166-9e3b-bfbaa8ea726c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-08-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "6480469576",
-      "name": "Wero Wallet",
-      "developer": "European Payments Initiative",
-      "url": "https://apps.apple.com/nl/app/wero-wallet/id6480469576?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/9c/a6/ba9ca6f8-9d2d-edcb-f70f-95474e61be52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "557886337",
-      "name": "ABN AMRO Creditcard",
+      "rank": 41,
+      "id": "505201814",
+      "name": "ICS Creditcard",
       "developer": "International Card Services B.V.",
-      "url": "https://apps.apple.com/nl/app/abn-amro-creditcard/id557886337?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/9f/e3/5e9fe348-a728-533b-b23d-338178202ba4/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2012-09-13",
+      "url": "https://apps.apple.com/nl/app/ics-creditcard/id505201814?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4d/a2/be4da203-6681-74a6-86fc-83dcb10eed0a/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2012-03-08",
       "genres": [
         {
           "id": "6015",
@@ -952,13 +664,13 @@
       ]
     },
     {
-      "rank": 60,
-      "id": "1288339409",
-      "name": "Trust: Crypto & Bitcoin Wallet",
-      "developer": "DApps Platform Software Services Ltd.",
-      "url": "https://apps.apple.com/nl/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/f0/37/b9f0378d-263c-64c2-cf20-47ef4473d1a5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-26",
+      "rank": 42,
+      "id": "1512743190",
+      "name": "VerzekeringApp",
+      "developer": "N.V. Noordhollandsche van 1816",
+      "url": "https://apps.apple.com/nl/app/verzekeringapp/id1512743190?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/89/75/a8897507-7adb-cf2d-7ad9-d229a9f5237b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-03-17",
       "genres": [
         {
           "id": "6015",
@@ -968,13 +680,13 @@
       ]
     },
     {
-      "rank": 61,
-      "id": "6739703558",
-      "name": "Holland Gold: Goud & zilver",
-      "developer": "Holland Gold",
-      "url": "https://apps.apple.com/nl/app/holland-gold-goud-zilver/id6739703558?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/6a/cb/bb6acb75-9b14-2419-cb7f-7e8a7bef9dee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-10-01",
+      "rank": 43,
+      "id": "943436673",
+      "name": "Amendes.gouv",
+      "developer": "Direction générale des Finances publiques",
+      "url": "https://apps.apple.com/nl/app/amendes-gouv/id943436673?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/c8/be/d7c8be4c-c3af-011e-9048-573006c03381/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-20",
       "genres": [
         {
           "id": "6015",
@@ -984,7 +696,39 @@
       ]
     },
     {
-      "rank": 62,
+      "rank": 44,
+      "id": "1542788309",
+      "name": "in3",
+      "developer": "in3",
+      "url": "https://apps.apple.com/nl/app/in3/id1542788309?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/fa/7d/ecfa7de7-87ff-c439-06f9-fd25b83d4e0e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-04",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1436969262",
+      "name": "Revolut Business",
+      "developer": "Revolut Ltd",
+      "url": "https://apps.apple.com/nl/app/revolut-business/id1436969262?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/be/f9/2ebef9b3-f7cf-44c5-fee8-4da9b229070d/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-12-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
       "id": "1575499773",
       "name": "PU Prime: Gold & Forex Trading",
       "developer": "PU Prime Limited",
@@ -1000,13 +744,269 @@
       ]
     },
     {
+      "rank": 47,
+      "id": "1413346006",
+      "name": "Taptap Send: Money Transfer",
+      "developer": "Taptap Send, Inc.",
+      "url": "https://apps.apple.com/nl/app/taptap-send-money-transfer/id1413346006?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d1/69/4dd16953-a056-494c-c11e-bb975de65524/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-11-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1618201603",
+      "name": "ING Aanleveren",
+      "developer": "ING",
+      "url": "https://apps.apple.com/nl/app/ing-aanleveren/id1618201603?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/85/11/6b8511aa-dedb-ac88-5660-7498d3a38d5e/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-01-18",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "1585670233",
+      "name": "SNS",
+      "developer": "De Volksbank",
+      "url": "https://apps.apple.com/nl/app/sns/id1585670233?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8c/bb/6f8cbbe6-73bf-12ff-7778-093f1f3afc11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-04-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1156875272",
+      "name": "Suica",
+      "developer": "East Japan Railway Company",
+      "url": "https://apps.apple.com/nl/app/suica/id1156875272?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/31/01/473101ed-564d-3f13-3c8b-3a1d9cd60880/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-10-23",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "533135816",
+      "name": "Amex Nederland",
+      "developer": "American Express",
+      "url": "https://apps.apple.com/nl/app/amex-nederland/id533135816?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/7a/34/307a340d-94ee-74f7-5539-2f2890681428/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-06-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "886427730",
+      "name": "Coinbase: Koop BTC, ETH, SOL",
+      "developer": "Coinbase, Inc.",
+      "url": "https://apps.apple.com/nl/app/coinbase-koop-btc-eth-sol/id886427730?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/2a/93/6f2a9371-7da6-5d87-48a6-189319ce460c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-06-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1598432977",
+      "name": "Phantom: Trading Wallet",
+      "developer": "Phantom Technologies Incorporated",
+      "url": "https://apps.apple.com/nl/app/phantom-trading-wallet/id1598432977?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/97/52/f697526a-4680-4e44-a772-9eafc606f88c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-01-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6450836606",
+      "name": "UnitedConsumers",
+      "developer": "UnitedConsumers",
+      "url": "https://apps.apple.com/nl/app/unitedconsumers/id6450836606?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/37/dd/4437dd67-fd75-6811-9d6a-908320278890/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-07-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "557886337",
+      "name": "ABN AMRO Creditcard",
+      "developer": "International Card Services B.V.",
+      "url": "https://apps.apple.com/nl/app/abn-amro-creditcard/id557886337?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/9f/e3/5e9fe348-a728-533b-b23d-338178202ba4/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2012-09-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "6739703558",
+      "name": "Holland Gold: Goud & zilver",
+      "developer": "Holland Gold",
+      "url": "https://apps.apple.com/nl/app/holland-gold-goud-zilver/id6739703558?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/6a/cb/bb6acb75-9b14-2419-cb7f-7e8a7bef9dee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1276585367",
+      "name": "KUARIO",
+      "developer": "KUARIO BV",
+      "url": "https://apps.apple.com/nl/app/kuario/id1276585367?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/cc/d9/55ccd967-a2f3-0ede-4924-5295e4e67377/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2017-10-09",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "349866256",
+      "name": "tricount - Uitgaven delen",
+      "developer": "Tricount",
+      "url": "https://apps.apple.com/nl/app/tricount-uitgaven-delen/id349866256?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2010-02-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "1288339409",
+      "name": "Trust: Crypto & Bitcoin Wallet",
+      "developer": "DApps Platform Software Services Ltd.",
+      "url": "https://apps.apple.com/nl/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/62/f7/7d62f730-2679-cfd4-6862-b29d84493677/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "417962622",
+      "name": "Plus500 Trading & Beleggen",
+      "developer": "Plus500 Ltd",
+      "url": "https://apps.apple.com/nl/app/plus500-trading-beleggen/id417962622?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/9f/d1/fc9fd177-f524-dee9-478f-2b5f2d4aa1a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-02-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6745866031",
+      "name": "Bybit.eu: Koop BTC en Crypto",
+      "developer": "Bybit EU GmbH",
+      "url": "https://apps.apple.com/nl/app/bybit-eu-koop-btc-en-crypto/id6745866031?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/77/60/5277605d-f711-3988-390c-2a41fb58e0e9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-07-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "1409599830",
+      "name": "Coinmerce - bitcoin trading",
+      "developer": "Coinmerce BV",
+      "url": "https://apps.apple.com/nl/app/coinmerce-bitcoin-trading/id1409599830?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/d1/fa/99d1fab2-18d9-ea57-3f9e-9a955cd80065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-07-29",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 63,
-      "id": "1419439712",
-      "name": "Interpolis",
-      "developer": "Interpolis",
-      "url": "https://apps.apple.com/nl/app/interpolis/id1419439712?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/52/74/d9527426-2035-0b7a-fe6c-8317c1f0a454/AppIcon-prd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-08-27",
+      "id": "458023433",
+      "name": "Splitwise",
+      "developer": "Splitwise, Inc.",
+      "url": "https://apps.apple.com/nl/app/splitwise/id458023433?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/91/62/c69162ae-73b2-e166-9e3b-bfbaa8ea726c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-08-24",
       "genres": [
         {
           "id": "6015",
@@ -1033,12 +1033,12 @@
     },
     {
       "rank": 65,
-      "id": "1304205965",
-      "name": "Triodos Bankieren NL",
-      "developer": "Triodos Bank",
-      "url": "https://apps.apple.com/nl/app/triodos-bankieren-nl/id1304205965?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/32/7e/eb327e23-7f75-6b36-174c-c295a1db7330/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-11-22",
+      "id": "6762381032",
+      "name": "Wirex One",
+      "developer": "Wirex Limited",
+      "url": "https://apps.apple.com/nl/app/wirex-one/id6762381032?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/52/2a/12522a57-5d93-3ea2-0177-04d34d3d985e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-16",
       "genres": [
         {
           "id": "6015",
@@ -1049,12 +1049,12 @@
     },
     {
       "rank": 66,
-      "id": "6754447880",
-      "name": "Geldmaat",
-      "developer": "Geldmaat b.v.",
-      "url": "https://apps.apple.com/nl/app/geldmaat/id6754447880?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/36/da/5b36da83-050d-d3dd-8a72-f7989a4a1b70/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-03",
+      "id": "1419439712",
+      "name": "Interpolis",
+      "developer": "Interpolis",
+      "url": "https://apps.apple.com/nl/app/interpolis/id1419439712?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/52/74/d9527426-2035-0b7a-fe6c-8317c1f0a454/AppIcon-prd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-08-27",
       "genres": [
         {
           "id": "6015",
@@ -1065,12 +1065,12 @@
     },
     {
       "rank": 67,
-      "id": "1478406784",
-      "name": "BUX by ABN AMRO: Beleggen",
-      "developer": "BUX B.V.",
-      "url": "https://apps.apple.com/nl/app/bux-by-abn-amro-beleggen/id1478406784?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/dc/d7/b8dcd754-e87a-a56a-eff3-c8ba0f168006/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-09-10",
+      "id": "6479641570",
+      "name": "Meesman",
+      "developer": "Meesman Indexbeleggen",
+      "url": "https://apps.apple.com/nl/app/meesman/id6479641570?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/b8/1a/30b81a37-974e-2db9-529f-804a9d4076ec/appicon-0-1x_U007ephone-0-1-P3-85-220-0.png/100x100bb.png",
+      "release_date": "2024-08-31",
       "genres": [
         {
           "id": "6015",
@@ -1081,38 +1081,6 @@
     },
     {
       "rank": 68,
-      "id": "1491755506",
-      "name": "ICS Business",
-      "developer": "International Card Services B.V.",
-      "url": "https://apps.apple.com/nl/app/ics-business/id1491755506?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/bb/57/22bb57bb-59e9-f518-eaa2-366caeb9b564/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2020-01-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "6781180738",
-      "name": "SynVest",
-      "developer": "SynVest Fund Management B.V.",
-      "url": "https://apps.apple.com/nl/app/synvest/id6781180738?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/a7/32/d4a732b8-8d34-f8d7-6f13-ad9da110849a/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
       "id": "1327268470",
       "name": "OKX: Koop Bitcoin BTC & Crypto",
       "developer": "OKX Inc.",
@@ -1128,13 +1096,45 @@
       ]
     },
     {
+      "rank": 69,
+      "id": "6480469576",
+      "name": "Wero Wallet",
+      "developer": "European Payments Initiative",
+      "url": "https://apps.apple.com/nl/app/wero-wallet/id6480469576?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/9c/a6/ba9ca6f8-9d2d-edcb-f70f-95474e61be52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1478406784",
+      "name": "BUX by ABN AMRO: Beleggen",
+      "developer": "BUX B.V.",
+      "url": "https://apps.apple.com/nl/app/bux-by-abn-amro-beleggen/id1478406784?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/dc/d7/b8dcd754-e87a-a56a-eff3-c8ba0f168006/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-09-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 71,
-      "id": "417962622",
-      "name": "Plus500 Trading & Beleggen",
-      "developer": "Plus500 Ltd",
-      "url": "https://apps.apple.com/nl/app/plus500-trading-beleggen/id417962622?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/9f/d1/fc9fd177-f524-dee9-478f-2b5f2d4aa1a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-02-13",
+      "id": "1304205965",
+      "name": "Triodos Bankieren NL",
+      "developer": "Triodos Bank",
+      "url": "https://apps.apple.com/nl/app/triodos-bankieren-nl/id1304205965?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/32/7e/eb327e23-7f75-6b36-174c-c295a1db7330/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-11-22",
       "genres": [
         {
           "id": "6015",
@@ -1161,12 +1161,12 @@
     },
     {
       "rank": 73,
-      "id": "6479641570",
-      "name": "Meesman",
-      "developer": "Meesman Indexbeleggen",
-      "url": "https://apps.apple.com/nl/app/meesman/id6479641570?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/b8/1a/30b81a37-974e-2db9-529f-804a9d4076ec/appicon-0-1x_U007ephone-0-1-P3-85-220-0.png/100x100bb.png",
-      "release_date": "2024-08-31",
+      "id": "6444307438",
+      "name": "Tikkie Zakelijk",
+      "developer": "ABN AMRO Bank N.V.",
+      "url": "https://apps.apple.com/nl/app/tikkie-zakelijk/id6444307438?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0b/43/b10b43bb-c509-3532-fac1-12db1e39ee57/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-11-30",
       "genres": [
         {
           "id": "6015",
@@ -1193,262 +1193,6 @@
     },
     {
       "rank": 75,
-      "id": "1601301148",
-      "name": "Invo: Where Traders Are Made",
-      "developer": "Involio Inc.",
-      "url": "https://apps.apple.com/nl/app/invo-where-traders-are-made/id1601301148?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/e4/22/bde4222a-8aac-71dc-4fd4-9c0c5dc2190b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-03-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "6745866031",
-      "name": "Bybit.eu: Koop BTC en Crypto",
-      "developer": "Bybit EU GmbH",
-      "url": "https://apps.apple.com/nl/app/bybit-eu-koop-btc-en-crypto/id6745866031?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/77/60/5277605d-f711-3988-390c-2a41fb58e0e9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-07-14",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "6444307438",
-      "name": "Tikkie Zakelijk",
-      "developer": "ABN AMRO Bank N.V.",
-      "url": "https://apps.apple.com/nl/app/tikkie-zakelijk/id6444307438?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0b/43/b10b43bb-c509-3532-fac1-12db1e39ee57/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-11-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "1621020173",
-      "name": "Huishoudboekje & Budget Fleur",
-      "developer": "Akash Jain",
-      "url": "https://apps.apple.com/nl/app/huishoudboekje-budget-fleur/id1621020173?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f3/53/53f353a6-bbcc-cdda-6407-5e6a90cad3e6/NewFleurSingleAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-05-22",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "547383255",
-      "name": "Knaek",
-      "developer": "Knaek B.V.",
-      "url": "https://apps.apple.com/nl/app/knaek/id547383255?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c3/cf/1fc3cf06-d05b-0581-5dc1-3098a38ad5fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2012-08-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "6470291611",
-      "name": "VWPFS Aanleverapp",
-      "developer": "Volkswagen PON Financial Services B.V.",
-      "url": "https://apps.apple.com/nl/app/vwpfs-aanleverapp/id6470291611?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/b2/d4/90b2d4ea-6f56-2d2d-b980-b96df63af54e/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-02-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "858371800",
-      "name": "Bancontact Pay",
-      "developer": "Bancontact Payconiq Company",
-      "url": "https://apps.apple.com/nl/app/bancontact-pay/id858371800?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/9f/df/799fdfae-f34e-91ed-d12c-5afa40e66fd2/Bancontact_pay-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-11-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "454558592",
-      "name": "IBKR Mobile - Invest Worldwide",
-      "developer": "Interactive Brokers LLC",
-      "url": "https://apps.apple.com/nl/app/ibkr-mobile-invest-worldwide/id454558592?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/eb/22/c4eb22fc-92e3-aad5-6d01-f219903b4904/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-08-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "525685191",
-      "name": "ANWB Creditcard",
-      "developer": "International Card Services B.V.",
-      "url": "https://apps.apple.com/nl/app/anwb-creditcard/id525685191?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/10/41/bc104130-4266-e9e1-bed1-c022bbbc2135/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2012-06-19",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "1545144099",
-      "name": "ABP Pensioen",
-      "developer": "Stichting Pensioenfonds ABP",
-      "url": "https://apps.apple.com/nl/app/abp-pensioen/id1545144099?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/6f/87/fe6f87d7-084a-5d54-4bf4-03e2e97f3dd3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-11-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "1473024338",
-      "name": "Kraken Pro: Crypto Trading",
-      "developer": "Kraken",
-      "url": "https://apps.apple.com/nl/app/kraken-pro-crypto-trading/id1473024338?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/9e/aa/619eaa24-815b-78e6-46a6-02f10dea6d8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2019-11-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
-      "id": "6477160450",
-      "name": "De Belegger - Wees een leider",
-      "developer": "De Belegger (Mobile)",
-      "url": "https://apps.apple.com/nl/app/de-belegger-wees-een-leider/id6477160450?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/d6/52/32d6523a-e71d-b32b-9e17-258cae1e9706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-02-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 87,
-      "id": "1531292539",
-      "name": "Mijn VWPFS",
-      "developer": "Volkswagen PON Financial Services B.V.",
-      "url": "https://apps.apple.com/nl/app/mijn-vwpfs/id1531292539?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/3e/32/263e3281-f81b-4de7-d284-d7caba997d4f/VWPFS_BL-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-12-14",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "6754870184",
-      "name": "bpfBOUW Pensioen",
-      "developer": "Stichting Bedrijfstakpensioenfonds voor de Bouwnijverheid",
-      "url": "https://apps.apple.com/nl/app/bpfbouw-pensioen/id6754870184?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/ad/24/9bad2402-5595-f5ec-6da2-2c3b5eb6b4dc/AppIcon-1x_U007epad-0-9-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-03-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "1585771089",
-      "name": "RegioBank",
-      "developer": "De Volksbank",
-      "url": "https://apps.apple.com/nl/app/regiobank/id1585771089?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/80/73/75807327-70f2-5ef0-240d-12f900d1a949/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-04-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "1615564743",
-      "name": "Independer.nl",
-      "developer": "Independer N.V.",
-      "url": "https://apps.apple.com/nl/app/independer-nl/id1615564743?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/2f/ec/ad2fec2d-7933-0a3e-c746-886fac373be2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2022-04-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Financiën",
-          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
       "id": "956857223",
       "name": "N26 — Love your bank",
       "developer": "N26 SE",
@@ -1464,13 +1208,13 @@
       ]
     },
     {
-      "rank": 92,
-      "id": "1127805969",
-      "name": "Tibber - Slimme energie",
-      "developer": "Tibber",
-      "url": "https://apps.apple.com/nl/app/tibber-slimme-energie/id1127805969?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/a1/58/e5a15860-81d2-2932-5cff-cf16d6be9709/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-08-28",
+      "rank": 76,
+      "id": "1531292539",
+      "name": "Mijn VWPFS",
+      "developer": "Volkswagen PON Financial Services B.V.",
+      "url": "https://apps.apple.com/nl/app/mijn-vwpfs/id1531292539?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/3e/32/263e3281-f81b-4de7-d284-d7caba997d4f/VWPFS_BL-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-12-14",
       "genres": [
         {
           "id": "6015",
@@ -1480,13 +1224,13 @@
       ]
     },
     {
-      "rank": 93,
-      "id": "1478261838",
-      "name": "myNetPay",
-      "developer": "Xafax Nederland B.V.",
-      "url": "https://apps.apple.com/nl/app/mynetpay/id1478261838?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/82/29/5b8229b9-1040-394e-39bf-40595765b69f/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-20",
+      "rank": 77,
+      "id": "6754447880",
+      "name": "Geldmaat",
+      "developer": "Geldmaat b.v.",
+      "url": "https://apps.apple.com/nl/app/geldmaat/id6754447880?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/36/da/5b36da83-050d-d3dd-8a72-f7989a4a1b70/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-03",
       "genres": [
         {
           "id": "6015",
@@ -1496,7 +1240,103 @@
       ]
     },
     {
-      "rank": 94,
+      "rank": 78,
+      "id": "454558592",
+      "name": "IBKR Mobile - Invest Worldwide",
+      "developer": "Interactive Brokers LLC",
+      "url": "https://apps.apple.com/nl/app/ibkr-mobile-invest-worldwide/id454558592?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/eb/22/c4eb22fc-92e3-aad5-6d01-f219903b4904/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-08-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "6470291611",
+      "name": "VWPFS Aanleverapp",
+      "developer": "Volkswagen PON Financial Services B.V.",
+      "url": "https://apps.apple.com/nl/app/vwpfs-aanleverapp/id6470291611?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/b2/d4/90b2d4ea-6f56-2d2d-b980-b96df63af54e/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-02-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "1491755506",
+      "name": "ICS Business",
+      "developer": "International Card Services B.V.",
+      "url": "https://apps.apple.com/nl/app/ics-business/id1491755506?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/bb/57/22bb57bb-59e9-f518-eaa2-366caeb9b564/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2020-01-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "1601301148",
+      "name": "Invo: Where Traders Are Made",
+      "developer": "Involio Inc.",
+      "url": "https://apps.apple.com/nl/app/invo-where-traders-are-made/id1601301148?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/e4/22/bde4222a-8aac-71dc-4fd4-9c0c5dc2190b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-03-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1278383455",
+      "name": "Base App: Gemaakt voor Trading",
+      "developer": "Coinbase Wallet",
+      "url": "https://apps.apple.com/nl/app/base-app-gemaakt-voor-trading/id1278383455?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/30/40/72304047-7d47-1712-d5a7-aa75bb8e6be8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-09-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1438144202",
+      "name": "MetaMask: Trade Crypto",
+      "developer": "MetaMask",
+      "url": "https://apps.apple.com/nl/app/metamask-trade-crypto/id1438144202?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/db/0d/6edb0d6c-b2a4-e574-c884-b0aac467ba2b/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-09-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
       "id": "6736692063",
       "name": "Warmtefonds app",
       "developer": "Nationaal Warmtefonds",
@@ -1512,13 +1352,13 @@
       ]
     },
     {
-      "rank": 95,
-      "id": "1438211632",
-      "name": "ANWB Veilig Rijden",
-      "developer": "ANWB",
-      "url": "https://apps.apple.com/nl/app/anwb-veilig-rijden/id1438211632?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/eb/ac/e4ebac9a-ec0e-1efc-6bb6-c7cbb7460250/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-03-28",
+      "rank": 85,
+      "id": "1621020173",
+      "name": "Huishoudboekje & Budget Fleur",
+      "developer": "Akash Jain",
+      "url": "https://apps.apple.com/nl/app/huishoudboekje-budget-fleur/id1621020173?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f3/53/53f353a6-bbcc-cdda-6407-5e6a90cad3e6/NewFleurSingleAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-05-22",
       "genres": [
         {
           "id": "6015",
@@ -1528,13 +1368,13 @@
       ]
     },
     {
-      "rank": 96,
-      "id": "1437794926",
-      "name": "SaxoInvestor",
-      "developer": "Saxo Bank A/S",
-      "url": "https://apps.apple.com/nl/app/saxoinvestor/id1437794926?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/58/9c/5c589c06-6618-5535-6632-03adc8d8d9ca/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-04-07",
+      "rank": 86,
+      "id": "858371800",
+      "name": "Bancontact Pay",
+      "developer": "Bancontact Payconiq Company",
+      "url": "https://apps.apple.com/nl/app/bancontact-pay/id858371800?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/9f/df/799fdfae-f34e-91ed-d12c-5afa40e66fd2/Bancontact_pay-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-11-13",
       "genres": [
         {
           "id": "6015",
@@ -1544,13 +1384,13 @@
       ]
     },
     {
-      "rank": 97,
-      "id": "6754639403",
-      "name": "Mijn Salland",
-      "developer": "Eno Zorgverzekeraar",
-      "url": "https://apps.apple.com/nl/app/mijn-salland/id6754639403?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/31/28/d33128e1-67f3-6231-c06a-e7df931486dd/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-09-07",
+      "rank": 87,
+      "id": "1473024338",
+      "name": "Kraken Pro: Crypto Trading",
+      "developer": "Kraken",
+      "url": "https://apps.apple.com/nl/app/kraken-pro-crypto-trading/id1473024338?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/9e/aa/619eaa24-815b-78e6-46a6-02f10dea6d8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-11-12",
       "genres": [
         {
           "id": "6015",
@@ -1560,13 +1400,13 @@
       ]
     },
     {
-      "rank": 98,
-      "id": "588324792",
-      "name": "PaysafeCard-prepaid betalingen",
-      "developer": "paysafecard.com Wertkarten GmbH",
-      "url": "https://apps.apple.com/nl/app/paysafecard-prepaid-betalingen/id588324792?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/aa/aa/7daaaa85-f3e2-de25-8d7d-209d8c7512ec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2012-12-22",
+      "rank": 88,
+      "id": "1545144099",
+      "name": "ABP Pensioen",
+      "developer": "Stichting Pensioenfonds ABP",
+      "url": "https://apps.apple.com/nl/app/abp-pensioen/id1545144099?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/6f/87/fe6f87d7-084a-5d54-4bf4-03e2e97f3dd3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "release_date": "2021-11-24",
       "genres": [
         {
           "id": "6015",
@@ -1576,7 +1416,7 @@
       ]
     },
     {
-      "rank": 99,
+      "rank": 89,
       "id": "475643876",
       "name": "GoldRepublic: Goud Handel",
       "developer": "GoldRepublic B.V.",
@@ -1592,13 +1432,173 @@
       ]
     },
     {
+      "rank": 90,
+      "id": "6806069249",
+      "name": "Tron Wallet - TRX & USDT",
+      "developer": "FRIENDS OF FALKON ROBOTICS INC.",
+      "url": "https://apps.apple.com/nl/app/tron-wallet-trx-usdt/id6806069249?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ef/59/72ef59bf-0327-82e8-fdc7-9e6ca286ac10/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1127805969",
+      "name": "Tibber - Slimme energie",
+      "developer": "Tibber",
+      "url": "https://apps.apple.com/nl/app/tibber-slimme-energie/id1127805969?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/a1/58/e5a15860-81d2-2932-5cff-cf16d6be9709/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-08-28",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1615564743",
+      "name": "Independer.nl",
+      "developer": "Independer N.V.",
+      "url": "https://apps.apple.com/nl/app/independer-nl/id1615564743?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/2f/ec/ad2fec2d-7933-0a3e-c746-886fac373be2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2022-04-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "1444159776",
+      "name": "BLOX bitcoin & crypto trading",
+      "developer": "Blox B.V.",
+      "url": "https://apps.apple.com/nl/app/blox-bitcoin-crypto-trading/id1444159776?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/a2/83/c6a283be-92ea-2c5b-a0e0-a5879d5894d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-01-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "525685191",
+      "name": "ANWB Creditcard",
+      "developer": "International Card Services B.V.",
+      "url": "https://apps.apple.com/nl/app/anwb-creditcard/id525685191?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/10/41/bc104130-4266-e9e1-bed1-c022bbbc2135/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2012-06-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "588324792",
+      "name": "PaysafeCard-prepaid betalingen",
+      "developer": "paysafecard.com Wertkarten GmbH",
+      "url": "https://apps.apple.com/nl/app/paysafecard-prepaid-betalingen/id588324792?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/aa/aa/7daaaa85-f3e2-de25-8d7d-209d8c7512ec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-12-22",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1457929724",
+      "name": "Vantage:All-In-One Trading App",
+      "developer": "Vantage Global Prime PTY LTD",
+      "url": "https://apps.apple.com/nl/app/vantage-all-in-one-trading-app/id1457929724?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/b0/fb/07b0fbb9-4244-7249-9d37-ca853eb42b89/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-07-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6473522959",
+      "name": "SA Traveller Management System",
+      "developer": "South African Revenue Service",
+      "url": "https://apps.apple.com/nl/app/sa-traveller-management-system/id6473522959?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/c1/79/6ac17947-cfeb-522c-ec64-600052435a5d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-12-11",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "6781180738",
+      "name": "SynVest",
+      "developer": "SynVest Fund Management B.V.",
+      "url": "https://apps.apple.com/nl/app/synvest/id6781180738?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/a7/32/d4a732b8-8d34-f8d7-6f13-ad9da110849a/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "1535460117",
+      "name": "Zorg en Zekerheid",
+      "developer": "Zorg en Zekerheid",
+      "url": "https://apps.apple.com/nl/app/zorg-en-zekerheid/id1535460117?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/e0/d6/81e0d69c-f2eb-053d-0bf6-50c970fb4e42/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-17",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Financiën",
+          "url": "https://apps.apple.com/nl/genre/ios-financi%C3%ABn/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 100,
-      "id": "6444002332",
-      "name": "GBI Sparen",
-      "developer": "Garantibank International N.V.",
-      "url": "https://apps.apple.com/nl/app/gbi-sparen/id6444002332?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/74/74/a274741e-1a44-9440-4d35-f2cc2a766248/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-10-20",
+      "id": "6477160450",
+      "name": "De Belegger - Wees een leider",
+      "developer": "De Belegger B.V.",
+      "url": "https://apps.apple.com/nl/app/de-belegger-wees-een-leider/id6477160450?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/d6/52/32d6523a-e71d-b32b-9e17-258cae1e9706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-02-23",
       "genres": [
         {
           "id": "6015",

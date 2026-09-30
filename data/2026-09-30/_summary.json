@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "collected_at": "2026-09-30T00:10:34.711566+09:00",
+  "collected_at": "2026-09-30T18:09:58.688913+09:00",
   "chart": "top-free",
   "limit": 100,
   "countries": {
@@ -44,7 +44,7 @@
         },
         "finance": {
           "genre_id": 6015,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/us/finance.json"
         },
@@ -62,7 +62,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/us/graphics-design.json"
         }
@@ -148,7 +148,7 @@
         },
         "photo-video": {
           "genre_id": 6008,
-          "count": 99,
+          "count": 100,
           "status": "success",
           "file": "data/2026-09-30/kr/photo-video.json"
         },
@@ -254,7 +254,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/gb/graphics-design.json"
         }
@@ -318,7 +318,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/de/graphics-design.json"
         }
@@ -446,7 +446,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/ca/graphics-design.json"
         }
@@ -510,7 +510,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/au/graphics-design.json"
         }
@@ -584,7 +584,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 98,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/tw/productivity.json"
         },
@@ -648,7 +648,7 @@
       "categories": {
         "productivity": {
           "genre_id": 6007,
-          "count": 97,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-30/hk/productivity.json"
         },
@@ -766,7 +766,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/nl/graphics-design.json"
         }
@@ -830,7 +830,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 100,
+          "count": 99,
           "status": "success",
           "file": "data/2026-09-30/se/graphics-design.json"
         }
@@ -894,7 +894,7 @@
         },
         "graphics-design": {
           "genre_id": 6027,
-          "count": 100,
+          "count": 98,
           "status": "success",
           "file": "data/2026-09-30/nz/graphics-design.json"
         }

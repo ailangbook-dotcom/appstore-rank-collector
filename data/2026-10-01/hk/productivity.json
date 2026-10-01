@@ -1,11 +1,11 @@
 {
-  "collected_at": "2026-10-01T00:12:53.620148+09:00",
+  "collected_at": "2026-10-01T18:12:55.654751+09:00",
   "date": "2026-10-01",
   "country": "hk",
   "chart": "top-free",
   "category": "productivity",
   "genre_id": 6007,
-  "count": 98,
+  "count": 97,
   "apps": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "name": "Google Gemini",
       "developer": "Google",
       "url": "https://apps.apple.com/hk/app/google-gemini/id6477489729?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/b1/22/7bb122bd-3f0a-2663-88ec-c3c6d32ee880/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/c4/10/72c4100b-584b-356b-0b2e-acff6d296f1f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "release_date": "2026-03-26",
       "genres": [
         {
@@ -41,12 +41,12 @@
     },
     {
       "rank": 3,
-      "id": "1558240027",
-      "name": "Meta AI",
-      "developer": "Meta Platforms, Inc.",
-      "url": "https://apps.apple.com/hk/app/meta-ai/id1558240027?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c1/12/92c112ba-f544-d8e8-a47d-146d2c9148d9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2024-04-11",
+      "id": "541164041",
+      "name": "Microsoft Copilot",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/hk/app/microsoft-copilot/id541164041?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/20/2c/cc202cbe-eabe-44f2-6f74-ad72fedad682/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2013-06-18",
       "genres": [
         {
           "id": "6007",
@@ -57,12 +57,12 @@
     },
     {
       "rank": 4,
-      "id": "541164041",
-      "name": "Microsoft Copilot",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/hk/app/microsoft-copilot/id541164041?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/20/2c/cc202cbe-eabe-44f2-6f74-ad72fedad682/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2013-06-18",
+      "id": "1558240027",
+      "name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/hk/app/meta-ai/id1558240027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c1/12/92c112ba-f544-d8e8-a47d-146d2c9148d9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2024-04-11",
       "genres": [
         {
           "id": "6007",
@@ -89,22 +89,6 @@
     },
     {
       "rank": 6,
-      "id": "983156458",
-      "name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/hk/app/microsoft-authenticator/id983156458?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2015-05-30",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "id": "422689480",
       "name": "Gmail - Google 推出的電子郵件服務",
       "developer": "Google",
@@ -120,7 +104,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "6466733523",
       "name": "千问 - 阿里最强模型官方AI助手",
       "developer": "Shanghai Zhixin Puhui Technology Co., Ltd.",
@@ -136,12 +120,12 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "6794501026",
       "name": "Grok Bot",
       "developer": "X Corp.",
       "url": "https://apps.apple.com/hk/app/grok-bot/id6794501026?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/f6/93/abf693d5-c41a-3757-41bf-b27bc38e99cc/app-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/9f/a2/939fa28a-3b76-5fd5-11d1-341f035174a2/app-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
       "release_date": "2026-08-11",
       "genres": [
         {
@@ -152,61 +136,13 @@
       ]
     },
     {
-      "rank": 10,
-      "id": "6737597349",
-      "name": "DeepSeek - AI 智能助手",
-      "developer": "杭州深度求索人工智能基础技术研究有限公司",
-      "url": "https://apps.apple.com/hk/app/deepseek-ai-%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B/id6737597349?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6c/e0/236ce069-0ae9-9495-d893-c7caf0a181cd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-01-10",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "id": "547166701",
-      "name": "百度網盤",
-      "developer": "Beijing Duyou Science and Technology Co.,Ltd.",
-      "url": "https://apps.apple.com/hk/app/%E7%99%BE%E5%BA%A6%E7%B6%B2%E7%9B%A4/id547166701?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1b/70/5b1b7063-e121-b536-dd0e-651f4a88081b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2013-01-19",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "id": "1559479889",
-      "name": "Chat Smith：AI 助手",
-      "developer": "Chat Smith OpCo",
-      "url": "https://apps.apple.com/hk/app/chat-smith-ai-%E5%8A%A9%E6%89%8B/id1559479889?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/38/12/4e3812a6-e320-5e52-a6dd-a8e3cad4c577/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-11",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "id": "951937596",
-      "name": "Microsoft Outlook",
+      "rank": 9,
+      "id": "983156458",
+      "name": "Microsoft Authenticator",
       "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/hk/app/microsoft-outlook/id951937596?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/04/22/19042244-3c6e-37ce-b31f-e805c6cd848c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2015-01-28",
+      "url": "https://apps.apple.com/hk/app/microsoft-authenticator/id983156458?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2015-05-30",
       "genres": [
         {
           "id": "6007",
@@ -216,7 +152,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 10,
       "id": "1391782046",
       "name": "Surfshark VPN - 翻牆加速器 - 網路隱私",
       "developer": "SURFSHARK LTD",
@@ -232,7 +168,23 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 11,
+      "id": "6737597349",
+      "name": "DeepSeek - AI 智能助手",
+      "developer": "杭州深度求索人工智能基础技术研究有限公司",
+      "url": "https://apps.apple.com/hk/app/deepseek-ai-%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B/id6737597349?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6c/e0/236ce069-0ae9-9495-d893-c7caf0a181cd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-01-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
       "id": "842849113",
       "name": "Google 試算表",
       "developer": "Google",
@@ -248,13 +200,13 @@
       ]
     },
     {
-      "rank": 16,
-      "id": "388627783",
-      "name": "掃描全能王CamScanner|手機掃描軟體,PDF格式轉換",
-      "developer": "INTSIG Information Co., Ltd",
-      "url": "https://apps.apple.com/hk/app/%E6%8E%83%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8Bcamscanner-%E6%89%8B%E6%A9%9F%E6%8E%83%E6%8F%8F%E8%BB%9F%E9%AB%94-pdf%E6%A0%BC%E5%BC%8F%E8%BD%89%E6%8F%9B/id388627783?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2010-08-27",
+      "rank": 13,
+      "id": "1559479889",
+      "name": "Chat Smith：AI 助手",
+      "developer": "Chat Smith OpCo",
+      "url": "https://apps.apple.com/hk/app/chat-smith-ai-%E5%8A%A9%E6%89%8B/id1559479889?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/38/12/4e3812a6-e320-5e52-a6dd-a8e3cad4c577/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-11",
       "genres": [
         {
           "id": "6007",
@@ -264,12 +216,44 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 14,
+      "id": "547166701",
+      "name": "百度網盤",
+      "developer": "Beijing Duyou Science and Technology Co.,Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E7%99%BE%E5%BA%A6%E7%B6%B2%E7%9B%A4/id547166701?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1b/70/5b1b7063-e121-b536-dd0e-651f4a88081b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-01-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "951937596",
+      "name": "Microsoft Outlook",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/hk/app/microsoft-outlook/id951937596?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/04/22/19042244-3c6e-37ce-b31f-e805c6cd848c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
       "id": "6740909540",
       "name": "Manus AI",
       "developer": "BUTTERFLY EFFECT PTE. LTD.",
       "url": "https://apps.apple.com/hk/app/manus-ai/id6740909540?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b4/9d/88b49d90-0f27-553e-2119-17a179fd7bf7/IconManus-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/b3/d4/a0b3d4f7-2fed-31f2-dccf-706b5c0ccba1/IconManus-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "release_date": "2025-03-27",
       "genres": [
         {
@@ -280,7 +264,7 @@
       ]
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "842842640",
       "name": "Google 文件",
       "developer": "Google",
@@ -296,103 +280,23 @@
       ]
     },
     {
+      "rank": 18,
+      "id": "388627783",
+      "name": "掃描全能王CamScanner|手機掃描軟體,PDF格式轉換",
+      "developer": "INTSIG Information Co., Ltd",
+      "url": "https://apps.apple.com/hk/app/%E6%8E%83%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8Bcamscanner-%E6%89%8B%E6%A9%9F%E6%8E%83%E6%8F%8F%E8%BB%9F%E9%AB%94-pdf%E6%A0%BC%E5%BC%8F%E8%BD%89%E6%8F%9B/id388627783?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/ae/c866aefc-fdff-545f-60c4-6f07b302893a/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-08-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 19,
-      "id": "586447913",
-      "name": "Microsoft Word",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/hk/app/microsoft-word/id586447913?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/67/2b/4d672bae-4685-e060-7b90-b830e11c8de8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-03-27",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
-      "id": "586683407",
-      "name": "Microsoft Excel",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/hk/app/microsoft-excel/id586683407?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/f5/14/68f5147a-a682-81d5-8d07-ae9462d4f76b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-03-27",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "id": "6802948067",
-      "name": "PDF Reader Mate",
-      "developer": "Fuzhou Yuxian Future Technology Co., Ltd",
-      "url": "https://apps.apple.com/hk/app/pdf-reader-mate/id6802948067?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/51/8d/b8518d37-e8ac-6e97-56d7-84fbaaf1405e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-08-23",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "id": "507874739",
-      "name": "Google 雲端硬碟",
-      "developer": "Google",
-      "url": "https://apps.apple.com/hk/app/google-%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F/id507874739?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/7e/b2/b77eb26a-5d8c-fefa-82b1-da8c49b19f8d/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "release_date": "2012-06-28",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "id": "473225145",
-      "name": "QQ邮箱",
-      "developer": "Tencent Technology (Shenzhen) Company Limited",
-      "url": "https://apps.apple.com/hk/app/qq%E9%82%AE%E7%AE%B1/id473225145?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/bf/fb/65bffbdb-ac62-f936-7514-92d7c095ffb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2011-10-24",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "id": "6758133226",
-      "name": "PDF Editor - Convert File",
-      "developer": "Wellresion Limited",
-      "url": "https://apps.apple.com/hk/app/pdf-editor-convert-file/id6758133226?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/7f/5d/d17f5d95-29ba-361a-a7ec-aded35084990/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-04",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
       "id": "1668000334",
       "name": "Perplexity - AI 搜索与聊天",
       "developer": "Perplexity AI, Inc.",
@@ -408,7 +312,71 @@
       ]
     },
     {
-      "rank": 26,
+      "rank": 20,
+      "id": "473225145",
+      "name": "QQ邮箱",
+      "developer": "Tencent Technology (Shenzhen) Company Limited",
+      "url": "https://apps.apple.com/hk/app/qq%E9%82%AE%E7%AE%B1/id473225145?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/bf/fb/65bffbdb-ac62-f936-7514-92d7c095ffb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2011-10-24",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "507874739",
+      "name": "Google 雲端硬碟",
+      "developer": "Google",
+      "url": "https://apps.apple.com/hk/app/google-%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F/id507874739?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/7e/b2/b77eb26a-5d8c-fefa-82b1-da8c49b19f8d/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-06-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "586683407",
+      "name": "Microsoft Excel",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/hk/app/microsoft-excel/id586683407?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/f5/14/68f5147a-a682-81d5-8d07-ae9462d4f76b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "586447913",
+      "name": "Microsoft Word",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/hk/app/microsoft-word/id586447913?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/67/2b/4d672bae-4685-e060-7b90-b830e11c8de8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
       "id": "6480446430",
       "name": "元寶-騰訊全能AI助手",
       "developer": "Tencent Technology (Shenzhen) Company Limited",
@@ -424,7 +392,23 @@
       ]
     },
     {
-      "rank": 27,
+      "rank": 25,
+      "id": "6802948067",
+      "name": "PDF Reader Mate",
+      "developer": "Fuzhou Yuxian Future Technology Co., Ltd",
+      "url": "https://apps.apple.com/hk/app/pdf-reader-mate/id6802948067?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/51/8d/b8518d37-e8ac-6e97-56d7-84fbaaf1405e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-08-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
       "id": "909319292",
       "name": "Google 日曆：讓行程規劃更井然有序",
       "developer": "Google",
@@ -440,55 +424,7 @@
       ]
     },
     {
-      "rank": 28,
-      "id": "599852710",
-      "name": "WPS Office - 智慧AI辦公助手",
-      "developer": "金山办公软件",
-      "url": "https://apps.apple.com/hk/app/wps-office-%E6%99%BA%E6%85%A7ai%E8%BE%A6%E5%85%AC%E5%8A%A9%E6%89%8B/id599852710?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/37/c9/a537c9b1-7b08-609e-4de2-dc7d4112da7b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-02-25",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "id": "6797381355",
-      "name": "PDF Reader＆Scanner",
-      "developer": "Fuzhou Tufei Technology Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/pdf-reader-scanner/id6797381355?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/58/f4/2258f481-9e5a-0b76-cae1-506d1735e6a8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-12",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "id": "477537958",
-      "name": "Microsoft OneDrive",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/hk/app/microsoft-onedrive/id477537958?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/49/8e/17498e22-559b-1dbc-089d-6203026abc38/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2011-12-13",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 31,
+      "rank": 27,
       "id": "6474233312",
       "name": "Kimi",
       "developer": "Moonshot AI",
@@ -504,7 +440,7 @@
       ]
     },
     {
-      "rank": 32,
+      "rank": 28,
       "id": "1510760825",
       "name": "Money+記帳: 小清新隨身賬本",
       "developer": "Chongqing Zhouhu Technology Co.,Ltd",
@@ -520,23 +456,7 @@
       ]
     },
     {
-      "rank": 33,
-      "id": "6755949705",
-      "name": "夸克网盘-Live图无损，极速无广",
-      "developer": "广州市动悦信息技术有限公司",
-      "url": "https://apps.apple.com/hk/app/%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98-live%E5%9B%BE%E6%97%A0%E6%8D%9F-%E6%9E%81%E9%80%9F%E6%97%A0%E5%B9%BF/id6755949705?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/81/c2/5181c22a-9a48-c336-ddf5-0fe62bc6ca30/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-02-05",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
+      "rank": 29,
       "id": "6443686328",
       "name": "連結至 Windows",
       "developer": "Microsoft Corporation",
@@ -552,13 +472,13 @@
       ]
     },
     {
-      "rank": 35,
-      "id": "6785801320",
-      "name": "PDF Craft: Local Desk",
-      "developer": "Fuzhou Zhiyue Interactive Technology Co.,Ltd",
-      "url": "https://apps.apple.com/hk/app/pdf-craft-local-desk/id6785801320?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/51/77/34517702-315d-e82b-14f9-ab3ea49e3b04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-07-06",
+      "rank": 30,
+      "id": "6755949705",
+      "name": "夸克网盘-Live图无损，极速无广",
+      "developer": "广州市动悦信息技术有限公司",
+      "url": "https://apps.apple.com/hk/app/%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98-live%E5%9B%BE%E6%97%A0%E6%8D%9F-%E6%9E%81%E9%80%9F%E6%97%A0%E5%B9%BF/id6755949705?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/81/c2/5181c22a-9a48-c336-ddf5-0fe62bc6ca30/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-02-05",
       "genres": [
         {
           "id": "6007",
@@ -568,7 +488,39 @@
       ]
     },
     {
-      "rank": 36,
+      "rank": 31,
+      "id": "599852710",
+      "name": "WPS Office - 智慧AI辦公助手",
+      "developer": "金山办公软件",
+      "url": "https://apps.apple.com/hk/app/wps-office-%E6%99%BA%E6%85%A7ai%E8%BE%A6%E5%85%AC%E5%8A%A9%E6%89%8B/id599852710?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/37/c9/a537c9b1-7b08-609e-4de2-dc7d4112da7b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-02-25",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1370293473",
+      "name": "Lag Free VPN - Super Unlimited",
+      "developer": "Mobile Jump Pte Ltd",
+      "url": "https://apps.apple.com/hk/app/lag-free-vpn-super-unlimited/id1370293473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/8a/f7/728af754-391a-5e37-45d8-4afe6e4b4ced/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-05-15",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
       "id": "6749257650",
       "name": "Typeless: AI 語音鍵盤",
       "developer": "Simply CA LLC",
@@ -584,13 +536,13 @@
       ]
     },
     {
-      "rank": 37,
-      "id": "586449534",
-      "name": "Microsoft PowerPoint",
+      "rank": 34,
+      "id": "477537958",
+      "name": "Microsoft OneDrive",
       "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/hk/app/microsoft-powerpoint/id586449534?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/4d/d6/794dd6cc-46eb-66a2-9113-598f75790c6d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-03-27",
+      "url": "https://apps.apple.com/hk/app/microsoft-onedrive/id477537958?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/49/8e/17498e22-559b-1dbc-089d-6203026abc38/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-13",
       "genres": [
         {
           "id": "6007",
@@ -600,7 +552,23 @@
       ]
     },
     {
-      "rank": 38,
+      "rank": 35,
+      "id": "6757661674",
+      "name": "SocialLite-Block Reels&Shorts",
+      "developer": "Sociallite LLC",
+      "url": "https://apps.apple.com/hk/app/sociallite-block-reels-shorts/id6757661674?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/87/1b/b6871b74-ecec-2f71-5054-42e324c1a6f0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
       "id": "1639281748",
       "name": "Shell香港及澳門",
       "developer": "Shell Information Technology International B.V.",
@@ -616,13 +584,45 @@
       ]
     },
     {
+      "rank": 37,
+      "id": "6758133226",
+      "name": "PDF Editor - Convert File",
+      "developer": "Wellresion Limited",
+      "url": "https://apps.apple.com/hk/app/pdf-editor-convert-file/id6758133226?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/7f/5d/d17f5d95-29ba-361a-a7ec-aded35084990/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-04",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "586449534",
+      "name": "Microsoft PowerPoint",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/hk/app/microsoft-powerpoint/id586449534?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/4d/d6/794dd6cc-46eb-66a2-9113-598f75790c6d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 39,
-      "id": "952578473",
-      "name": "共用行事曆：TimeTree",
-      "developer": "TimeTree, Inc.",
-      "url": "https://apps.apple.com/hk/app/%E5%85%B1%E7%94%A8%E8%A1%8C%E4%BA%8B%E6%9B%86-timetree/id952578473?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/a6/0f/7aa60fae-2c4d-f151-dec1-c9ab6f4ca611/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-03-19",
+      "id": "1232780281",
+      "name": "Notion：筆記、任務、AI",
+      "developer": "Notion Labs, Incorporated",
+      "url": "https://apps.apple.com/hk/app/notion-%E7%AD%86%E8%A8%98-%E4%BB%BB%E5%8B%99-ai/id1232780281?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/b0/86/77b08638-8087-5017-c02b-07e448035bc0/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-14",
       "genres": [
         {
           "id": "6007",
@@ -649,182 +649,6 @@
     },
     {
       "rank": 41,
-      "id": "1584952674",
-      "name": "MyICA Mobile",
-      "developer": "Immigration & Checkpoints Authority of Singapore",
-      "url": "https://apps.apple.com/hk/app/myica-mobile/id1584952674?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/7b/ed/da7bedbd-7123-ab56-dac1-a70f8f84e84a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-04-25",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "879478102",
-      "name": "Google 簡報",
-      "developer": "Google",
-      "url": "https://apps.apple.com/hk/app/google-%E7%B0%A1%E5%A0%B1/id879478102?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/14/e4/7b14e4f2-1d3f-cadc-441e-af90d76ddd1b/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-08-26",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "469284907",
-      "name": "HP",
-      "developer": "HP Inc.",
-      "url": "https://apps.apple.com/hk/app/hp/id469284907?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/91/0b/e9910bdd-e8fd-ef1e-b29b-d9d83d88dbb9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-10-18",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "1370293473",
-      "name": "Lag Free VPN - Super Unlimited",
-      "developer": "Mobile Jump Pte Ltd",
-      "url": "https://apps.apple.com/hk/app/lag-free-vpn-super-unlimited/id1370293473?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/8a/f7/728af754-391a-5e37-45d8-4afe6e4b4ced/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-05-15",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "1359104615",
-      "name": "精臣雲列印",
-      "developer": "WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO., LTD",
-      "url": "https://apps.apple.com/hk/app/%E7%B2%BE%E8%87%A3%E9%9B%B2%E5%88%97%E5%8D%B0/id1359104615?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/75/d7/1f75d769-be55-bd0f-f2e6-801c0589917b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-04-09",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "1232780281",
-      "name": "Notion：筆記、任務、AI",
-      "developer": "Notion Labs, Incorporated",
-      "url": "https://apps.apple.com/hk/app/notion-%E7%AD%86%E8%A8%98-%E4%BB%BB%E5%8B%99-ai/id1232780281?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/b0/86/77b08638-8087-5017-c02b-07e448035bc0/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-14",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "1661308505",
-      "name": "ChatOn - AI Chatbot Assistant",
-      "developer": "AIBY",
-      "url": "https://apps.apple.com/hk/app/chaton-ai-chatbot-assistant/id1661308505?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/2a/6e/502a6e9e-1e18-4e6f-86b4-c1cddf0c490f/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-01-13",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "id": "577586159",
-      "name": "Yahoo 電子信箱 - 個人化智慧收件匣",
-      "developer": "Yahoo",
-      "url": "https://apps.apple.com/hk/app/yahoo-%E9%9B%BB%E5%AD%90%E4%BF%A1%E7%AE%B1-%E5%80%8B%E4%BA%BA%E5%8C%96%E6%99%BA%E6%85%A7%E6%94%B6%E4%BB%B6%E5%8C%A3/id577586159?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/3d/ad/773dadf9-0aa0-0643-33ff-ce8b9f3a38b3/MailAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-12-10",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "1171836473",
-      "name": "穿梭Transocks",
-      "developer": "Chengdu Fobwifi Networks Technology LLC",
-      "url": "https://apps.apple.com/hk/app/%E7%A9%BF%E6%A2%ADtransocks/id1171836473?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/b3/ac/ccb3ac58-05ed-0960-748b-a4875f01427c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-02-16",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "id": "1595774070",
-      "name": "Digilink-Protect your privacy",
-      "developer": "RIPWALL, LLC",
-      "url": "https://apps.apple.com/hk/app/digilink-protect-your-privacy/id1595774070?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/1b/77/b11b7754-89ed-6ebe-bc99-18c4b1ee3ca7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-12-14",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "1546947240",
-      "name": "懸浮時鐘",
-      "developer": "Hangzhou OrangeJuice Technology Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/%E6%87%B8%E6%B5%AE%E6%99%82%E9%90%98/id1546947240?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/00/69/6500693b-20e1-60e7-505b-84181fe232bf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-03-15",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
       "id": "406170251",
       "name": "倒數日 · Days Matter",
       "developer": "iDaily Corp.",
@@ -840,13 +664,13 @@
       ]
     },
     {
-      "rank": 53,
-      "id": "1451784328",
-      "name": "Google One",
-      "developer": "Google",
-      "url": "https://apps.apple.com/hk/app/google-one/id1451784328?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/fb/5d/5ffb5da6-607f-9ef3-10eb-dce91e72ca7e/logo_one_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-08-09",
+      "rank": 42,
+      "id": "469284907",
+      "name": "HP",
+      "developer": "HP Inc.",
+      "url": "https://apps.apple.com/hk/app/hp/id469284907?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/91/0b/e9910bdd-e8fd-ef1e-b29b-d9d83d88dbb9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-18",
       "genres": [
         {
           "id": "6007",
@@ -856,7 +680,167 @@
       ]
     },
     {
-      "rank": 54,
+      "rank": 43,
+      "id": "6785801320",
+      "name": "PDF Craft: Local Desk",
+      "developer": "Fuzhou Zhiyue Interactive Technology Co.,Ltd",
+      "url": "https://apps.apple.com/hk/app/pdf-craft-local-desk/id6785801320?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/51/77/34517702-315d-e82b-14f9-ab3ea49e3b04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-06",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1171836473",
+      "name": "穿梭Transocks",
+      "developer": "Chengdu Fobwifi Networks Technology LLC",
+      "url": "https://apps.apple.com/hk/app/%E7%A9%BF%E6%A2%ADtransocks/id1171836473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/b3/ac/ccb3ac58-05ed-0960-748b-a4875f01427c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "879478102",
+      "name": "Google 簡報",
+      "developer": "Google",
+      "url": "https://apps.apple.com/hk/app/google-%E7%B0%A1%E5%A0%B1/id879478102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/14/e4/7b14e4f2-1d3f-cadc-441e-af90d76ddd1b/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-26",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "952578473",
+      "name": "共用行事曆：TimeTree",
+      "developer": "TimeTree, Inc.",
+      "url": "https://apps.apple.com/hk/app/%E5%85%B1%E7%94%A8%E8%A1%8C%E4%BA%8B%E6%9B%86-timetree/id952578473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/a6/0f/7aa60fae-2c4d-f151-dec1-c9ab6f4ca611/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-03-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "1584952674",
+      "name": "MyICA Mobile",
+      "developer": "Immigration & Checkpoints Authority of Singapore",
+      "url": "https://apps.apple.com/hk/app/myica-mobile/id1584952674?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/7b/ed/da7bedbd-7123-ab56-dac1-a70f8f84e84a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-04-25",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1595774070",
+      "name": "Digilink-Protect your privacy",
+      "developer": "RIPWALL, LLC",
+      "url": "https://apps.apple.com/hk/app/digilink-protect-your-privacy/id1595774070?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/1b/77/b11b7754-89ed-6ebe-bc99-18c4b1ee3ca7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-12-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "577586159",
+      "name": "Yahoo 電子信箱 - 個人化智慧收件匣",
+      "developer": "Yahoo",
+      "url": "https://apps.apple.com/hk/app/yahoo-%E9%9B%BB%E5%AD%90%E4%BF%A1%E7%AE%B1-%E5%80%8B%E4%BA%BA%E5%8C%96%E6%99%BA%E6%85%A7%E6%94%B6%E4%BB%B6%E5%8C%A3/id577586159?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/3d/ad/773dadf9-0aa0-0643-33ff-ce8b9f3a38b3/MailAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1661308505",
+      "name": "ChatOn - AI Chatbot Assistant",
+      "developer": "AIBY",
+      "url": "https://apps.apple.com/hk/app/chaton-ai-chatbot-assistant/id1661308505?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/2a/6e/502a6e9e-1e18-4e6f-86b4-c1cddf0c490f/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-01-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1528940523",
+      "name": "VPN大師 - 網絡加速，遊戲高速代理",
+      "developer": "TOPAPPS TECH PTE LTD",
+      "url": "https://apps.apple.com/hk/app/vpn%E5%A4%A7%E5%B8%AB-%E7%B6%B2%E7%B5%A1%E5%8A%A0%E9%80%9F-%E9%81%8A%E6%88%B2%E9%AB%98%E9%80%9F%E4%BB%A3%E7%90%86/id1528940523?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/9e/04/1d9e04a0-1495-f2c2-7315-4b156b50a090/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-22",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "6797381355",
+      "name": "PDF Reader＆Scanner",
+      "developer": "Fuzhou Tufei Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/pdf-reader-scanner/id6797381355?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/58/f4/2258f481-9e5a-0b76-cae1-506d1735e6a8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-12",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
       "id": "1658377526",
       "name": "AI 聊天機器人中文 - Genie AI",
       "developer": "APPNATION YAZILIM HIZMETLERI TICARET ANONIM SIRKETI",
@@ -872,13 +856,29 @@
       ]
     },
     {
+      "rank": 54,
+      "id": "1359104615",
+      "name": "精臣雲列印",
+      "developer": "WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO., LTD",
+      "url": "https://apps.apple.com/hk/app/%E7%B2%BE%E8%87%A3%E9%9B%B2%E5%88%97%E5%8D%B0/id1359104615?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/75/d7/1f75d769-be55-bd0f-f2e6-801c0589917b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-09",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 55,
-      "id": "1096521618",
-      "name": "INFOTECH HRMS",
-      "developer": "INFO-TECH SYSTEMS LTD",
-      "url": "https://apps.apple.com/hk/app/infotech-hrms/id1096521618?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ab/8f/f8ab8fc7-2727-d1ab-92a0-1893fa35b436/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-04-23",
+      "id": "1451784328",
+      "name": "Google One",
+      "developer": "Google",
+      "url": "https://apps.apple.com/hk/app/google-one/id1451784328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/fb/5d/5ffb5da6-607f-9ef3-10eb-dce91e72ca7e/logo_one_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-09",
       "genres": [
         {
           "id": "6007",
@@ -889,12 +889,12 @@
     },
     {
       "rank": 56,
-      "id": "1029207872",
-      "name": "Google Keep - 筆記和清單",
-      "developer": "Google",
-      "url": "https://apps.apple.com/hk/app/google-keep-%E7%AD%86%E8%A8%98%E5%92%8C%E6%B8%85%E5%96%AE/id1029207872?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/6c/59/5c6c5996-69f0-1760-2997-6eb455da77e1/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2015-09-24",
+      "id": "6502390663",
+      "name": "快圖美 FOTOMAX",
+      "developer": "Fotomax (F.E.) Limited",
+      "url": "https://apps.apple.com/hk/app/%E5%BF%AB%E5%9C%96%E7%BE%8E-fotomax/id6502390663?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/af/5a/ffaf5af0-49d1-4289-d76f-79b6a4bbaa05/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2024-12-08",
       "genres": [
         {
           "id": "6007",
@@ -905,12 +905,12 @@
     },
     {
       "rank": 57,
-      "id": "891247102",
-      "name": "PingID",
-      "developer": "Ping Identity Corporation",
-      "url": "https://apps.apple.com/hk/app/pingid/id891247102?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/9b/75/a39b7573-3438-2658-0adb-507946b43b27/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2014-07-02",
+      "id": "6743264294",
+      "name": "AI Easy Cleaner",
+      "developer": "BRILLIANT BRASS LIMITED",
+      "url": "https://apps.apple.com/hk/app/ai-easy-cleaner/id6743264294?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/ed/84/48ed8465-8c45-07df-18fc-85876a5a80fd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-21",
       "genres": [
         {
           "id": "6007",
@@ -921,12 +921,12 @@
     },
     {
       "rank": 58,
-      "id": "6448141961",
-      "name": "強力清理助手: 智慧清理手機垃圾，釋放存儲空間",
-      "developer": "Nempty Intelligence",
-      "url": "https://apps.apple.com/hk/app/%E5%BC%B7%E5%8A%9B%E6%B8%85%E7%90%86%E5%8A%A9%E6%89%8B-%E6%99%BA%E6%85%A7%E6%B8%85%E7%90%86%E6%89%8B%E6%A9%9F%E5%9E%83%E5%9C%BE-%E9%87%8B%E6%94%BE%E5%AD%98%E5%84%B2%E7%A9%BA%E9%96%93/id6448141961?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/ce/d5/4aced561-c895-8dd2-76c5-4457d8236f7c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-26",
+      "id": "834618886",
+      "name": "Padlet",
+      "developer": "Wallwisher, Inc.",
+      "url": "https://apps.apple.com/hk/app/padlet/id834618886?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/cd/3b/3bcd3b99-27fb-c137-731d-7fe9563fbdd4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2015-08-10",
       "genres": [
         {
           "id": "6007",
@@ -953,102 +953,6 @@
     },
     {
       "rank": 60,
-      "id": "6502390663",
-      "name": "快圖美 FOTOMAX",
-      "developer": "Fotomax (F.E.) Limited",
-      "url": "https://apps.apple.com/hk/app/%E5%BF%AB%E5%9C%96%E7%BE%8E-fotomax/id6502390663?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/af/5a/ffaf5af0-49d1-4289-d76f-79b6a4bbaa05/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2024-12-08",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "834618886",
-      "name": "Padlet",
-      "developer": "Wallwisher, Inc.",
-      "url": "https://apps.apple.com/hk/app/padlet/id834618886?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/cd/3b/3bcd3b99-27fb-c137-731d-7fe9563fbdd4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2015-08-10",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "6757661674",
-      "name": "SocialLite-Block Reels&Shorts",
-      "developer": "Sociallite LLC",
-      "url": "https://apps.apple.com/hk/app/sociallite-block-reels-shorts/id6757661674?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/87/1b/b6871b74-ecec-2f71-5054-42e324c1a6f0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-29",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "327630330",
-      "name": "Dropbox: 雲端硬碟 | PDF 檔案,照片,影片",
-      "developer": "Dropbox, Inc.",
-      "url": "https://apps.apple.com/hk/app/dropbox-%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F-pdf-%E6%AA%94%E6%A1%88-%E7%85%A7%E7%89%87-%E5%BD%B1%E7%89%87/id327630330?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/8f/bd/e98fbd4d-f432-bfab-c1a9-f727008290ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2009-09-29",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "6743264294",
-      "name": "AI Easy Cleaner",
-      "developer": "BRILLIANT BRASS LIMITED",
-      "url": "https://apps.apple.com/hk/app/ai-easy-cleaner/id6743264294?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/ed/84/48ed8465-8c45-07df-18fc-85876a5a80fd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-03-21",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "6758373190",
-      "name": "PDF Converter - OCR Reader",
-      "developer": "Hitek Limited",
-      "url": "https://apps.apple.com/hk/app/pdf-converter-ocr-reader/id6758373190?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/26/8a/11268ac9-8967-5550-3306-f8911ecd3946/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-01-28",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
       "id": "1018949559",
       "name": "Microsoft Translator",
       "developer": "Microsoft Corporation",
@@ -1064,13 +968,109 @@
       ]
     },
     {
+      "rank": 61,
+      "id": "1570134612",
+      "name": "翻譯器 GO: ai翻譯－圖片語音文字翻譯。即時且自動翻譯",
+      "developer": "MATdev",
+      "url": "https://apps.apple.com/hk/app/%E7%BF%BB%E8%AD%AF%E5%99%A8-go-ai%E7%BF%BB%E8%AD%AF-%E5%9C%96%E7%89%87%E8%AA%9E%E9%9F%B3%E6%96%87%E5%AD%97%E7%BF%BB%E8%AD%AF-%E5%8D%B3%E6%99%82%E4%B8%94%E8%87%AA%E5%8B%95%E7%BF%BB%E8%AD%AF/id1570134612?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/29/26/68292617-942e-194c-2e8e-45e63df798fa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-06-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "1033794044",
+      "name": "華碩路由器",
+      "developer": "ASUS",
+      "url": "https://apps.apple.com/hk/app/%E8%8F%AF%E7%A2%A9%E8%B7%AF%E7%94%B1%E5%99%A8/id1033794044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/f5/bb/b9f5bb02-3de8-811a-3ab9-04574ab44eb2/AppIconRouter-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-12-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "1029207872",
+      "name": "Google Keep - 筆記和清單",
+      "developer": "Google",
+      "url": "https://apps.apple.com/hk/app/google-keep-%E7%AD%86%E8%A8%98%E5%92%8C%E6%B8%85%E5%96%AE/id1029207872?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/6c/59/5c6c5996-69f0-1760-2997-6eb455da77e1/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-09-24",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6756405810",
+      "name": "精准定位-精准指南针&运动轨迹&户外探险仪表盘",
+      "developer": "植翰 林",
+      "url": "https://apps.apple.com/hk/app/%E7%B2%BE%E5%87%86%E5%AE%9A%E4%BD%8D-%E7%B2%BE%E5%87%86%E6%8C%87%E5%8D%97%E9%92%88-%E8%BF%90%E5%8A%A8%E8%BD%A8%E8%BF%B9-%E6%88%B7%E5%A4%96%E6%8E%A2%E9%99%A9%E4%BB%AA%E8%A1%A8%E7%9B%98/id6756405810?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/ca/ff/f2caff88-9a7d-6d90-e424-c78fff86d0f5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6502348629",
+      "name": "GPT AI Assistant Chat－Chatbot",
+      "developer": "DialPro L.L.C-FZ",
+      "url": "https://apps.apple.com/hk/app/gpt-ai-assistant-chat-chatbot/id6502348629?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/37/54/eb3754b1-9aae-d495-755f-bfd2a106daa2/AppIcon1-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-06-20",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "327630330",
+      "name": "Dropbox: 雲端硬碟 | PDF 檔案,照片,影片",
+      "developer": "Dropbox, Inc.",
+      "url": "https://apps.apple.com/hk/app/dropbox-%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F-pdf-%E6%AA%94%E6%A1%88-%E7%85%A7%E7%89%87-%E5%BD%B1%E7%89%87/id327630330?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/8f/bd/e98fbd4d-f432-bfab-c1a9-f727008290ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2009-09-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 67,
-      "id": "1528940523",
-      "name": "VPN大師 - 網絡加速，遊戲高速代理",
-      "developer": "TOPAPPS TECH PTE LTD",
-      "url": "https://apps.apple.com/hk/app/vpn%E5%A4%A7%E5%B8%AB-%E7%B6%B2%E7%B5%A1%E5%8A%A0%E9%80%9F-%E9%81%8A%E6%88%B2%E9%AB%98%E9%80%9F%E4%BB%A3%E7%90%86/id1528940523?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/9e/04/1d9e04a0-1495-f2c2-7315-4b156b50a090/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-22",
+      "id": "6447682225",
+      "name": "eGovPH",
+      "developer": "DICT eGovernment",
+      "url": "https://apps.apple.com/hk/app/egovph/id6447682225?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e0/d4/01e0d4be-106a-8a8c-f49d-fc9ec4de4a88/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2023-05-31",
       "genres": [
         {
           "id": "6007",
@@ -1081,12 +1081,12 @@
     },
     {
       "rank": 68,
-      "id": "410395246",
-      "name": "Microsoft OneNote",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/hk/app/microsoft-onenote/id410395246?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/c8/6e/6fc86e98-eedc-39d5-b39a-3705cbadca59/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2011-12-12",
+      "id": "1546947240",
+      "name": "懸浮時鐘",
+      "developer": "Hangzhou OrangeJuice Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E6%87%B8%E6%B5%AE%E6%99%82%E9%90%98/id1546947240?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/00/69/6500693b-20e1-60e7-505b-84181fe232bf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-15",
       "genres": [
         {
           "id": "6007",
@@ -1097,12 +1097,12 @@
     },
     {
       "rank": 69,
-      "id": "6737346766",
-      "name": "Notebook LLM:Smart Note Taker",
-      "developer": "APTE Ltd",
-      "url": "https://apps.apple.com/hk/app/notebook-llm-smart-note-taker/id6737346766?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/7e/a1/f57ea185-654e-f96f-f9f0-fc31d87ea930/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-02-18",
+      "id": "1444383602",
+      "name": "Goodnotes：AI 筆記、白板、PDF",
+      "developer": "Goodnotes Limited",
+      "url": "https://apps.apple.com/hk/app/goodnotes-ai-%E7%AD%86%E8%A8%98-%E7%99%BD%E6%9D%BF-pdf/id1444383602?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/b7/66/0cb76674-e9c7-17be-1d7b-bdc90a6c5066/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-01-15",
       "genres": [
         {
           "id": "6007",
@@ -1113,12 +1113,12 @@
     },
     {
       "rank": 70,
-      "id": "6751867589",
-      "name": "AuraSort - Smart Photo Keeper",
-      "developer": "WUHE Technology Limited",
-      "url": "https://apps.apple.com/hk/app/aurasort-smart-photo-keeper/id6751867589?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/e9/6a/f5e96a25-b350-a312-df98-ac36e6d77f9c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2025-09-09",
+      "id": "1666645584",
+      "name": "Clever Cleaner: 手機清理助手",
+      "developer": "CleverFiles Inc.",
+      "url": "https://apps.apple.com/hk/app/clever-cleaner-%E6%89%8B%E6%A9%9F%E6%B8%85%E7%90%86%E5%8A%A9%E6%89%8B/id1666645584?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/95/fb/4995fb04-c003-773c-25f2-29429e1c51f5/AppIconGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-02-27",
       "genres": [
         {
           "id": "6007",
@@ -1145,182 +1145,6 @@
     },
     {
       "rank": 72,
-      "id": "6447682225",
-      "name": "eGovPH",
-      "developer": "DICT eGovernment",
-      "url": "https://apps.apple.com/hk/app/egovph/id6447682225?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e0/d4/01e0d4be-106a-8a8c-f49d-fc9ec4de4a88/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/100x100bb.png",
-      "release_date": "2023-05-31",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "6797584292",
-      "name": "TidyNotes: Notes, Docs & PDF",
-      "developer": "IKA Studios Yazilim Anonim Sirketi",
-      "url": "https://apps.apple.com/hk/app/tidynotes-notes-docs-pdf/id6797584292?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/00/34/020034a9-088a-fb57-cb61-d2114728c18c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-24",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "6754001880",
-      "name": "PDF Reader - OCR Scan Edit",
-      "developer": "Fuzhou Jiange Technology Co., Ltd.",
-      "url": "https://apps.apple.com/hk/app/pdf-reader-ocr-scan-edit/id6754001880?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/88/81/a288811e-ffcd-d831-1de3-46eb4e554855/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2025-10-23",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "1269000865",
-      "name": "讯飞听见-AI录音转文字实时翻译",
-      "developer": "安徽听见科技有限公司",
-      "url": "https://apps.apple.com/hk/app/%E8%AE%AF%E9%A3%9E%E5%90%AC%E8%A7%81-ai%E5%BD%95%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91/id1269000865?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/ad/de/6badde9f-d43a-54b0-d5fe-891b73f6f1bf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-03-13",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "1033794044",
-      "name": "華碩路由器",
-      "developer": "ASUS",
-      "url": "https://apps.apple.com/hk/app/%E8%8F%AF%E7%A2%A9%E8%B7%AF%E7%94%B1%E5%99%A8/id1033794044?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/f5/bb/b9f5bb02-3de8-811a-3ab9-04574ab44eb2/AppIconRouter-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-12-16",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "1570134612",
-      "name": "翻譯器 GO: ai翻譯－圖片語音文字翻譯。即時且自動翻譯",
-      "developer": "MATdev",
-      "url": "https://apps.apple.com/hk/app/%E7%BF%BB%E8%AD%AF%E5%99%A8-go-ai%E7%BF%BB%E8%AD%AF-%E5%9C%96%E7%89%87%E8%AA%9E%E9%9F%B3%E6%96%87%E5%AD%97%E7%BF%BB%E8%AD%AF-%E5%8D%B3%E6%99%82%E4%B8%94%E8%87%AA%E5%8B%95%E7%BF%BB%E8%AD%AF/id1570134612?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/29/26/68292617-942e-194c-2e8e-45e63df798fa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-06-14",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "6502348629",
-      "name": "GPT AI Assistant Chat－Chatbot",
-      "developer": "DialPro L.L.C-FZ",
-      "url": "https://apps.apple.com/hk/app/gpt-ai-assistant-chat-chatbot/id6502348629?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/37/54/eb3754b1-9aae-d495-755f-bfd2a106daa2/AppIcon1-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-06-20",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "6475276206",
-      "name": "警察牌照易",
-      "developer": "Hong Kong Police Force",
-      "url": "https://apps.apple.com/hk/app/%E8%AD%A6%E5%AF%9F%E7%89%8C%E7%85%A7%E6%98%93/id6475276206?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/3e/78/c73e78a4-5e83-f7a1-cc99-0fc715f76252/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-06-23",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "1481740550",
-      "name": "微购相册",
-      "developer": "深圳市微购科技有限公司",
-      "url": "https://apps.apple.com/hk/app/%E5%BE%AE%E8%B4%AD%E7%9B%B8%E5%86%8C/id1481740550?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/92/6c/61926c8f-a3a0-a2b4-baf5-0816756859eb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2019-12-17",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "6768547460",
-      "name": "天匙",
-      "developer": "YIK CHUNG KWAN",
-      "url": "https://apps.apple.com/hk/app/%E5%A4%A9%E5%8C%99/id6768547460?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/40/1e/cf401e1d-43d5-aad1-02e3-8be250ef418e/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-06-09",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "6812144044",
-      "name": "LockDay: 待辦清單與計畫",
-      "developer": "Dat Pham",
-      "url": "https://apps.apple.com/hk/app/lockday-%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E8%A8%88%E7%95%AB/id6812144044?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/f8/0c/62f80c10-5142-b504-d7be-208f628dbcc5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-23",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
       "id": "6504174888",
       "name": "SANDISK",
       "developer": "SanDisk",
@@ -1336,7 +1160,23 @@
       ]
     },
     {
-      "rank": 84,
+      "rank": 73,
+      "id": "6737346766",
+      "name": "Notebook LLM:Smart Note Taker",
+      "developer": "APTE Ltd",
+      "url": "https://apps.apple.com/hk/app/notebook-llm-smart-note-taker/id6737346766?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/7e/a1/f57ea185-654e-f96f-f9f0-fc31d87ea930/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-02-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
       "id": "6741426692",
       "name": "Locally AI by LM Studio",
       "developer": "Element Labs Inc",
@@ -1352,13 +1192,13 @@
       ]
     },
     {
-      "rank": 85,
-      "id": "1551738795",
-      "name": "Workstem One",
-      "developer": "ONEJOB GROUP LIMITED",
-      "url": "https://apps.apple.com/hk/app/workstem-one/id1551738795?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/eb/fa/ccebfaa5-c3b2-8e45-b0d8-3fb59c6ea3b7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-02-08",
+      "rank": 75,
+      "id": "6475276206",
+      "name": "警察牌照易",
+      "developer": "Hong Kong Police Force",
+      "url": "https://apps.apple.com/hk/app/%E8%AD%A6%E5%AF%9F%E7%89%8C%E7%85%A7%E6%98%93/id6475276206?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/3e/78/c73e78a4-5e83-f7a1-cc99-0fc715f76252/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-06-23",
       "genres": [
         {
           "id": "6007",
@@ -1368,13 +1208,13 @@
       ]
     },
     {
-      "rank": 86,
-      "id": "1444383602",
-      "name": "Goodnotes：AI 筆記、白板、PDF",
-      "developer": "Goodnotes Limited",
-      "url": "https://apps.apple.com/hk/app/goodnotes-ai-%E7%AD%86%E8%A8%98-%E7%99%BD%E6%9D%BF-pdf/id1444383602?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/b7/66/0cb76674-e9c7-17be-1d7b-bdc90a6c5066/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-01-15",
+      "rank": 76,
+      "id": "1481740550",
+      "name": "微购相册",
+      "developer": "深圳市微购科技有限公司",
+      "url": "https://apps.apple.com/hk/app/%E5%BE%AE%E8%B4%AD%E7%9B%B8%E5%86%8C/id1481740550?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/92/6c/61926c8f-a3a0-a2b4-baf5-0816756859eb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2019-12-17",
       "genres": [
         {
           "id": "6007",
@@ -1384,13 +1224,13 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "1353634006",
-      "name": "Google Tasks：助你輕鬆完成工作",
-      "developer": "Google",
-      "url": "https://apps.apple.com/hk/app/google-tasks-%E5%8A%A9%E4%BD%A0%E8%BC%95%E9%AC%86%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C/id1353634006?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/f4/e9/44f4e98c-98b6-7ad8-bc04-dfe9638d6093/tasks_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2018-04-27",
+      "rank": 77,
+      "id": "1618137934",
+      "name": "中国移动云盘-全民不限速",
+      "developer": "China Mobile Internet Company Limited",
+      "url": "https://apps.apple.com/hk/app/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%91%E7%9B%98-%E5%85%A8%E6%B0%91%E4%B8%8D%E9%99%90%E9%80%9F/id1618137934?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/7b/11/ee7b1104-abb1-5f9e-1b23-e11ff3da333c/AppIcon-0-0-1x_U007ephone-0-5-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-06-08",
       "genres": [
         {
           "id": "6007",
@@ -1400,151 +1240,7 @@
       ]
     },
     {
-      "rank": 88,
-      "id": "6737188438",
-      "name": "ima - 腾讯AI知识管家",
-      "developer": "Tencent Technology (Shenzhen) Company Limited",
-      "url": "https://apps.apple.com/hk/app/ima-%E8%85%BE%E8%AE%AFai%E7%9F%A5%E8%AF%86%E7%AE%A1%E5%AE%B6/id6737188438?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/06/65/38066573-93f5-33e8-55e3-51981ef756ea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-03-14",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "6450364080",
-      "name": "Plaud: AI Note Taker",
-      "developer": "PLAUD LLC",
-      "url": "https://apps.apple.com/hk/app/plaud-ai-note-taker/id6450364080?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ca/9e/adca9edf-8ab4-d8f3-3a74-eff06ac94c7c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-10-29",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 90,
-      "id": "1551923306",
-      "name": "Print Utility V3",
-      "developer": "FUJIFILM Business Innovation Corp.",
-      "url": "https://apps.apple.com/hk/app/print-utility-v3/id1551923306?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/e3/45/4ce345cd-a7fe-98c1-c3a2-146d756f0ba4/AppIcon-0-1x_U007epad-0-8-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2021-04-15",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1619382448",
-      "name": "Forms for Google 表單 問卷",
-      "developer": "Aurora Innovation",
-      "url": "https://apps.apple.com/hk/app/forms-for-google-%E8%A1%A8%E5%96%AE-%E5%95%8F%E5%8D%B7/id1619382448?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/2b/8d/542b8dd2-2a66-a0e5-c84b-3169ac221545/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-05-15",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "456933691",
-      "name": "CAD看圖王- 支持CAD手机看圖DWG快速看圖和繪制",
-      "developer": "Gstarsoft Co., Ltd",
-      "url": "https://apps.apple.com/hk/app/cad%E7%9C%8B%E5%9C%96%E7%8E%8B-%E6%94%AF%E6%8C%81cad%E6%89%8B%E6%9C%BA%E7%9C%8B%E5%9C%96dwg%E5%BF%AB%E9%80%9F%E7%9C%8B%E5%9C%96%E5%92%8C%E7%B9%AA%E5%88%B6/id456933691?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/6d/5b/f86d5bd5-511e-8601-7a53-749d9fead5ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2011-08-17",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "1422994973",
-      "name": "簡單日曆 - 每日待辦事項行程表和時間管理日曆",
-      "developer": "Komorebi Inc.",
-      "url": "https://apps.apple.com/hk/app/%E7%B0%A1%E5%96%AE%E6%97%A5%E6%9B%86-%E6%AF%8F%E6%97%A5%E5%BE%85%E8%BE%A6%E4%BA%8B%E9%A0%85%E8%A1%8C%E7%A8%8B%E8%A1%A8%E5%92%8C%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86%E6%97%A5%E6%9B%86/id1422994973?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/73/f1/6a73f1a4-4c98-c416-8dc0-dcf4b0d37a23/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-11-15",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "6757789399",
-      "name": "Authenticator App!",
-      "developer": "VarMeta",
-      "url": "https://apps.apple.com/hk/app/authenticator-app/id6757789399?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/61/28/d86128d2-008a-e7f8-cb92-422276a7f3a2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-21",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "6752329493",
-      "name": "港話通 HKChat",
-      "developer": "HKChat OmniServe Limited",
-      "url": "https://apps.apple.com/hk/app/%E6%B8%AF%E8%A9%B1%E9%80%9A-hkchat/id6752329493?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/49/07/8b49071f-363b-2fa0-938f-6c39094a3e0d/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2025-09-28",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "6744536862",
-      "name": "Google Gemini Enterprise",
-      "developer": "Google",
-      "url": "https://apps.apple.com/hk/app/google-gemini-enterprise/id6744536862?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/f1/ee/7af1ee17-3480-baf8-4997-a8e3282183b7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-25",
-      "genres": [
-        {
-          "id": "6007",
-          "name": "生產力",
-          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
+      "rank": 78,
       "id": "6755101229",
       "name": "Muse:Text to Speech & AI Chat",
       "developer": "TOPMUSE PTE. LTD.",
@@ -1560,13 +1256,301 @@
       ]
     },
     {
-      "rank": 98,
+      "rank": 79,
+      "id": "410395246",
+      "name": "Microsoft OneNote",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/hk/app/microsoft-onenote/id410395246?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/c8/6e/6fc86e98-eedc-39d5-b39a-3705cbadca59/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-12",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "891247102",
+      "name": "PingID",
+      "developer": "Ping Identity Corporation",
+      "url": "https://apps.apple.com/hk/app/pingid/id891247102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/9b/75/a39b7573-3438-2658-0adb-507946b43b27/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-07-02",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6752329493",
+      "name": "港話通 HKChat",
+      "developer": "HKChat OmniServe Limited",
+      "url": "https://apps.apple.com/hk/app/%E6%B8%AF%E8%A9%B1%E9%80%9A-hkchat/id6752329493?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/49/07/8b49071f-363b-2fa0-938f-6c39094a3e0d/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1353634006",
+      "name": "Google Tasks：助你輕鬆完成工作",
+      "developer": "Google",
+      "url": "https://apps.apple.com/hk/app/google-tasks-%E5%8A%A9%E4%BD%A0%E8%BC%95%E9%AC%86%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C/id1353634006?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/f4/e9/44f4e98c-98b6-7ad8-bc04-dfe9638d6093/tasks_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1422994973",
+      "name": "簡單日曆 - 每日待辦事項行程表和時間管理日曆",
+      "developer": "Komorebi Inc.",
+      "url": "https://apps.apple.com/hk/app/%E7%B0%A1%E5%96%AE%E6%97%A5%E6%9B%86-%E6%AF%8F%E6%97%A5%E5%BE%85%E8%BE%A6%E4%BA%8B%E9%A0%85%E8%A1%8C%E7%A8%8B%E8%A1%A8%E5%92%8C%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86%E6%97%A5%E6%9B%86/id1422994973?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/73/f1/6a73f1a4-4c98-c416-8dc0-dcf4b0d37a23/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-11-15",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "6755233306",
+      "name": "小牛加速器-小牛VPN",
+      "developer": "XIONGYING NETWORK TECHNOLOGY Co., LTD",
+      "url": "https://apps.apple.com/hk/app/%E5%B0%8F%E7%89%9B%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%B0%8F%E7%89%9Bvpn/id6755233306?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/85/ac/a085ac29-d843-a7cb-e24e-18f83f574bc7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2025-11-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "389793068",
+      "name": "iMoney · 全球匯率轉換",
+      "developer": "iDaily Corp.",
+      "url": "https://apps.apple.com/hk/app/imoney-%E5%85%A8%E7%90%83%E5%8C%AF%E7%8E%87%E8%BD%89%E6%8F%9B/id389793068?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/28/43/de2843de-b8aa-1e37-7595-5f4c8d58db21/AppIconDefault-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-09-01",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1551738795",
+      "name": "Workstem One",
+      "developer": "ONEJOB GROUP LIMITED",
+      "url": "https://apps.apple.com/hk/app/workstem-one/id1551738795?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/eb/fa/ccebfaa5-c3b2-8e45-b0d8-3fb59c6ea3b7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2021-02-08",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1400133654",
+      "name": "解壓專家- DZIP ZIP RAR 7Z快速解壓和壓縮",
+      "developer": "Little Sweet Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/%E8%A7%A3%E5%A3%93%E5%B0%88%E5%AE%B6-dzip-zip-rar-7z%E5%BF%AB%E9%80%9F%E8%A7%A3%E5%A3%93%E5%92%8C%E5%A3%93%E7%B8%AE/id1400133654?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/c0/1b/a2c01bda-f847-718f-c4ae-0ed2c51fa72c/ZMAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-07-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6450364080",
+      "name": "Plaud: AI Note Taker",
+      "developer": "PLAUD LLC",
+      "url": "https://apps.apple.com/hk/app/plaud-ai-note-taker/id6450364080?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ca/9e/adca9edf-8ab4-d8f3-3a74-eff06ac94c7c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-10-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "6758373190",
+      "name": "PDF Converter - OCR Reader",
+      "developer": "Hitek Limited",
+      "url": "https://apps.apple.com/hk/app/pdf-converter-ocr-reader/id6758373190?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/26/8a/11268ac9-8967-5550-3306-f8911ecd3946/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-01-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6749363102",
+      "name": "Chatbot AI Assistant ChatPrime",
+      "developer": "Wowoo Dijital Hizmetler Limited Sirketi",
+      "url": "https://apps.apple.com/hk/app/chatbot-ai-assistant-chatprime/id6749363102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/d5/a2/c2d5a2a6-06fc-bd87-969e-fc4731f4ee1e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1096521618",
+      "name": "INFOTECH HRMS",
+      "developer": "INFO-TECH SYSTEMS LTD",
+      "url": "https://apps.apple.com/hk/app/infotech-hrms/id1096521618?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ab/8f/f8ab8fc7-2727-d1ab-92a0-1893fa35b436/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-04-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
       "id": "6752850136",
       "name": "集梦 - 視覺製作工具",
       "developer": "柴东 卢",
       "url": "https://apps.apple.com/hk/app/%E9%9B%86%E6%A2%A6-%E8%A6%96%E8%A6%BA%E8%A3%BD%E4%BD%9C%E5%B7%A5%E5%85%B7/id6752850136?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/4c/31/c54c318d-aa7f-d3a4-899b-0e33aa6f3c8a/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
       "release_date": "2025-09-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6781323682",
+      "name": "Codex AI - Remote Codex",
+      "developer": "Ariadni Deligianni",
+      "url": "https://apps.apple.com/hk/app/codex-ai-remote-codex/id6781323682?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/a6/bb/83a6bb17-3c39-cd4d-6a97-17176bb5dbb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-06-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "979659905",
+      "name": "Proton Mail - 端到端加密郵件信箱",
+      "developer": "Proton AG",
+      "url": "https://apps.apple.com/hk/app/proton-mail-%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86%E9%83%B5%E4%BB%B6%E4%BF%A1%E7%AE%B1/id979659905?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/9c/69/4d9c6930-3589-f01e-e7ab-b9381d33872f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-03-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1176783416",
+      "name": "ShadowX VPN: Secure Faster VPN",
+      "developer": "Two Bytes LLC",
+      "url": "https://apps.apple.com/hk/app/shadowx-vpn-secure-faster-vpn/id1176783416?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/48/f6/8a48f60c-7a6c-3e7c-45ad-0d11382c65ba/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2016-11-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6754001880",
+      "name": "PDF Reader - OCR Scan Edit",
+      "developer": "Fuzhou Jiange Technology Co., Ltd.",
+      "url": "https://apps.apple.com/hk/app/pdf-reader-ocr-scan-edit/id6754001880?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/88/81/a288811e-ffcd-d831-1de3-46eb4e554855/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-10-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "生產力",
+          "url": "https://apps.apple.com/hk/genre/ios-%E7%94%9F%E7%94%A2%E5%8A%9B/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6812144044",
+      "name": "LockDay: 待辦清單與計畫",
+      "developer": "Dat Pham",
+      "url": "https://apps.apple.com/hk/app/lockday-%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E8%A8%88%E7%95%AB/id6812144044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/97/60/34976020-0683-cbc5-dab2-e346661b8b35/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-23",
       "genres": [
         {
           "id": "6007",

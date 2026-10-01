@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-01T00:10:51.350479+09:00",
+  "collected_at": "2026-10-01T18:11:03.271770+09:00",
   "date": "2026-10-01",
   "country": "jp",
   "chart": "top-free",
@@ -25,12 +25,12 @@
     },
     {
       "rank": 2,
-      "id": "1416481094",
-      "name": "My SoftBank",
-      "developer": "SoftBank Corp.",
-      "url": "https://apps.apple.com/jp/app/my-softbank/id1416481094?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/10/13/2b1013bd-8421-37a4-199a-796cc5ddb863/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-05-29",
+      "id": "1552990335",
+      "name": "かんたんnetprint－セブン‐イレブンでかんたん印刷",
+      "developer": "FUJIFILM Business Innovation Corp.",
+      "url": "https://apps.apple.com/jp/app/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93netprint-%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%81%A7%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E5%8D%B0%E5%88%B7/id1552990335?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/84/64/2d8464d0-c3d6-c523-b3de-1c3aedfb4198/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-04-26",
       "genres": [
         {
           "id": "6002",
@@ -57,27 +57,11 @@
     },
     {
       "rank": 4,
-      "id": "1552990335",
-      "name": "かんたんnetprint－セブン‐イレブンでかんたん印刷",
-      "developer": "FUJIFILM Business Innovation Corp.",
-      "url": "https://apps.apple.com/jp/app/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93netprint-%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%81%A7%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E5%8D%B0%E5%88%B7/id1552990335?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/84/64/2d8464d0-c3d6-c523-b3de-1c3aedfb4198/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-04-26",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "id": "535886823",
       "name": "Google Chrome - ウェブブラウザ",
       "developer": "Google",
       "url": "https://apps.apple.com/jp/app/google-chrome-%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6/id535886823?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/1f/c9/de1fc9f1-2ce1-2c7c-e89c-8e033feefb6f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/bf/c3/01bfc3a7-2888-0624-d32d-13024d9cfa0c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2012-06-28",
       "genres": [
         {
@@ -88,7 +72,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "551942662",
       "name": "PrintSmash",
       "developer": "Sharp Corporation",
@@ -104,55 +88,23 @@
       ]
     },
     {
+      "rank": 6,
+      "id": "1416481094",
+      "name": "My SoftBank",
+      "developer": "SoftBank Corp.",
+      "url": "https://apps.apple.com/jp/app/my-softbank/id1416481094?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/10/13/2b1013bd-8421-37a4-199a-796cc5ddb863/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 7,
-      "id": "284815942",
-      "name": "Google アプリ",
-      "developer": "Google",
-      "url": "https://apps.apple.com/jp/app/google-%E3%82%A2%E3%83%97%E3%83%AA/id284815942?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/d3/5b/4fd35b53-e6d3-ee49-342a-8a7ace6fe960/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "id": "1579280377",
-      "name": "マイナPocket",
-      "developer": "NTT DATA GROUP CORPORATION",
-      "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4%E3%83%8Apocket/id1579280377?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/20/b2/1f20b20a-d76b-70ac-d355-e29e6364189c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2021-09-30",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "id": "1086821669",
-      "name": "My docomo - 料金・通信量の確認",
-      "developer": "株式会社NTTドコモ",
-      "url": "https://apps.apple.com/jp/app/my-docomo-%E6%96%99%E9%87%91-%E9%80%9A%E4%BF%A1%E9%87%8F%E3%81%AE%E7%A2%BA%E8%AA%8D/id1086821669?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ad/74/2ead7482-0e1c-2198-6376-0072fabea8f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2016-09-03",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "id": "388497605",
       "name": "Google Authenticator",
       "developer": "Google",
@@ -168,13 +120,61 @@
       ]
     },
     {
+      "rank": 8,
+      "id": "284815942",
+      "name": "Google アプリ",
+      "developer": "Google",
+      "url": "https://apps.apple.com/jp/app/google-%E3%82%A2%E3%83%97%E3%83%AA/id284815942?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/d3/5b/4fd35b53-e6d3-ee49-342a-8a7ace6fe960/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "1579280377",
+      "name": "マイナPocket",
+      "developer": "NTT DATA GROUP CORPORATION",
+      "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4%E3%83%8Apocket/id1579280377?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/20/b2/1f20b20a-d76b-70ac-d355-e29e6364189c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-09-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "1086821669",
+      "name": "My docomo - 料金・通信量の確認",
+      "developer": "株式会社NTTドコモ",
+      "url": "https://apps.apple.com/jp/app/my-docomo-%E6%96%99%E9%87%91-%E9%80%9A%E4%BF%A1%E9%87%8F%E3%81%AE%E7%A2%BA%E8%AA%8D/id1086821669?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ad/74/2ead7482-0e1c-2198-6376-0072fabea8f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2016-09-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 11,
-      "id": "1117312593",
-      "name": "My UQ mobile",
-      "developer": "KDDI CORPORATION",
-      "url": "https://apps.apple.com/jp/app/my-uq-mobile/id1117312593?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3f/9e/bd3f9eb6-3cdd-e7cb-aa51-3b7301f716f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-06-22",
+      "id": "1633947799",
+      "name": "車検証閲覧アプリ",
+      "developer": "MLIT, Logistics and Road Transport Bureau Registration and Information Division",
+      "url": "https://apps.apple.com/jp/app/%E8%BB%8A%E6%A4%9C%E8%A8%BC%E9%96%B2%E8%A6%A7%E3%82%A2%E3%83%97%E3%83%AA/id1633947799?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/5c/52/ae5c52e9-baf6-7033-558d-cda1a7e433b6/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-12-30",
       "genres": [
         {
           "id": "6002",
@@ -185,12 +185,12 @@
     },
     {
       "rank": 12,
-      "id": "1633947799",
-      "name": "車検証閲覧アプリ",
-      "developer": "MLIT, Logistics and Road Transport Bureau Registration and Information Division",
-      "url": "https://apps.apple.com/jp/app/%E8%BB%8A%E6%A4%9C%E8%A8%BC%E9%96%B2%E8%A6%A7%E3%82%A2%E3%83%97%E3%83%AA/id1633947799?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/5c/52/ae5c52e9-baf6-7033-558d-cda1a7e433b6/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-12-30",
+      "id": "1117312593",
+      "name": "My UQ mobile",
+      "developer": "KDDI CORPORATION",
+      "url": "https://apps.apple.com/jp/app/my-uq-mobile/id1117312593?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3f/9e/bd3f9eb6-3cdd-e7cb-aa51-3b7301f716f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-22",
       "genres": [
         {
           "id": "6002",
@@ -217,12 +217,12 @@
     },
     {
       "rank": 14,
-      "id": "1554037102",
-      "name": "povo2.0アプリ",
-      "developer": "KDDI CORPORATION",
-      "url": "https://apps.apple.com/jp/app/povo2-0%E3%82%A2%E3%83%97%E3%83%AA/id1554037102?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/02/36/c9023620-8b55-dc6e-fb20-8810c7142db1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2021-09-28",
+      "id": "6756647308",
+      "name": "詐欺対策 by NTTタウンページ",
+      "developer": "NTT DIRECTORY SERVICES Co.",
+      "url": "https://apps.apple.com/jp/app/%E8%A9%90%E6%AC%BA%E5%AF%BE%E7%AD%96-by-ntt%E3%82%BF%E3%82%A6%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8/id6756647308?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/87/79/8b8779d1-d03e-a115-ba70-ceea9ed68ade/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-03",
       "genres": [
         {
           "id": "6002",
@@ -233,12 +233,12 @@
     },
     {
       "rank": 15,
-      "id": "6756647308",
-      "name": "詐欺対策 by NTTタウンページ",
-      "developer": "NTT DIRECTORY SERVICES Co.",
-      "url": "https://apps.apple.com/jp/app/%E8%A9%90%E6%AC%BA%E5%AF%BE%E7%AD%96-by-ntt%E3%82%BF%E3%82%A6%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8/id6756647308?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/87/79/8b8779d1-d03e-a115-ba70-ceea9ed68ade/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-03-03",
+      "id": "1288723196",
+      "name": "Microsoft Edge",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/jp/app/microsoft-edge/id1288723196?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/08/a5/3808a55e-0441-0d74-4172-8118e7a275ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2018-02-13",
       "genres": [
         {
           "id": "6002",
@@ -265,12 +265,12 @@
     },
     {
       "rank": 17,
-      "id": "1288723196",
-      "name": "Microsoft Edge",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/jp/app/microsoft-edge/id1288723196?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/08/a5/3808a55e-0441-0d74-4172-8118e7a275ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2018-02-13",
+      "id": "1554037102",
+      "name": "povo2.0アプリ",
+      "developer": "KDDI CORPORATION",
+      "url": "https://apps.apple.com/jp/app/povo2-0%E3%82%A2%E3%83%97%E3%83%AA/id1554037102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/02/36/c9023620-8b55-dc6e-fb20-8810c7142db1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2021-09-28",
       "genres": [
         {
           "id": "6002",
@@ -297,54 +297,6 @@
     },
     {
       "rank": 19,
-      "id": "479159684",
-      "name": "My au(マイエーユー)-料金・ギガ残量の確認アプリ",
-      "developer": "KDDI CORPORATION",
-      "url": "https://apps.apple.com/jp/app/my-au-%E3%83%9E%E3%82%A4%E3%82%A8%E3%83%BC%E3%83%A6%E3%83%BC-%E6%96%99%E9%87%91-%E3%82%AE%E3%82%AC%E6%AE%8B%E9%87%8F%E3%81%AE%E7%A2%BA%E8%AA%8D%E3%82%A2%E3%83%97%E3%83%AA/id479159684?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/ac/4c/49ac4cc3-95ac-9f24-ebdf-bbc5144d3c75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2011-12-04",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
-      "id": "6759136817",
-      "name": "AI QRコード＆バーコードスキャナー",
-      "developer": "星 魏",
-      "url": "https://apps.apple.com/jp/app/ai-qr%E3%82%B3%E3%83%BC%E3%83%89-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC/id6759136817?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/03/36/06033674-44a8-7057-df36-e7de3603bf7a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-03-02",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "id": "451436140",
-      "name": "ノジマアプリ",
-      "developer": "Nojima Corporation",
-      "url": "https://apps.apple.com/jp/app/%E3%83%8E%E3%82%B8%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id451436140?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/4d/8d/bc4d8d4c-a161-c330-b8ba-2c32bfb8d5f6/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-09-05",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 22,
       "id": "6760543089",
       "name": "QR & バーコード スキャナー Pro",
       "developer": "Vortexzm",
@@ -360,13 +312,61 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 20,
+      "id": "479159684",
+      "name": "My au(マイエーユー)-料金・ギガ残量の確認アプリ",
+      "developer": "KDDI CORPORATION",
+      "url": "https://apps.apple.com/jp/app/my-au-%E3%83%9E%E3%82%A4%E3%82%A8%E3%83%BC%E3%83%A6%E3%83%BC-%E6%96%99%E9%87%91-%E3%82%AE%E3%82%AC%E6%AE%8B%E9%87%8F%E3%81%AE%E7%A2%BA%E8%AA%8D%E3%82%A2%E3%83%97%E3%83%AA/id479159684?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/ac/4c/49ac4cc3-95ac-9f24-ebdf-bbc5144d3c75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
       "id": "1052879175",
       "name": "Brave adblockで広告をブロックするブラウザ",
       "developer": "Brave Software",
       "url": "https://apps.apple.com/jp/app/brave-adblock%E3%81%A7%E5%BA%83%E5%91%8A%E3%82%92%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6/id1052879175?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/3c/0d/fa3c0d53-f3b4-3f68-e391-5d1f2ea0a7ae/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2016-02-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "451436140",
+      "name": "ノジマアプリ",
+      "developer": "Nojima Corporation",
+      "url": "https://apps.apple.com/jp/app/%E3%83%8E%E3%82%B8%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id451436140?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/4d/8d/bc4d8d4c-a161-c330-b8ba-2c32bfb8d5f6/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-09-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "897021038",
+      "name": "れんらくアプリ",
+      "developer": "VISH,inc",
+      "url": "https://apps.apple.com/jp/app/%E3%82%8C%E3%82%93%E3%82%89%E3%81%8F%E3%82%A2%E3%83%97%E3%83%AA/id897021038?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/06/34/c80634dc-aaa9-c6ad-d375-1de4c064b60b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-07-18",
       "genres": [
         {
           "id": "6002",
@@ -393,54 +393,6 @@
     },
     {
       "rank": 25,
-      "id": "6450022040",
-      "name": "LIQUID eKYC",
-      "developer": "LIQUID, INC.",
-      "url": "https://apps.apple.com/jp/app/liquid-ekyc/id6450022040?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/b7/09/53b7094a-2b98-6e9a-f9af-4ecc17fb840c/AppIcon-product-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-12-03",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "599496594",
-      "name": "TP-Link Tether",
-      "developer": "TP-Link Systems Inc.",
-      "url": "https://apps.apple.com/jp/app/tp-link-tether/id599496594?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/e3/78/64e37823-7e70-987a-12ea-5ad3469d83a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-05-16",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "695078961",
-      "name": "AirStationアプリ (旧StationRadar)",
-      "developer": "BUFFALO INC.",
-      "url": "https://apps.apple.com/jp/app/airstation%E3%82%A2%E3%83%97%E3%83%AA-%E6%97%A7stationradar/id695078961?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/bb/1f/95bb1f0f-ce4e-b234-f277-a80c2e48c926/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-09-23",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
       "id": "6503435248",
       "name": "マイナ免許証読み取りアプリ",
       "developer": "National Police Agency",
@@ -456,13 +408,13 @@
       ]
     },
     {
-      "rank": 29,
-      "id": "1068323004",
-      "name": "dアカウント設定/dアカウントをより便利に",
-      "developer": "株式会社NTTドコモ",
-      "url": "https://apps.apple.com/jp/app/d%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E8%A8%AD%E5%AE%9A-d%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E3%82%88%E3%82%8A%E4%BE%BF%E5%88%A9%E3%81%AB/id1068323004?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/ba/93/5aba93a3-f53f-4ca4-10c5-cd62dc907f5b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2016-03-08",
+      "rank": 26,
+      "id": "6450022040",
+      "name": "LIQUID eKYC",
+      "developer": "LIQUID, INC.",
+      "url": "https://apps.apple.com/jp/app/liquid-ekyc/id6450022040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/b7/09/53b7094a-2b98-6e9a-f9af-4ecc17fb840c/AppIcon-product-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-12-03",
       "genres": [
         {
           "id": "6002",
@@ -472,7 +424,7 @@
       ]
     },
     {
-      "rank": 30,
+      "rank": 27,
       "id": "6751625696",
       "name": "QRコードリーダー・バーコードスキャナ：QR ACE",
       "developer": "NEO PIXEL LABS PTE. LTD.",
@@ -488,13 +440,13 @@
       ]
     },
     {
-      "rank": 31,
-      "id": "1599045102",
-      "name": "Y!mobile eSIMかんたん開通",
-      "developer": "SoftBank Corp.",
-      "url": "https://apps.apple.com/jp/app/y-mobile-esim%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E9%96%8B%E9%80%9A/id1599045102?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/14/fe/4814fe84-8b4a-4e06-11ce-e1e1cb8bda5f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-04-04",
+      "rank": 28,
+      "id": "599496594",
+      "name": "TP-Link Tether",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/jp/app/tp-link-tether/id599496594?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/e3/78/64e37823-7e70-987a-12ea-5ad3469d83a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-05-16",
       "genres": [
         {
           "id": "6002",
@@ -504,13 +456,13 @@
       ]
     },
     {
-      "rank": 32,
-      "id": "6768861567",
-      "name": "QR Easy Scanner",
-      "developer": "Fuzhou Jiange Technology Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/qr-easy-scanner/id6768861567?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/cd/50/89cd509d-6bad-19a0-32ed-1923478f0ad9/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-05-14",
+      "rank": 29,
+      "id": "6759136817",
+      "name": "AI QRコード＆バーコードスキャナー",
+      "developer": "星 魏",
+      "url": "https://apps.apple.com/jp/app/ai-qr%E3%82%B3%E3%83%BC%E3%83%89-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC/id6759136817?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/03/36/06033674-44a8-7057-df36-e7de3603bf7a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-03-02",
       "genres": [
         {
           "id": "6002",
@@ -520,87 +472,7 @@
       ]
     },
     {
-      "rank": 33,
-      "id": "897021038",
-      "name": "れんらくアプリ",
-      "developer": "VISH,inc",
-      "url": "https://apps.apple.com/jp/app/%E3%82%8C%E3%82%93%E3%82%89%E3%81%8F%E3%82%A2%E3%83%97%E3%83%AA/id897021038?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/06/34/c80634dc-aaa9-c6ad-d375-1de4c064b60b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-07-18",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
-      "id": "493205060",
-      "name": "ワンタイムパスワード",
-      "developer": "NTT DATA GROUP CORPORATION",
-      "url": "https://apps.apple.com/jp/app/%E3%83%AF%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89/id493205060?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b9/be/cbb9be73-6ea1-1691-316f-5a88f67ee95d/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
-      "release_date": "2012-02-05",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 35,
-      "id": "6501954960",
-      "name": "QRコード＆バーコードリーダー－安心スキャン",
-      "developer": "FLOOMIX LTD",
-      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-%E5%AE%89%E5%BF%83%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/id6501954960?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/22/df/e122df19-8e57-69e2-721b-347545015fd2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2024-05-29",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 36,
-      "id": "6756911225",
-      "name": "詐欺バスター Lite",
-      "developer": "Trend Micro, Incorporated",
-      "url": "https://apps.apple.com/jp/app/%E8%A9%90%E6%AC%BA%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-lite/id6756911225?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/79/96/7f7996d6-b7ac-4a71-307e-c52963bff9d9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-03-03",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "1552174160",
-      "name": "My TOYOTA+",
-      "developer": "TOYOTA MOTOR CORP.",
-      "url": "https://apps.apple.com/jp/app/my-toyota/id1552174160?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/9c/92/4c9c9224-d4b9-9327-c667-8e24a3b36832/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-01-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
+      "rank": 30,
       "id": "1510944943",
       "name": "Cleanup：スマホ写真をかんたん整理！",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
@@ -616,7 +488,87 @@
       ]
     },
     {
-      "rank": 39,
+      "rank": 31,
+      "id": "695078961",
+      "name": "AirStationアプリ (旧StationRadar)",
+      "developer": "BUFFALO INC.",
+      "url": "https://apps.apple.com/jp/app/airstation%E3%82%A2%E3%83%97%E3%83%AA-%E6%97%A7stationradar/id695078961?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/bb/1f/95bb1f0f-ce4e-b234-f277-a80c2e48c926/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-09-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1068323004",
+      "name": "dアカウント設定/dアカウントをより便利に",
+      "developer": "株式会社NTTドコモ",
+      "url": "https://apps.apple.com/jp/app/d%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E8%A8%AD%E5%AE%9A-d%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E3%82%88%E3%82%8A%E4%BE%BF%E5%88%A9%E3%81%AB/id1068323004?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/ba/93/5aba93a3-f53f-4ca4-10c5-cd62dc907f5b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2016-03-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "493205060",
+      "name": "ワンタイムパスワード",
+      "developer": "NTT DATA GROUP CORPORATION",
+      "url": "https://apps.apple.com/jp/app/%E3%83%AF%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89/id493205060?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b9/be/cbb9be73-6ea1-1691-316f-5a88f67ee95d/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.png",
+      "release_date": "2012-02-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "6756911225",
+      "name": "詐欺バスター Lite",
+      "developer": "Trend Micro, Incorporated",
+      "url": "https://apps.apple.com/jp/app/%E8%A9%90%E6%AC%BA%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-lite/id6756911225?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/79/96/7f7996d6-b7ac-4a71-307e-c52963bff9d9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "1552174160",
+      "name": "My TOYOTA+",
+      "developer": "TOYOTA MOTOR CORP.",
+      "url": "https://apps.apple.com/jp/app/my-toyota/id1552174160?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/9c/92/4c9c9224-d4b9-9327-c667-8e24a3b36832/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-01-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
       "id": "1584764976",
       "name": "QR コード読み取りアプリ－バーコードリーダー・QR Now",
       "developer": "VISARGERD, S.L.",
@@ -632,13 +584,13 @@
       ]
     },
     {
-      "rank": 40,
-      "id": "899997582",
-      "name": "Simeji AI音声入力日本語キーボード｜顔文字・絵文字",
-      "developer": "Baidu Japan Inc.",
-      "url": "https://apps.apple.com/jp/app/simeji-ai%E9%9F%B3%E5%A3%B0%E5%85%A5%E5%8A%9B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E9%A1%94%E6%96%87%E5%AD%97-%E7%B5%B5%E6%96%87%E5%AD%97/id899997582?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/7b/63667b7c-07a5-5b83-9704-01ab5205fa61/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-09-17",
+      "rank": 37,
+      "id": "6501954960",
+      "name": "QRコード＆バーコードリーダー－安心スキャン",
+      "developer": "FLOOMIX LTD",
+      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-%E5%AE%89%E5%BF%83%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3/id6501954960?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/22/df/e122df19-8e57-69e2-721b-347545015fd2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2024-05-29",
       "genres": [
         {
           "id": "6002",
@@ -648,23 +600,7 @@
       ]
     },
     {
-      "rank": 41,
-      "id": "1278474169",
-      "name": "ノートン 360: あんしんセキュリティ&VPN",
-      "developer": "Gen Digital Inc.",
-      "url": "https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3-360-%E3%81%82%E3%82%93%E3%81%97%E3%82%93%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-vpn/id1278474169?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/bd/af/b7bdaf4b-804f-0106-b7db-0fda26507d74/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-11-30",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
+      "rank": 38,
       "id": "1545859399",
       "name": "homehub",
       "developer": "Bitkey, inc.",
@@ -680,13 +616,13 @@
       ]
     },
     {
-      "rank": 43,
-      "id": "1473535769",
-      "name": "my 楽天モバイル",
-      "developer": "Rakuten Mobile, Inc.",
-      "url": "https://apps.apple.com/jp/app/my-%E6%A5%BD%E5%A4%A9%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id1473535769?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/09/77/ae0977a9-c442-2a5a-04b0-23b64b90c778/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-12-03",
+      "rank": 39,
+      "id": "1278474169",
+      "name": "ノートン 360: あんしんセキュリティ&VPN",
+      "developer": "Gen Digital Inc.",
+      "url": "https://apps.apple.com/jp/app/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3-360-%E3%81%82%E3%82%93%E3%81%97%E3%82%93%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-vpn/id1278474169?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/bd/af/b7bdaf4b-804f-0106-b7db-0fda26507d74/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-11-30",
       "genres": [
         {
           "id": "6002",
@@ -696,7 +632,7 @@
       ]
     },
     {
-      "rank": 44,
+      "rank": 40,
       "id": "1516235668",
       "name": "Brother Mobile Connect",
       "developer": "Brother Industries, LTD.",
@@ -712,7 +648,39 @@
       ]
     },
     {
-      "rank": 45,
+      "rank": 41,
+      "id": "6451212658",
+      "name": "QRコード & バーコードスキャナーアプリ",
+      "developer": "Minimodev Technologies LTD",
+      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA/id6451212658?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/51/80/6f518090-526b-b302-c827-5e39844ae403/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-08-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "899997582",
+      "name": "Simeji AI音声入力日本語キーボード｜顔文字・絵文字",
+      "developer": "Baidu Japan Inc.",
+      "url": "https://apps.apple.com/jp/app/simeji-ai%E9%9F%B3%E5%A3%B0%E5%85%A5%E5%8A%9B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E9%A1%94%E6%96%87%E5%AD%97-%E7%B5%B5%E6%96%87%E5%AD%97/id899997582?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/7b/63667b7c-07a5-5b83-9704-01ab5205fa61/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-09-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
       "id": "1420354587",
       "name": "あんしんセキュリティ",
       "developer": "株式会社NTTドコモ",
@@ -728,13 +696,45 @@
       ]
     },
     {
+      "rank": 44,
+      "id": "6768861567",
+      "name": "QR Easy Scanner",
+      "developer": "Fuzhou Jiange Technology Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/qr-easy-scanner/id6768861567?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/cd/50/89cd509d-6bad-19a0-32ed-1923478f0ad9/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-05-14",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1599045102",
+      "name": "Y!mobile eSIMかんたん開通",
+      "developer": "SoftBank Corp.",
+      "url": "https://apps.apple.com/jp/app/y-mobile-esim%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E9%96%8B%E9%80%9A/id1599045102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/14/fe/4814fe84-8b4a-4e06-11ce-e1e1cb8bda5f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-04-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 46,
-      "id": "1168502924",
-      "name": "Sony | Sound Connect",
-      "developer": "Sony Corporation",
-      "url": "https://apps.apple.com/jp/app/sony-sound-connect/id1168502924?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/bf/2b/84bf2b5d-0e1b-3e1e-a53b-152b9ed75d39/AppIcon-0-0-1x_U007emarketing-0-3-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "release_date": "2017-02-28",
+      "id": "1078839752",
+      "name": "My BIGLOBE",
+      "developer": "BIGLOBE Inc.",
+      "url": "https://apps.apple.com/jp/app/my-biglobe/id1078839752?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/36/37/aa363717-6e8b-21c9-b81a-bd56939a1f3a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-03-02",
       "genres": [
         {
           "id": "6002",
@@ -761,12 +761,12 @@
     },
     {
       "rank": 48,
-      "id": "1659613825",
-      "name": "日本通信アプリ",
-      "developer": "Japan Communications Inc.",
-      "url": "https://apps.apple.com/jp/app/%E6%97%A5%E6%9C%AC%E9%80%9A%E4%BF%A1%E3%82%A2%E3%83%97%E3%83%AA/id1659613825?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/db/41/73db41bf-6e1c-8df3-9dec-adf8d4e3363c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-01-04",
+      "id": "1168502924",
+      "name": "Sony | Sound Connect",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/jp/app/sony-sound-connect/id1168502924?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/bf/2b/84bf2b5d-0e1b-3e1e-a53b-152b9ed75d39/AppIcon-0-0-1x_U007emarketing-0-3-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-28",
       "genres": [
         {
           "id": "6002",
@@ -777,22 +777,6 @@
     },
     {
       "rank": 49,
-      "id": "1078839752",
-      "name": "My BIGLOBE",
-      "developer": "BIGLOBE Inc.",
-      "url": "https://apps.apple.com/jp/app/my-biglobe/id1078839752?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/36/37/aa363717-6e8b-21c9-b81a-bd56939a1f3a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-03-02",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
       "id": "454644833",
       "name": "ネットワークプリント",
       "developer": "Sharp Corporation",
@@ -808,71 +792,23 @@
       ]
     },
     {
+      "rank": 50,
+      "id": "1473535769",
+      "name": "my 楽天モバイル",
+      "developer": "Rakuten Mobile, Inc.",
+      "url": "https://apps.apple.com/jp/app/my-%E6%A5%BD%E5%A4%A9%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id1473535769?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/09/77/ae0977a9-c442-2a5a-04b0-23b64b90c778/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 51,
-      "id": "6757545135",
-      "name": "めろとーく | LINE相性分析",
-      "developer": "Ryusei Okamoto",
-      "url": "https://apps.apple.com/jp/app/%E3%82%81%E3%82%8D%E3%81%A8%E3%83%BC%E3%81%8F-line%E7%9B%B8%E6%80%A7%E5%88%86%E6%9E%90/id6757545135?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/08/13/310813b2-fc7b-4c52-af5b-839d9d761b2d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-18",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "1661612618",
-      "name": "セキュリティOne",
-      "developer": "SoftBank Corp.",
-      "url": "https://apps.apple.com/jp/app/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3one/id1661612618?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/8e/22/ad8e225e-0eb0-9b24-ef66-f72ccbfaf0bb/iOS26_Icon_260706-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-06-28",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "1485352913",
-      "name": "Pokémon HOME",
-      "developer": "The Pokemon Company",
-      "url": "https://apps.apple.com/jp/app/pok%C3%A9mon-home/id1485352913?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/55/27/3455273b-5736-2e6c-1a88-c05860e9e4b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-02-11",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "6788328354",
-      "name": "Translate Genie",
-      "developer": "Fuzhou Zhiyue Interactive Technology Co.,Ltd",
-      "url": "https://apps.apple.com/jp/app/translate-genie/id6788328354?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b7/58/c3b758f1-8b79-5379-e346-63ca3c408fec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-07-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
       "id": "6636543626",
       "name": "2段階認証・Authenticatorアプリ",
       "developer": "FLOOMIX LTD",
@@ -888,13 +824,77 @@
       ]
     },
     {
+      "rank": 52,
+      "id": "1659613825",
+      "name": "日本通信アプリ",
+      "developer": "Japan Communications Inc.",
+      "url": "https://apps.apple.com/jp/app/%E6%97%A5%E6%9C%AC%E9%80%9A%E4%BF%A1%E3%82%A2%E3%83%97%E3%83%AA/id1659613825?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/db/41/73db41bf-6e1c-8df3-9dec-adf8d4e3363c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-01-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1661612618",
+      "name": "セキュリティOne",
+      "developer": "SoftBank Corp.",
+      "url": "https://apps.apple.com/jp/app/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3one/id1661612618?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/8e/22/ad8e225e-0eb0-9b24-ef66-f72ccbfaf0bb/iOS26_Icon_260706-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-06-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1485352913",
+      "name": "Pokémon HOME",
+      "developer": "The Pokemon Company",
+      "url": "https://apps.apple.com/jp/app/pok%C3%A9mon-home/id1485352913?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/55/27/3455273b-5736-2e6c-1a88-c05860e9e4b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-02-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6757545135",
+      "name": "めろとーく | LINE相性分析",
+      "developer": "Ryusei Okamoto",
+      "url": "https://apps.apple.com/jp/app/%E3%82%81%E3%82%8D%E3%81%A8%E3%83%BC%E3%81%8F-line%E7%9B%B8%E6%80%A7%E5%88%86%E6%9E%90/id6757545135?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/08/13/310813b2-fc7b-4c52-af5b-839d9d761b2d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 56,
-      "id": "1535410551",
-      "name": "コネクトブラウザ",
-      "developer": "irodori, inc.",
-      "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6/id1535410551?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/58/63/0458634d-c769-86b2-6d6e-23dadb1a691b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-14",
+      "id": "1504076137",
+      "name": "geteduroam",
+      "developer": "SURF B.V.",
+      "url": "https://apps.apple.com/jp/app/geteduroam/id1504076137?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e0/cb/d7e0cb0e-f81a-a5aa-fc1d-b7334b3034ba/AppIcon-0-1x_U007epad-0-1-0-sRGB-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-06-15",
       "genres": [
         {
           "id": "6002",
@@ -905,6 +905,22 @@
     },
     {
       "rank": 57,
+      "id": "1537745547",
+      "name": "QRコード読み取り＆作成アプリ",
+      "developer": "Seven Mile Apps",
+      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A-%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id1537745547?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/ae/45/deae4590-57f1-eb46-2012-4616cad37ee0/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-11-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
       "id": "6443837919",
       "name": "ICN SMARTPASS (인천공항 스마트패스)",
       "developer": "인천국제공항공사",
@@ -920,13 +936,13 @@
       ]
     },
     {
-      "rank": 58,
-      "id": "1574157265",
-      "name": "My IIJmio",
-      "developer": "Internet Initiative Japan, Inc.",
-      "url": "https://apps.apple.com/jp/app/my-iijmio/id1574157265?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/c7/06/bbc706b6-083f-7582-b5a2-3059ab56165e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-07-14",
+      "rank": 59,
+      "id": "1535410551",
+      "name": "コネクトブラウザ",
+      "developer": "irodori, inc.",
+      "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6/id1535410551?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/58/63/0458634d-c769-86b2-6d6e-23dadb1a691b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-14",
       "genres": [
         {
           "id": "6002",
@@ -936,7 +952,7 @@
       ]
     },
     {
-      "rank": 59,
+      "rank": 60,
       "id": "6454900894",
       "name": "デジタル認証アプリ",
       "developer": "デジタル庁",
@@ -952,29 +968,13 @@
       ]
     },
     {
-      "rank": 60,
-      "id": "6742771560",
-      "name": "GK LEDバナープロ - 電光掲示板",
-      "developer": "Godlikeaid",
-      "url": "https://apps.apple.com/jp/app/gk-led%E3%83%90%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AD-%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E6%9D%BF/id6742771560?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/8c/6a/6d8c6a20-7546-3001-0cc7-7d9c78c8554e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-05-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 61,
-      "id": "1436944548",
-      "name": "dメニュー",
-      "developer": "株式会社NTTドコモ",
-      "url": "https://apps.apple.com/jp/app/d%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC/id1436944548?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/68/62/dd686243-2747-4ca7-4d4c-45640221fc12/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-31",
+      "id": "6786116922",
+      "name": "Speedy Clean: AI写真整理",
+      "developer": "NAM PHUONG PHAT COMPANY LIMITED",
+      "url": "https://apps.apple.com/jp/app/speedy-clean-ai%E5%86%99%E7%9C%9F%E6%95%B4%E7%90%86/id6786116922?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7a/26/c07a2654-69ee-9a98-b06d-5603f5cb6c41/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-07-14",
       "genres": [
         {
           "id": "6002",
@@ -1001,54 +1001,6 @@
     },
     {
       "rank": 63,
-      "id": "6451212658",
-      "name": "QRコード & バーコードスキャナーアプリ",
-      "developer": "Minimodev Technologies LTD",
-      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA/id6451212658?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/51/80/6f518090-526b-b302-c827-5e39844ae403/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-08-25",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "6759191120",
-      "name": "YOIN (よいん) 旧クズタイプ診断 - AIチャット",
-      "developer": "Poppo Inc.",
-      "url": "https://apps.apple.com/jp/app/yoin-%E3%82%88%E3%81%84%E3%82%93-%E6%97%A7%E3%82%AF%E3%82%BA%E3%82%BF%E3%82%A4%E3%83%97%E8%A8%BA%E6%96%AD-ai%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id6759191120?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a7/db/20a7db97-6502-b234-113f-881b6b436e5b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-02-23",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "1500848920",
-      "name": "au Wi-Fiアクセス-WiFi接続・ポイ活もできるアプリ",
-      "developer": "Wire and Wireless Co.,Ltd.",
-      "url": "https://apps.apple.com/jp/app/au-wi-fi%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-wifi%E6%8E%A5%E7%B6%9A-%E3%83%9D%E3%82%A4%E6%B4%BB%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/id1500848920?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/cc/cd/89cccd37-5f2c-bf68-16a1-2f4a8ea2f38d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2020-08-31",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
       "id": "373310055",
       "name": "レジュメ",
       "developer": "Indeed Inc.",
@@ -1064,7 +1016,23 @@
       ]
     },
     {
-      "rank": 67,
+      "rank": 64,
+      "id": "523045929",
+      "name": "Ocrenger",
+      "developer": "Pascal",
+      "url": "https://apps.apple.com/jp/app/ocrenger/id523045929?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/2e/c8/342ec83d-d97a-803e-1942-305a017b7c45/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2012-05-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
       "id": "1320338088",
       "name": "e-Título",
       "developer": "Tribunal Superior Eleitoral",
@@ -1080,87 +1048,7 @@
       ]
     },
     {
-      "rank": 68,
-      "id": "1537745547",
-      "name": "QRコード読み取り＆作成アプリ",
-      "developer": "Seven Mile Apps",
-      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A-%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id1537745547?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/ae/45/deae4590-57f1-eb46-2012-4616cad37ee0/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-11-07",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "1150085200",
-      "name": "Google ファミリー リンク",
-      "developer": "Google",
-      "url": "https://apps.apple.com/jp/app/google-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC-%E3%83%AA%E3%83%B3%E3%82%AF/id1150085200?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/9b/94/c09b9435-ed17-db43-2041-cce7680c8c47/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-04-28",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "770469884",
-      "name": "ウイルスバスター モバイル：スマホのウイルス対策セキュリティ",
-      "developer": "Trend Micro Incorporated",
-      "url": "https://apps.apple.com/jp/app/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB-%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E5%AF%BE%E7%AD%96%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/id770469884?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/3c/b4/623cb439-389e-5456-71ca-94b0895dd5d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2014-04-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "6751520416",
-      "name": "本人確認 for IIJmio",
-      "developer": "Internet Initiative Japan, Inc.",
-      "url": "https://apps.apple.com/jp/app/%E6%9C%AC%E4%BA%BA%E7%A2%BA%E8%AA%8D-for-iijmio/id6751520416?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/93/27/b0932740-2b00-b1d9-3710-6122015940ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-01-23",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "473605282",
-      "name": "Zeetle - 連絡先を一括送信 写真もクーポンも",
-      "developer": "Smart Solution Technology, Inc.",
-      "url": "https://apps.apple.com/jp/app/zeetle-%E9%80%A3%E7%B5%A1%E5%85%88%E3%82%92%E4%B8%80%E6%8B%AC%E9%80%81%E4%BF%A1-%E5%86%99%E7%9C%9F%E3%82%82%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%E3%82%82/id473605282?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/ec/2a/98ec2acb-a0d2-0c37-9946-e921c61bd53d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2011-10-31",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
+      "rank": 66,
       "id": "1134784923",
       "name": "VPN cat - 高速 安全 無制限VPN",
       "developer": "Secure Network",
@@ -1176,13 +1064,13 @@
       ]
     },
     {
-      "rank": 74,
-      "id": "806157957",
-      "name": "捨てメアド",
-      "developer": "Aki Ueno",
-      "url": "https://apps.apple.com/jp/app/%E6%8D%A8%E3%81%A6%E3%83%A1%E3%82%A2%E3%83%89/id806157957?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/1f/46/0c1f46ba-57a9-61dd-59d1-82b457b7ca2a/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2014-01-31",
+      "rank": 67,
+      "id": "1574157265",
+      "name": "My IIJmio",
+      "developer": "Internet Initiative Japan, Inc.",
+      "url": "https://apps.apple.com/jp/app/my-iijmio/id1574157265?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/c7/06/bbc706b6-083f-7582-b5a2-3059ab56165e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-14",
       "genres": [
         {
           "id": "6002",
@@ -1192,119 +1080,7 @@
       ]
     },
     {
-      "rank": 75,
-      "id": "1047223162",
-      "name": "AdGuard - Safari用広告ブロッカー",
-      "developer": "Adguard Software Limited",
-      "url": "https://apps.apple.com/jp/app/adguard-safari%E7%94%A8%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/id1047223162?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c1/c7/28c1c783-56cd-f281-e08d-b7d64f85195a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-10-24",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "585561686",
-      "name": "QRコードリーダー - QRコード読み取り",
-      "developer": "Takashi Wada",
-      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-qr%E3%82%B3%E3%83%BC%E3%83%89%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A/id585561686?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/37/1b/64371b6b-def6-1df4-37fb-139b8eda4e15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2012-12-14",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "id": "6444226037",
-      "name": "Tris Home",
-      "developer": "燕 张",
-      "url": "https://apps.apple.com/jp/app/tris-home/id6444226037?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/e2/75/3de27511-bfee-27a7-9420-a3d134273076/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2023-01-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 78,
-      "id": "6791079572",
-      "name": "SparkoAI：写真モーション",
-      "developer": "NAVIEMU PTE. LTD",
-      "url": "https://apps.apple.com/jp/app/sparkoai-%E5%86%99%E7%9C%9F%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/id6791079572?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/96/9d/7a969db7-1608-b1f9-f72c-86779bed77ec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-31",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 79,
-      "id": "6751736333",
-      "name": "QRコード & バーコード スキャナー +",
-      "developer": "TrustOneApps L.L.C-FZ",
-      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC/id6751736333?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/cb/b2/adcbb22e-4f80-87b1-4295-39bbeb3e2df9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-09-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
-      "id": "1616861537",
-      "name": "PikPak - ドライブ  -  ファイルストレージ",
-      "developer": "PIKCLOUD PTE. LTD.",
-      "url": "https://apps.apple.com/jp/app/pikpak-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8/id1616861537?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/5e/33f15edd-eadb-76d4-5083-e0fdb7f7c692/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-06-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 81,
-      "id": "6804146165",
-      "name": "バトレコ - ダメージ計算ツール",
-      "developer": "Yohei Saito",
-      "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%88%E3%83%AC%E3%82%B3-%E3%83%80%E3%83%A1%E3%83%BC%E3%82%B8%E8%A8%88%E7%AE%97%E3%83%84%E3%83%BC%E3%83%AB/id6804146165?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/e1/27/75e12737-d6ac-b6cf-b605-24a1a6e593a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-16",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
+      "rank": 68,
       "id": "905953485",
       "name": "NordVPN：高速・安心セキュリティ対策＆ネットワーク保護",
       "developer": "Nordvpn S.A.",
@@ -1320,13 +1096,13 @@
       ]
     },
     {
-      "rank": 83,
-      "id": "1371059543",
-      "name": "Anytime Mobile Print",
-      "developer": "Kyocera Document Solutions Inc.",
-      "url": "https://apps.apple.com/jp/app/anytime-mobile-print/id1371059543?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b0/65/b0b06590-6ef1-c27b-ce81-c28bb5b8a8a1/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2018-05-26",
+      "rank": 69,
+      "id": "770469884",
+      "name": "ウイルスバスター モバイル：スマホのウイルス対策セキュリティ",
+      "developer": "Trend Micro Incorporated",
+      "url": "https://apps.apple.com/jp/app/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB-%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E5%AF%BE%E7%AD%96%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/id770469884?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/3c/b4/623cb439-389e-5456-71ca-94b0895dd5d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2014-04-10",
       "genres": [
         {
           "id": "6002",
@@ -1336,13 +1112,13 @@
       ]
     },
     {
-      "rank": 84,
-      "id": "6471257645",
-      "name": "画面ミラーリングアプリ：スマホからTVへ",
-      "developer": "Desidari Holding Ltd.",
-      "url": "https://apps.apple.com/jp/app/%E7%94%BB%E9%9D%A2%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%97%E3%83%AA-%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%8B%E3%82%89tv%E3%81%B8/id6471257645?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/09/88/b109881f-b5f1-54df-d5c5-7bb342a0da86/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-11-23",
+      "rank": 70,
+      "id": "1542946007",
+      "name": "Akerun App",
+      "developer": "Photosynth Inc.",
+      "url": "https://apps.apple.com/jp/app/akerun-app/id1542946007?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/c0/eb/dbc0eb89-5356-15be-9fda-5ce2e3a6f4ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-06",
       "genres": [
         {
           "id": "6002",
@@ -1352,13 +1128,93 @@
       ]
     },
     {
-      "rank": 85,
-      "id": "1252897662",
-      "name": "あんしん遠隔サポート",
+      "rank": 71,
+      "id": "6751736333",
+      "name": "QRコード & バーコード スキャナー +",
+      "developer": "TrustOneApps L.L.C-FZ",
+      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC/id6751736333?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/cb/b2/adcbb22e-4f80-87b1-4295-39bbeb3e2df9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-09-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "585561686",
+      "name": "QRコードリーダー - QRコード読み取り",
+      "developer": "Takashi Wada",
+      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-qr%E3%82%B3%E3%83%BC%E3%83%89%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A/id585561686?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/37/1b/64371b6b-def6-1df4-37fb-139b8eda4e15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-12-14",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1150085200",
+      "name": "Google ファミリー リンク",
+      "developer": "Google",
+      "url": "https://apps.apple.com/jp/app/google-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC-%E3%83%AA%E3%83%B3%E3%82%AF/id1150085200?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/9b/94/c09b9435-ed17-db43-2041-cce7680c8c47/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1047223162",
+      "name": "AdGuard - Safari用広告ブロッカー",
+      "developer": "Adguard Software Limited",
+      "url": "https://apps.apple.com/jp/app/adguard-safari%E7%94%A8%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/id1047223162?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c1/c7/28c1c783-56cd-f281-e08d-b7d64f85195a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-10-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "806157957",
+      "name": "捨てメアド",
+      "developer": "Aki Ueno",
+      "url": "https://apps.apple.com/jp/app/%E6%8D%A8%E3%81%A6%E3%83%A1%E3%82%A2%E3%83%89/id806157957?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/1f/46/0c1f46ba-57a9-61dd-59d1-82b457b7ca2a/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-01-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1436944548",
+      "name": "dメニュー",
       "developer": "株式会社NTTドコモ",
-      "url": "https://apps.apple.com/jp/app/%E3%81%82%E3%82%93%E3%81%97%E3%82%93%E9%81%A0%E9%9A%94%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/id1252897662?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/39/b0/4839b025-159d-442e-b77c-0f30dd2b77e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-20",
+      "url": "https://apps.apple.com/jp/app/d%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC/id1436944548?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/68/62/dd686243-2747-4ca7-4d4c-45640221fc12/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-31",
       "genres": [
         {
           "id": "6002",
@@ -1368,7 +1224,23 @@
       ]
     },
     {
-      "rank": 86,
+      "rank": 77,
+      "id": "6751520416",
+      "name": "本人確認 for IIJmio",
+      "developer": "Internet Initiative Japan, Inc.",
+      "url": "https://apps.apple.com/jp/app/%E6%9C%AC%E4%BA%BA%E7%A2%BA%E8%AA%8D-for-iijmio/id6751520416?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/93/27/b0932740-2b00-b1d9-3710-6122015940ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
       "id": "1024396744",
       "name": "電話帳ナビ－迷惑電話やメールを自動判定（迷惑電話ブロック）",
       "developer": "RIDE AND CONNECT,INC.",
@@ -1384,23 +1256,7 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "6449987166",
-      "name": "Android Switch",
-      "developer": "Google",
-      "url": "https://apps.apple.com/jp/app/android-switch/id6449987166?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/12/20/8212201c-e687-8b5d-1e61-6663162ffbf6/logo_android_switch_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2023-08-14",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
+      "rank": 79,
       "id": "1564249382",
       "name": "計測アプリ: メジャー、定規、ものさし、そして水平器",
       "developer": "AppTitude Technologies OU",
@@ -1416,7 +1272,135 @@
       ]
     },
     {
-      "rank": 89,
+      "rank": 80,
+      "id": "1252897662",
+      "name": "あんしん遠隔サポート",
+      "developer": "株式会社NTTドコモ",
+      "url": "https://apps.apple.com/jp/app/%E3%81%82%E3%82%93%E3%81%97%E3%82%93%E9%81%A0%E9%9A%94%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/id1252897662?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/39/b0/4839b025-159d-442e-b77c-0f30dd2b77e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6788328354",
+      "name": "Translate Genie",
+      "developer": "Fuzhou Zhiyue Interactive Technology Co.,Ltd",
+      "url": "https://apps.apple.com/jp/app/translate-genie/id6788328354?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b7/58/c3b758f1-8b79-5379-e346-63ca3c408fec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-07-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "473605282",
+      "name": "Zeetle - 連絡先を一括送信 写真もクーポンも",
+      "developer": "Smart Solution Technology, Inc.",
+      "url": "https://apps.apple.com/jp/app/zeetle-%E9%80%A3%E7%B5%A1%E5%85%88%E3%82%92%E4%B8%80%E6%8B%AC%E9%80%81%E4%BF%A1-%E5%86%99%E7%9C%9F%E3%82%82%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%E3%82%82/id473605282?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/ec/2a/98ec2acb-a0d2-0c37-9946-e921c61bd53d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "6791079572",
+      "name": "SparkoAI：写真モーション",
+      "developer": "NAVIEMU PTE. LTD",
+      "url": "https://apps.apple.com/jp/app/sparkoai-%E5%86%99%E7%9C%9F%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/id6791079572?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/96/9d/7a969db7-1608-b1f9-f72c-86779bed77ec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1371059543",
+      "name": "Anytime Mobile Print",
+      "developer": "Kyocera Document Solutions Inc.",
+      "url": "https://apps.apple.com/jp/app/anytime-mobile-print/id1371059543?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b0/65/b0b06590-6ef1-c27b-ce81-c28bb5b8a8a1/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2018-05-26",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6742771560",
+      "name": "GK LEDバナープロ - 電光掲示板",
+      "developer": "Godlikeaid",
+      "url": "https://apps.apple.com/jp/app/gk-led%E3%83%90%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AD-%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E6%9D%BF/id6742771560?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/8c/6a/6d8c6a20-7546-3001-0cc7-7d9c78c8554e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-05-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1616861537",
+      "name": "PikPak - ドライブ  -  ファイルストレージ",
+      "developer": "PIKCLOUD PTE. LTD.",
+      "url": "https://apps.apple.com/jp/app/pikpak-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8/id1616861537?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/5e/33f15edd-eadb-76d4-5083-e0fdb7f7c692/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-06-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1500848920",
+      "name": "au Wi-Fiアクセス-WiFi接続・ポイ活もできるアプリ",
+      "developer": "Wire and Wireless Co.,Ltd.",
+      "url": "https://apps.apple.com/jp/app/au-wi-fi%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-wifi%E6%8E%A5%E7%B6%9A-%E3%83%9D%E3%82%A4%E6%B4%BB%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/id1500848920?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/cc/cd/89cccd37-5f2c-bf68-16a1-2f4a8ea2f38d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-08-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
       "id": "986800297",
       "name": "カウンタ",
       "developer": "UniCom Technology",
@@ -1432,103 +1416,7 @@
       ]
     },
     {
-      "rank": 90,
-      "id": "6786116922",
-      "name": "Speedy Clean: AI写真整理",
-      "developer": "NAM PHUONG PHAT COMPANY LIMITED",
-      "url": "https://apps.apple.com/jp/app/speedy-clean-ai%E5%86%99%E7%9C%9F%E6%95%B4%E7%90%86/id6786116922?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7a/26/c07a2654-69ee-9a98-b06d-5603f5cb6c41/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-07-14",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 91,
-      "id": "1454478898",
-      "name": "かんたんデータコピー",
-      "developer": "SoftBank Corp.",
-      "url": "https://apps.apple.com/jp/app/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B3%E3%83%94%E3%83%BC/id1454478898?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/06/6b/3e066b22-a4d0-20e2-6b7c-4417931ce50b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2019-05-16",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "1635029057",
-      "name": "Anker Power",
-      "developer": "Power Mobile Life LLC",
-      "url": "https://apps.apple.com/jp/app/anker-power/id1635029057?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/48/79/dd4879c2-cb2e-9ac5-74ad-e4d3ca7084ff/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-11-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "1437005085",
-      "name": "Proton VPN - 安全な高速接続",
-      "developer": "Proton AG",
-      "url": "https://apps.apple.com/jp/app/proton-vpn-%E5%AE%89%E5%85%A8%E3%81%AA%E9%AB%98%E9%80%9F%E6%8E%A5%E7%B6%9A/id1437005085?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f2/63/abf26323-cb7a-5977-fad6-a6434bf904df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2018-11-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "6456523725",
-      "name": "QRコードスキャナーアプリ - おー せんてぃけー たー",
-      "developer": "Tensortech Apps",
-      "url": "https://apps.apple.com/jp/app/qr%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA-%E3%81%8A%E3%83%BC-%E3%81%9B%E3%82%93%E3%81%A6%E3%81%83%E3%81%91%E3%83%BC-%E3%81%9F%E3%83%BC/id6456523725?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ee/93/f2ee9349-6185-d64c-e912-21e5c4a67fb8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-08-02",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "6446887857",
-      "name": "ProTech マイナンバーIC認証",
-      "developer": "Showcase-TV Inc.",
-      "url": "https://apps.apple.com/jp/app/protech-%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BCic%E8%AA%8D%E8%A8%BC/id6446887857?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/7e/a9/b77ea9cb-ad5b-f96b-0167-4ab0f5d8d96d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-06-21",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "ユーティリティ",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
+      "rank": 89,
       "id": "1483705289",
       "name": "ギガファイル便",
       "developer": "GIGA FILE, K.K.",
@@ -1544,7 +1432,23 @@
       ]
     },
     {
-      "rank": 97,
+      "rank": 90,
+      "id": "6759191120",
+      "name": "YOIN (よいん) 旧クズタイプ診断 - AIチャット",
+      "developer": "Poppo Inc.",
+      "url": "https://apps.apple.com/jp/app/yoin-%E3%82%88%E3%81%84%E3%82%93-%E6%97%A7%E3%82%AF%E3%82%BA%E3%82%BF%E3%82%A4%E3%83%97%E8%A8%BA%E6%96%AD-ai%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id6759191120?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a7/db/20a7db97-6502-b234-113f-881b6b436e5b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
       "id": "1542713772",
       "name": "在留カード等読取アプリケーション",
       "developer": "IMMIGRATION SERVICES AGENCY",
@@ -1560,13 +1464,109 @@
       ]
     },
     {
+      "rank": 92,
+      "id": "1437005085",
+      "name": "Proton VPN - 安全な高速接続",
+      "developer": "Proton AG",
+      "url": "https://apps.apple.com/jp/app/proton-vpn-%E5%AE%89%E5%85%A8%E3%81%AA%E9%AB%98%E9%80%9F%E6%8E%A5%E7%B6%9A/id1437005085?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f2/63/abf26323-cb7a-5977-fad6-a6434bf904df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-11-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6444226037",
+      "name": "Tris Home",
+      "developer": "燕 张",
+      "url": "https://apps.apple.com/jp/app/tris-home/id6444226037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/e2/75/3de27511-bfee-27a7-9420-a3d134273076/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-01-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "900837187",
+      "name": "コンパス 東西南北",
+      "developer": "EONSOFT",
+      "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9-%E6%9D%B1%E8%A5%BF%E5%8D%97%E5%8C%97/id900837187?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/e1/2a/29e12af4-94ab-4684-178c-e126e57df21c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2014-07-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "6471257645",
+      "name": "画面ミラーリングアプリ：スマホからTVへ",
+      "developer": "Desidari Holding Ltd.",
+      "url": "https://apps.apple.com/jp/app/%E7%94%BB%E9%9D%A2%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%97%E3%83%AA-%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%8B%E3%82%89tv%E3%81%B8/id6471257645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/09/88/b109881f-b5f1-54df-d5c5-7bb342a0da86/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-11-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "989804926",
+      "name": "Firefox 高速・プライベートなブラウザー",
+      "developer": "Mozilla",
+      "url": "https://apps.apple.com/jp/app/firefox-%E9%AB%98%E9%80%9F-%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%81%AA%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%83%BC/id989804926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/5e/1c/a95e1ca6-b900-740a-9b1b-ab30587986d0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-11-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6449987166",
+      "name": "Android Switch",
+      "developer": "Google",
+      "url": "https://apps.apple.com/jp/app/android-switch/id6449987166?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/12/20/8212201c-e687-8b5d-1e61-6663162ffbf6/logo_android_switch_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-08-14",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "ユーティリティ",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 98,
-      "id": "796885425",
-      "name": "LEDバナープロ - 電光掲示板",
-      "developer": "Nico Schroeder",
-      "url": "https://apps.apple.com/jp/app/led%E3%83%90%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AD-%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E6%9D%BF/id796885425?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/0c/f8/150cf824-9cd4-f8c7-47b9-0cf4845cfac1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-04-30",
+      "id": "1594525341",
+      "name": "マイ ニフティ",
+      "developer": "NIFTY Corporation",
+      "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4-%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3/id1594525341?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/2d/e4/852de44c-7d8a-b4b5-ff5c-8b34e249571d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2021-12-21",
       "genres": [
         {
           "id": "6002",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "6757377433",
-      "name": "Yahoo!スマホ買取 査定",
+      "id": "1454478898",
+      "name": "かんたんデータコピー",
       "developer": "SoftBank Corp.",
-      "url": "https://apps.apple.com/jp/app/yahoo-%E3%82%B9%E3%83%9E%E3%83%9B%E8%B2%B7%E5%8F%96-%E6%9F%BB%E5%AE%9A/id6757377433?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/f0/07/19f007ee-b1ea-0044-fcc7-495c13b55be3/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2026-09-01",
+      "url": "https://apps.apple.com/jp/app/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B3%E3%83%94%E3%83%BC/id1454478898?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/06/6b/3e066b22-a4d0-20e2-6b7c-4417931ce50b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2019-05-16",
       "genres": [
         {
           "id": "6002",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "1069762772",
-      "name": "auでんき　電気が見える！電気の使いすぎもお知らせ！",
-      "developer": "KDDI CORPORATION",
-      "url": "https://apps.apple.com/jp/app/au%E3%81%A7%E3%82%93%E3%81%8D-%E9%9B%BB%E6%B0%97%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B-%E9%9B%BB%E6%B0%97%E3%81%AE%E4%BD%BF%E3%81%84%E3%81%99%E3%81%8E%E3%82%82%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/id1069762772?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d5/2e/57d52e08-d369-c52a-54c5-5226c19e1414/audenki_AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-03-31",
+      "id": "6446887857",
+      "name": "ProTech マイナンバーIC認証",
+      "developer": "Showcase-TV Inc.",
+      "url": "https://apps.apple.com/jp/app/protech-%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BCic%E8%AA%8D%E8%A8%BC/id6446887857?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/7e/a9/b77ea9cb-ad5b-f96b-0167-4ab0f5d8d96d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-06-21",
       "genres": [
         {
           "id": "6002",

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-02T00:11:47.627412+09:00",
+  "collected_at": "2026-10-02T18:12:01.097854+09:00",
   "date": "2026-10-02",
   "country": "fr",
   "chart": "top-free",
@@ -41,12 +41,12 @@
     },
     {
       "rank": 3,
-      "id": "1633060599",
-      "name": "Mondial Relay, suivi de colis",
-      "developer": "Mondial Relay",
-      "url": "https://apps.apple.com/fr/app/mondial-relay-suivi-de-colis/id1633060599?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/a6/3b/a3a63b59-3989-d5b7-7a9f-0ce0b33d8abc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2022-09-15",
+      "id": "1630403500",
+      "name": "APTV",
+      "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
+      "url": "https://apps.apple.com/fr/app/aptv/id1630403500?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "release_date": "2022-07-07",
       "genres": [
         {
           "id": "6002",
@@ -57,12 +57,12 @@
     },
     {
       "rank": 4,
-      "id": "6743679292",
-      "name": "Saracroche : bloqueur d'appels",
-      "developer": "Camille Bouvat",
-      "url": "https://apps.apple.com/fr/app/saracroche-bloqueur-dappels/id6743679292?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/ea/66/91ea6637-30c7-ec22-1d6c-97c4d0d64182/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-03-24",
+      "id": "284815942",
+      "name": "Google",
+      "developer": "Google",
+      "url": "https://apps.apple.com/fr/app/google/id284815942?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/d3/5b/4fd35b53-e6d3-ee49-342a-8a7ace6fe960/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-12",
       "genres": [
         {
           "id": "6002",
@@ -73,12 +73,12 @@
     },
     {
       "rank": 5,
-      "id": "284815942",
-      "name": "Google",
-      "developer": "Google",
-      "url": "https://apps.apple.com/fr/app/google/id284815942?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/d3/5b/4fd35b53-e6d3-ee49-342a-8a7ace6fe960/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-02-12",
+      "id": "1633060599",
+      "name": "Mondial Relay, suivi de colis",
+      "developer": "Mondial Relay",
+      "url": "https://apps.apple.com/fr/app/mondial-relay-suivi-de-colis/id1633060599?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/a6/3b/a3a63b59-3989-d5b7-7a9f-0ce0b33d8abc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2022-09-15",
       "genres": [
         {
           "id": "6002",
@@ -105,22 +105,6 @@
     },
     {
       "rank": 7,
-      "id": "388497605",
-      "name": "Google Authenticator",
-      "developer": "Google",
-      "url": "https://apps.apple.com/fr/app/google-authenticator/id388497605?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2010-09-20",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "id": "484115113",
       "name": "leboncoin",
       "developer": "LBC France",
@@ -136,12 +120,28 @@
       ]
     },
     {
+      "rank": 8,
+      "id": "6743679292",
+      "name": "Saracroche : bloqueur d'appels",
+      "developer": "Camille Bouvat",
+      "url": "https://apps.apple.com/fr/app/saracroche-bloqueur-dappels/id6743679292?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/ea/66/91ea6637-30c7-ec22-1d6c-97c4d0d64182/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-03-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 9,
       "id": "1643534870",
       "name": "Free",
       "developer": "Freebox",
       "url": "https://apps.apple.com/fr/app/free/id1643534870?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/8b/16/378b1662-3567-7a9d-b6d8-2bc7e90d0acc/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/6d/1a/146d1ac9-4d15-7e5d-7450-32b6d01c5e08/FreeLogo-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "release_date": "2022-09-26",
       "genres": [
         {
@@ -153,12 +153,12 @@
     },
     {
       "rank": 10,
-      "id": "797511732",
-      "name": "Caf - Mon Compte",
-      "developer": "Caisse Nationale des Allocations Familiales",
-      "url": "https://apps.apple.com/fr/app/caf-mon-compte/id797511732?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/59/ed/2059edbc-edf1-4137-d463-92590ffc871a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-01-22",
+      "id": "388497605",
+      "name": "Google Authenticator",
+      "developer": "Google",
+      "url": "https://apps.apple.com/fr/app/google-authenticator/id388497605?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2010-09-20",
       "genres": [
         {
           "id": "6002",
@@ -169,12 +169,12 @@
     },
     {
       "rank": 11,
-      "id": "680666808",
-      "name": "TotalEnergies Electricité&Gaz",
-      "developer": "DIRECT ENERGIE",
-      "url": "https://apps.apple.com/fr/app/totalenergies-electricit%C3%A9-gaz/id680666808?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/cf/6b/22cf6b0d-46c8-d71b-3278-46f7348552eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-11-17",
+      "id": "797511732",
+      "name": "Caf - Mon Compte",
+      "developer": "Caisse Nationale des Allocations Familiales",
+      "url": "https://apps.apple.com/fr/app/caf-mon-compte/id797511732?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/59/ed/2059edbc-edf1-4137-d463-92590ffc871a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-01-22",
       "genres": [
         {
           "id": "6002",
@@ -201,6 +201,22 @@
     },
     {
       "rank": 13,
+      "id": "680666808",
+      "name": "TotalEnergies Electricité&Gaz",
+      "developer": "DIRECT ENERGIE",
+      "url": "https://apps.apple.com/fr/app/totalenergies-electricit%C3%A9-gaz/id680666808?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/4f/3a/944f3a22-0da8-daca-f17e-71103aeabc4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-11-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
       "id": "367722531",
       "name": "Orange et moi France",
       "developer": "Orange",
@@ -216,7 +232,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "6444912481",
       "name": "UK ETA",
       "developer": "Home Office",
@@ -232,7 +248,7 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "326883014",
       "name": "SeLoger location & achat immo",
       "developer": "DIGITAL CLASSIFIEDS FRANCE",
@@ -248,7 +264,7 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "422590767",
       "name": "Bouygues Telecom",
       "developer": "Bouygues Telecom",
@@ -264,55 +280,7 @@
       ]
     },
     {
-      "rank": 17,
-      "id": "1630403500",
-      "name": "APTV",
-      "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
-      "url": "https://apps.apple.com/fr/app/aptv/id1630403500?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "release_date": "2022-07-07",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 18,
-      "id": "563799142",
-      "name": "EDF & MOI",
-      "developer": "EDF",
-      "url": "https://apps.apple.com/fr/app/edf-moi/id563799142?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/47/db/7147db2d-18c9-d509-718f-424ec3660885/AppIcon-1x_U007emarketing-0-0-0-11-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2012-10-29",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "916813197",
-      "name": "My Intratone",
-      "developer": "Cogelec",
-      "url": "https://apps.apple.com/fr/app/my-intratone/id916813197?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/b4/35/07b4356b-d171-5705-cc13-910845dd2ff2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2015-06-08",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
       "id": "1437005085",
       "name": "Proton VPN: Privé et Rapide",
       "developer": "Proton AG",
@@ -328,7 +296,7 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 19,
       "id": "1510944943",
       "name": "Cleanup: Nettoyeur de stockage",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
@@ -344,13 +312,13 @@
       ]
     },
     {
-      "rank": 22,
-      "id": "1288723196",
-      "name": "Microsoft Edge",
-      "developer": "Microsoft Corporation",
-      "url": "https://apps.apple.com/fr/app/microsoft-edge/id1288723196?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/08/a5/3808a55e-0441-0d74-4172-8118e7a275ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "release_date": "2017-11-30",
+      "rank": 20,
+      "id": "563799142",
+      "name": "EDF & MOI",
+      "developer": "EDF",
+      "url": "https://apps.apple.com/fr/app/edf-moi/id563799142?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/47/db/7147db2d-18c9-d509-718f-424ec3660885/AppIcon-1x_U007emarketing-0-0-0-11-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2012-10-29",
       "genres": [
         {
           "id": "6002",
@@ -360,7 +328,23 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 21,
+      "id": "916813197",
+      "name": "My Intratone",
+      "developer": "Cogelec",
+      "url": "https://apps.apple.com/fr/app/my-intratone/id916813197?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/b4/35/07b4356b-d171-5705-cc13-910845dd2ff2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2015-06-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
       "id": "1052879175",
       "name": "Brave - Navigateur Web privé",
       "developer": "Brave Software",
@@ -376,71 +360,23 @@
       ]
     },
     {
+      "rank": 23,
+      "id": "1288723196",
+      "name": "Microsoft Edge",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/fr/app/microsoft-edge/id1288723196?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/08/a5/3808a55e-0441-0d74-4172-8118e7a275ca/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2017-11-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 24,
-      "id": "6758365838",
-      "name": "Smooth Translate",
-      "developer": "L3S ARIEL LIMITED",
-      "url": "https://apps.apple.com/fr/app/smooth-translate/id6758365838?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/f1/8e/50f18e6d-e319-f927-8ceb-3f04569a9e05/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-03",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "id": "6754900760",
-      "name": "Authenticator ℠ App",
-      "developer": "BEGAMOB GLOBAL LIMITED",
-      "url": "https://apps.apple.com/fr/app/authenticator-app/id6754900760?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/f0/e6/ccf0e664-50d0-263b-585b-9894be2cae50/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-19",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "id": "6630366971",
-      "name": "Yepexpress",
-      "developer": "Yepexpress",
-      "url": "https://apps.apple.com/fr/app/yepexpress/id6630366971?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b1/2d/9ab12da7-8a37-b116-b0b1-1109dd6a93ba/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-09-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "id": "431602927",
-      "name": "La Poste – Colis & courrier",
-      "developer": "La Poste",
-      "url": "https://apps.apple.com/fr/app/la-poste-colis-courrier/id431602927?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/6b/02/d86b02b3-1e98-5420-7c60-5313698b2663/AppIcon-0-1x_U007ephone-0-7-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2011-04-18",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
       "id": "1581765635",
       "name": "TV Télécommande Universelle・",
       "developer": "BEGAMOB GLOBAL LIMITED",
@@ -456,13 +392,13 @@
       ]
     },
     {
-      "rank": 29,
-      "id": "1104269908",
-      "name": "ENGIE Energie: Électricité Gaz",
-      "developer": "ENGIE",
-      "url": "https://apps.apple.com/fr/app/engie-energie-%C3%A9lectricit%C3%A9-gaz/id1104269908?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/be/58/c0be58db-5de2-a7ec-545e-1431ef5ff9c0/appIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-05-09",
+      "rank": 25,
+      "id": "6630366971",
+      "name": "Yepexpress",
+      "developer": "Yepexpress",
+      "url": "https://apps.apple.com/fr/app/yepexpress/id6630366971?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b1/2d/9ab12da7-8a37-b116-b0b1-1109dd6a93ba/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-09-10",
       "genres": [
         {
           "id": "6002",
@@ -472,13 +408,13 @@
       ]
     },
     {
-      "rank": 30,
-      "id": "326161564",
-      "name": "SFR & Moi",
-      "developer": "SFR",
-      "url": "https://apps.apple.com/fr/app/sfr-moi/id326161564?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/3d/9c/2d3d9c82-99da-9d4c-5a06-30a38605bc4f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2009-08-25",
+      "rank": 26,
+      "id": "6758365838",
+      "name": "Smooth Translate",
+      "developer": "L3S ARIEL LIMITED",
+      "url": "https://apps.apple.com/fr/app/smooth-translate/id6758365838?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/f1/8e/50f18e6d-e319-f927-8ceb-3f04569a9e05/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-03",
       "genres": [
         {
           "id": "6002",
@@ -488,39 +424,7 @@
       ]
     },
     {
-      "rank": 31,
-      "id": "6480077263",
-      "name": "Epic Games",
-      "developer": "Epic Games Inc.",
-      "url": "https://apps.apple.com/fr/app/epic-games/id6480077263?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/f7/2b/c1f72ba6-c578-e57f-f474-a29149ba3399/AppIcon-Companion-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-18",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 32,
-      "id": "989804926",
-      "name": "Firefox: Navigateur Internet",
-      "developer": "Mozilla",
-      "url": "https://apps.apple.com/fr/app/firefox-navigateur-internet/id989804926?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/5e/1c/a95e1ca6-b900-740a-9b1b-ab30587986d0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-11-11",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
+      "rank": 27,
       "id": "905953485",
       "name": "NordVPN : VPN ultra-rapide",
       "developer": "Nordvpn S.A.",
@@ -536,39 +440,103 @@
       ]
     },
     {
+      "rank": 28,
+      "id": "989804926",
+      "name": "Firefox: Navigateur Internet",
+      "developer": "Mozilla",
+      "url": "https://apps.apple.com/fr/app/firefox-navigateur-internet/id989804926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/5e/1c/a95e1ca6-b900-740a-9b1b-ab30587986d0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-11-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "326161564",
+      "name": "SFR & Moi",
+      "developer": "SFR",
+      "url": "https://apps.apple.com/fr/app/sfr-moi/id326161564?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/3d/9c/2d3d9c82-99da-9d4c-5a06-30a38605bc4f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2009-08-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "431602927",
+      "name": "La Poste – Colis & courrier",
+      "developer": "La Poste",
+      "url": "https://apps.apple.com/fr/app/la-poste-colis-courrier/id431602927?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/6b/02/d86b02b3-1e98-5420-7c60-5313698b2663/AppIcon-0-1x_U007ephone-0-7-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2011-04-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "6754900760",
+      "name": "Authenticator ℠ App",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/fr/app/authenticator-app/id6754900760?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/f0/e6/ccf0e664-50d0-263b-585b-9894be2cae50/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1104269908",
+      "name": "ENGIE Energie: Électricité Gaz",
+      "developer": "ENGIE",
+      "url": "https://apps.apple.com/fr/app/engie-energie-%C3%A9lectricit%C3%A9-gaz/id1104269908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/be/58/c0be58db-5de2-a7ec-545e-1431ef5ff9c0/appIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-05-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "6480077263",
+      "name": "Epic Games",
+      "developer": "Epic Games Inc.",
+      "url": "https://apps.apple.com/fr/app/epic-games/id6480077263?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/f7/2b/c1f72ba6-c578-e57f-f474-a29149ba3399/AppIcon-Companion-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 34,
-      "id": "553791662",
-      "name": "MySosh France",
-      "developer": "Orange",
-      "url": "https://apps.apple.com/fr/app/mysosh-france/id553791662?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/50/1f/a8501f1c-7b49-d6aa-4c20-6d46df80cfc3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-10-04",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 35,
-      "id": "1165633060",
-      "name": "Geev le réflexe anti-gaspi",
-      "developer": "GEEV",
-      "url": "https://apps.apple.com/fr/app/geev-le-r%C3%A9flexe-anti-gaspi/id1165633060?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/3f/43/da3f43ce-3d6d-e035-3739-7082d1e5e4db/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-12-08",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 36,
       "id": "1596985055",
       "name": "Hello Watt Suivi Conso Énergie",
       "developer": "Hello Watt",
@@ -584,55 +552,39 @@
       ]
     },
     {
+      "rank": 35,
+      "id": "553791662",
+      "name": "MySosh France",
+      "developer": "Orange",
+      "url": "https://apps.apple.com/fr/app/mysosh-france/id553791662?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/50/1f/a8501f1c-7b49-d6aa-4c20-6d46df80cfc3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-10-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1165633060",
+      "name": "Geev le réflexe anti-gaspi",
+      "developer": "GEEV",
+      "url": "https://apps.apple.com/fr/app/geev-le-r%C3%A9flexe-anti-gaspi/id1165633060?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/3f/43/da3f43ce-3d6d-e035-3739-7082d1e5e4db/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-12-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 37,
-      "id": "1485152030",
-      "name": "Immatriculation Scanner",
-      "developer": "Etienne Guillou",
-      "url": "https://apps.apple.com/fr/app/immatriculation-scanner/id1485152030?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/c6/30/fec630bb-c3ea-1cc4-d1bd-d3dd48cb1940/icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-12-07",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "393290235",
-      "name": "Direct Assurance",
-      "developer": "Direct Assurance",
-      "url": "https://apps.apple.com/fr/app/direct-assurance/id393290235?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a2/1d/90a21dcd-496e-5d8f-dd5e-9261db92925f/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2010-10-01",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "605569663",
-      "name": "Amerigo File Manager",
-      "developer": "IdeaSolutions S.r.l.",
-      "url": "https://apps.apple.com/fr/app/amerigo-file-manager/id605569663?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/f8/8f/dcf88f4a-5850-0687-c5f7-9ca7976241be/AppIcon_amerigo_free-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-03-04",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
       "id": "1461044590",
       "name": "LSC Smart Connect",
       "developer": "Electro Cirkel Retail B.V",
@@ -648,55 +600,7 @@
       ]
     },
     {
-      "rank": 41,
-      "id": "6788328354",
-      "name": "Translate Genie",
-      "developer": "Fuzhou Zhiyue Interactive Technology Co.,Ltd",
-      "url": "https://apps.apple.com/fr/app/translate-genie/id6788328354?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b7/58/c3b758f1-8b79-5379-e346-63ca3c408fec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
-      "release_date": "2026-07-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "986324701",
-      "name": "RED & Moi",
-      "developer": "SFR",
-      "url": "https://apps.apple.com/fr/app/red-moi/id986324701?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/fe/0b/dcfe0bf7-edac-7186-6a11-fac5bd0cbc0b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-05-09",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "929638366",
-      "name": "e-constat auto",
-      "developer": "DARVA",
-      "url": "https://apps.apple.com/fr/app/e-constat-auto/id929638366?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/28/a6/ee28a6f8-3a25-ef15-1a9b-a902f202606f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2014-11-30",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
+      "rank": 38,
       "id": "1411869974",
       "name": "Opera Browser avec VPN",
       "developer": "Opera Norway AS",
@@ -712,13 +616,13 @@
       ]
     },
     {
-      "rank": 45,
-      "id": "1021587274",
-      "name": "MYPEUGEOT APP",
-      "developer": "Automobiles Peugeot",
-      "url": "https://apps.apple.com/fr/app/mypeugeot-app/id1021587274?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/09/6e/0b096e38-5268-d6ee-50ac-9f0929d7c802/app_launcher_icon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2016-05-18",
+      "rank": 39,
+      "id": "986324701",
+      "name": "RED & Moi",
+      "developer": "SFR",
+      "url": "https://apps.apple.com/fr/app/red-moi/id986324701?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/fe/0b/dcfe0bf7-edac-7186-6a11-fac5bd0cbc0b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-05-09",
       "genres": [
         {
           "id": "6002",
@@ -728,13 +632,13 @@
       ]
     },
     {
-      "rank": 46,
-      "id": "6771282051",
-      "name": "PDF Scanner - File Reader",
-      "developer": "Fuzhou Xuanlong Technology Co., Ltd.",
-      "url": "https://apps.apple.com/fr/app/pdf-scanner-file-reader/id6771282051?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/15/a4/2b15a4ee-ba59-8936-4683-051b1c2d3aa1/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-05-25",
+      "rank": 40,
+      "id": "605569663",
+      "name": "Amerigo File Manager",
+      "developer": "IdeaSolutions S.r.l.",
+      "url": "https://apps.apple.com/fr/app/amerigo-file-manager/id605569663?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/f8/8f/dcf88f4a-5850-0687-c5f7-9ca7976241be/AppIcon_amerigo_free-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-03-04",
       "genres": [
         {
           "id": "6002",
@@ -744,13 +648,13 @@
       ]
     },
     {
-      "rank": 47,
-      "id": "869919405",
-      "name": "Affluences",
-      "developer": "Affluences",
-      "url": "https://apps.apple.com/fr/app/affluences/id869919405?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/94/0b/04940be5-e445-8ad1-c567-4770ea8ed56f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-07-05",
+      "rank": 41,
+      "id": "1485152030",
+      "name": "Immatriculation Scanner",
+      "developer": "Etienne Guillou",
+      "url": "https://apps.apple.com/fr/app/immatriculation-scanner/id1485152030?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/3d/6f/9c3d6f00-76b8-4e88-40fa-61a9c9ab748c/icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-12-07",
       "genres": [
         {
           "id": "6002",
@@ -760,13 +664,13 @@
       ]
     },
     {
-      "rank": 48,
-      "id": "1605740783",
-      "name": "Roole Premium",
-      "developer": "Identicar",
-      "url": "https://apps.apple.com/fr/app/roole-premium/id1605740783?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/d0/a5/a9d0a57a-bbb6-1818-0cfd-560ab29ba4f0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2022-02-17",
+      "rank": 42,
+      "id": "393290235",
+      "name": "Direct Assurance",
+      "developer": "Direct Assurance",
+      "url": "https://apps.apple.com/fr/app/direct-assurance/id393290235?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a2/1d/90a21dcd-496e-5d8f-dd5e-9261db92925f/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2010-10-01",
       "genres": [
         {
           "id": "6002",
@@ -776,7 +680,23 @@
       ]
     },
     {
-      "rank": 49,
+      "rank": 43,
+      "id": "6788328354",
+      "name": "Translate Genie",
+      "developer": "Fuzhou Zhiyue Interactive Technology Co.,Ltd",
+      "url": "https://apps.apple.com/fr/app/translate-genie/id6788328354?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b7/58/c3b758f1-8b79-5379-e346-63ca3c408fec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-07-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
       "id": "6447694479",
       "name": "Lyca Mobile FR",
       "developer": "Lyca Digital Private Limited",
@@ -792,13 +712,13 @@
       ]
     },
     {
-      "rank": 50,
-      "id": "1463342498",
-      "name": "NextDNS",
-      "developer": "nextdns Inc.",
-      "url": "https://apps.apple.com/fr/app/nextdns/id1463342498?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/cb/72/eacb72ff-4b3a-f298-5d3b-c76cd4e17f45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-08-09",
+      "rank": 45,
+      "id": "929638366",
+      "name": "e-constat auto",
+      "developer": "DARVA",
+      "url": "https://apps.apple.com/fr/app/e-constat-auto/id929638366?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/28/a6/ee28a6f8-3a25-ef15-1a9b-a902f202606f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2014-11-30",
       "genres": [
         {
           "id": "6002",
@@ -808,7 +728,23 @@
       ]
     },
     {
-      "rank": 51,
+      "rank": 46,
+      "id": "1021587274",
+      "name": "MYPEUGEOT APP",
+      "developer": "Automobiles Peugeot",
+      "url": "https://apps.apple.com/fr/app/mypeugeot-app/id1021587274?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/09/6e/0b096e38-5268-d6ee-50ac-9f0929d7c802/app_launcher_icon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-05-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
       "id": "1564419343",
       "name": "Dreamehome",
       "developer": "Dreame Innovation Technology (Suzhou) Co., Ltd.",
@@ -824,7 +760,7 @@
       ]
     },
     {
-      "rank": 52,
+      "rank": 48,
       "id": "1547799669",
       "name": "Simplimmat",
       "developer": "Agence nationale des titres securises",
@@ -840,7 +776,55 @@
       ]
     },
     {
-      "rank": 53,
+      "rank": 49,
+      "id": "6615084047",
+      "name": "Klub App",
+      "developer": "Rhinos Solutions",
+      "url": "https://apps.apple.com/fr/app/klub-app/id6615084047?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/c9/fb/e9c9fb80-da42-7128-92a6-6d91c035c3b8/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2024-08-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1670649189",
+      "name": "Télécommande Universelle - TV",
+      "developer": "Zap Software Studio BV",
+      "url": "https://apps.apple.com/fr/app/t%C3%A9l%C3%A9commande-universelle-tv/id1670649189?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/14/be/a514beb4-cf8f-53e0-47e0-3c6ba80da3ff/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-02-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "6771282051",
+      "name": "PDF Scanner - File Reader",
+      "developer": "Fuzhou Xuanlong Technology Co., Ltd.",
+      "url": "https://apps.apple.com/fr/app/pdf-scanner-file-reader/id6771282051?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/15/a4/2b15a4ee-ba59-8936-4683-051b1c2d3aa1/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-05-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
       "id": "1440073013",
       "name": "My Renault",
       "developer": "Renault",
@@ -856,13 +840,29 @@
       ]
     },
     {
+      "rank": 53,
+      "id": "1605740783",
+      "name": "Roole Premium",
+      "developer": "Identicar",
+      "url": "https://apps.apple.com/fr/app/roole-premium/id1605740783?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/d0/a5/a9d0a57a-bbb6-1818-0cfd-560ab29ba4f0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2022-02-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 54,
-      "id": "1181371766",
-      "name": "Bien’ici - Achat & Location",
-      "developer": "Bien'ici",
-      "url": "https://apps.apple.com/fr/app/bienici-achat-location/id1181371766?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/96/07/81/9607812e-b002-37c5-737d-cae60b41ab43/AppIcon-0-1x_U007emarketing-0-85-220-7.png/100x100bb.png",
-      "release_date": "2017-06-08",
+      "id": "1641291989",
+      "name": "Amerigo Musique-Offline Music",
+      "developer": "Offline Music Limited",
+      "url": "https://apps.apple.com/fr/app/amerigo-musique-offline-music/id1641291989?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7c/83/5f7c833f-7604-6732-3680-18e582a50eaa/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-09-27",
       "genres": [
         {
           "id": "6002",
@@ -873,12 +873,12 @@
     },
     {
       "rank": 55,
-      "id": "6615084047",
-      "name": "Klub App",
-      "developer": "Rhinos Solutions",
-      "url": "https://apps.apple.com/fr/app/klub-app/id6615084047?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/c9/fb/e9c9fb80-da42-7128-92a6-6d91c035c3b8/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2024-08-30",
+      "id": "1181371766",
+      "name": "Bien’ici - Achat & Location",
+      "developer": "Bien'ici",
+      "url": "https://apps.apple.com/fr/app/bienici-achat-location/id1181371766?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/96/07/81/9607812e-b002-37c5-737d-cae60b41ab43/AppIcon-0-1x_U007emarketing-0-85-220-7.png/100x100bb.png",
+      "release_date": "2017-06-08",
       "genres": [
         {
           "id": "6002",
@@ -905,38 +905,6 @@
     },
     {
       "rank": 57,
-      "id": "6760458257",
-      "name": "QRCode Scanner · CodeGenerator",
-      "developer": "Wellresion Limited",
-      "url": "https://apps.apple.com/fr/app/qrcode-scanner-codegenerator/id6760458257?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/24/90/5f2490a5-4094-4aa3-a262-01fbb4ab2be4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-03-23",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "1641291989",
-      "name": "Amerigo Musique-Offline Music",
-      "developer": "Offline Music Limited",
-      "url": "https://apps.apple.com/fr/app/amerigo-musique-offline-music/id1641291989?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7c/83/5f7c833f-7604-6732-3680-18e582a50eaa/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-09-27",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
       "id": "1034649547",
       "name": "Tuya: Smart Life, Smart Living",
       "developer": "Tuya Smart Inc.",
@@ -952,23 +920,7 @@
       ]
     },
     {
-      "rank": 60,
-      "id": "1670649189",
-      "name": "Télécommande Universelle - TV",
-      "developer": "Zap Software Studio BV",
-      "url": "https://apps.apple.com/fr/app/t%C3%A9l%C3%A9commande-universelle-tv/id1670649189?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/14/be/a514beb4-cf8f-53e0-47e0-3c6ba80da3ff/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2023-02-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
+      "rank": 58,
       "id": "1317652970",
       "name": "Garmin Connect IQ™",
       "developer": "Garmin",
@@ -984,39 +936,7 @@
       ]
     },
     {
-      "rank": 62,
-      "id": "1045590509",
-      "name": "Ma Matmut",
-      "developer": "Matmut",
-      "url": "https://apps.apple.com/fr/app/ma-matmut/id1045590509?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/8e/a4/908ea44a-b792-85c6-330d-7c782824835e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2015-12-17",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "1047223162",
-      "name": "AdGuard Ad Blocker pour Safari",
-      "developer": "Adguard Software Limited",
-      "url": "https://apps.apple.com/fr/app/adguard-ad-blocker-pour-safari/id1047223162?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c1/c7/28c1c783-56cd-f281-e08d-b7d64f85195a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-10-24",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
+      "rank": 59,
       "id": "1150085200",
       "name": "Google Family Link",
       "developer": "Google",
@@ -1032,23 +952,7 @@
       ]
     },
     {
-      "rank": 65,
-      "id": "1048473097",
-      "name": "QR Code & Barcode Scanner",
-      "developer": "TeaCapps",
-      "url": "https://apps.apple.com/fr/app/qr-code-barcode-scanner/id1048473097?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/a7/e8/34a7e8ae-dd74-bf88-8cab-51c72c3e0ff2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "release_date": "2016-06-15",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
+      "rank": 60,
       "id": "6745494895",
       "name": "iQR Scanner Pro",
       "developer": "thuy nguyen thi thu",
@@ -1064,119 +968,7 @@
       ]
     },
     {
-      "rank": 67,
-      "id": "1168502924",
-      "name": "Sony | Sound Connect",
-      "developer": "Sony Corporation",
-      "url": "https://apps.apple.com/fr/app/sony-sound-connect/id1168502924?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/bf/2b/84bf2b5d-0e1b-3e1e-a53b-152b9ed75d39/AppIcon-0-0-1x_U007emarketing-0-3-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "release_date": "2017-02-28",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "670881887",
-      "name": "Ecosia : recherchez, plantez",
-      "developer": "Ecosia GmbH",
-      "url": "https://apps.apple.com/fr/app/ecosia-recherchez-plantez/id670881887?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b6/3d/72b63db5-a86e-4f6d-3274-58865bf55ae7/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2013-08-12",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "887799154",
-      "name": "Mon Allianz mobile",
-      "developer": "ALLIANZ IARD",
-      "url": "https://apps.apple.com/fr/app/mon-allianz-mobile/id887799154?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/5a/b7/b55ab7ba-f0f9-9027-7a56-58b0491a9d62/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-07-05",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
-      "id": "1504076137",
-      "name": "geteduroam",
-      "developer": "SURF B.V.",
-      "url": "https://apps.apple.com/fr/app/geteduroam/id1504076137?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e0/cb/d7e0cb0e-f81a-a5aa-fc1d-b7334b3034ba/AppIcon-0-1x_U007epad-0-1-0-sRGB-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-06-15",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1642486161",
-      "name": "Mon Pajemploi au quotidien",
-      "developer": "AGCE CTRALE ORGANISMES SECURITE SOCIALE",
-      "url": "https://apps.apple.com/fr/app/mon-pajemploi-au-quotidien/id1642486161?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/ed/90e6ed91-87a2-7cf1-54b9-b53d57874afb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-09-06",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "1103739976",
-      "name": "Gens de Confiance",
-      "developer": "GensDeConfiance SAS",
-      "url": "https://apps.apple.com/fr/app/gens-de-confiance/id1103739976?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/64/db/3164db2e-3968-6077-82b6-cea712ce36d0/GDCIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-10-23",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "1634176820",
-      "name": "TrustMe: Identité Numérique",
-      "developer": "A3BC",
-      "url": "https://apps.apple.com/fr/app/trustme-identit%C3%A9-num%C3%A9rique/id1634176820?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/ec/17/4eec170e-3706-d801-dcd4-4601aa9f87dd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-16",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
+      "rank": 61,
       "id": "1410235921",
       "name": "Planet Free VPN ™ Super Proxy",
       "developer": "FREE VPN PLANET S R L",
@@ -1192,13 +984,221 @@
       ]
     },
     {
-      "rank": 75,
+      "rank": 62,
+      "id": "869919405",
+      "name": "Affluences",
+      "developer": "Affluences",
+      "url": "https://apps.apple.com/fr/app/affluences/id869919405?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/94/0b/04940be5-e445-8ad1-c567-4770ea8ed56f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-07-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "670881887",
+      "name": "Ecosia : recherchez, plantez",
+      "developer": "Ecosia GmbH",
+      "url": "https://apps.apple.com/fr/app/ecosia-recherchez-plantez/id670881887?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b6/3d/72b63db5-a86e-4f6d-3274-58865bf55ae7/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2013-08-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
       "id": "448142450",
       "name": "Truecaller: Sais qui t'appelle",
       "developer": "True Software Scandinavia AB",
       "url": "https://apps.apple.com/fr/app/truecaller-sais-qui-tappelle/id448142450?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/02/74/51027449-bb2b-0441-6ce9-8a59f2d7789c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "release_date": "2011-07-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1168502924",
+      "name": "Sony | Sound Connect",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/fr/app/sony-sound-connect/id1168502924?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/bf/2b/84bf2b5d-0e1b-3e1e-a53b-152b9ed75d39/AppIcon-0-0-1x_U007emarketing-0-3-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1463342498",
+      "name": "NextDNS",
+      "developer": "nextdns Inc.",
+      "url": "https://apps.apple.com/fr/app/nextdns/id1463342498?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/cb/72/eacb72ff-4b3a-f298-5d3b-c76cd4e17f45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-08-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6766070732",
+      "name": "The Cringe: Chat Wrapped",
+      "developer": "VASTE COMPANY LLC",
+      "url": "https://apps.apple.com/fr/app/the-cringe-chat-wrapped/id6766070732?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c4/5b/5cc45b8d-dd14-522b-9137-4277b5806385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "6760458257",
+      "name": "QRCode Scanner · CodeGenerator",
+      "developer": "Wellresion Limited",
+      "url": "https://apps.apple.com/fr/app/qrcode-scanner-codegenerator/id6760458257?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/24/90/5f2490a5-4094-4aa3-a262-01fbb4ab2be4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "1047223162",
+      "name": "AdGuard Ad Blocker pour Safari",
+      "developer": "Adguard Software Limited",
+      "url": "https://apps.apple.com/fr/app/adguard-ad-blocker-pour-safari/id1047223162?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c1/c7/28c1c783-56cd-f281-e08d-b7d64f85195a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-10-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1045590509",
+      "name": "Ma Matmut",
+      "developer": "Matmut",
+      "url": "https://apps.apple.com/fr/app/ma-matmut/id1045590509?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/8e/a4/908ea44a-b792-85c6-330d-7c782824835e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-12-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "1587316791",
+      "name": "Lens: Recherche & Traduction",
+      "developer": "Macro Tap Apps Limited",
+      "url": "https://apps.apple.com/fr/app/lens-recherche-traduction/id1587316791?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/19/b3/ac19b3fe-ab4f-ddef-8489-ba0cadf03d28/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-10-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "1531594277",
+      "name": "Color Widgets: Icône et Thèmes",
+      "developer": "Digital Charms, Inc.",
+      "url": "https://apps.apple.com/fr/app/color-widgets-ic%C3%B4ne-et-th%C3%A8mes/id1531594277?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c5/a9/a4c5a98c-737b-5766-7f66-810b629123b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-09-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1484302191",
+      "name": "Segway Mobility",
+      "developer": "Ninebot (Beijing) Tech Co., Ltd.",
+      "url": "https://apps.apple.com/fr/app/segway-mobility/id1484302191?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/61/6c/bb616c82-2f26-fdf5-4156-a44639af3180/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-01-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1454061614",
+      "name": "Fonts",
+      "developer": "Fonts ApS",
+      "url": "https://apps.apple.com/fr/app/fonts/id1454061614?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/40/53/394053b6-552e-0651-3155-d22bd62d4a35/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-02-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "887799154",
+      "name": "Mon Allianz mobile",
+      "developer": "ALLIANZ IARD",
+      "url": "https://apps.apple.com/fr/app/mon-allianz-mobile/id887799154?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/5a/b7/b55ab7ba-f0f9-9027-7a56-58b0491a9d62/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-07-05",
       "genres": [
         {
           "id": "6002",
@@ -1225,12 +1225,12 @@
     },
     {
       "rank": 77,
-      "id": "1587316791",
-      "name": "Lens: Recherche & Traduction",
-      "developer": "Macro Tap Apps Limited",
-      "url": "https://apps.apple.com/fr/app/lens-recherche-traduction/id1587316791?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/19/b3/ac19b3fe-ab4f-ddef-8489-ba0cadf03d28/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-10-01",
+      "id": "1048473097",
+      "name": "QR Code & Barcode Scanner",
+      "developer": "TeaCapps",
+      "url": "https://apps.apple.com/fr/app/qr-code-barcode-scanner/id1048473097?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/a7/e8/34a7e8ae-dd74-bf88-8cab-51c72c3e0ff2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2016-06-15",
       "genres": [
         {
           "id": "6002",
@@ -1241,12 +1241,12 @@
     },
     {
       "rank": 78,
-      "id": "1484302191",
-      "name": "Segway Mobility",
-      "developer": "Ninebot (Beijing) Tech Co., Ltd.",
-      "url": "https://apps.apple.com/fr/app/segway-mobility/id1484302191?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/61/6c/bb616c82-2f26-fdf5-4156-a44639af3180/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2020-01-19",
+      "id": "1634176820",
+      "name": "TrustMe: Identité Numérique",
+      "developer": "A3BC",
+      "url": "https://apps.apple.com/fr/app/trustme-identit%C3%A9-num%C3%A9rique/id1634176820?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/ec/17/4eec170e-3706-d801-dcd4-4601aa9f87dd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-16",
       "genres": [
         {
           "id": "6002",
@@ -1257,22 +1257,6 @@
     },
     {
       "rank": 79,
-      "id": "1454061614",
-      "name": "Fonts",
-      "developer": "Fonts ApS",
-      "url": "https://apps.apple.com/fr/app/fonts/id1454061614?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/40/53/394053b6-552e-0651-3155-d22bd62d4a35/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2019-02-24",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 80,
       "id": "1571429529",
       "name": "Samsung Smart Switch Mobile",
       "developer": "Samsung Electronics Co., Ltd.",
@@ -1288,87 +1272,23 @@
       ]
     },
     {
+      "rank": 80,
+      "id": "1642486161",
+      "name": "Mon Pajemploi au quotidien",
+      "developer": "AGCE CTRALE ORGANISMES SECURITE SOCIALE",
+      "url": "https://apps.apple.com/fr/app/mon-pajemploi-au-quotidien/id1642486161?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/ed/90e6ed91-87a2-7cf1-54b9-b53d57874afb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-09-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 81,
-      "id": "1531594277",
-      "name": "Color Widgets: Icône et Thèmes",
-      "developer": "Digital Charms, Inc.",
-      "url": "https://apps.apple.com/fr/app/color-widgets-ic%C3%B4ne-et-th%C3%A8mes/id1531594277?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c5/a9/a4c5a98c-737b-5766-7f66-810b629123b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-09-17",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 82,
-      "id": "872559395",
-      "name": "FreeOTP Authenticator",
-      "developer": "Red Hat",
-      "url": "https://apps.apple.com/fr/app/freeotp-authenticator/id872559395?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/76/8c/70768c92-fb8e-42cc-1d2f-9e6613164aed/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "release_date": "2014-05-13",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 83,
-      "id": "1441313724",
-      "name": "Orange Téléphone - Anti-spam",
-      "developer": "Orange",
-      "url": "https://apps.apple.com/fr/app/orange-t%C3%A9l%C3%A9phone-anti-spam/id1441313724?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/1c/5e/bc1c5ee7-a466-ca9a-6cda-2dc960030719/DynamicAppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-12-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 84,
-      "id": "1181961735",
-      "name": "MON ESPACE LA POSTE MOBILE",
-      "developer": "La Poste Telecom",
-      "url": "https://apps.apple.com/fr/app/mon-espace-la-poste-mobile/id1181961735?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/30/39/d83039d1-16fc-6091-ac3d-1199d07c58da/AppIcon-prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-10",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 85,
-      "id": "1625641322",
-      "name": "TOTP Authenticator",
-      "developer": "Sparrow Code LTD",
-      "url": "https://apps.apple.com/fr/app/totp-authenticator/id1625641322?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/e8/b5/13e8b537-6fe0-ba9d-9d00-664a38a8878a/app-icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-06-17",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 86,
       "id": "6443877058",
       "name": "Télécommande Universelle TV・",
       "developer": "toggle apps",
@@ -1384,13 +1304,13 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "6766070732",
-      "name": "The Cringe: Chat Wrapped",
-      "developer": "VASTE COMPANY LLC",
-      "url": "https://apps.apple.com/fr/app/the-cringe-chat-wrapped/id6766070732?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c4/5b/5cc45b8d-dd14-522b-9137-4277b5806385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-08",
+      "rank": 82,
+      "id": "1103739976",
+      "name": "Gens de Confiance",
+      "developer": "GensDeConfiance SAS",
+      "url": "https://apps.apple.com/fr/app/gens-de-confiance/id1103739976?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/64/db/3164db2e-3968-6077-82b6-cea712ce36d0/GDCIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-10-23",
       "genres": [
         {
           "id": "6002",
@@ -1400,7 +1320,7 @@
       ]
     },
     {
-      "rank": 88,
+      "rank": 83,
       "id": "1526408639",
       "name": "VIDAA",
       "developer": "V America Operations Inc.",
@@ -1416,13 +1336,13 @@
       ]
     },
     {
-      "rank": 89,
-      "id": "1252962749",
-      "name": "NFC Tools",
-      "developer": "wakdev",
-      "url": "https://apps.apple.com/fr/app/nfc-tools/id1252962749?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/bc/d8/56bcd863-34d0-8486-d4ff-48354caab21e/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-19",
+      "rank": 84,
+      "id": "6775737387",
+      "name": "GeoScope: GPS Map Camera",
+      "developer": "JOYLINK NETWORK TECH LIMITED",
+      "url": "https://apps.apple.com/fr/app/geoscope-gps-map-camera/id6775737387?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/df/9d/badf9d3b-9dab-d253-303b-6627c1d4482e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-09",
       "genres": [
         {
           "id": "6002",
@@ -1432,13 +1352,13 @@
       ]
     },
     {
-      "rank": 90,
-      "id": "1327772016",
-      "name": "PrestoPark",
-      "developer": "IEM S.A.",
-      "url": "https://apps.apple.com/fr/app/prestopark/id1327772016?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/99/40/1d99408f-b904-a580-7e1a-a60ce11b4d9c/AppIconPrestoPark-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
-      "release_date": "2018-01-12",
+      "rank": 85,
+      "id": "6800211040",
+      "name": "CarTV - M3U IPTV Auto",
+      "developer": "Lyntra Technology Ltd",
+      "url": "https://apps.apple.com/fr/app/cartv-m3u-iptv-auto/id6800211040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/f3/d5/7ef3d591-943e-29ad-a067-13df832ea912/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-16",
       "genres": [
         {
           "id": "6002",
@@ -1448,7 +1368,39 @@
       ]
     },
     {
-      "rank": 91,
+      "rank": 86,
+      "id": "6761452136",
+      "name": "Cast TV Miroir Ecran",
+      "developer": "Heer Patel",
+      "url": "https://apps.apple.com/fr/app/cast-tv-miroir-ecran/id6761452136?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/c3/3b/9dc33b5e-94ba-d843-a280-39d767897d84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1181961735",
+      "name": "MON ESPACE LA POSTE MOBILE",
+      "developer": "La Poste Telecom",
+      "url": "https://apps.apple.com/fr/app/mon-espace-la-poste-mobile/id1181961735?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/30/39/d83039d1-16fc-6091-ac3d-1199d07c58da/AppIcon-prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
       "id": "1528834650",
       "name": "carVertical: Check Car History",
       "developer": "CV Group",
@@ -1464,7 +1416,7 @@
       ]
     },
     {
-      "rank": 92,
+      "rank": 89,
       "id": "1583884012",
       "name": "Swipewipe: Nettoyer Photos",
       "developer": "MWM",
@@ -1480,13 +1432,13 @@
       ]
     },
     {
-      "rank": 93,
-      "id": "300704847",
-      "name": "Speedtest Test Débit Internet",
-      "developer": "Ookla",
-      "url": "https://apps.apple.com/fr/app/speedtest-test-d%C3%A9bit-internet/id300704847?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/69/68/076968d6-6ef2-0030-007d-5cafdfd5d358/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2009-01-03",
+      "rank": 90,
+      "id": "6755033589",
+      "name": "myCar: Car Widgets & Dashboard",
+      "developer": "DOFUapps",
+      "url": "https://apps.apple.com/fr/app/mycar-car-widgets-dashboard/id6755033589?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/9b/a8/199ba807-19ae-10da-4bfd-6c9d35a919df/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-20",
       "genres": [
         {
           "id": "6002",
@@ -1496,55 +1448,7 @@
       ]
     },
     {
-      "rank": 94,
-      "id": "1473822730",
-      "name": "My Verisure",
-      "developer": "Securitas Direct",
-      "url": "https://apps.apple.com/fr/app/my-verisure/id1473822730?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ce/71/3bce7109-9d4d-3e83-b588-5f359c8f094b/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-05-04",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "775825739",
-      "name": "Veolia & moi - Eau",
-      "developer": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX",
-      "url": "https://apps.apple.com/fr/app/veolia-moi-eau/id775825739?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/45/49/cd45497e-60df-6026-990b-0fa14e5317db/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2013-12-17",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "1516235668",
-      "name": "Brother Mobile Connect",
-      "developer": "Brother Industries, LTD.",
-      "url": "https://apps.apple.com/fr/app/brother-mobile-connect/id1516235668?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2f/1d/8a2f1dc2-0eb7-3ae3-9d9d-44b1370069d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-05-31",
-      "genres": [
-        {
-          "id": "6002",
-          "name": "Utilitaires",
-          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
+      "rank": 91,
       "id": "6477382010",
       "name": "Télécommande Universelle・iMote",
       "developer": "VISARGERD, S.L.",
@@ -1560,7 +1464,7 @@
       ]
     },
     {
-      "rank": 98,
+      "rank": 92,
       "id": "599496594",
       "name": "TP-Link Tether",
       "developer": "TP-Link Systems Inc.",
@@ -1576,13 +1480,109 @@
       ]
     },
     {
+      "rank": 93,
+      "id": "1252962749",
+      "name": "NFC Tools",
+      "developer": "wakdev",
+      "url": "https://apps.apple.com/fr/app/nfc-tools/id1252962749?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/bc/d8/56bcd863-34d0-8486-d4ff-48354caab21e/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6759446689",
+      "name": "Lumio Cleaner App",
+      "developer": "BRAKUS d.o.o.",
+      "url": "https://apps.apple.com/fr/app/lumio-cleaner-app/id6759446689?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/29/20/4e292050-9580-ad91-fe64-be5c98dcd6bb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1473822730",
+      "name": "My Verisure",
+      "developer": "Securitas Direct",
+      "url": "https://apps.apple.com/fr/app/my-verisure/id1473822730?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ce/71/3bce7109-9d4d-3e83-b588-5f359c8f094b/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-05-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6448163027",
+      "name": "Love8 - Appli pour les couples",
+      "developer": "Chongqing Daole Er Technology Co., Ltd",
+      "url": "https://apps.apple.com/fr/app/love8-appli-pour-les-couples/id6448163027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/14/8d/b9148d3e-1158-77fd-e1af-32a87de9867f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-05-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "300704847",
+      "name": "Speedtest Test Débit Internet",
+      "developer": "Ookla",
+      "url": "https://apps.apple.com/fr/app/speedtest-test-d%C3%A9bit-internet/id300704847?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/69/68/076968d6-6ef2-0030-007d-5cafdfd5d358/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2009-01-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "872559395",
+      "name": "FreeOTP Authenticator",
+      "developer": "Red Hat",
+      "url": "https://apps.apple.com/fr/app/freeotp-authenticator/id872559395?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/76/8c/70768c92-fb8e-42cc-1d2f-9e6613164aed/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-05-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Utilitaires",
+          "url": "https://apps.apple.com/fr/genre/ios-utilitaires/id6002?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 99,
-      "id": "1019563307",
-      "name": "MyCitroën",
-      "developer": "Automobiles CITROEN",
-      "url": "https://apps.apple.com/fr/app/mycitro%C3%ABn/id1019563307?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/d2/3a/43d23abd-7a35-71ff-c6dc-0331f6ccf1c3/app_launcher_icon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2016-05-25",
+      "id": "1504076137",
+      "name": "geteduroam",
+      "developer": "SURF B.V.",
+      "url": "https://apps.apple.com/fr/app/geteduroam/id1504076137?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e0/cb/d7e0cb0e-f81a-a5aa-fc1d-b7334b3034ba/AppIcon-0-1x_U007epad-0-1-0-sRGB-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-06-15",
       "genres": [
         {
           "id": "6002",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "6761452136",
-      "name": "Cast TV Miroir Ecran",
-      "developer": "Heer Patel",
-      "url": "https://apps.apple.com/fr/app/cast-tv-miroir-ecran/id6761452136?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/c3/3b/9dc33b5e-94ba-d843-a280-39d767897d84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-07",
+      "id": "942996042",
+      "name": "Onoff Numbers",
+      "developer": "ONOFFAPP",
+      "url": "https://apps.apple.com/fr/app/onoff-numbers/id942996042?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/16/f8/0a16f8dc-9f38-669c-c0c2-57fda4d25d3a/Onoff_Numbers_Variant_1-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-02-24",
       "genres": [
         {
           "id": "6002",

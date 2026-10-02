@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-02T00:11:01.717404+09:00",
+  "collected_at": "2026-10-02T18:11:16.607260+09:00",
   "date": "2026-10-02",
   "country": "jp",
   "chart": "top-free",
@@ -25,22 +25,6 @@
     },
     {
       "rank": 2,
-      "id": "830340223",
-      "name": "TVer(ティーバー) 民放公式テレビ配信サービス",
-      "developer": "TVer INC.",
-      "url": "https://apps.apple.com/jp/app/tver-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-%E6%B0%91%E6%94%BE%E5%85%AC%E5%BC%8F%E3%83%86%E3%83%AC%E3%83%93%E9%85%8D%E4%BF%A1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/id830340223?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/bb/cb/2cbbcb2b-3209-1d30-a76d-7fcc3b2b9808/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2014-03-27",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "id": "363590051",
       "name": "Netflix",
       "developer": "Netflix, Inc.",
@@ -56,12 +40,12 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "882477693",
       "name": "U-NEXT - 映画やドラマ、アニメなどの動画が見放題",
       "developer": "U-NEXT Co.,Ltd.",
       "url": "https://apps.apple.com/jp/app/u-next-%E6%98%A0%E7%94%BB%E3%82%84%E3%83%89%E3%83%A9%E3%83%9E-%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AA%E3%81%A9%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%8C%E8%A6%8B%E6%94%BE%E9%A1%8C/id882477693?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/57/ed/9357ede4-9725-5836-2d80-3d7fe013244d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/31/6a/bd316abf-9655-c9a4-3061-c9835d7139d8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "release_date": "2014-09-10",
       "genres": [
         {
@@ -72,7 +56,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "6447160980",
       "name": "TikTok Lite",
       "developer": "TikTok Ltd.",
@@ -88,7 +72,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "1619030760",
       "name": "zeta - AIキャラ・あなたの推しとロールプレイチャット",
       "developer": "Scatter Lab, Inc.",
@@ -104,13 +88,29 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "6670430706",
       "name": "DramaWave - 日本 / 韓国 / 人気短編ドラマ",
       "developer": "SKYWORK AI PTE LTD",
       "url": "https://apps.apple.com/jp/app/dramawave-%E6%97%A5%E6%9C%AC-%E9%9F%93%E5%9B%BD-%E4%BA%BA%E6%B0%97%E7%9F%AD%E7%B7%A8%E3%83%89%E3%83%A9%E3%83%9E/id6670430706?uo=2",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "release_date": "2024-10-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "830340223",
+      "name": "TVer(ティーバー) 民放公式テレビ配信サービス",
+      "developer": "TVer INC.",
+      "url": "https://apps.apple.com/jp/app/tver-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-%E6%B0%91%E6%94%BE%E5%85%AC%E5%BC%8F%E3%83%86%E3%83%AC%E3%83%93%E9%85%8D%E4%BF%A1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/id830340223?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/bb/cb/2cbbcb2b-3209-1d30-a76d-7fcc3b2b9808/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
       "genres": [
         {
           "id": "6016",
@@ -157,7 +157,7 @@
       "name": "Disney+",
       "developer": "Disney",
       "url": "https://apps.apple.com/jp/app/disney/id1446075923?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/a3/33/5aa333ba-cc14-bead-a8e5-4345b87cc887/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/79/44/e2794444-d60f-189b-96d9-c403617c0751/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "release_date": "2021-10-26",
       "genres": [
         {
@@ -169,22 +169,6 @@
     },
     {
       "rank": 11,
-      "id": "590190880",
-      "name": "ゲオ　クーポンが貰える！ゲーム予約もできる！",
-      "developer": "GEO CORPORATION",
-      "url": "https://apps.apple.com/jp/app/%E3%82%B2%E3%82%AA-%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%E3%81%8C%E8%B2%B0%E3%81%88%E3%82%8B-%E3%82%B2%E3%83%BC%E3%83%A0%E4%BA%88%E7%B4%84%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B/id590190880?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/af/fe/bbaffe46-7ae6-3ad8-aa58-334c2606b371/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
-      "release_date": "2013-02-01",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 12,
       "id": "1313147771",
       "name": "Tokyo Disney Resort App",
       "developer": "Oriental Land Co., Ltd.",
@@ -200,23 +184,7 @@
       ]
     },
     {
-      "rank": 13,
-      "id": "1641218070",
-      "name": "Lemino／レミノ：音楽ライブやスポーツ、ドラマ等が見放題",
-      "developer": "株式会社NTTドコモ",
-      "url": "https://apps.apple.com/jp/app/lemino-%E3%83%AC%E3%83%9F%E3%83%8E-%E9%9F%B3%E6%A5%BD%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E3%83%89%E3%83%A9%E3%83%9E%E7%AD%89%E3%81%8C%E8%A6%8B%E6%94%BE%E9%A1%8C/id1641218070?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/7d/f0/5e7df072-f05b-c6ad-4bb8-50578e4e111f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-11",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "id": "545519333",
       "name": "Amazon Prime Video",
       "developer": "AMZN Mobile LLC",
@@ -232,87 +200,7 @@
       ]
     },
     {
-      "rank": 15,
-      "id": "6474245691",
-      "name": "MERCH MARKET Goods App",
-      "developer": "Sony Music Solutions Inc.",
-      "url": "https://apps.apple.com/jp/app/merch-market-goods-app/id6474245691?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/b0/46/beb046bc-c967-2bfd-932e-56545fbcea08/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-03-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 16,
-      "id": "1630710367",
-      "name": "BUMP - ショートドラマ / Short Drama",
-      "developer": "emole株式会社",
-      "url": "https://apps.apple.com/jp/app/bump-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E-short-drama/id1630710367?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/79/b4/a279b468-9472-349d-4dce-4880d03b38e8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-21",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "id": "6747368440",
-      "name": "NHK ONE（NHKプラス）",
-      "developer": "NHK (Japan Broadcasting Corporation)",
-      "url": "https://apps.apple.com/jp/app/nhk-one-nhk%E3%83%97%E3%83%A9%E3%82%B9/id6747368440?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/a8/dd/b2a8ddef-7439-6f59-fcbd-cef30fddc921/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-10-01",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "id": "1175974437",
-      "name": "ローチケ電子チケット",
-      "developer": "Lawson Entertainment, Inc.",
-      "url": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%BC%E3%83%81%E3%82%B1%E9%9B%BB%E5%AD%90%E3%83%81%E3%82%B1%E3%83%83%E3%83%88/id1175974437?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2a/18/e52a18a3-df61-dacd-7acd-1b2bd2a69164/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2017-01-09",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "465887673",
-      "name": "e＋(イープラス)　チケット・ニュース・スマチケ",
-      "developer": "eplus inc.",
-      "url": "https://apps.apple.com/jp/app/e-%E3%82%A4%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B9-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E3%82%B9%E3%83%9E%E3%83%81%E3%82%B1/id465887673?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b1/2b/41b12bc6-eedd-2763-76ca-f11e9378c4f4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2011-10-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
+      "rank": 13,
       "id": "370515585",
       "name": "radiko",
       "developer": "radiko Co.,Ltd.",
@@ -328,13 +216,13 @@
       ]
     },
     {
-      "rank": 21,
-      "id": "1636235979",
-      "name": "ReelShort - オリジナル短尺ドラマ見放題",
-      "developer": "NewLeaf Publishing",
-      "url": "https://apps.apple.com/jp/app/reelshort-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E7%9F%AD%E5%B0%BA%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C/id1636235979?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-08-07",
+      "rank": 14,
+      "id": "465887673",
+      "name": "e＋(イープラス)　チケット・ニュース・スマチケ",
+      "developer": "eplus inc.",
+      "url": "https://apps.apple.com/jp/app/e-%E3%82%A4%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B9-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E3%82%B9%E3%83%9E%E3%83%81%E3%82%B1/id465887673?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b1/2b/41b12bc6-eedd-2763-76ca-f11e9378c4f4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-26",
       "genres": [
         {
           "id": "6016",
@@ -344,7 +232,71 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 15,
+      "id": "1630710367",
+      "name": "BUMP - ショートドラマ / Short Drama",
+      "developer": "emole株式会社",
+      "url": "https://apps.apple.com/jp/app/bump-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E-short-drama/id1630710367?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/79/b4/a279b468-9472-349d-4dce-4880d03b38e8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-21",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "1641218070",
+      "name": "Lemino／レミノ：音楽ライブやスポーツ、ドラマ等が見放題",
+      "developer": "株式会社NTTドコモ",
+      "url": "https://apps.apple.com/jp/app/lemino-%E3%83%AC%E3%83%9F%E3%83%8E-%E9%9F%B3%E6%A5%BD%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E3%83%89%E3%83%A9%E3%83%9E%E7%AD%89%E3%81%8C%E8%A6%8B%E6%94%BE%E9%A1%8C/id1641218070?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/7d/f0/5e7df072-f05b-c6ad-4bb8-50578e4e111f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-11",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "1175974437",
+      "name": "ローチケ電子チケット",
+      "developer": "Lawson Entertainment, Inc.",
+      "url": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%BC%E3%83%81%E3%82%B1%E9%9B%BB%E5%AD%90%E3%83%81%E3%82%B1%E3%83%83%E3%83%88/id1175974437?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2a/18/e52a18a3-df61-dacd-7acd-1b2bd2a69164/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2017-01-09",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "6747368440",
+      "name": "NHK ONE（NHKプラス）",
+      "developer": "NHK (Japan Broadcasting Corporation)",
+      "url": "https://apps.apple.com/jp/app/nhk-one-nhk%E3%83%97%E3%83%A9%E3%82%B9/id6747368440?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/a8/dd/b2a8ddef-7439-6f59-fcbd-cef30fddc921/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-01",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
       "id": "6781208015",
       "name": "Meki-推しにメロメロ、超没入型AIロールプレイ",
       "developer": "NATUREAITECHNOLOGY PTE. LTD.",
@@ -360,13 +312,61 @@
       ]
     },
     {
+      "rank": 20,
+      "id": "1636235979",
+      "name": "ReelShort - オリジナル短尺ドラマ見放題",
+      "developer": "NewLeaf Publishing",
+      "url": "https://apps.apple.com/jp/app/reelshort-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E7%9F%AD%E5%B0%BA%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C/id1636235979?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-08-07",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "6474245691",
+      "name": "MERCH MARKET Goods App",
+      "developer": "Sony Music Solutions Inc.",
+      "url": "https://apps.apple.com/jp/app/merch-market-goods-app/id6474245691?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/b0/46/beb046bc-c967-2bfd-932e-56545fbcea08/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-18",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "6723876042",
+      "name": "ミリオン-ショートドラマ見放題人気ドラマアプリMillion",
+      "developer": "FLASH Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C%E4%BA%BA%E6%B0%97%E3%83%89%E3%83%A9%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AAmillion/id6723876042?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/4d/9d/5f4d9dde-503b-9558-2e41-431783f7c671/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-18",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 23,
-      "id": "1509651539",
-      "name": "AnyPASS",
-      "developer": "avex entertainment Inc. JP",
-      "url": "https://apps.apple.com/jp/app/anypass/id1509651539?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/f4/07/6bf40786-8b13-21b5-21a5-483cbc135f0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-07-08",
+      "id": "590190880",
+      "name": "ゲオ　クーポンが貰える！ゲーム予約もできる！",
+      "developer": "GEO CORPORATION",
+      "url": "https://apps.apple.com/jp/app/%E3%82%B2%E3%82%AA-%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%E3%81%8C%E8%B2%B0%E3%81%88%E3%82%8B-%E3%82%B2%E3%83%BC%E3%83%A0%E4%BA%88%E7%B4%84%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B/id590190880?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/af/fe/bbaffe46-7ae6-3ad8-aa58-334c2606b371/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2013-02-01",
       "genres": [
         {
           "id": "6016",
@@ -377,12 +377,12 @@
     },
     {
       "rank": 24,
-      "id": "728214964",
-      "name": "dアニメストア　アニメ動画見放題アプリ/マルチデバイス対応",
-      "developer": "株式会社NTTドコモ",
-      "url": "https://apps.apple.com/jp/app/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2-%E3%82%A2%E3%83%8B%E3%83%A1%E5%8B%95%E7%94%BB%E8%A6%8B%E6%94%BE%E9%A1%8C%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%9E%E3%83%AB%E3%83%81%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%AF%BE%E5%BF%9C/id728214964?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/f9/5b/b8f95b04-a534-f834-c38a-86114b459c53/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2013-11-01",
+      "id": "1083839479",
+      "name": "Pontaパス",
+      "developer": "KDDI CORPORATION",
+      "url": "https://apps.apple.com/jp/app/ponta%E3%83%91%E3%82%B9/id1083839479?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/5e/e8/f95ee885-abb5-0ed4-4c55-a92a489f42f5/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2016-04-04",
       "genres": [
         {
           "id": "6016",
@@ -409,12 +409,12 @@
     },
     {
       "rank": 26,
-      "id": "6723876042",
-      "name": "ミリオン-ショートドラマ見放題人気ドラマアプリMillion",
-      "developer": "FLASH Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C%E4%BA%BA%E6%B0%97%E3%83%89%E3%83%A9%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AAmillion/id6723876042?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/4d/9d/5f4d9dde-503b-9558-2e41-431783f7c671/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-11-18",
+      "id": "1509651539",
+      "name": "AnyPASS",
+      "developer": "avex entertainment Inc. JP",
+      "url": "https://apps.apple.com/jp/app/anypass/id1509651539?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/f4/07/6bf40786-8b13-21b5-21a5-483cbc135f0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-07-08",
       "genres": [
         {
           "id": "6016",
@@ -425,54 +425,6 @@
     },
     {
       "rank": 27,
-      "id": "1083839479",
-      "name": "Pontaパス",
-      "developer": "KDDI CORPORATION",
-      "url": "https://apps.apple.com/jp/app/ponta%E3%83%91%E3%82%B9/id1083839479?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/5e/e8/f95ee885-abb5-0ed4-4c55-a92a489f42f5/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "release_date": "2016-04-04",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "id": "6784938552",
-      "name": "Sanrio characters Chat",
-      "developer": "SANRIO CO., LTD.",
-      "url": "https://apps.apple.com/jp/app/sanrio-characters-chat/id6784938552?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/1f/fa/e91ffa48-2539-f498-e11c-8f9290c69b28/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-27",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 29,
-      "id": "1523274037",
-      "name": "チケットぴあ",
-      "developer": "PIA corporation",
-      "url": "https://apps.apple.com/jp/app/%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%81%B4%E3%81%82/id1523274037?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/77/c1/f577c196-2aad-9c91-add1-45bf4db0b9b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-10-07",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 30,
       "id": "1584918838",
       "name": "DMM TV アニメ・ドラマ・映画・バラエティなどが見放題",
       "developer": "DMM.com LLC",
@@ -488,13 +440,61 @@
       ]
     },
     {
+      "rank": 28,
+      "id": "728214964",
+      "name": "dアニメストア　アニメ動画見放題アプリ/マルチデバイス対応",
+      "developer": "株式会社NTTドコモ",
+      "url": "https://apps.apple.com/jp/app/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2-%E3%82%A2%E3%83%8B%E3%83%A1%E5%8B%95%E7%94%BB%E8%A6%8B%E6%94%BE%E9%A1%8C%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%9E%E3%83%AB%E3%83%81%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%AF%BE%E5%BF%9C/id728214964?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/f9/5b/b8f95b04-a534-f834-c38a-86114b459c53/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2013-11-01",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "561632513",
+      "name": "Peatix(ピーティックス)",
+      "developer": "Peatix Inc",
+      "url": "https://apps.apple.com/jp/app/peatix-%E3%83%94%E3%83%BC%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9/id561632513?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/14/2c/c8142cc7-8741-0b7f-b9cf-64997b3012d3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2012-10-16",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "1523274037",
+      "name": "チケットぴあ",
+      "developer": "PIA corporation",
+      "url": "https://apps.apple.com/jp/app/%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%81%B4%E3%81%82/id1523274037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/77/c1/f577c196-2aad-9c91-add1-45bf4db0b9b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-10-07",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 31,
-      "id": "307764057",
-      "name": "ニコニコ動画-アニメやボカロ動画が見放題の動画アプリ",
-      "developer": "DWANGO Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB-%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%84%E3%83%9C%E3%82%AB%E3%83%AD%E5%8B%95%E7%94%BB%E3%81%8C%E8%A6%8B%E6%94%BE%E9%A1%8C%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%A2%E3%83%97%E3%83%AA/id307764057?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4f/8e/aa4f8e74-aa90-ee2b-b666-1914a68efd03/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2009-04-27",
+      "id": "6758667154",
+      "name": "VibeShort: AI人気ショートドラマ",
+      "developer": "AGILE QUADRANT MEDIA LIMITED",
+      "url": "https://apps.apple.com/jp/app/vibeshort-ai%E4%BA%BA%E6%B0%97%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E/id6758667154?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fd/63/c4fd63e4-d798-f4e8-7b4f-8d429183935a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-25",
       "genres": [
         {
           "id": "6016",
@@ -505,12 +505,12 @@
     },
     {
       "rank": 32,
-      "id": "562162699",
-      "name": "チケプラ電子チケット",
-      "developer": "株式会社チケットプラス",
-      "url": "https://apps.apple.com/jp/app/%E3%83%81%E3%82%B1%E3%83%97%E3%83%A9%E9%9B%BB%E5%AD%90%E3%83%81%E3%82%B1%E3%83%83%E3%83%88/id562162699?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/f7/1c/ddf71cb3-7f33-85d9-927a-fe8a110b2abe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-12-07",
+      "id": "6445905219",
+      "name": "DramaBox（ドラマボックス） -ショートドラマ見放題",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "url": "https://apps.apple.com/jp/app/dramabox-%E3%83%89%E3%83%A9%E3%83%9E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C/id6445905219?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/47/bf/aa47bf74-45ed-aaac-384c-57c89b28c919/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-04-18",
       "genres": [
         {
           "id": "6016",
@@ -537,38 +537,6 @@
     },
     {
       "rank": 34,
-      "id": "561632513",
-      "name": "Peatix(ピーティックス)",
-      "developer": "Peatix Inc",
-      "url": "https://apps.apple.com/jp/app/peatix-%E3%83%94%E3%83%BC%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9/id561632513?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/14/2c/c8142cc7-8741-0b7f-b9cf-64997b3012d3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2012-10-16",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 35,
-      "id": "549416492",
-      "name": "Hulu / フールー 人気ドラマや映画、アニメなどが見放題",
-      "developer": "HJ Holdings, Inc.",
-      "url": "https://apps.apple.com/jp/app/hulu-%E3%83%95%E3%83%BC%E3%83%AB%E3%83%BC-%E4%BA%BA%E6%B0%97%E3%83%89%E3%83%A9%E3%83%9E%E3%82%84%E6%98%A0%E7%94%BB-%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AA%E3%81%A9%E3%81%8C%E8%A6%8B%E6%94%BE%E9%A1%8C/id549416492?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/df/3b/1edf3b8e-5937-80a2-a4b0-1d4dcea2953f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2015-10-22",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 36,
       "id": "945241274",
       "name": "FOD ドラマやアニメなどテレビの動画が見放題！見逃し配信も",
       "developer": "FujiTV",
@@ -584,13 +552,13 @@
       ]
     },
     {
-      "rank": 37,
-      "id": "6445905219",
-      "name": "DramaBox（ドラマボックス） -ショートドラマ見放題",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "url": "https://apps.apple.com/jp/app/dramabox-%E3%83%89%E3%83%A9%E3%83%9E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C/id6445905219?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/8f/55/378f55d8-2f1e-56c2-9bea-248acbd01304/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2023-04-18",
+      "rank": 35,
+      "id": "562162699",
+      "name": "チケプラ電子チケット",
+      "developer": "株式会社チケットプラス",
+      "url": "https://apps.apple.com/jp/app/%E3%83%81%E3%82%B1%E3%83%97%E3%83%A9%E9%9B%BB%E5%AD%90%E3%83%81%E3%82%B1%E3%83%83%E3%83%88/id562162699?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/f7/1c/ddf71cb3-7f33-85d9-927a-fe8a110b2abe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-07",
       "genres": [
         {
           "id": "6016",
@@ -600,39 +568,7 @@
       ]
     },
     {
-      "rank": 38,
-      "id": "6747388007",
-      "name": "TOHO-ONE 公式アプリ",
-      "developer": "Toho Co.,Ltd.",
-      "url": "https://apps.apple.com/jp/app/toho-one-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6747388007?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/e9/30/36e93002-3cf5-0735-b4ca-9b116d993fa4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "6758667154",
-      "name": "VibeShort: AI人気ショートドラマ",
-      "developer": "AGILE QUADRANT MEDIA LIMITED",
-      "url": "https://apps.apple.com/jp/app/vibeshort-ai%E4%BA%BA%E6%B0%97%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E/id6758667154?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fd/63/c4fd63e4-d798-f4e8-7b4f-8d429183935a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-25",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
+      "rank": 36,
       "id": "1669305520",
       "name": "Auris",
       "developer": "GATARI Inc",
@@ -648,471 +584,7 @@
       ]
     },
     {
-      "rank": 41,
-      "id": "1438200353",
-      "name": "GiGO（ギーゴ）",
-      "developer": "GENDA GiGO Entertainment Inc.",
-      "url": "https://apps.apple.com/jp/app/gigo-%E3%82%AE%E3%83%BC%E3%82%B4/id1438200353?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/94/10/3294101b-591b-b5f7-9e19-32b474fc7726/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2019-05-21",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1673567402",
-      "name": "Freecash 遊びながらポイント獲得",
-      "developer": "Freecash - Get Paid Real Money",
-      "url": "https://apps.apple.com/jp/app/freecash-%E9%81%8A%E3%81%B3%E3%81%AA%E3%81%8C%E3%82%89%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E7%8D%B2%E5%BE%97/id1673567402?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a0/1c/15a01c2e-3377-3bec-93d1-eccfa0020955/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
-      "id": "6550905596",
-      "name": "EBiDAN OFFICIAL APP",
-      "developer": "Fanplus, Inc.",
-      "url": "https://apps.apple.com/jp/app/ebidan-official-app/id6550905596?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/cc/3e/10cc3e60-a1c3-98ca-73f5-b2965e0a758f/AppIcon-0-0-1x_U007emarketing-0-6-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2025-03-13",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 44,
-      "id": "6739352969",
-      "name": "Mistplay - ゲームでポイ活＆ギフトカードGET",
-      "developer": "481 Studios",
-      "url": "https://apps.apple.com/jp/app/mistplay-%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E3%83%9D%E3%82%A4%E6%B4%BB-%E3%82%AE%E3%83%95%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89get/id6739352969?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/5d/14/dd5d1462-33f4-e143-1d95-bcd76abbffb8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-09",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "id": "6514312894",
-      "name": "FlickReels - AIストーリー＆ドラマ",
-      "developer": "FARSUN PTE. LTD.",
-      "url": "https://apps.apple.com/jp/app/flickreels-ai%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%89%E3%83%A9%E3%83%9E/id6514312894?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/40/84/9a4084f9-9e2c-8dcb-3015-54cdf2ee5def/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "release_date": "2024-07-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "id": "6744629457",
-      "name": "キャラぷ - 物語はキミ次第・AIチャット",
-      "developer": "Wrtn Technologies Japan Inc.",
-      "url": "https://apps.apple.com/jp/app/%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%B7-%E7%89%A9%E8%AA%9E%E3%81%AF%E3%82%AD%E3%83%9F%E6%AC%A1%E7%AC%AC-ai%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id6744629457?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/0c/08/530c08bc-fc2b-18c6-c679-1581d1e0526e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-09",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 47,
-      "id": "6449190344",
-      "name": "PolyBuzz ポリバズ - AIチャットで推しに出会おう",
-      "developer": "CLOUD WHALE INTERACTIVE TECHNOLOGY LLC.",
-      "url": "https://apps.apple.com/jp/app/polybuzz-%E3%83%9D%E3%83%AA%E3%83%90%E3%82%BA-ai%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%A7%E6%8E%A8%E3%81%97%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%8A%E3%81%86/id6449190344?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/90/64/b4906479-af0f-bfe4-fafe-3d10c49ca3a0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-20",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "id": "1545541103",
-      "name": "MY J:COM",
-      "developer": "JCOM Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/my-j-com/id1545541103?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/bf/24/0ebf2451-2769-2780-57ee-7303ce2a2bd6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-24",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "id": "1570748418",
-      "name": "＋KIRARI",
-      "developer": "株式会社SDR",
-      "url": "https://apps.apple.com/jp/app/kirari/id1570748418?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/bd/2a/3ebd2a1d-2f20-1ce7-551f-962a2f9e7628/2_AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-06-14",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "id": "1543679840",
-      "name": "WOWOWオンデマンド｜サッカー・スポーツ・アニメなど見放題",
-      "developer": "WOWOW INC.",
-      "url": "https://apps.apple.com/jp/app/wowow%E3%82%AA%E3%83%B3%E3%83%87%E3%83%9E%E3%83%B3%E3%83%89-%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AA%E3%81%A9%E8%A6%8B%E6%94%BE%E9%A1%8C/id1543679840?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/f4/6d/fdf46dae-13af-e5fb-c15c-f4584050958b/AppIcon_PROD-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-01-10",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "id": "6757835988",
-      "name": "dバリューパス（旧ｽｺﾞ得ｺﾝﾃﾝﾂ）",
-      "developer": "株式会社NTTドコモ",
-      "url": "https://apps.apple.com/jp/app/d%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%91%E3%82%B9-%E6%97%A7%EF%BD%BD%EF%BD%BA%EF%BE%9E%E5%BE%97%EF%BD%BA%EF%BE%9D%EF%BE%83%EF%BE%9D%EF%BE%82/id6757835988?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ac/b7/42acb7d4-34c7-2e15-c844-4b2224609a40/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-08-24",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "id": "561854152",
-      "name": "TELASAテラサ ドラマ/アニメなど話題の番組の動画を配信",
-      "developer": "KDDI CORPORATION",
-      "url": "https://apps.apple.com/jp/app/telasa%E3%83%86%E3%83%A9%E3%82%B5-%E3%83%89%E3%83%A9%E3%83%9E-%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AA%E3%81%A9%E8%A9%B1%E9%A1%8C%E3%81%AE%E7%95%AA%E7%B5%84%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%92%E9%85%8D%E4%BF%A1/id561854152?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/d8/ea/e7d8ea8a-b7eb-d306-f537-62321e0778f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2013-03-04",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 53,
-      "id": "947984433",
-      "name": "Amazon Fire TV",
-      "developer": "AMZN Mobile LLC",
-      "url": "https://apps.apple.com/jp/app/amazon-fire-tv/id947984433?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/fd/be/acfdbea9-3a60-e5c1-37f9-f0a5c9891dc9/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2015-10-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "id": "6737834256",
-      "name": "FOD SHORT（FODショート）ショートドラマ見放題",
-      "developer": "FujiTV",
-      "url": "https://apps.apple.com/jp/app/fod-short-fod%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C/id6737834256?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/62/a0/6e62a047-5cde-e1d8-78ec-607130287514/FODSHORT_AppIcon1.2.0-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2025-06-28",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 55,
-      "id": "6755951599",
-      "name": "ライブ配信やビデオ通話で楽しめる新感覚アプリ｜Stars",
-      "developer": "Live Entertainment",
-      "url": "https://apps.apple.com/jp/app/%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1%E3%82%84%E3%83%93%E3%83%87%E3%82%AA%E9%80%9A%E8%A9%B1%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E6%96%B0%E6%84%9F%E8%A6%9A%E3%82%A2%E3%83%97%E3%83%AA-stars/id6755951599?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/60/20/746020c3-42ce-e4d0-03ad-695934e63860/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-12-22",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "6756086760",
-      "name": "M!LK OFFICIAL APP",
-      "developer": "SKIYAKI Inc.",
-      "url": "https://apps.apple.com/jp/app/m-lk-official-app/id6756086760?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/84/ce/4a84ce43-ef11-8fa9-709b-4f65ddff7bac/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-02-08",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "6746180121",
-      "name": "gashacoco(ガシャココ)公式アプリ",
-      "developer": "HAPPINET CORPORATION",
-      "url": "https://apps.apple.com/jp/app/gashacoco-%E3%82%AC%E3%82%B7%E3%83%A3%E3%82%B3%E3%82%B3-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6746180121?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/35/42/47354242-baa9-0390-f59c-83d9bfa369d8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2026-03-24",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "1583719227",
-      "name": "WePlay(ウィプレー) - パーティゲーム",
-      "developer": "WEJOY PTE. LTD.",
-      "url": "https://apps.apple.com/jp/app/weplay-%E3%82%A6%E3%82%A3%E3%83%97%E3%83%AC%E3%83%BC-%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B2%E3%83%BC%E3%83%A0/id1583719227?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/e8/73/51e87372-5d1c-8a5d-bdca-9c3e77e293f4/AppIcon-JP-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-09-14",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "1468075053",
-      "name": "宝くじ公式",
-      "developer": "zenkokujichitakarakujijimukyougikai",
-      "url": "https://apps.apple.com/jp/app/%E5%AE%9D%E3%81%8F%E3%81%98%E5%85%AC%E5%BC%8F/id1468075053?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/c3/35/bac33536-80d0-2518-9d84-c2e5471c025e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-06-19",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "6737220814",
-      "name": "タテドラ / オリジナル縦型ショートドラマ",
-      "developer": "Donuts Co. Ltd.",
-      "url": "https://apps.apple.com/jp/app/%E3%82%BF%E3%83%86%E3%83%89%E3%83%A9-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E7%B8%A6%E5%9E%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E/id6737220814?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/ae/0d/13ae0de8-aa0c-cce6-1708-a17da1593b3c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-01-15",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
-      "id": "1234806557",
-      "name": "Nintendo Switch App",
-      "developer": "Nintendo Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/nintendo-switch-app/id1234806557?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/59/33/b55933e1-949c-4a34-a00c-a02f35df610b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-07-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 62,
-      "id": "495369748",
-      "name": "Steam Mobile",
-      "developer": "Valve",
-      "url": "https://apps.apple.com/jp/app/steam-mobile/id495369748?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e1/8d/1de18df0-9f13-4bdb-728a-ddc7ecaf9849/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-01-26",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 63,
-      "id": "6779124668",
-      "name": "cheaters（チーターズ） | 浮気調査ゲーム",
-      "developer": "Ryusei Okamoto",
-      "url": "https://apps.apple.com/jp/app/cheaters-%E3%83%81%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA-%E6%B5%AE%E6%B0%97%E8%AA%BF%E6%9F%BB%E3%82%B2%E3%83%BC%E3%83%A0/id6779124668?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/7b/c0/337bc045-d688-4ae6-10f0-769de7fbc3f2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-07-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "id": "6761538521",
-      "name": "StoryReel: ショートドラマ＆映画見放題",
-      "developer": "Equinox Enterprises‌ Technology Limited",
-      "url": "https://apps.apple.com/jp/app/storyreel-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E-%E6%98%A0%E7%94%BB%E8%A6%8B%E6%94%BE%E9%A1%8C/id6761538521?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/d8/be/fad8be6f-eead-eccd-1c4d-016a9283545e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-08",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "id": "1571601446",
-      "name": "Prize ON",
-      "developer": "SEGA CORPORATION",
-      "url": "https://apps.apple.com/jp/app/prize-on/id1571601446?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/3f/39/793f3920-133b-f92f-01a3-33f3685447e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-05",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 66,
-      "id": "1096040508",
-      "name": "ＴＯＨＯシネマズ　公式アプリ",
-      "developer": "TOHOシネマズ株式会社",
-      "url": "https://apps.apple.com/jp/app/%EF%BD%94%EF%BD%8F%EF%BD%88%EF%BD%8F%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%BA-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id1096040508?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2c/3e/9a2c3e35-17c2-2889-ae04-33cf56794e17/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2016-04-17",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 67,
-      "id": "936971630",
-      "name": "YouTube Kids",
-      "developer": "Google",
-      "url": "https://apps.apple.com/jp/app/youtube-kids/id936971630?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/0a/da/f40ada8e-bdca-1d69-4e1c-467bd540db24/logo_youtube_kids_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2017-05-30",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 68,
-      "id": "6470903639",
-      "name": "トットット",
-      "developer": "AEON Fantasy Co,Ltd",
-      "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%88%E3%83%83%E3%83%88/id6470903639?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/0d/d2/590dd226-b2ab-2b83-d0b3-c33d5154619f/prodAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2024-03-27",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 69,
-      "id": "6478804084",
-      "name": "ReelBox",
-      "developer": "Guangxi Xianban Network Technology Co., LTD",
-      "url": "https://apps.apple.com/jp/app/reelbox/id6478804084?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/27/70/ea277032-32b0-ed6d-17e3-de4103f02053/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-08-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 70,
+      "rank": 37,
       "id": "1494250968",
       "name": "HELLO! MOVIE",
       "developer": "Evixar Inc.",
@@ -1128,13 +600,13 @@
       ]
     },
     {
-      "rank": 71,
-      "id": "6772791762",
-      "name": "CashFlicks",
-      "developer": "Shanghai Bitui Technology Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/cashflicks/id6772791762?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/13/48/ee134820-43e9-f102-85c8-e5e2ba5fac6a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2026-07-14",
+      "rank": 38,
+      "id": "549416492",
+      "name": "Hulu / フールー 人気ドラマや映画、アニメなどが見放題",
+      "developer": "HJ Holdings, Inc.",
+      "url": "https://apps.apple.com/jp/app/hulu-%E3%83%95%E3%83%BC%E3%83%AB%E3%83%BC-%E4%BA%BA%E6%B0%97%E3%83%89%E3%83%A9%E3%83%9E%E3%82%84%E6%98%A0%E7%94%BB-%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AA%E3%81%A9%E3%81%8C%E8%A6%8B%E6%94%BE%E9%A1%8C/id549416492?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/df/3b/1edf3b8e-5937-80a2-a4b0-1d4dcea2953f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-10-22",
       "genres": [
         {
           "id": "6016",
@@ -1144,13 +616,13 @@
       ]
     },
     {
-      "rank": 72,
-      "id": "1626245204",
-      "name": "MOALA Pocket",
-      "developer": "playground Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/moala-pocket/id1626245204?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/49/a9/cc49a94e-29b3-2b8c-b924-783fdf427640/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2022-11-03",
+      "rank": 39,
+      "id": "6755951599",
+      "name": "ライブ配信やビデオ通話で楽しめる新感覚アプリ｜Stars",
+      "developer": "Live Entertainment",
+      "url": "https://apps.apple.com/jp/app/%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1%E3%82%84%E3%83%93%E3%83%87%E3%82%AA%E9%80%9A%E8%A9%B1%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E6%96%B0%E6%84%9F%E8%A6%9A%E3%82%A2%E3%83%97%E3%83%AA-stars/id6755951599?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/60/20/746020c3-42ce-e4d0-03ad-695934e63860/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-22",
       "genres": [
         {
           "id": "6016",
@@ -1160,13 +632,13 @@
       ]
     },
     {
-      "rank": 73,
-      "id": "1600425602",
-      "name": "SAMANSA: 傑作ショート映画・ムービー見放題",
-      "developer": "Samantha, Inc.",
-      "url": "https://apps.apple.com/jp/app/samansa-%E5%82%91%E4%BD%9C%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%98%A0%E7%94%BB-%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E8%A6%8B%E6%94%BE%E9%A1%8C/id1600425602?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/5a/1a/4f5a1aec-70c5-fad6-4807-28b43b02ba3c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2022-01-26",
+      "rank": 40,
+      "id": "6747388007",
+      "name": "TOHO-ONE 公式アプリ",
+      "developer": "Toho Co.,Ltd.",
+      "url": "https://apps.apple.com/jp/app/toho-one-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6747388007?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/e9/30/36e93002-3cf5-0735-b4ca-9b116d993fa4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-03",
       "genres": [
         {
           "id": "6016",
@@ -1176,13 +648,13 @@
       ]
     },
     {
-      "rank": 74,
-      "id": "470831622",
-      "name": "デンモクアプリ",
-      "developer": "DAIICHIKOSHO CO.,LTD",
-      "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%83%B3%E3%83%A2%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA/id470831622?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/51/6c/0c516c53-8af4-9ca7-9aee-5c9f5dec4e9a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2011-10-31",
+      "rank": 41,
+      "id": "1673567402",
+      "name": "Freecash 遊びながらポイント獲得",
+      "developer": "Freecash - Get Paid Real Money",
+      "url": "https://apps.apple.com/jp/app/freecash-%E9%81%8A%E3%81%B3%E3%81%AA%E3%81%8C%E3%82%89%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E7%8D%B2%E5%BE%97/id1673567402?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a0/1c/15a01c2e-3377-3bec-93d1-eccfa0020955/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-03",
       "genres": [
         {
           "id": "6016",
@@ -1192,13 +664,13 @@
       ]
     },
     {
-      "rank": 75,
-      "id": "6450489514",
-      "name": "ハウステンボス 公式アプリ",
-      "developer": "HuisTenBosch Co.,Ltd",
-      "url": "https://apps.apple.com/jp/app/%E3%83%8F%E3%82%A6%E3%82%B9%E3%83%86%E3%83%B3%E3%83%9C%E3%82%B9-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6450489514?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ec/fa/b5ecfadf-584e-7a09-fb5b-8e59da660756/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2023-07-19",
+      "rank": 42,
+      "id": "561854152",
+      "name": "TELASAテラサ ドラマ/アニメなど話題の番組の動画を配信",
+      "developer": "KDDI CORPORATION",
+      "url": "https://apps.apple.com/jp/app/telasa%E3%83%86%E3%83%A9%E3%82%B5-%E3%83%89%E3%83%A9%E3%83%9E-%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AA%E3%81%A9%E8%A9%B1%E9%A1%8C%E3%81%AE%E7%95%AA%E7%B5%84%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%92%E9%85%8D%E4%BF%A1/id561854152?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/d8/ea/e7d8ea8a-b7eb-d306-f537-62321e0778f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-03-04",
       "genres": [
         {
           "id": "6016",
@@ -1208,13 +680,13 @@
       ]
     },
     {
-      "rank": 76,
-      "id": "410896080",
-      "name": "PlayStation App",
-      "developer": "PlayStation Mobile Inc.",
-      "url": "https://apps.apple.com/jp/app/playstation-app/id410896080?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/35/e1/1035e128-8665-8f04-99ae-81e459416739/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2014-02-13",
+      "rank": 43,
+      "id": "6784938552",
+      "name": "Sanrio characters Chat",
+      "developer": "SANRIO CO., LTD.",
+      "url": "https://apps.apple.com/jp/app/sanrio-characters-chat/id6784938552?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/1f/fa/e91ffa48-2539-f498-e11c-8f9290c69b28/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-27",
       "genres": [
         {
           "id": "6016",
@@ -1224,13 +696,13 @@
       ]
     },
     {
-      "rank": 77,
-      "id": "562188421",
-      "name": "＆Leo",
-      "developer": "Leopalace21 Corporation",
-      "url": "https://apps.apple.com/jp/app/leo/id562188421?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b5/43/41b5430c-d5db-c07e-dcc5-6a4c6c5a2ec7/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
-      "release_date": "2012-11-15",
+      "rank": 44,
+      "id": "6744629457",
+      "name": "キャラぷ - 物語はキミ次第・AIチャット",
+      "developer": "Wrtn Technologies Japan Inc.",
+      "url": "https://apps.apple.com/jp/app/%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%B7-%E7%89%A9%E8%AA%9E%E3%81%AF%E3%82%AD%E3%83%9F%E6%AC%A1%E7%AC%AC-ai%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id6744629457?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/0c/08/530c08bc-fc2b-18c6-c679-1581d1e0526e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-09",
       "genres": [
         {
           "id": "6016",
@@ -1240,13 +712,13 @@
       ]
     },
     {
-      "rank": 78,
-      "id": "6751573523",
-      "name": "ポケパーク カントー公式アプリ",
-      "developer": "PokePark KANTO LLC",
-      "url": "https://apps.apple.com/jp/app/%E3%83%9D%E3%82%B1%E3%83%91%E3%83%BC%E3%82%AF-%E3%82%AB%E3%83%B3%E3%83%88%E3%83%BC%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6751573523?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/48/a0/b048a0a4-c785-674f-5089-e45715d4d009/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2025-11-10",
+      "rank": 45,
+      "id": "1438200353",
+      "name": "GiGO（ギーゴ）",
+      "developer": "GENDA GiGO Entertainment Inc.",
+      "url": "https://apps.apple.com/jp/app/gigo-%E3%82%AE%E3%83%BC%E3%82%B4/id1438200353?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/94/10/3294101b-591b-b5f7-9e19-32b474fc7726/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-05-21",
       "genres": [
         {
           "id": "6016",
@@ -1256,7 +728,327 @@
       ]
     },
     {
-      "rank": 79,
+      "rank": 46,
+      "id": "6739352969",
+      "name": "Mistplay - ゲームでポイ活＆ギフトカードGET",
+      "developer": "481 Studios",
+      "url": "https://apps.apple.com/jp/app/mistplay-%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E3%83%9D%E3%82%A4%E6%B4%BB-%E3%82%AE%E3%83%95%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89get/id6739352969?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/5d/14/dd5d1462-33f4-e143-1d95-bcd76abbffb8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-09",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "307764057",
+      "name": "ニコニコ動画-アニメやボカロ動画が見放題の動画アプリ",
+      "developer": "DWANGO Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB-%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%84%E3%83%9C%E3%82%AB%E3%83%AD%E5%8B%95%E7%94%BB%E3%81%8C%E8%A6%8B%E6%94%BE%E9%A1%8C%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%A2%E3%83%97%E3%83%AA/id307764057?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4f/8e/aa4f8e74-aa90-ee2b-b666-1914a68efd03/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2009-04-27",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "6449190344",
+      "name": "PolyBuzz ポリバズ - AIチャットで推しに出会おう",
+      "developer": "CLOUD WHALE INTERACTIVE TECHNOLOGY LLC.",
+      "url": "https://apps.apple.com/jp/app/polybuzz-%E3%83%9D%E3%83%AA%E3%83%90%E3%82%BA-ai%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%A7%E6%8E%A8%E3%81%97%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%8A%E3%81%86/id6449190344?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/90/64/b4906479-af0f-bfe4-fafe-3d10c49ca3a0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-20",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "1545541103",
+      "name": "MY J:COM",
+      "developer": "JCOM Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/my-j-com/id1545541103?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/bf/24/0ebf2451-2769-2780-57ee-7303ce2a2bd6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "6737834256",
+      "name": "FOD SHORT（FODショート）ショートドラマ見放題",
+      "developer": "FujiTV",
+      "url": "https://apps.apple.com/jp/app/fod-short-fod%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C/id6737834256?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/62/a0/6e62a047-5cde-e1d8-78ec-607130287514/FODSHORT_AppIcon1.2.0-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-06-28",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "6514312894",
+      "name": "FlickReels - AIストーリー＆ドラマ",
+      "developer": "FARSUN PTE. LTD.",
+      "url": "https://apps.apple.com/jp/app/flickreels-ai%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%89%E3%83%A9%E3%83%9E/id6514312894?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/40/84/9a4084f9-9e2c-8dcb-3015-54cdf2ee5def/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-07-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "495369748",
+      "name": "Steam Mobile",
+      "developer": "Valve",
+      "url": "https://apps.apple.com/jp/app/steam-mobile/id495369748?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e1/8d/1de18df0-9f13-4bdb-728a-ddc7ecaf9849/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-01-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1096040508",
+      "name": "ＴＯＨＯシネマズ　公式アプリ",
+      "developer": "TOHOシネマズ株式会社",
+      "url": "https://apps.apple.com/jp/app/%EF%BD%94%EF%BD%8F%EF%BD%88%EF%BD%8F%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%BA-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id1096040508?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2c/3e/9a2c3e35-17c2-2889-ae04-33cf56794e17/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6757835988",
+      "name": "dバリューパス（旧ｽｺﾞ得ｺﾝﾃﾝﾂ）",
+      "developer": "株式会社NTTドコモ",
+      "url": "https://apps.apple.com/jp/app/d%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%91%E3%82%B9-%E6%97%A7%EF%BD%BD%EF%BD%BA%EF%BE%9E%E5%BE%97%EF%BD%BA%EF%BE%9D%EF%BE%83%EF%BE%9D%EF%BE%82/id6757835988?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ac/b7/42acb7d4-34c7-2e15-c844-4b2224609a40/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-08-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6470903639",
+      "name": "トットット",
+      "developer": "AEON Fantasy Co,Ltd",
+      "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%88%E3%83%83%E3%83%88/id6470903639?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/0d/d2/590dd226-b2ab-2b83-d0b3-c33d5154619f/prodAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-27",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "6737220814",
+      "name": "タテドラ / オリジナル縦型ショートドラマ",
+      "developer": "Donuts Co. Ltd.",
+      "url": "https://apps.apple.com/jp/app/%E3%82%BF%E3%83%86%E3%83%89%E3%83%A9-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E7%B8%A6%E5%9E%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E/id6737220814?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/ae/0d/13ae0de8-aa0c-cce6-1708-a17da1593b3c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-01-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1570748418",
+      "name": "＋KIRARI",
+      "developer": "株式会社SDR",
+      "url": "https://apps.apple.com/jp/app/kirari/id1570748418?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/a1/5e/4da15e0c-35c6-1938-0ebd-303feb97a992/2_AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-14",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1468075053",
+      "name": "宝くじ公式",
+      "developer": "zenkokujichitakarakujijimukyougikai",
+      "url": "https://apps.apple.com/jp/app/%E5%AE%9D%E3%81%8F%E3%81%98%E5%85%AC%E5%BC%8F/id1468075053?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/c3/35/bac33536-80d0-2518-9d84-c2e5471c025e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-06-19",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "947984433",
+      "name": "Amazon Fire TV",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/jp/app/amazon-fire-tv/id947984433?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/fd/be/acfdbea9-3a60-e5c1-37f9-f0a5c9891dc9/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2015-10-29",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "1583719227",
+      "name": "WePlay(ウィプレー) - パーティゲーム",
+      "developer": "WEJOY PTE. LTD.",
+      "url": "https://apps.apple.com/jp/app/weplay-%E3%82%A6%E3%82%A3%E3%83%97%E3%83%AC%E3%83%BC-%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B2%E3%83%BC%E3%83%A0/id1583719227?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/e8/73/51e87372-5d1c-8a5d-bdca-9c3e77e293f4/AppIcon-JP-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-09-14",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6746180121",
+      "name": "gashacoco(ガシャココ)公式アプリ",
+      "developer": "HAPPINET CORPORATION",
+      "url": "https://apps.apple.com/jp/app/gashacoco-%E3%82%AC%E3%82%B7%E3%83%A3%E3%82%B3%E3%82%B3-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6746180121?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/35/42/47354242-baa9-0390-f59c-83d9bfa369d8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "6761538521",
+      "name": "StoryReel: ショートドラマ＆映画見放題",
+      "developer": "Equinox Enterprises‌ Technology Limited",
+      "url": "https://apps.apple.com/jp/app/storyreel-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E-%E6%98%A0%E7%94%BB%E8%A6%8B%E6%94%BE%E9%A1%8C/id6761538521?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/d8/be/fad8be6f-eead-eccd-1c4d-016a9283545e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-08",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6550905596",
+      "name": "EBiDAN OFFICIAL APP",
+      "developer": "Fanplus, Inc.",
+      "url": "https://apps.apple.com/jp/app/ebidan-official-app/id6550905596?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/cc/3e/10cc3e60-a1c3-98ca-73f5-b2965e0a758f/AppIcon-0-0-1x_U007emarketing-0-6-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-03-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6756086760",
+      "name": "M!LK OFFICIAL APP",
+      "developer": "SKIYAKI Inc.",
+      "url": "https://apps.apple.com/jp/app/m-lk-official-app/id6756086760?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/84/ce/4a84ce43-ef11-8fa9-709b-4f65ddff7bac/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-08",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1234806557",
+      "name": "Nintendo Switch App",
+      "developer": "Nintendo Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/nintendo-switch-app/id1234806557?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/59/33/b55933e1-949c-4a34-a00c-a02f35df610b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-07-18",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
       "id": "1389775096",
       "name": "teamLab",
       "developer": "teamLab Inc.",
@@ -1272,13 +1064,221 @@
       ]
     },
     {
+      "rank": 67,
+      "id": "6772791762",
+      "name": "CashFlicks",
+      "developer": "Shanghai Bitui Technology Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/cashflicks/id6772791762?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/13/48/ee134820-43e9-f102-85c8-e5e2ba5fac6a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-07-14",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "936971630",
+      "name": "YouTube Kids",
+      "developer": "Google",
+      "url": "https://apps.apple.com/jp/app/youtube-kids/id936971630?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/0a/da/f40ada8e-bdca-1d69-4e1c-467bd540db24/logo_youtube_kids_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-05-30",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "1543679840",
+      "name": "WOWOWオンデマンド｜サッカー・スポーツ・アニメなど見放題",
+      "developer": "WOWOW INC.",
+      "url": "https://apps.apple.com/jp/app/wowow%E3%82%AA%E3%83%B3%E3%83%87%E3%83%9E%E3%83%B3%E3%83%89-%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AA%E3%81%A9%E8%A6%8B%E6%94%BE%E9%A1%8C/id1543679840?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/f4/6d/fdf46dae-13af-e5fb-c15c-f4584050958b/AppIcon_PROD-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-01-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1600425602",
+      "name": "SAMANSA: 傑作ショート映画・ムービー見放題",
+      "developer": "Samantha, Inc.",
+      "url": "https://apps.apple.com/jp/app/samansa-%E5%82%91%E4%BD%9C%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%98%A0%E7%94%BB-%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E8%A6%8B%E6%94%BE%E9%A1%8C/id1600425602?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/5a/1a/4f5a1aec-70c5-fad6-4807-28b43b02ba3c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-26",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6779124668",
+      "name": "cheaters（チーターズ） | 浮気調査ゲーム",
+      "developer": "Ryusei Okamoto",
+      "url": "https://apps.apple.com/jp/app/cheaters-%E3%83%81%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA-%E6%B5%AE%E6%B0%97%E8%AA%BF%E6%9F%BB%E3%82%B2%E3%83%BC%E3%83%A0/id6779124668?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/7b/c0/337bc045-d688-4ae6-10f0-769de7fbc3f2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6478804084",
+      "name": "ReelBox",
+      "developer": "Guangxi Xianban Network Technology Co., LTD",
+      "url": "https://apps.apple.com/jp/app/reelbox/id6478804084?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/27/70/ea277032-32b0-ed6d-17e3-de4103f02053/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-29",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1571601446",
+      "name": "Prize ON",
+      "developer": "SEGA CORPORATION",
+      "url": "https://apps.apple.com/jp/app/prize-on/id1571601446?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/3f/39/793f3920-133b-f92f-01a3-33f3685447e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-05",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "6808631779",
+      "name": "&TEAM ONLINE KUJI",
+      "developer": "TwoGate inc.",
+      "url": "https://apps.apple.com/jp/app/team-online-kuji/id6808631779?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/ca/29/40ca2996-825d-6735-475e-3c30fde9431d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-24",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "6751573523",
+      "name": "ポケパーク カントー公式アプリ",
+      "developer": "PokePark KANTO LLC",
+      "url": "https://apps.apple.com/jp/app/%E3%83%9D%E3%82%B1%E3%83%91%E3%83%BC%E3%82%AF-%E3%82%AB%E3%83%B3%E3%83%88%E3%83%BC%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6751573523?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/48/a0/b048a0a4-c785-674f-5089-e45715d4d009/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-10",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6450489514",
+      "name": "ハウステンボス 公式アプリ",
+      "developer": "HuisTenBosch Co.,Ltd",
+      "url": "https://apps.apple.com/jp/app/%E3%83%8F%E3%82%A6%E3%82%B9%E3%83%86%E3%83%B3%E3%83%9C%E3%82%B9-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6450489514?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ec/fa/b5ecfadf-584e-7a09-fb5b-8e59da660756/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2023-07-19",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1546721438",
+      "name": "富士急ハイランド公式アプリ　Qちゃん",
+      "developer": "FUJIKYU HIGHLAND, K.K.",
+      "url": "https://apps.apple.com/jp/app/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA-q%E3%81%A1%E3%82%83%E3%82%93/id1546721438?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/fa/f6/61faf65e-387c-3dfa-51b1-0b242427e2f7/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-02-03",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "410896080",
+      "name": "PlayStation App",
+      "developer": "PlayStation Mobile Inc.",
+      "url": "https://apps.apple.com/jp/app/playstation-app/id410896080?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/55/4d/d3554db0-5502-be95-229c-b63f20e9b78b/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-02-13",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "6751340147",
+      "name": "コミルプ",
+      "developer": "Excite Japan Co.,Ltd.",
+      "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%9F%E3%83%AB%E3%83%97/id6751340147?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/42/f1/6342f129-b68b-a8fd-fb2b-1b2b6a2c8002/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-02",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 80,
-      "id": "6768593043",
-      "name": "BlinkDrama：人気のショートドラマが満載",
-      "developer": "Atlas Ventures Culture & Technology Limited",
-      "url": "https://apps.apple.com/jp/app/blinkdrama-%E4%BA%BA%E6%B0%97%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E3%81%8C%E6%BA%80%E8%BC%89/id6768593043?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/b1/b1/bdb1b10f-6864-8042-4172-224ff32f9416/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2026-05-29",
+      "id": "6451407032",
+      "name": "红果短剧 - 海量热门短剧随心看",
+      "developer": "Beijing Bimo Liuxiang Technology Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7-%E6%B5%B7%E9%87%8F%E7%83%AD%E9%97%A8%E7%9F%AD%E5%89%A7%E9%9A%8F%E5%BF%83%E7%9C%8B/id6451407032?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/6d/59/3e6d5901-45ca-4d24-c1f6-9229d7655c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-27",
       "genres": [
         {
           "id": "6016",
@@ -1289,12 +1289,12 @@
     },
     {
       "rank": 81,
-      "id": "6470959295",
-      "name": "Mrs. GREEN APPLE",
-      "developer": "Fanplus, Inc.",
-      "url": "https://apps.apple.com/jp/app/mrs-green-apple/id6470959295?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/4c/83/964c8366-7579-10aa-f03f-1fa58cc8a877/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2024-02-04",
+      "id": "470831622",
+      "name": "デンモクアプリ",
+      "developer": "DAIICHIKOSHO CO.,LTD",
+      "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%83%B3%E3%83%A2%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA/id470831622?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/51/6c/0c516c53-8af4-9ca7-9aee-5c9f5dec4e9a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-31",
       "genres": [
         {
           "id": "6016",
@@ -1305,12 +1305,12 @@
     },
     {
       "rank": 82,
-      "id": "1611101399",
-      "name": "LIVE QR PLUS",
-      "developer": "boardwalk",
-      "url": "https://apps.apple.com/jp/app/live-qr-plus/id1611101399?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/77/62/2f7762c5-8932-e4be-459a-affe6a3ea044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-03-06",
+      "id": "663133902",
+      "name": "DMMぱちタウン パチンコやパチスロの最新情報 収支の管理も",
+      "developer": "DMM.com LLC",
+      "url": "https://apps.apple.com/jp/app/dmm%E3%81%B1%E3%81%A1%E3%82%BF%E3%82%A6%E3%83%B3-%E3%83%91%E3%83%81%E3%83%B3%E3%82%B3%E3%82%84%E3%83%91%E3%83%81%E3%82%B9%E3%83%AD%E3%81%AE%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1-%E5%8F%8E%E6%94%AF%E3%81%AE%E7%AE%A1%E7%90%86%E3%82%82/id663133902?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/34/51/be34512f-76d9-763c-f422-d2f6b1ffe4aa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2013-08-16",
       "genres": [
         {
           "id": "6016",
@@ -1321,12 +1321,12 @@
     },
     {
       "rank": 83,
-      "id": "6747696993",
-      "name": "ウーマンエキサイトマンガ",
-      "developer": "Excite Japan Co.,Ltd.",
-      "url": "https://apps.apple.com/jp/app/%E3%82%A6%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%A8%E3%82%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%83%9E%E3%83%B3%E3%82%AC/id6747696993?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/d2/e4/3bd2e408-4de4-b28e-5238-742729cd2df6/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-07-17",
+      "id": "6768593043",
+      "name": "BlinkDrama：人気のショートドラマが満載",
+      "developer": "Atlas Ventures Culture & Technology Limited",
+      "url": "https://apps.apple.com/jp/app/blinkdrama-%E4%BA%BA%E6%B0%97%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E3%81%8C%E6%BA%80%E8%BC%89/id6768593043?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/b1/b1/bdb1b10f-6864-8042-4172-224ff32f9416/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-29",
       "genres": [
         {
           "id": "6016",
@@ -1353,12 +1353,12 @@
     },
     {
       "rank": 85,
-      "id": "6451407032",
-      "name": "红果短剧 - 海量热门短剧随心看",
-      "developer": "Beijing Bimo Liuxiang Technology Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7-%E6%B5%B7%E9%87%8F%E7%83%AD%E9%97%A8%E7%9F%AD%E5%89%A7%E9%9A%8F%E5%BF%83%E7%9C%8B/id6451407032?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/6d/59/3e6d5901-45ca-4d24-c1f6-9229d7655c0a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-04-27",
+      "id": "1626245204",
+      "name": "MOALA Pocket",
+      "developer": "playground Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/moala-pocket/id1626245204?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/49/a9/cc49a94e-29b3-2b8c-b924-783fdf427640/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-03",
       "genres": [
         {
           "id": "6016",
@@ -1369,6 +1369,22 @@
     },
     {
       "rank": 86,
+      "id": "6553988313",
+      "name": "POPCORN（ポップコーン）- 縦型ショートドラマアプリ",
+      "developer": "GOKKO inc.",
+      "url": "https://apps.apple.com/jp/app/popcorn-%E3%83%9D%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%B3-%E7%B8%A6%E5%9E%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id6553988313?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/c9/c9/98c9c9bf-19ba-9fcc-04e3-65273dee0e66/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-02-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
       "id": "1398692980",
       "name": "AI顔診断 そっくりさん",
       "developer": "App Factory Inc.",
@@ -1384,29 +1400,13 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "663133902",
-      "name": "DMMぱちタウン パチンコやパチスロの最新情報 収支の管理も",
-      "developer": "DMM.com LLC",
-      "url": "https://apps.apple.com/jp/app/dmm%E3%81%B1%E3%81%A1%E3%82%BF%E3%82%A6%E3%83%B3-%E3%83%91%E3%83%81%E3%83%B3%E3%82%B3%E3%82%84%E3%83%91%E3%83%81%E3%82%B9%E3%83%AD%E3%81%AE%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1-%E5%8F%8E%E6%94%AF%E3%81%AE%E7%AE%A1%E7%90%86%E3%82%82/id663133902?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/34/51/be34512f-76d9-763c-f422-d2f6b1ffe4aa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2013-08-16",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 88,
-      "id": "6460890513",
-      "name": "Cotomo（コトモ：AIキャラクター・おしゃべりAI）",
-      "developer": "Starley Inc.",
-      "url": "https://apps.apple.com/jp/app/cotomo-%E3%82%B3%E3%83%88%E3%83%A2-ai%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC-%E3%81%8A%E3%81%97%E3%82%83%E3%81%B9%E3%82%8Aai/id6460890513?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/56/13/6d561355-b035-4165-edca-a570bfc12c9b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2024-02-20",
+      "id": "1611101399",
+      "name": "LIVE QR PLUS",
+      "developer": "boardwalk",
+      "url": "https://apps.apple.com/jp/app/live-qr-plus/id1611101399?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/77/62/2f7762c5-8932-e4be-459a-affe6a3ea044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-03-06",
       "genres": [
         {
           "id": "6016",
@@ -1417,12 +1417,12 @@
     },
     {
       "rank": 89,
-      "id": "1495944896",
-      "name": "FanStreamApp",
-      "developer": "Fanplus, Inc.",
-      "url": "https://apps.apple.com/jp/app/fanstreamapp/id1495944896?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/01/d6/3501d62d-d151-9977-5dae-19218d418547/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-05-21",
+      "id": "1470370690",
+      "name": "777CON-PASS（777コンパス）",
+      "developer": "Sammy Networks Co., Ltd.",
+      "url": "https://apps.apple.com/jp/app/777con-pass-777%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9/id1470370690?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/a5/99/d7a599d7-71a3-406c-9dc9-39d36a61561b/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-09-12",
       "genres": [
         {
           "id": "6016",
@@ -1433,6 +1433,102 @@
     },
     {
       "rank": 90,
+      "id": "6747696993",
+      "name": "ウーマンエキサイトマンガ",
+      "developer": "Excite Japan Co.,Ltd.",
+      "url": "https://apps.apple.com/jp/app/%E3%82%A6%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%A8%E3%82%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%83%9E%E3%83%B3%E3%82%AC/id6747696993?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/d2/e4/3bd2e408-4de4-b28e-5238-742729cd2df6/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-07-17",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6460890513",
+      "name": "Cotomo（コトモ：AIチャット・おしゃべりAI）",
+      "developer": "Starley Inc.",
+      "url": "https://apps.apple.com/jp/app/cotomo-%E3%82%B3%E3%83%88%E3%83%A2-ai%E3%83%81%E3%83%A3%E3%83%83%E3%83%88-%E3%81%8A%E3%81%97%E3%82%83%E3%81%B9%E3%82%8Aai/id6460890513?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/4e/56/6a4e5602-bd52-7f21-9d1d-6abccd5482ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-02-20",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1562091480",
+      "name": "キッザニア",
+      "developer": "KCJ GROUP",
+      "url": "https://apps.apple.com/jp/app/%E3%82%AD%E3%83%83%E3%82%B6%E3%83%8B%E3%82%A2/id1562091480?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/88/70/428870a4-e666-dc0c-1347-f4be151725b5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-31",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "497702817",
+      "name": "Fever：イベント＆チケット",
+      "developer": "Fever Labs, Inc.",
+      "url": "https://apps.apple.com/jp/app/fever-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88/id497702817?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/f9/36/d5f93607-13e7-c722-7a3f-9737f89ee124/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2012-05-25",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "562188421",
+      "name": "＆Leo",
+      "developer": "Leopalace21 Corporation",
+      "url": "https://apps.apple.com/jp/app/leo/id562188421?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b5/43/41b5430c-d5db-c07e-dcc5-6a4c6c5a2ec7/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/100x100bb.png",
+      "release_date": "2012-11-15",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "6470959295",
+      "name": "Mrs. GREEN APPLE",
+      "developer": "Fanplus, Inc.",
+      "url": "https://apps.apple.com/jp/app/mrs-green-apple/id6470959295?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/4c/83/964c8366-7579-10aa-f03f-1fa58cc8a877/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-02-04",
+      "genres": [
+        {
+          "id": "6016",
+          "name": "エンターテインメント",
+          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
       "id": "6765600973",
       "name": "スタンプ＠素敵な生活",
       "developer": "ArtsPlanet",
@@ -1448,109 +1544,13 @@
       ]
     },
     {
-      "rank": 91,
-      "id": "1004956156",
-      "name": "J SPORTS オンデマンド",
-      "developer": "J SPORTS Corporation",
-      "url": "https://apps.apple.com/jp/app/j-sports-%E3%82%AA%E3%83%B3%E3%83%87%E3%83%9E%E3%83%B3%E3%83%89/id1004956156?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/7b/7b/377b7b37-1cde-3637-ab71-9fd4df2d1314/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-02-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 92,
-      "id": "1546721438",
-      "name": "富士急ハイランド公式アプリ　Qちゃん",
-      "developer": "FUJIKYU HIGHLAND, K.K.",
-      "url": "https://apps.apple.com/jp/app/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA-q%E3%81%A1%E3%82%83%E3%82%93/id1546721438?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/fa/f6/61faf65e-387c-3dfa-51b1-0b242427e2f7/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-02-03",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 93,
-      "id": "6450071897",
-      "name": "カプセルトイ専門店 #C-pla（シープラ）公式アプリ",
-      "developer": "TOSHIN K.K(HOKKAIDO)",
-      "url": "https://apps.apple.com/jp/app/%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB%E3%83%88%E3%82%A4%E5%B0%82%E9%96%80%E5%BA%97-c-pla-%E3%82%B7%E3%83%BC%E3%83%97%E3%83%A9-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6450071897?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/dc/36/47dc363e-fa2a-fd18-bb58-bcdf93363159/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2023-06-29",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "6748977935",
-      "name": "チャチャ - AIキャラとロールプレイチャット",
-      "developer": "Kinkaku, Inc.",
-      "url": "https://apps.apple.com/jp/app/%E3%83%81%E3%83%A3%E3%83%81%E3%83%A3-ai%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AC%E3%82%A4%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id6748977935?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/45/51/fa45513a-3c47-2807-c4aa-2190ebea82cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-10-02",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "933135994",
-      "name": "Akinator",
-      "developer": "Elokence",
-      "url": "https://apps.apple.com/jp/app/akinator/id933135994?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cc/23/96cc23e5-50bd-8d04-73c7-f4fb0b05d87e/AppIcon-Free-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2016-10-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "6757843721",
-      "name": "ポケユニ | ポケコロユニバース",
-      "developer": "ENSAPIA Corporation",
-      "url": "https://apps.apple.com/jp/app/%E3%83%9D%E3%82%B1%E3%83%A6%E3%83%8B-%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%AD%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9/id6757843721?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e2/81/f4e2812c-d223-5aa3-8e87-d6059d3cdc33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2026-03-18",
-      "genres": [
-        {
-          "id": "6016",
-          "name": "エンターテインメント",
-          "url": "https://apps.apple.com/jp/genre/ios-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88/id6016?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 97,
-      "id": "497702817",
-      "name": "Fever：イベント＆チケット",
-      "developer": "Fever Labs, Inc.",
-      "url": "https://apps.apple.com/jp/app/fever-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-%E3%83%81%E3%82%B1%E3%83%83%E3%83%88/id497702817?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/f9/36/d5f93607-13e7-c722-7a3f-9737f89ee124/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2012-05-25",
+      "id": "6742331391",
+      "name": "テラードラマ - 縦型ショートドラマ見放題",
+      "developer": "Teller Novel Inc.",
+      "url": "https://apps.apple.com/jp/app/%E3%83%86%E3%83%A9%E3%83%BC%E3%83%89%E3%83%A9%E3%83%9E-%E7%B8%A6%E5%9E%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C/id6742331391?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/06/02/95060295-939b-af37-b682-3d088510184a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-03-11",
       "genres": [
         {
           "id": "6016",
@@ -1577,12 +1577,12 @@
     },
     {
       "rank": 99,
-      "id": "1470370690",
-      "name": "777CON-PASS（777コンパス）",
-      "developer": "Sammy Networks Co., Ltd.",
-      "url": "https://apps.apple.com/jp/app/777con-pass-777%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9/id1470370690?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/a5/99/d7a599d7-71a3-406c-9dc9-39d36a61561b/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/100x100bb.png",
-      "release_date": "2019-09-12",
+      "id": "6450071897",
+      "name": "カプセルトイ専門店 #C-pla（シープラ）公式アプリ",
+      "developer": "TOSHIN K.K(HOKKAIDO)",
+      "url": "https://apps.apple.com/jp/app/%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB%E3%83%88%E3%82%A4%E5%B0%82%E9%96%80%E5%BA%97-c-pla-%E3%82%B7%E3%83%BC%E3%83%97%E3%83%A9-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6450071897?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/dc/36/47dc363e-fa2a-fd18-bb58-bcdf93363159/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-29",
       "genres": [
         {
           "id": "6016",
@@ -1593,12 +1593,12 @@
     },
     {
       "rank": 100,
-      "id": "1435318006",
-      "name": "WithLIVE - アーティストとLIVEトーク",
-      "developer": "WithLIVE Inc.",
-      "url": "https://apps.apple.com/jp/app/withlive-%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%A8live%E3%83%88%E3%83%BC%E3%82%AF/id1435318006?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a2/12/3ba21257-bc26-f950-297a-b17899534f60/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-17",
+      "id": "6748977935",
+      "name": "チャチャ - AIキャラとロールプレイチャット",
+      "developer": "Kinkaku, Inc.",
+      "url": "https://apps.apple.com/jp/app/%E3%83%81%E3%83%A3%E3%83%81%E3%83%A3-ai%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AC%E3%82%A4%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id6748977935?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/45/51/fa45513a-3c47-2807-c4aa-2190ebea82cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-02",
       "genres": [
         {
           "id": "6016",

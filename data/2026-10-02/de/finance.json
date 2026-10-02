@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-02T00:11:40.532644+09:00",
+  "collected_at": "2026-10-02T18:11:54.105661+09:00",
   "date": "2026-10-02",
   "country": "de",
   "chart": "top-free",
@@ -153,12 +153,12 @@
     },
     {
       "rank": 10,
-      "id": "1214803607",
-      "name": "Finanzguru - Konten & Verträge",
-      "developer": "dwins GmbH",
-      "url": "https://apps.apple.com/de/app/finanzguru-konten-vertr%C3%A4ge/id1214803607?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2d/56/dc2d5613-93ad-6185-dbe7-4eafc6aef982/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2017-11-06",
+      "id": "1535422059",
+      "name": "VR SecureGo plus",
+      "developer": "Atruvia AG",
+      "url": "https://apps.apple.com/de/app/vr-securego-plus/id1535422059?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/5c/bf/805cbf2c-38e2-108e-b5ab-fe216c3eaacf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-24",
       "genres": [
         {
           "id": "6015",
@@ -169,12 +169,12 @@
     },
     {
       "rank": 11,
-      "id": "1535422059",
-      "name": "VR SecureGo plus",
-      "developer": "Atruvia AG",
-      "url": "https://apps.apple.com/de/app/vr-securego-plus/id1535422059?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/5c/bf/805cbf2c-38e2-108e-b5ab-fe216c3eaacf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-24",
+      "id": "1214803607",
+      "name": "Finanzguru - Konten & Verträge",
+      "developer": "dwins GmbH",
+      "url": "https://apps.apple.com/de/app/finanzguru-konten-vertr%C3%A4ge/id1214803607?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2d/56/dc2d5613-93ad-6185-dbe7-4eafc6aef982/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2017-11-06",
       "genres": [
         {
           "id": "6015",
@@ -281,38 +281,6 @@
     },
     {
       "rank": 18,
-      "id": "6741329871",
-      "name": "S-Vorteilswelt",
-      "developer": "S-Markt & Mehrwert GmbH & Co. KG",
-      "url": "https://apps.apple.com/de/app/s-vorteilswelt/id6741329871?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/c1/99/dac19995-4c40-ebbb-f2be-d4d505d6237e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-04-14",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "id": "1205990992",
-      "name": "TradingView - Börse & Aktien",
-      "developer": "TradingView",
-      "url": "https://apps.apple.com/de/app/tradingview-b%C3%B6rse-aktien/id1205990992?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/24/5f/be245f7c-456e-7544-7ee6-06092a405b9e/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 20,
       "id": "6448636299",
       "name": "SCHUFA",
       "developer": "SCHUFA Holding AG",
@@ -328,13 +296,45 @@
       ]
     },
     {
+      "rank": 19,
+      "id": "6741329871",
+      "name": "S-Vorteilswelt",
+      "developer": "S-Markt & Mehrwert GmbH & Co. KG",
+      "url": "https://apps.apple.com/de/app/s-vorteilswelt/id6741329871?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/c1/99/dac19995-4c40-ebbb-f2be-d4d505d6237e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "1205990992",
+      "name": "TradingView - Börse & Aktien",
+      "developer": "TradingView",
+      "url": "https://apps.apple.com/de/app/tradingview-b%C3%B6rse-aktien/id1205990992?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/af/cd/eeafcdc8-344f-b6c2-b4d8-906b9b11f6b5/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 21,
-      "id": "1597170526",
-      "name": "Openbank Pay",
-      "developer": "OPENBANK S.A.",
-      "url": "https://apps.apple.com/de/app/openbank-pay/id1597170526?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/d2/20/dbd22004-44b4-6c99-a151-94fcd4e6997f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-02-23",
+      "id": "349866256",
+      "name": "tricount - Ausgaben teilen",
+      "developer": "Tricount",
+      "url": "https://apps.apple.com/de/app/tricount-ausgaben-teilen/id349866256?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2010-02-01",
       "genres": [
         {
           "id": "6015",
@@ -345,12 +345,12 @@
     },
     {
       "rank": 22,
-      "id": "349866256",
-      "name": "tricount - Ausgaben teilen",
-      "developer": "Tricount",
-      "url": "https://apps.apple.com/de/app/tricount-ausgaben-teilen/id349866256?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/eb/6b/99eb6b59-988c-89d5-772b-1534f0a3faa3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "release_date": "2010-02-01",
+      "id": "1597170526",
+      "name": "Openbank Pay",
+      "developer": "OPENBANK S.A.",
+      "url": "https://apps.apple.com/de/app/openbank-pay/id1597170526?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/d2/20/dbd22004-44b4-6c99-a151-94fcd4e6997f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-02-23",
       "genres": [
         {
           "id": "6015",
@@ -377,38 +377,6 @@
     },
     {
       "rank": 24,
-      "id": "6787686922",
-      "name": "Rata y Fina: Ausgaben & Budget",
-      "developer": "Lucas Gemperle Ortiz",
-      "url": "https://apps.apple.com/de/app/rata-y-fina-ausgaben-budget/id6787686922?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/46/34/b54634c7-8cea-6995-2ea1-47e340838e32/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-07-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "id": "6480469576",
-      "name": "Wero Wallet",
-      "developer": "European Payments Initiative",
-      "url": "https://apps.apple.com/de/app/wero-wallet/id6480469576?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/9c/a6/ba9ca6f8-9d2d-edcb-f70f-95474e61be52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2024-11-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 26,
       "id": "1497319731",
       "name": "C24 Bank",
       "developer": "C24 Bank GmbH",
@@ -424,13 +392,45 @@
       ]
     },
     {
+      "rank": 25,
+      "id": "1458637370",
+      "name": "S-Invest - Wertpapiere & Börse",
+      "developer": "Star Finanz GmbH",
+      "url": "https://apps.apple.com/de/app/s-invest-wertpapiere-b%C3%B6rse/id1458637370?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/1d/c7/351dc711-322a-9bcd-c332-d7ed7ce2c82f/s_Invest_Icon_iOS26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-04-20",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "991473495",
+      "name": "Splid – Abrechnen mit Freunden",
+      "developer": "Nicolas Jersch",
+      "url": "https://apps.apple.com/de/app/splid-abrechnen-mit-freunden/id991473495?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a7/74/20a7740a-ff41-45e0-8ce0-77d2d5b60bcd/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-07-16",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 27,
-      "id": "1040475847",
-      "name": "Deutsche Bank",
-      "developer": "Deutsche Bank AG",
-      "url": "https://apps.apple.com/de/app/deutsche-bank/id1040475847?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/b2/46/96b246d0-7b99-d776-09c1-520ebc879adc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2016-04-25",
+      "id": "956857223",
+      "name": "N26 — Love your bank",
+      "developer": "N26 SE",
+      "url": "https://apps.apple.com/de/app/n26-love-your-bank/id956857223?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/4c/e2/d34ce2b8-fe77-8d1a-2af5-9bb6c6a8599b/AppIcon_app_live-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-01-23",
       "genres": [
         {
           "id": "6015",
@@ -457,12 +457,12 @@
     },
     {
       "rank": 29,
-      "id": "1621020173",
-      "name": "Ausgaben Budget Planner Fleur",
-      "developer": "Akash Jain",
-      "url": "https://apps.apple.com/de/app/ausgaben-budget-planner-fleur/id1621020173?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/40/5a/ed405a9b-b00e-18b3-1f12-3950e4ac3a3a/NewFleurSingleAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2022-05-22",
+      "id": "6480469576",
+      "name": "Wero Wallet",
+      "developer": "European Payments Initiative",
+      "url": "https://apps.apple.com/de/app/wero-wallet/id6480469576?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/9c/a6/ba9ca6f8-9d2d-edcb-f70f-95474e61be52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-11-25",
       "genres": [
         {
           "id": "6015",
@@ -489,12 +489,12 @@
     },
     {
       "rank": 31,
-      "id": "1458637370",
-      "name": "S-Invest - Wertpapiere & Börse",
-      "developer": "Star Finanz GmbH",
-      "url": "https://apps.apple.com/de/app/s-invest-wertpapiere-b%C3%B6rse/id1458637370?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/1d/c7/351dc711-322a-9bcd-c332-d7ed7ce2c82f/s_Invest_Icon_iOS26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2020-04-20",
+      "id": "1040475847",
+      "name": "Deutsche Bank",
+      "developer": "Deutsche Bank AG",
+      "url": "https://apps.apple.com/de/app/deutsche-bank/id1040475847?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/b2/46/96b246d0-7b99-d776-09c1-520ebc879adc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-04-25",
       "genres": [
         {
           "id": "6015",
@@ -505,182 +505,6 @@
     },
     {
       "rank": 32,
-      "id": "991473495",
-      "name": "Splid – Abrechnen mit Freunden",
-      "developer": "Nicolas Jersch",
-      "url": "https://apps.apple.com/de/app/splid-abrechnen-mit-freunden/id991473495?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a7/74/20a7740a-ff41-45e0-8ce0-77d2d5b60bcd/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-07-16",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 33,
-      "id": "956857223",
-      "name": "N26 — Love your bank",
-      "developer": "N26 SE",
-      "url": "https://apps.apple.com/de/app/n26-love-your-bank/id956857223?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/4c/e2/d34ce2b8-fe77-8d1a-2af5-9bb6c6a8599b/AppIcon_app_live-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2015-01-23",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 34,
-      "id": "6746188141",
-      "name": "MyDatapart",
-      "developer": "Eduvation IT-Services GmbH",
-      "url": "https://apps.apple.com/de/app/mydatapart/id6746188141?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/d5/7d/29d57db0-6836-69dd-066a-d5f562a5ceb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2025-06-17",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 35,
-      "id": "6480113066",
-      "name": "Amazon Visa",
-      "developer": "OPENBANK S.A.",
-      "url": "https://apps.apple.com/de/app/amazon-visa/id6480113066?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/a8/45/84a845d2-0436-71dc-b11e-bae9423ef578/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
-      "release_date": "2024-08-10",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 36,
-      "id": "413251709",
-      "name": "MetaTrader 5",
-      "developer": "MetaQuotes Software Corp.",
-      "url": "https://apps.apple.com/de/app/metatrader-5/id413251709?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2011-01-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "id": "6504279906",
-      "name": "Meine Debeka",
-      "developer": "Debeka Krankenversicherungsverein auf Gegenseitigkeit Sitz Koblenz am Rhein",
-      "url": "https://apps.apple.com/de/app/meine-debeka/id6504279906?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/3a/c2/933ac28f-de6b-3066-adc7-dc04af77ebdd/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
-      "release_date": "2026-07-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 38,
-      "id": "1591382183",
-      "name": "Zasta – Super-App für Steuern",
-      "developer": "Zasta GmbH",
-      "url": "https://apps.apple.com/de/app/zasta-super-app-f%C3%BCr-steuern/id1591382183?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/11/d4/d711d4f7-c24f-c353-12ea-bac2edf4522c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-03-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 39,
-      "id": "1455125952",
-      "name": "ADDISON Direkt Lohnordner",
-      "developer": "Wolters Kluwer Tax & Accounting Deutschland GmbH",
-      "url": "https://apps.apple.com/de/app/addison-direkt-lohnordner/id1455125952?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/6a/85/ea6a85c6-e96f-0860-7c7f-03a7b0529de9/Lohnordner-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
-      "release_date": "2019-03-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 40,
-      "id": "1254359734",
-      "name": "Consors Finanz Mobile Banking",
-      "developer": "BNP Paribas S.A. Niederlassung Deutschland",
-      "url": "https://apps.apple.com/de/app/consors-finanz-mobile-banking/id1254359734?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/79/de/9979de48-af0e-04ca-2c21-45f69e424f4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-01-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 41,
-      "id": "560172227",
-      "name": "Amex Deutschland",
-      "developer": "American Express",
-      "url": "https://apps.apple.com/de/app/amex-deutschland/id560172227?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e3/c6/2ce3c6e0-6958-db3d-c159-8112e67f7d41/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2012-09-14",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 42,
-      "id": "1617877213",
-      "name": "Haushaltsbuch Ausgaben Monee",
-      "developer": "Stephan Lerner",
-      "url": "https://apps.apple.com/de/app/haushaltsbuch-ausgaben-monee/id1617877213?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/db/08/c1db0888-1f45-7063-17c7-2eb17d6f3fa7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-05-24",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 43,
       "id": "6741115427",
       "name": "fomo - never miss out",
       "developer": "fomo labs, inc",
@@ -696,7 +520,135 @@
       ]
     },
     {
-      "rank": 44,
+      "rank": 33,
+      "id": "413251709",
+      "name": "MetaTrader 5",
+      "developer": "MetaQuotes Software Corp.",
+      "url": "https://apps.apple.com/de/app/metatrader-5/id413251709?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6c/49/b76c4925-393e-6f18-389c-967bbcc98687/icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-01-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "1591382183",
+      "name": "Zasta – Super-App für Steuern",
+      "developer": "Zasta GmbH",
+      "url": "https://apps.apple.com/de/app/zasta-super-app-f%C3%BCr-steuern/id1591382183?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/11/d4/d711d4f7-c24f-c353-12ea-bac2edf4522c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-03-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "1621020173",
+      "name": "Ausgaben Budget Planner Fleur",
+      "developer": "Akash Jain",
+      "url": "https://apps.apple.com/de/app/ausgaben-budget-planner-fleur/id1621020173?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/b8/c6/bdb8c647-5486-7913-f5b0-a19091347a7c/NewFleurSingleAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-05-22",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "560172227",
+      "name": "Amex Deutschland",
+      "developer": "American Express",
+      "url": "https://apps.apple.com/de/app/amex-deutschland/id560172227?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e3/c6/2ce3c6e0-6958-db3d-c159-8112e67f7d41/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-09-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "6480113066",
+      "name": "Amazon Visa",
+      "developer": "OPENBANK S.A.",
+      "url": "https://apps.apple.com/de/app/amazon-visa/id6480113066?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/a8/45/84a845d2-0436-71dc-b11e-bae9423ef578/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2024-08-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "1254359734",
+      "name": "Consors Finanz Mobile Banking",
+      "developer": "BNP Paribas S.A. Niederlassung Deutschland",
+      "url": "https://apps.apple.com/de/app/consors-finanz-mobile-banking/id1254359734?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/79/de/9979de48-af0e-04ca-2c21-45f69e424f4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-01-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6444706327",
+      "name": "Postbank",
+      "developer": "Postbank - eine Niederlassung der DB Privat- und Firmenkundenbank AG",
+      "url": "https://apps.apple.com/de/app/postbank/id6444706327?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/8a/87/c28a87b0-4573-d694-9444-905fb75387d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-07",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "1473806360",
+      "name": "DKB",
+      "developer": "Deutsche Kreditbank AG",
+      "url": "https://apps.apple.com/de/app/dkb/id1473806360?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/2f/9e/ae2f9e44-d0a2-3f29-e591-320ccfc1e4b1/DKBAppIcon-Default-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-08-19",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
       "id": "366609901",
       "name": "Commerzbank Banking",
       "developer": "Commerzbank AG",
@@ -712,7 +664,71 @@
       ]
     },
     {
+      "rank": 42,
+      "id": "6504279906",
+      "name": "Meine Debeka",
+      "developer": "Debeka Krankenversicherungsverein auf Gegenseitigkeit Sitz Koblenz am Rhein",
+      "url": "https://apps.apple.com/de/app/meine-debeka/id6504279906?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/3a/c2/933ac28f-de6b-3066-adc7-dc04af77ebdd/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-07-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "1617877213",
+      "name": "Haushaltsbuch Ausgaben Monee",
+      "developer": "Stephan Lerner",
+      "url": "https://apps.apple.com/de/app/haushaltsbuch-ausgaben-monee/id1617877213?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/db/08/c1db0888-1f45-7063-17c7-2eb17d6f3fa7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-05-24",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "6801469335",
+      "name": "ChickFund Goal Jar",
+      "developer": "LOVEPREET SINGH",
+      "url": "https://apps.apple.com/de/app/chickfund-goal-jar/id6801469335?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/5d/d7/b35dd77c-480f-5fe7-985a-5d216b2434cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-03",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 45,
+      "id": "6787686922",
+      "name": "Rata y Fina: Ausgaben & Budget",
+      "developer": "Lucas Gemperle Ortiz",
+      "url": "https://apps.apple.com/de/app/rata-y-fina-ausgaben-budget/id6787686922?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/46/34/b54634c7-8cea-6995-2ea1-47e340838e32/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
       "id": "577752083",
       "name": "Commerzbank photoTAN",
       "developer": "Commerzbank AG",
@@ -728,29 +744,13 @@
       ]
     },
     {
-      "rank": 46,
-      "id": "6754696167",
-      "name": "BAföG-Digital",
-      "developer": "Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt des Landes Sachsen-Anhalt",
-      "url": "https://apps.apple.com/de/app/baf%C3%B6g-digital/id6754696167?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ed/4d/72ed4da9-38a5-ca59-1ba1-0d272eee582f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-03-31",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 47,
-      "id": "6444706327",
-      "name": "Postbank",
-      "developer": "Postbank - eine Niederlassung der DB Privat- und Firmenkundenbank AG",
-      "url": "https://apps.apple.com/de/app/postbank/id6444706327?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/8a/87/c28a87b0-4573-d694-9444-905fb75387d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2022-12-07",
+      "id": "1054047186",
+      "name": "bonify Finanzmanager",
+      "developer": "Forteil GmbH",
+      "url": "https://apps.apple.com/de/app/bonify-finanzmanager/id1054047186?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/54/ec/8654ecdb-fc7c-56b2-47ca-fbc415b9281b/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2017-08-14",
       "genres": [
         {
           "id": "6015",
@@ -777,12 +777,12 @@
     },
     {
       "rank": 49,
-      "id": "1054047186",
-      "name": "bonify Finanzmanager",
-      "developer": "Forteil GmbH",
-      "url": "https://apps.apple.com/de/app/bonify-finanzmanager/id1054047186?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/54/ec/8654ecdb-fc7c-56b2-47ca-fbc415b9281b/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2017-08-14",
+      "id": "1455125952",
+      "name": "ADDISON Direkt Lohnordner",
+      "developer": "Wolters Kluwer Tax & Accounting Deutschland GmbH",
+      "url": "https://apps.apple.com/de/app/addison-direkt-lohnordner/id1455125952?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/6a/85/ea6a85c6-e96f-0860-7c7f-03a7b0529de9/Lohnordner-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2019-03-24",
       "genres": [
         {
           "id": "6015",
@@ -793,12 +793,12 @@
     },
     {
       "rank": 50,
-      "id": "1473806360",
-      "name": "DKB",
-      "developer": "Deutsche Kreditbank AG",
-      "url": "https://apps.apple.com/de/app/dkb/id1473806360?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/2f/9e/ae2f9e44-d0a2-3f29-e591-320ccfc1e4b1/DKBAppIcon-Default-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-08-19",
+      "id": "6746188141",
+      "name": "MyDatapart",
+      "developer": "Eduvation IT-Services GmbH",
+      "url": "https://apps.apple.com/de/app/mydatapart/id6746188141?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/d5/7d/29d57db0-6836-69dd-066a-d5f562a5ceb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-17",
       "genres": [
         {
           "id": "6015",
@@ -809,6 +809,22 @@
     },
     {
       "rank": 51,
+      "id": "6754696167",
+      "name": "BAföG-Digital",
+      "developer": "Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt des Landes Sachsen-Anhalt",
+      "url": "https://apps.apple.com/de/app/baf%C3%B6g-digital/id6754696167?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ed/4d/72ed4da9-38a5-ca59-1ba1-0d272eee582f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-03-31",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
       "id": "1479029945",
       "name": "MySantander Banking",
       "developer": "Santander Consumer Bank AG",
@@ -824,39 +840,7 @@
       ]
     },
     {
-      "rank": 52,
-      "id": "1469356319",
-      "name": "Sparkasse Business",
-      "developer": "Star Finanz GmbH",
-      "url": "https://apps.apple.com/de/app/sparkasse-business/id1469356319?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/4d/a5/944da5a5-c96a-31f8-86d2-27f778597a80/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2022-06-30",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 53,
-      "id": "1517402199",
-      "name": "TF Bank Mobile",
-      "developer": "Avarda Bank AB",
-      "url": "https://apps.apple.com/de/app/tf-bank-mobile/id1517402199?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/da/c1/01dac11c-411b-cc25-8173-2249c9748c8a/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "release_date": "2020-08-25",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 54,
       "id": "1045347175",
       "name": "Western Union Sende Geld",
       "developer": "Western Union Holdings, Inc.",
@@ -872,103 +856,7 @@
       ]
     },
     {
-      "rank": 55,
-      "id": "573536964",
-      "name": "Allianz Gesundheits-App",
-      "developer": "Allianz Deutschland AG",
-      "url": "https://apps.apple.com/de/app/allianz-gesundheits-app/id573536964?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f4/f6/1df4f697-b65c-e427-5d65-385a857fa206/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2012-11-26",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 56,
-      "id": "1638295638",
-      "name": "easyCredit+",
-      "developer": "TeamBank AG",
-      "url": "https://apps.apple.com/de/app/easycredit/id1638295638?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/91/15/1091154e-1058-f7f8-0db1-a134db039e85/AppIcon-prod-de-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "release_date": "2022-11-15",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 57,
-      "id": "1163776422",
-      "name": "Taxfix: Online Steuererklärung",
-      "developer": "Taxfix SE",
-      "url": "https://apps.apple.com/de/app/taxfix-online-steuererkl%C3%A4rung/id1163776422?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/73/60/647360f7-d94a-a23e-f3c4-8c4b2e1236bd/TaxfixAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2017-07-10",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "id": "1413346006",
-      "name": "Taptap Send: Geld senden",
-      "developer": "Taptap Send, Inc.",
-      "url": "https://apps.apple.com/de/app/taptap-send-geld-senden/id1413346006?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d1/69/4dd16953-a056-494c-c11e-bb975de65524/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "release_date": "2018-12-13",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "id": "6801469335",
-      "name": "ChickFund Goal Jar",
-      "developer": "LOVEPREET SINGH",
-      "url": "https://apps.apple.com/de/app/chickfund-goal-jar/id6801469335?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/5d/d7/b35dd77c-480f-5fe7-985a-5d216b2434cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2026-09-03",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "id": "1441312370",
-      "name": "TARGOBANK Banking",
-      "developer": "TARGOBANK AG",
-      "url": "https://apps.apple.com/de/app/targobank-banking/id1441312370?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/62/a3/b462a3fe-f447-4c1e-bdb7-ebcf9e88ddad/TargobankDE-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2018-12-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 61,
+      "rank": 54,
       "id": "588324792",
       "name": "PaysafeCard–Prepaid-Zahlungen",
       "developer": "paysafecard.com Wertkarten GmbH",
@@ -984,13 +872,13 @@
       ]
     },
     {
-      "rank": 62,
-      "id": "868737672",
-      "name": "easybank Deutschland",
-      "developer": "BAWAG PSK AG",
-      "url": "https://apps.apple.com/de/app/easybank-deutschland/id868737672?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/84/44/df84440e-7831-0d3b-db12-c337f3b3dc80/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2014-06-10",
+      "rank": 55,
+      "id": "1163776422",
+      "name": "Taxfix: Online Steuererklärung",
+      "developer": "Taxfix SE",
+      "url": "https://apps.apple.com/de/app/taxfix-online-steuererkl%C3%A4rung/id1163776422?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/73/60/647360f7-d94a-a23e-f3c4-8c4b2e1236bd/TaxfixAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2017-07-10",
       "genres": [
         {
           "id": "6015",
@@ -1000,13 +888,13 @@
       ]
     },
     {
-      "rank": 63,
-      "id": "674258465",
-      "name": "Remitly: Geld weltweit senden",
-      "developer": "Remitly Inc",
-      "url": "https://apps.apple.com/de/app/remitly-geld-weltweit-senden/id674258465?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/89/f4/cd89f400-55ee-97b0-a821-36baf7e0ea95/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2018-09-13",
+      "rank": 56,
+      "id": "1413346006",
+      "name": "Taptap Send: Geld senden",
+      "developer": "Taptap Send, Inc.",
+      "url": "https://apps.apple.com/de/app/taptap-send-geld-senden/id1413346006?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d1/69/4dd16953-a056-494c-c11e-bb975de65524/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2018-12-13",
       "genres": [
         {
           "id": "6015",
@@ -1016,13 +904,13 @@
       ]
     },
     {
-      "rank": 64,
-      "id": "1591907352",
-      "name": "SecureGo+ Renault Bank direkt",
-      "developer": "RCI Banque S. A. Niederlassung Deutschland",
-      "url": "https://apps.apple.com/de/app/securego-renault-bank-direkt/id1591907352?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/02/b3/9e02b3fc-92ca-c379-8cac-ae0b34343155/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2021-12-07",
+      "rank": 57,
+      "id": "1469356319",
+      "name": "Sparkasse Business",
+      "developer": "Star Finanz GmbH",
+      "url": "https://apps.apple.com/de/app/sparkasse-business/id1469356319?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/4d/a5/944da5a5-c96a-31f8-86d2-27f778597a80/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-06-30",
       "genres": [
         {
           "id": "6015",
@@ -1032,13 +920,13 @@
       ]
     },
     {
-      "rank": 65,
-      "id": "886427730",
-      "name": "Coinbase: BTC, ETH, SOL kaufen",
-      "developer": "Coinbase, Inc.",
-      "url": "https://apps.apple.com/de/app/coinbase-btc-eth-sol-kaufen/id886427730?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/2a/93/6f2a9371-7da6-5d87-48a6-189319ce460c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2014-06-21",
+      "rank": 58,
+      "id": "1517402199",
+      "name": "TF Bank Mobile",
+      "developer": "Avarda Bank AB",
+      "url": "https://apps.apple.com/de/app/tf-bank-mobile/id1517402199?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/da/c1/01dac11c-411b-cc25-8173-2249c9748c8a/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "release_date": "2020-08-25",
       "genres": [
         {
           "id": "6015",
@@ -1048,13 +936,13 @@
       ]
     },
     {
-      "rank": 66,
-      "id": "1598432977",
-      "name": "Phantom: Trading Wallet",
-      "developer": "Phantom Technologies Incorporated",
-      "url": "https://apps.apple.com/de/app/phantom-trading-wallet/id1598432977?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/80/7e/03807eda-36f2-9820-dcec-bd14adaf9cae/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "release_date": "2022-01-30",
+      "rank": 59,
+      "id": "573536964",
+      "name": "Allianz Gesundheits-App",
+      "developer": "Allianz Deutschland AG",
+      "url": "https://apps.apple.com/de/app/allianz-gesundheits-app/id573536964?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f4/f6/1df4f697-b65c-e427-5d65-385a857fa206/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-11-26",
       "genres": [
         {
           "id": "6015",
@@ -1064,7 +952,7 @@
       ]
     },
     {
-      "rank": 67,
+      "rank": 60,
       "id": "577087288",
       "name": "Volkswagen Bank Banking",
       "developer": "Volkswagen Financial Services AG",
@@ -1080,7 +968,39 @@
       ]
     },
     {
-      "rank": 68,
+      "rank": 61,
+      "id": "1638295638",
+      "name": "easyCredit+",
+      "developer": "TeamBank AG",
+      "url": "https://apps.apple.com/de/app/easycredit/id1638295638?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/91/15/1091154e-1058-f7f8-0db1-a134db039e85/AppIcon-prod-de-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-11-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "674258465",
+      "name": "Remitly: Geld weltweit senden",
+      "developer": "Remitly Inc",
+      "url": "https://apps.apple.com/de/app/remitly-geld-weltweit-senden/id674258465?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/89/f4/cd89f400-55ee-97b0-a821-36baf7e0ea95/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-13",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
       "id": "1409577206",
       "name": "Volkswagen Bank photoTAN",
       "developer": "Volkswagen Financial Services AG",
@@ -1096,7 +1016,39 @@
       ]
     },
     {
-      "rank": 69,
+      "rank": 64,
+      "id": "868737672",
+      "name": "easybank Deutschland",
+      "developer": "BAWAG PSK AG",
+      "url": "https://apps.apple.com/de/app/easybank-deutschland/id868737672?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/84/44/df84440e-7831-0d3b-db12-c337f3b3dc80/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-06-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1441312370",
+      "name": "TARGOBANK Banking",
+      "developer": "TARGOBANK AG",
+      "url": "https://apps.apple.com/de/app/targobank-banking/id1441312370?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/62/a3/b462a3fe-f447-4c1e-bdb7-ebcf9e88ddad/TargobankDE-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-12-05",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
       "id": "1481947260",
       "name": "Kraken: Crypto und Bitcoin BTC",
       "developer": "Kraken",
@@ -1112,119 +1064,55 @@
       ]
     },
     {
+      "rank": 67,
+      "id": "1598432977",
+      "name": "Phantom: Trading Wallet",
+      "developer": "Phantom Technologies Incorporated",
+      "url": "https://apps.apple.com/de/app/phantom-trading-wallet/id1598432977?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/aa/6b/15aa6bbb-dc02-eb2a-86f0-ea9a2dc887b9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-01-30",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "886427730",
+      "name": "Coinbase: BTC, ETH, SOL kaufen",
+      "developer": "Coinbase, Inc.",
+      "url": "https://apps.apple.com/de/app/coinbase-btc-eth-sol-kaufen/id886427730?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/2a/93/6f2a9371-7da6-5d87-48a6-189319ce460c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-06-21",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "1591907352",
+      "name": "SecureGo+ Renault Bank direkt",
+      "developer": "RCI Banque S. A. Niederlassung Deutschland",
+      "url": "https://apps.apple.com/de/app/securego-renault-bank-direkt/id1591907352?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/02/b3/9e02b3fc-92ca-c379-8cac-ae0b34343155/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-12-07",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 70,
-      "id": "1449954897",
-      "name": "givve",
-      "developer": "PL Gutscheinsysteme GmbH",
-      "url": "https://apps.apple.com/de/app/givve/id1449954897?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6f/f3/c96ff3ab-ea24-1eb2-7a42-3c716b1950ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2019-04-01",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 71,
-      "id": "1380198738",
-      "name": "Hanseatic Bank Mobile",
-      "developer": "Hanseatic Bank",
-      "url": "https://apps.apple.com/de/app/hanseatic-bank-mobile/id1380198738?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/e5/61/0ce56168-8a7e-3aeb-fefd-ecd616b92f03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-26",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "id": "1164916774",
-      "name": "Verivox: Dein Vergleichsportal",
-      "developer": "Verivox GmbH",
-      "url": "https://apps.apple.com/de/app/verivox-dein-vergleichsportal/id1164916774?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/2c/1f/1c2c1f1c-fc61-8fef-2d0a-df1fce27f03f/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "release_date": "2017-08-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "id": "1472327416",
-      "name": "auxmoney Kredite",
-      "developer": "auxmoney",
-      "url": "https://apps.apple.com/de/app/auxmoney-kredite/id1472327416?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/54/24/c95424f5-fe7f-bc58-8342-c94d8b322911/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "release_date": "2020-04-06",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "id": "1535422537",
-      "name": "SecureGo plus",
-      "developer": "Atruvia AG",
-      "url": "https://apps.apple.com/de/app/securego-plus/id1535422537?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/13/96/a513964a-dac6-8878-6200-869b651afed3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "id": "1475466439",
-      "name": "SantanderSign",
-      "developer": "Santander Consumer Bank AG",
-      "url": "https://apps.apple.com/de/app/santandersign/id1475466439?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/c6/80/6ac68095-29c1-0dee-9cc9-4e7224081ada/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2019-08-28",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "id": "1556711130",
-      "name": "finanzen.net zero Aktien & ETF",
-      "developer": "finanzen.net zero GmbH",
-      "url": "https://apps.apple.com/de/app/finanzen-net-zero-aktien-etf/id1556711130?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/38/24/cd382444-d87d-ae96-f98f-301112a62225/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2021-06-07",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 77,
       "id": "1275446664",
       "name": "comdirect",
       "developer": "comdirect bank AG",
@@ -1240,13 +1128,125 @@
       ]
     },
     {
+      "rank": 71,
+      "id": "1449954897",
+      "name": "givve",
+      "developer": "PL Gutscheinsysteme GmbH",
+      "url": "https://apps.apple.com/de/app/givve/id1449954897?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6f/f3/c96ff3ab-ea24-1eb2-7a42-3c716b1950ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2019-04-01",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "1556711130",
+      "name": "finanzen.net zero Aktien & ETF",
+      "developer": "finanzen.net zero GmbH",
+      "url": "https://apps.apple.com/de/app/finanzen-net-zero-aktien-etf/id1556711130?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/38/24/cd382444-d87d-ae96-f98f-301112a62225/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2021-06-07",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1288339409",
+      "name": "Trust: Crypto & Bitcoin Wallet",
+      "developer": "DApps Platform Software Services Ltd.",
+      "url": "https://apps.apple.com/de/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/62/f7/7d62f730-2679-cfd4-6862-b29d84493677/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-26",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "930883278",
+      "name": "Consorsbank",
+      "developer": "BNP Paribas S.A. Niederlassung Deutschland",
+      "url": "https://apps.apple.com/de/app/consorsbank/id930883278?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/82/0f/d8820ff5-757d-e553-74ea-c64249d4785e/CBAppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2014-12-07",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1085720801",
+      "name": "MoneyGram® Geld Online Senden",
+      "developer": "MoneyGram International, Inc.",
+      "url": "https://apps.apple.com/de/app/moneygram-geld-online-senden/id1085720801?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/d8/76/75d8761a-34bb-c117-6e89-bb99638ef0a1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-09-14",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1472327416",
+      "name": "auxmoney Kredite",
+      "developer": "auxmoney",
+      "url": "https://apps.apple.com/de/app/auxmoney-kredite/id1472327416?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/54/24/c95424f5-fe7f-bc58-8342-c94d8b322911/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2020-04-06",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1164916774",
+      "name": "Verivox: Dein Vergleichsportal",
+      "developer": "Verivox GmbH",
+      "url": "https://apps.apple.com/de/app/verivox-dein-vergleichsportal/id1164916774?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/2c/1f/1c2c1f1c-fc61-8fef-2d0a-df1fce27f03f/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2017-08-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 78,
-      "id": "1212024409",
-      "name": "Monefy: Ausgaben Manager",
-      "developer": "Reflective Technologies ApS",
-      "url": "https://apps.apple.com/de/app/monefy-ausgaben-manager/id1212024409?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/b2/79/27b279f5-a65e-2279-03f8-2e391138e7a5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-04-17",
+      "id": "597870341",
+      "name": "Meine LVM",
+      "developer": "LVM Versicherung",
+      "url": "https://apps.apple.com/de/app/meine-lvm/id597870341?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/b4/62/8db462ec-3614-a4e5-61e8-a9646ecdb802/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-02-15",
       "genres": [
         {
           "id": "6015",
@@ -1273,12 +1273,12 @@
     },
     {
       "rank": 80,
-      "id": "930883278",
-      "name": "Consorsbank",
-      "developer": "BNP Paribas S.A. Niederlassung Deutschland",
-      "url": "https://apps.apple.com/de/app/consorsbank/id930883278?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/82/0f/d8820ff5-757d-e553-74ea-c64249d4785e/CBAppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2014-12-07",
+      "id": "1475466439",
+      "name": "SantanderSign",
+      "developer": "Santander Consumer Bank AG",
+      "url": "https://apps.apple.com/de/app/santandersign/id1475466439?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/c6/80/6ac68095-29c1-0dee-9cc9-4e7224081ada/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-08-28",
       "genres": [
         {
           "id": "6015",
@@ -1289,12 +1289,12 @@
     },
     {
       "rank": 81,
-      "id": "1668145786",
-      "name": "Meine SI Mobile",
-      "developer": "SIGNAL IDUNA Allgemeine Versicherung AG",
-      "url": "https://apps.apple.com/de/app/meine-si-mobile/id1668145786?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/39/10/6739107d-c96e-752d-2046-315890827a3d/meineSIProd-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2023-10-10",
+      "id": "1380198738",
+      "name": "Hanseatic Bank Mobile",
+      "developer": "Hanseatic Bank",
+      "url": "https://apps.apple.com/de/app/hanseatic-bank-mobile/id1380198738?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/e5/61/0ce56168-8a7e-3aeb-fefd-ecd616b92f03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-26",
       "genres": [
         {
           "id": "6015",
@@ -1305,12 +1305,12 @@
     },
     {
       "rank": 82,
-      "id": "597870341",
-      "name": "Meine LVM",
-      "developer": "LVM Versicherung",
-      "url": "https://apps.apple.com/de/app/meine-lvm/id597870341?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/b4/62/8db462ec-3614-a4e5-61e8-a9646ecdb802/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2013-02-15",
+      "id": "1436799971",
+      "name": "Binance: Buy Bitcoin & Crypto",
+      "developer": "Binance Switzerland AG",
+      "url": "https://apps.apple.com/de/app/binance-buy-bitcoin-crypto/id1436799971?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/4c/2e/7c4c2e2f-157f-5bc0-2f8a-a7292e52cccf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-10-06",
       "genres": [
         {
           "id": "6015",
@@ -1321,12 +1321,12 @@
     },
     {
       "rank": 83,
-      "id": "1584319243",
-      "name": "Barmenia",
-      "developer": "Barmenia",
-      "url": "https://apps.apple.com/de/app/barmenia/id1584319243?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/4d/ab/8f4dabed-25b5-f5b1-c74b-f14687e20e9d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2021-11-09",
+      "id": "1535422537",
+      "name": "SecureGo plus",
+      "developer": "Atruvia AG",
+      "url": "https://apps.apple.com/de/app/securego-plus/id1535422537?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/13/96/a513964a-dac6-8878-6200-869b651afed3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2020-11-12",
       "genres": [
         {
           "id": "6015",
@@ -1337,12 +1337,12 @@
     },
     {
       "rank": 84,
-      "id": "1288339409",
-      "name": "Trust: Crypto & Bitcoin Wallet",
-      "developer": "DApps Platform Software Services Ltd.",
-      "url": "https://apps.apple.com/de/app/trust-crypto-bitcoin-wallet/id1288339409?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/62/f7/7d62f730-2679-cfd4-6862-b29d84493677/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2017-09-26",
+      "id": "1579021169",
+      "name": "SpardaBanking App",
+      "developer": "Verband der Sparda-Banken",
+      "url": "https://apps.apple.com/de/app/spardabanking-app/id1579021169?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/c5/4f/f5c54f0d-bc06-d2aa-a0fa-987c4c615a86/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-11-12",
       "genres": [
         {
           "id": "6015",
@@ -1369,6 +1369,54 @@
     },
     {
       "rank": 86,
+      "id": "1021178150",
+      "name": "bunq",
+      "developer": "bunq",
+      "url": "https://apps.apple.com/de/app/bunq/id1021178150?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/08/b4/9f08b478-3704-53b2-321d-a238a9f394b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-02-12",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1584319243",
+      "name": "Barmenia",
+      "developer": "Barmenia",
+      "url": "https://apps.apple.com/de/app/barmenia/id1584319243?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/4d/ab/8f4dabed-25b5-f5b1-c74b-f14687e20e9d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-11-09",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6740246730",
+      "name": "Rebind - Moderne Geldanlage",
+      "developer": "Rebind",
+      "url": "https://apps.apple.com/de/app/rebind-moderne-geldanlage/id6740246730?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/bd/27/c8bd2788-bca3-c7be-1380-a57a6652f9b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
       "id": "674984916",
       "name": "etoro: Handeln & Investieren",
       "developer": "eToro",
@@ -1384,61 +1432,13 @@
       ]
     },
     {
-      "rank": 87,
-      "id": "1579021169",
-      "name": "SpardaBanking App",
-      "developer": "Verband der Sparda-Banken",
-      "url": "https://apps.apple.com/de/app/spardabanking-app/id1579021169?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/c5/4f/f5c54f0d-bc06-d2aa-a0fa-987c4c615a86/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2021-11-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 88,
-      "id": "1412749891",
-      "name": "Anyfin",
-      "developer": "Anyfin",
-      "url": "https://apps.apple.com/de/app/anyfin/id1412749891?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/07/f3/8a07f38e-c8ec-cdac-29e1-b45ac0343894/Anyfin-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "release_date": "2021-03-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 89,
-      "id": "560481810",
-      "name": "Haushaltsbuch : Money Manager",
-      "developer": "Realbyte Inc.",
-      "url": "https://apps.apple.com/de/app/haushaltsbuch-money-manager/id560481810?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/4d/f8/9f4df89b-35ba-c174-350b-22ce59710f06/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2012-11-05",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
       "rank": 90,
-      "id": "956081910",
-      "name": "Bruno: Brutto Netto Rechner",
-      "developer": "Supershift GmbH",
-      "url": "https://apps.apple.com/de/app/bruno-brutto-netto-rechner/id956081910?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/a8/82/a4a8825f-69c5-e0c7-944a-1f94f7a7d2cb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2015-01-15",
+      "id": "1212024409",
+      "name": "Monefy: Ausgaben Manager",
+      "developer": "Reflective Technologies ApS",
+      "url": "https://apps.apple.com/de/app/monefy-ausgaben-manager/id1212024409?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/b2/79/27b279f5-a65e-2279-03f8-2e391138e7a5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-17",
       "genres": [
         {
           "id": "6015",
@@ -1449,12 +1449,12 @@
     },
     {
       "rank": 91,
-      "id": "1436799971",
-      "name": "Binance: Buy Bitcoin & Crypto",
-      "developer": "Binance Switzerland AG",
-      "url": "https://apps.apple.com/de/app/binance-buy-bitcoin-crypto/id1436799971?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0d/84/a30d8426-fb29-5fc4-0be4-0bbbc7805b3f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-10-06",
+      "id": "560481810",
+      "name": "Haushaltsbuch : Money Manager",
+      "developer": "Realbyte Inc.",
+      "url": "https://apps.apple.com/de/app/haushaltsbuch-money-manager/id560481810?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/4d/f8/9f4df89b-35ba-c174-350b-22ce59710f06/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2012-11-05",
       "genres": [
         {
           "id": "6015",
@@ -1481,102 +1481,6 @@
     },
     {
       "rank": 93,
-      "id": "1442251022",
-      "name": "Postbank BestSign",
-      "developer": "Postbank - eine Niederlassung der DB Privat- und Firmenkundenbank AG",
-      "url": "https://apps.apple.com/de/app/postbank-bestsign/id1442251022?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/aa/de/9daadeb8-1bb6-a3f9-59f9-bb0856363164/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "id": "6752480162",
-      "name": "BFS health finance",
-      "developer": "BFS health finance GmbH",
-      "url": "https://apps.apple.com/de/app/bfs-health-finance/id6752480162?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/8e/cf/7c8ecf5c-48c4-d189-b3cc-4728da174825/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "release_date": "2025-09-27",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 95,
-      "id": "1065921908",
-      "name": "Ria Money Transfer",
-      "developer": "Ria Envia Inc.",
-      "url": "https://apps.apple.com/de/app/ria-money-transfer/id1065921908?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/75/fb/b875fb9a-4ea4-cf69-8074-d68d9f4919d0/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "release_date": "2020-06-02",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 96,
-      "id": "1021178150",
-      "name": "bunq",
-      "developer": "bunq",
-      "url": "https://apps.apple.com/de/app/bunq/id1021178150?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b4/95/cdb4953e-fa0a-c441-f689-3f074a0ccccf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "release_date": "2016-02-12",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 97,
-      "id": "1394561764",
-      "name": "1822TAN+",
-      "developer": "1822direkt Ges. der Frankfurter Sparkasse mbH",
-      "url": "https://apps.apple.com/de/app/1822tan/id1394561764?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/20/21/512021d2-7fee-ea1f-c0b8-b987c5837279/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "release_date": "2018-11-08",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 98,
-      "id": "6754984723",
-      "name": "Flowfy: Haushaltsbuch & Budget",
-      "developer": "ALBERTO PEREZ GUIJARRO",
-      "url": "https://apps.apple.com/de/app/flowfy-haushaltsbuch-budget/id6754984723?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/11/28/01112874-a570-eb2f-ce04-21d83ed5afc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "release_date": "2025-11-11",
-      "genres": [
-        {
-          "id": "6015",
-          "name": "Finanzen",
-          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
-        }
-      ]
-    },
-    {
-      "rank": 99,
       "id": "1049311425",
       "name": "VIMpay – the way to pay",
       "developer": "petaFuel",
@@ -1592,13 +1496,109 @@
       ]
     },
     {
+      "rank": 94,
+      "id": "1668145786",
+      "name": "Meine SI Mobile",
+      "developer": "SIGNAL IDUNA Allgemeine Versicherung AG",
+      "url": "https://apps.apple.com/de/app/meine-si-mobile/id1668145786?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/39/10/6739107d-c96e-752d-2046-315890827a3d/meineSIProd-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-10-10",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "956081910",
+      "name": "Bruno: Brutto Netto Rechner",
+      "developer": "Supershift GmbH",
+      "url": "https://apps.apple.com/de/app/bruno-brutto-netto-rechner/id956081910?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/a8/82/a4a8825f-69c5-e0c7-944a-1f94f7a7d2cb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-15",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1065921908",
+      "name": "Ria Money Transfer",
+      "developer": "Ria Envia Inc.",
+      "url": "https://apps.apple.com/de/app/ria-money-transfer/id1065921908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/75/fb/b875fb9a-4ea4-cf69-8074-d68d9f4919d0/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2020-06-02",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "1622100275",
+      "name": "GoMining - BTC Mining & Card",
+      "developer": "GoMining Latvia SIA",
+      "url": "https://apps.apple.com/de/app/gomining-btc-mining-card/id1622100275?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/3f/68/163f688f-6db2-de90-fa75-fa40a56ebe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-05-27",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "1156875272",
+      "name": "Suica",
+      "developer": "East Japan Railway Company",
+      "url": "https://apps.apple.com/de/app/suica/id1156875272?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/31/01/473101ed-564d-3f13-3c8b-3a1d9cd60880/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2016-10-23",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "1412749891",
+      "name": "Anyfin",
+      "developer": "Anyfin",
+      "url": "https://apps.apple.com/de/app/anyfin/id1412749891?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/07/f3/8a07f38e-c8ec-cdac-29e1-b45ac0343894/Anyfin-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-03-08",
+      "genres": [
+        {
+          "id": "6015",
+          "name": "Finanzen",
+          "url": "https://apps.apple.com/de/genre/ios-finanzen/id6015?uo=2"
+        }
+      ]
+    },
+    {
       "rank": 100,
-      "id": "1527558932",
-      "name": "Hanseatic Bank Secure",
-      "developer": "Hanseatic Bank",
-      "url": "https://apps.apple.com/de/app/hanseatic-bank-secure/id1527558932?uo=2",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/ee/3b/54ee3b84-d079-24ac-a448-0a6592fe67e5/AppIcon_hanseatic_prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "release_date": "2020-11-16",
+      "id": "6754984723",
+      "name": "Flowfy: Haushaltsbuch & Budget",
+      "developer": "ALBERTO PEREZ GUIJARRO",
+      "url": "https://apps.apple.com/de/app/flowfy-haushaltsbuch-budget/id6754984723?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/11/28/01112874-a570-eb2f-ce04-21d83ed5afc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-11-11",
       "genres": [
         {
           "id": "6015",

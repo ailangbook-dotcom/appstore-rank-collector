@@ -1,0 +1,1579 @@
+{
+  "collected_at": "2026-10-11T00:13:25.054643+09:00",
+  "date": "2026-10-11",
+  "country": "nz",
+  "chart": "top-free",
+  "category": "productivity",
+  "genre_id": 6007,
+  "count": 98,
+  "apps": [
+    {
+      "rank": 1,
+      "id": "6448311069",
+      "name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "url": "https://apps.apple.com/nz/app/chatgpt/id6448311069?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/79/89/c77989be-de98-6c64-b2e0-425d52fa86bc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-05-24",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "6473753684",
+      "name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "url": "https://apps.apple.com/nz/app/claude-by-anthropic/id6473753684?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/05/11/ca051103-4acb-a2c4-6e5c-7568e85cfcf9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-05-01",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "1558240027",
+      "name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/nz/app/meta-ai/id1558240027?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/84/35/8b8435db-6824-5991-afb9-066d61a34e21/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2024-04-11",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "6477489729",
+      "name": "Google Gemini",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-gemini/id6477489729?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/3f/2f/4e3f2f2f-e6bd-91fc-c73f-8bdb62bd9dde/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "541164041",
+      "name": "Microsoft Copilot",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-copilot/id541164041?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d5/3d/c1d53da8-6c85-dacb-bbf5-6922022f1a55/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2013-06-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "1644982218",
+      "name": "2degrees NZ",
+      "developer": "2degrees Mobile",
+      "url": "https://apps.apple.com/nz/app/2degrees-nz/id1644982218?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/c2/36/05c23676-033a-a415-5629-881fadb15da4/AppIcon-2degrees-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-10-25",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "422689480",
+      "name": "Gmail – email by Google",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/gmail-email-by-google/id422689480?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c4/77/d6c47746-1b03-473b-8a4b-c4e4b566fb56/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-11-02",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "507874739",
+      "name": "Google Drive",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-drive/id507874739?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/e5/3a/dfe53a1b-ba53-0cc7-513f-9240ab7f02d3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-06-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "983156458",
+      "name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-authenticator/id983156458?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2015-05-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "6670324846",
+      "name": "Grok AI",
+      "developer": "X Corp.",
+      "url": "https://apps.apple.com/nz/app/grok-ai/id6670324846?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e4/dc/82e4dc37-21e2-eb50-435f-6238213d694e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2025-01-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "842842640",
+      "name": "Google Docs",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-docs/id842842640?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/76/43/4576438e-83ac-8551-287b-71cae0264d8b/docs_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2014-04-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "6794501026",
+      "name": "Grok Bot",
+      "developer": "X Corp.",
+      "url": "https://apps.apple.com/nz/app/grok-bot/id6794501026?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/01/4e/d6014ece-d71b-88a0-116d-dd0e946930ed/app-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-08-11",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "6443686328",
+      "name": "Link to Windows",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/link-to-windows/id6443686328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/35/889235b0-e29c-8649-a6ec-ba30e0b4280d/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-02-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "842849113",
+      "name": "Google Sheets",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-sheets/id842849113?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/e4/ef/9fe4ef2f-c864-d20e-9387-0279c3c3e4dc/sheets_2026q3_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2014-04-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "951937596",
+      "name": "Microsoft Outlook",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-outlook/id951937596?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/1d/35/6c1d3539-3063-ca53-763a-7d68055b20b8/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-01-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "586447913",
+      "name": "Microsoft Word",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-word/id586447913?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/d2/a5/5dd2a579-8f50-9b29-3d49-f580bdce3946/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "6757661674",
+      "name": "SocialLite-Block Reels&Shorts",
+      "developer": "Sociallite LLC",
+      "url": "https://apps.apple.com/nz/app/sociallite-block-reels-shorts/id6757661674?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/4f/29/0b4f29c7-12ad-ca14-f88b-054d091d6855/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "1370293473",
+      "name": "VPN - Super Unlimited Proxy ™",
+      "developer": "Mobile Jump Pte Ltd",
+      "url": "https://apps.apple.com/nz/app/vpn-super-unlimited-proxy/id1370293473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/d7/e9/fdd7e99d-1590-fd65-1079-4006bdfc67e6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-05-15",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "586683407",
+      "name": "Microsoft Excel",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-excel/id586683407?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/99/89/1a998938-e15f-e01a-1eda-0ac456203b51/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "909319292",
+      "name": "Google Calendar: Get Organised",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-calendar-get-organised/id909319292?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/65/6b/d7656bab-eaed-f1ca-bce1-b8ea4716a03f/calendar_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2015-03-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "477537958",
+      "name": "Microsoft OneDrive",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-onedrive/id477537958?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/49/8e/17498e22-559b-1dbc-089d-6203026abc38/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-12-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "327630330",
+      "name": "Dropbox: Cloud & Files Storage",
+      "developer": "Dropbox, Inc.",
+      "url": "https://apps.apple.com/nz/app/dropbox-cloud-files-storage/id327630330?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/8f/bd/e98fbd4d-f432-bfab-c1a9-f727008290ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2009-09-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "6774545766",
+      "name": "PDF Reader: Edit & OCR Scan",
+      "developer": "Duc Duong Tran",
+      "url": "https://apps.apple.com/nz/app/pdf-reader-edit-ocr-scan/id6774545766?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/df/92/d1df9247-931b-69fd-a0e8-838a1b52d22a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-07",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "1523682319",
+      "name": "Widgetsmith",
+      "developer": "Cross Forward Consulting, LLC",
+      "url": "https://apps.apple.com/nz/app/widgetsmith/id1523682319?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/80/7d/67807d3d-b791-9951-b658-7c743fbcd7fc/Primary-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2020-09-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "879478102",
+      "name": "Google Slides",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-slides/id879478102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/54/80/9f54809f-4c91-ba39-b6fd-74c1b9c89e71/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-08-26",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "6737597349",
+      "name": "DeepSeek - AI Assistant",
+      "developer": "杭州深度求索人工智能基础技术研究有限公司",
+      "url": "https://apps.apple.com/nz/app/deepseek-ai-assistant/id6737597349?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/53/e7/b553e718-f691-beda-b872-729e3b63c547/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-01-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "586449534",
+      "name": "Microsoft PowerPoint",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-powerpoint/id586449534?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/f9/05/e4f905a6-1361-fac1-d7f6-27156e450eff/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2014-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "469284907",
+      "name": "HP",
+      "developer": "HP Inc.",
+      "url": "https://apps.apple.com/nz/app/hp/id469284907?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/f4/2c/27f42c56-ae8f-bc55-79fd-64bff96d32b7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-10-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "6741380655",
+      "name": "Workcloud Shift",
+      "developer": "Reflexis Systems Inc",
+      "url": "https://apps.apple.com/nz/app/workcloud-shift/id6741380655?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/f7/c7/a5f7c7ef-f53f-f53c-f3fe-6b156030fb7e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-04-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "6754835526",
+      "name": "Authenticator App．",
+      "developer": "Quantum Security Service",
+      "url": "https://apps.apple.com/nz/app/authenticator-app/id6754835526?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/7f/db/9c7fdb28-cc4c-3597-078d-ac8e999a7dfd/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-11-12",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "1570134612",
+      "name": "Translator GO: AI Translation",
+      "developer": "MATdev",
+      "url": "https://apps.apple.com/nz/app/translator-go-ai-translation/id1570134612?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/af/5a/08af5ab0-b1d4-a3c2-7e7e-34a1e4c8cc00/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-06-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1644737181",
+      "name": "BePresent: Screen Time Tracker",
+      "developer": "Screen Detox Inc",
+      "url": "https://apps.apple.com/nz/app/bepresent-screen-time-tracker/id1644737181?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3f/12/583f1280-ebd4-1a4b-c0ff-2df1c49f89f0/Modern_Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-09-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "1391782046",
+      "name": "Surfshark VPN: Fast & Secure",
+      "developer": "SURFSHARK LTD",
+      "url": "https://apps.apple.com/nz/app/surfshark-vpn-fast-secure/id1391782046?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/fd/31/22fd3115-e31a-f752-23b8-a131012d28df/iOS_AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-08-01",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "1669513811",
+      "name": "OneSearch: DeepSearch Finder",
+      "developer": "Tung To Dinh",
+      "url": "https://apps.apple.com/nz/app/onesearch-deepsearch-finder/id1669513811?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/d2/47/74d2472f-82ab-daa1-6072-056cb3dbbc4e/AppIconLiquidGlass-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2023-02-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "388627783",
+      "name": "CamScanner - PDF Scanner App",
+      "developer": "INTSIG Information Co., Ltd",
+      "url": "https://apps.apple.com/nz/app/camscanner-pdf-scanner-app/id388627783?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8a/4d/e38a4d7b-5420-27c9-e98b-4c0a0418ddb5/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2010-08-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1569379048",
+      "name": "WeTransfer: Transfer Files",
+      "developer": "Wetransfer B.V.",
+      "url": "https://apps.apple.com/nz/app/wetransfer-transfer-files/id1569379048?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/43/6d/93436d1b-ca43-beef-635c-a35a1443499a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2021-10-12",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "6497229487",
+      "name": "Wispr Flow: AI Voice Keyboard",
+      "developer": "Wispr AI, Inc.",
+      "url": "https://apps.apple.com/nz/app/wispr-flow-ai-voice-keyboard/id6497229487?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/51/31/bc5131cc-700b-6486-ecf9-002d39fe4e99/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-05-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "6451431247",
+      "name": "Dola: Smart AI Assistant",
+      "developer": "SPRING(SG)PTE.LTD.",
+      "url": "https://apps.apple.com/nz/app/dola-smart-ai-assistant/id6451431247?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/56/f8/7556f812-270f-2060-6896-ad05f2865461/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-02-26",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "1366502697",
+      "name": "Bolt Browser and Documents",
+      "developer": "Danyil Vasilenko",
+      "url": "https://apps.apple.com/nz/app/bolt-browser-and-documents/id1366502697?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/64/d2/3564d218-84dc-2995-5335-578369f8ba64/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-06-05",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "1358107315",
+      "name": "Ringtones Maker - the ring app",
+      "developer": "苏娟 陈",
+      "url": "https://apps.apple.com/nz/app/ringtones-maker-the-ring-app/id1358107315?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/21/91/ec2191c8-07a5-8b3d-8bf9-208055e94f01/ling_logo-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-03-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "1631848378",
+      "name": "Translator +",
+      "developer": "Rocket Apps GmbH",
+      "url": "https://apps.apple.com/nz/app/translator/id1631848378?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/95/b6/5b95b6db-cb33-5acb-8aa2-afa6068de44f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2022-11-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "1250312807",
+      "name": "X-VPN: Unlimited & Fast VPN",
+      "developer": "LIGHTNINGLINK NETWORKS PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/x-vpn-unlimited-fast-vpn/id1250312807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/02/0a/a6020ad0-de62-ba8f-8455-828597420580/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-06-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "6797840836",
+      "name": "Doubao AI | Smart AI Assistant",
+      "developer": "Chavdar Koev",
+      "url": "https://apps.apple.com/nz/app/doubao-ai-smart-ai-assistant/id6797840836?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/b4/50/75b450f8-ca55-4e99-f195-aee12071ba5e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2026-08-12",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "1550225245",
+      "name": "Humanforce Work (New)",
+      "developer": "Timetarget Pty Ltd",
+      "url": "https://apps.apple.com/nz/app/humanforce-work-new/id1550225245?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/76/be/5976beb8-158a-0835-8345-03667f28c541/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-05-08",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1232780281",
+      "name": "Notion: notes, tasks, AI",
+      "developer": "Notion Labs, Incorporated",
+      "url": "https://apps.apple.com/nz/app/notion-notes-tasks-ai/id1232780281?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/c6/c4/06c6c4ab-b156-76c0-352c-f1ee08eb8d22/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1661308505",
+      "name": "ChatOn AI - Chat Bot Assistant",
+      "developer": "AIBY",
+      "url": "https://apps.apple.com/nz/app/chaton-ai-chat-bot-assistant/id1661308505?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/b8/cb/a5b8cb00-35d4-a2e6-61a1-7e6bf8ae611e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-01-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "1136298377",
+      "name": "Cleanfox - Block Newsletter",
+      "developer": "FOXINTEL",
+      "url": "https://apps.apple.com/nz/app/cleanfox-block-newsletter/id1136298377?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/45/14/b145141f-b320-a554-21e9-4af7ab30ee15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-01-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "6670175056",
+      "name": "Summary - AI Note Taker",
+      "developer": "Labhouse Mobile",
+      "url": "https://apps.apple.com/nz/app/summary-ai-note-taker/id6670175056?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/d6/3a/7fd63a1c-1202-c77f-3620-d9d21cf3b122/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-12-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "577586159",
+      "name": "Yahoo Mail - Organised Email",
+      "developer": "Yahoo",
+      "url": "https://apps.apple.com/nz/app/yahoo-mail-organised-email/id577586159?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/01/70/8301701e-57ac-a39c-07b6-e18017355cb3/MailAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "1453620213",
+      "name": "Swann Security",
+      "developer": "Swann Communications Pty Ltd",
+      "url": "https://apps.apple.com/nz/app/swann-security/id1453620213?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/d7/24/c2d724c2-96c0-61ee-6773-f9b993ebf3c7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-05-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1668000334",
+      "name": "Perplexity - AI Search & Chat",
+      "developer": "Perplexity AI, Inc.",
+      "url": "https://apps.apple.com/nz/app/perplexity-ai-search-chat/id1668000334?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/0e/83/530e837b-778a-9589-0cd1-993a97747485/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-03-27",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "1397699449",
+      "name": "myID - Australian Government",
+      "developer": "Australian Taxation Office",
+      "url": "https://apps.apple.com/nz/app/myid-australian-government/id1397699449?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/00/52/130052ac-9b68-44c2-f29c-845cb130f211/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-06-11",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1461747901",
+      "name": "Mobile Scanner App - Scan PDF",
+      "developer": "Glority Global Group Ltd.",
+      "url": "https://apps.apple.com/nz/app/mobile-scanner-app-scan-pdf/id1461747901?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/49/df/cf49df53-bd17-e169-4f97-1e691ce13e2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1365309175",
+      "name": "Turbo VPN Private Browser",
+      "developer": "INNOVATIVE CONNECTING PTE.LIMITED",
+      "url": "https://apps.apple.com/nz/app/turbo-vpn-private-browser/id1365309175?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/d8/c9/3cd8c948-88f0-4b9e-1e91-5dd5ea45380f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-04-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6749363102",
+      "name": "Chatbot AI Assistant ChatPrime",
+      "developer": "Wowoo Dijital Hizmetler Limited Sirketi",
+      "url": "https://apps.apple.com/nz/app/chatbot-ai-assistant-chatprime/id6749363102?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/06/6a/e2066a80-dad5-7247-686b-1a8913479c3a/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-09-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "6447682225",
+      "name": "eGovPH",
+      "developer": "DICT eGovernment",
+      "url": "https://apps.apple.com/nz/app/egovph/id6447682225?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e0/d4/01e0d4be-106a-8a8c-f49d-fc9ec4de4a88/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/100x100bb.png",
+      "release_date": "2023-05-31",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "6759947633",
+      "name": "Freaky AI Chat",
+      "developer": "Adnan Hameed",
+      "url": "https://apps.apple.com/nz/app/freaky-ai-chat/id6759947633?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/bb/88/8dbb88d9-3552-aa92-8201-049db7ab3a42/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-03-26",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "6730118317",
+      "name": "O3: Study With Friends",
+      "developer": "O3 Platforms Limited",
+      "url": "https://apps.apple.com/nz/app/o3-study-with-friends/id6730118317?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/49/b6/da49b60e-3cbc-41d5-e6e8-ea4ffc06dee4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2024-10-24",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "1099748482",
+      "name": "Spaces: Follow Businesses",
+      "developer": "Wix.com Inc.",
+      "url": "https://apps.apple.com/nz/app/spaces-follow-businesses/id1099748482?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/96/6f/f0966f71-e25a-4062-6a6c-25203d66f4a4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "1158877342",
+      "name": "Grammarly: AI Keyboard & Voice",
+      "developer": "Superhuman Platform Inc",
+      "url": "https://apps.apple.com/nz/app/grammarly-ai-keyboard-voice/id1158877342?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b2/2b/d8b22ba1-56c3-6eb2-057b-6c1a04e94cfa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2017-08-08",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6744338972",
+      "name": "Brainrot: Screen Time Control",
+      "developer": "Smolworks Inc",
+      "url": "https://apps.apple.com/nz/app/brainrot-screen-time-control/id6744338972?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/19/64/e4196414-5c0f-2705-783e-627ed1f846ab/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-05-20",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "1509453185",
+      "name": "TeraBox: 1TB Cloud & AI Space",
+      "developer": "FLEXTECH INC.",
+      "url": "https://apps.apple.com/nz/app/terabox-1tb-cloud-ai-space/id1509453185?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/47/20/54472055-16b9-d375-6ae1-0ba3cce7ef89/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2020-04-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6758857657",
+      "name": "Refiners Fire",
+      "developer": "KCG Properties",
+      "url": "https://apps.apple.com/nz/app/refiners-fire/id6758857657?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/58/bc/d958bcdc-f1eb-5305-194a-565186a5118c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-02-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "706857885",
+      "name": "MEGA: Encrypted Cloud Storage",
+      "developer": "Mega Networks LLC",
+      "url": "https://apps.apple.com/nz/app/mega-encrypted-cloud-storage/id706857885?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/98/21/1a98216a-06fb-a2c4-29e9-a0261063dcd3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2013-11-26",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1451784328",
+      "name": "Google One",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-one/id1451784328?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2e/e5/dc2ee5ef-a9fe-5e46-c268-08152216c862/logo_one_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-17",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1658377526",
+      "name": "Chatbot AI Assistant - Genie",
+      "developer": "APPNATION YAZILIM HIZMETLERI TICARET ANONIM SIRKETI",
+      "url": "https://apps.apple.com/nz/app/chatbot-ai-assistant-genie/id1658377526?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/2f/74/a62f7429-4d86-4be7-a05b-08f3a0218121/AppIcon-Omega-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-12-08",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "6743953410",
+      "name": "AI Chatbot & Design Assistant",
+      "developer": "SevenSeas AI Studio",
+      "url": "https://apps.apple.com/nz/app/ai-chatbot-design-assistant/id6743953410?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/f9/c1/a2f9c1d4-c8e4-a8be-57aa-1dff2afc7182/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-30",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "6741363138",
+      "name": "Genora Artificial Intelligence",
+      "developer": "MOBIWAYS LTD",
+      "url": "https://apps.apple.com/nz/app/genora-artificial-intelligence/id6741363138?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/18/c6/0518c679-2190-2b7a-e108-36d9890ea928/AppIcon-Default-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2025-03-18",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6737527615",
+      "name": "Gemini Notebook",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/gemini-notebook/id6737527615?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a6/31/73a6313d-c545-e985-4e22-8a60a043a55c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "release_date": "2025-05-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "952578473",
+      "name": "TimeTree: Shared Calendar",
+      "developer": "TimeTree, Inc.",
+      "url": "https://apps.apple.com/nz/app/timetree-shared-calendar/id952578473?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/d1/3f/33d13f43-967f-e785-9944-e297e4ee2b51/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-03-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "1091505266",
+      "name": "Microsoft SharePoint",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-sharepoint/id1091505266?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/7f/66/d77f664e-9e60-e81a-f6b7-e656f40e98d5/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-06-20",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6739429409",
+      "name": "Granola - AI Meeting Notes",
+      "developer": "Granola inc",
+      "url": "https://apps.apple.com/nz/app/granola-ai-meeting-notes/id6739429409?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/42/c3/1042c375-74bd-f04e-084c-f48e04636213/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-04-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1029207872",
+      "name": "Google Keep - Notes and lists",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nz/app/google-keep-notes-and-lists/id1029207872?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/37/8c/05378c6a-6a8d-6d25-04bb-78308621afc7/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2015-09-24",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "6443709872",
+      "name": "Droppah - Rosters & Timesheets",
+      "developer": "FLEXITIME LIMITED",
+      "url": "https://apps.apple.com/nz/app/droppah-rosters-timesheets/id6443709872?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/95/66/979566ac-be04-3a11-ad7f-83ba153c0b5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2022-11-14",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "410395246",
+      "name": "Microsoft OneNote",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-onenote/id410395246?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/a5/8f/57a58f1b-67f4-0f96-8bf4-c41f06dd5abc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2011-07-25",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "345323231",
+      "name": "Microsoft Bing Search",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nz/app/microsoft-bing-search/id345323231?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/15/57/a6155776-006d-2aa2-f44f-e9914e2029d2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2009-12-15",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1129435228",
+      "name": "VPN Windscribe: Fast & Secure",
+      "developer": "Windscribe Limited",
+      "url": "https://apps.apple.com/nz/app/vpn-windscribe-fast-secure/id1129435228?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3d/00/5b3d009d-5a3d-3985-df7e-7946e53117d2/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2016-07-25",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "1080558159",
+      "name": "QR Code Reader: Scan QR Code",
+      "developer": "Komorebi Inc.",
+      "url": "https://apps.apple.com/nz/app/qr-code-reader-scan-qr-code/id1080558159?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/11/61/951161c6-de24-db36-1161-114531902d0b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+      "release_date": "2016-03-19",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "1095519285",
+      "name": "Norton VPN – Secure Proxy",
+      "developer": "Gen Digital Inc.",
+      "url": "https://apps.apple.com/nz/app/norton-vpn-secure-proxy/id1095519285?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/00/57/8e0057cd-9334-6db0-bfb9-ba587959b09b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-06-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "866450515",
+      "name": "Forest: Focus for Productivity",
+      "developer": "SEEKRTECH CO., LTD.",
+      "url": "https://apps.apple.com/nz/app/forest-focus-for-productivity/id866450515?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/d2/b0/e9d2b03c-3832-9e49-d62a-0da4b7388a7d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-05-10",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6742103871",
+      "name": "minimalist phone ® Block Apps",
+      "developer": "Hachi Media OÜ",
+      "url": "https://apps.apple.com/nz/app/minimalist-phone-block-apps/id6742103871?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/db/90/16db9074-3945-3aac-9af1-8c8379b76fb4/AppIcon-0-0-1x_U007ephone-0-0-0-11-0-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-15",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1541027222",
+      "name": "ScreenZen- Screen Time Control",
+      "developer": "ScreenZen LLC",
+      "url": "https://apps.apple.com/nz/app/screenzen-screen-time-control/id1541027222?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-07-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1025707485",
+      "name": "VPN Master - Secure VPN",
+      "developer": "ALL Connected Co.,Ltd",
+      "url": "https://apps.apple.com/nz/app/vpn-master-secure-vpn/id1025707485?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/33/2f/fb332fbb-5cd3-5492-3a63-30ccb8080d6f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "release_date": "2015-09-15",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1363849196",
+      "name": "Humanitix for Hosts",
+      "developer": "WiseHives",
+      "url": "https://apps.apple.com/nz/app/humanitix-for-hosts/id1363849196?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/01/cb/5d01cb6e-7c21-4dcf-27a2-ef5c12acdfc9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-04-22",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6447763703",
+      "name": "ChatBox AI - Chatbot Assistant",
+      "developer": "FLORATE LIMITED",
+      "url": "https://apps.apple.com/nz/app/chatbox-ai-chatbot-assistant/id6447763703?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/1f/7d/571f7d6e-2dd5-8be0-b746-6cd5ab852952/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-04-21",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "6711347033",
+      "name": "Chatbot App: AI Assistant",
+      "developer": "TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI",
+      "url": "https://apps.apple.com/nz/app/chatbot-app-ai-assistant/id6711347033?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b5/f2/0cb5f2ff-c2b9-d1ae-2709-d080a98721b8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2024-12-04",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "1591177191",
+      "name": "Screen Mirroring for iPhone",
+      "developer": "Free AI Utility Apps LLC",
+      "url": "https://apps.apple.com/nz/app/screen-mirroring-for-iphone/id1591177191?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/dd/ed/80dded5f-5b21-7587-b36e-ff4b5ed7d607/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2021-11-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "979659905",
+      "name": "Proton Mail - Encrypted Email",
+      "developer": "Proton AG",
+      "url": "https://apps.apple.com/nz/app/proton-mail-encrypted-email/id979659905?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/f7/81/9cf78148-8f40-ca18-c559-d0a19c9e5d35/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-03-16",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "6755101229",
+      "name": "Muse:Text to Speech & AI Chat",
+      "developer": "TOPMUSE PTE. LTD.",
+      "url": "https://apps.apple.com/nz/app/muse-text-to-speech-ai-chat/id6755101229?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/2e/55/252e55a9-3c5b-6c34-fb87-9ff4c11efee6/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+      "release_date": "2025-11-24",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6756059656",
+      "name": "EcoGPT - AI for Humanity",
+      "developer": "EcoGPT Inc",
+      "url": "https://apps.apple.com/nz/app/ecogpt-ai-for-humanity/id6756059656?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/4a/b5/924ab5fe-d991-d25b-eac2-3760fc5d7ac8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2025-12-04",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6757556695",
+      "name": "Thine AI",
+      "developer": "Foyer Tech, Inc",
+      "url": "https://apps.apple.com/nz/app/thine-ai/id6757556695?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/e1/19/92e1199e-5e13-f398-d085-c78e2d206cfc/thine-tangerine-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-07-05",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1276437113",
+      "name": "Otter Transcribe Voice Notes",
+      "developer": "Otter.ai, Inc.",
+      "url": "https://apps.apple.com/nz/app/otter-transcribe-voice-notes/id1276437113?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/6f/c0/686fc017-199a-2d3d-94d7-4bc802d5e50a/otter-logo-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-02-23",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6757738627",
+      "name": "Qwen - Alibaba AI Assistant",
+      "developer": "NTH POWER GLOBAL TECH SINGAPORE PTE. LTD",
+      "url": "https://apps.apple.com/nz/app/qwen-alibaba-ai-assistant/id6757738627?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/33/99/343399c5-fd06-eee9-70b6-abed14ae5f89/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-09-07",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6761168714",
+      "name": "Vincen - Your Super AI Agent",
+      "developer": "Apptribe Dijital Hizmetler Limited Sirketi",
+      "url": "https://apps.apple.com/nz/app/vincen-your-super-ai-agent/id6761168714?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/8c/16/298c165a-282a-3e57-055b-e12016579420/new_logo-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-04-29",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "496889629",
+      "name": "FamilyWall: Family Organizer",
+      "developer": "Family & Co",
+      "url": "https://apps.apple.com/nz/app/familywall-family-organizer/id496889629?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/ed/e7/15ede7e6-76e9-15bb-93df-84006f8fa134/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-01-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "6745426520",
+      "name": "MyDigicel Pacific",
+      "developer": "Digicel Pacific",
+      "url": "https://apps.apple.com/nz/app/mydigicel-pacific/id6745426520?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/cd/b4/eacdb440-d671-4026-739a-d11dc2548dea/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "release_date": "2025-05-13",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "474990205",
+      "name": "Docusign - Upload & Sign Docs",
+      "developer": "Docusign",
+      "url": "https://apps.apple.com/nz/app/docusign-upload-sign-docs/id474990205?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/6f/9a/c46f9a46-8670-5a3d-4210-66e69a685e8e/dsIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-10-28",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "941620509",
+      "name": "Teleprompter",
+      "developer": "Teleprompter Apps Ltd",
+      "url": "https://apps.apple.com/nz/app/teleprompter/id941620509?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/3e/5e/363e5e8f-93a0-2e46-3041-e12cff292d3f/icon-lite-26-na-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-12-17",
+      "genres": [
+        {
+          "id": "6007",
+          "name": "Productivity",
+          "url": "https://apps.apple.com/nz/genre/ios-productivity/id6007?uo=2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1611 @@
+{
+  "collected_at": "2026-10-30T00:13:28.866284+09:00",
+  "date": "2026-10-30",
+  "country": "se",
+  "chart": "top-free",
+  "category": "utilities",
+  "genre_id": 6002,
+  "count": 100,
+  "apps": [
+    {
+      "rank": 1,
+      "id": "6468981790",
+      "name": "Bring",
+      "developer": "Posten",
+      "url": "https://apps.apple.com/se/app/bring/id6468981790?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/59/5d/40595df1-d312-9e4a-1b80-7939795dd548/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2024-02-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "6444912481",
+      "name": "UK ETA",
+      "developer": "Home Office",
+      "url": "https://apps.apple.com/se/app/uk-eta/id6444912481?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f1/79/dff179a7-c0c3-7e49-b9e0-65c87a6fd9f8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/100x100bb.png",
+      "release_date": "2023-10-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "284815942",
+      "name": "Google",
+      "developer": "Google",
+      "url": "https://apps.apple.com/se/app/google/id284815942?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/e6/8e/10e68e33-386d-389e-f80d-847446271908/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-02-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "500644505",
+      "name": "ePARK - snabb enkel parkering",
+      "developer": "Electronic Parking AB",
+      "url": "https://apps.apple.com/se/app/epark-snabb-enkel-parkering/id500644505?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/70/08/e170084f-cc2d-e11f-9642-e462cb212efb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-03-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "535886823",
+      "name": "Google Chrome",
+      "developer": "Google",
+      "url": "https://apps.apple.com/se/app/google-chrome/id535886823?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/9c/39/0a9c395e-2f03-5eb5-b3fc-4d1650630b5c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2012-06-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "1288723196",
+      "name": "Microsoft Edge",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/se/app/microsoft-edge/id1288723196?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/f4/b8/d7f4b825-2f9c-e99b-deee-3e041cddf9fa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2018-06-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "433151512",
+      "name": "BankID säkerhetsapp",
+      "developer": "Finansiell ID-Teknik BID AB",
+      "url": "https://apps.apple.com/se/app/bankid-s%C3%A4kerhetsapp/id433151512?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/a5/71/c3a57111-b736-6990-84ad-6692c3b18a52/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-06-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "1256552092",
+      "name": "Freja",
+      "developer": "Freja eID Group AB",
+      "url": "https://apps.apple.com/se/app/freja/id1256552092?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/55/a5/4955a57a-8a52-f683-2fd2-a3355f06b59a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "release_date": "2017-08-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "434684353",
+      "name": "Mitt Telia",
+      "developer": "Telia Sverige AB",
+      "url": "https://apps.apple.com/se/app/mitt-telia/id434684353?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/6b/e8/4f6be82f-9436-f5c8-84a5-4905e2fc774a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2011-05-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "388497605",
+      "name": "Google Authenticator",
+      "developer": "Google",
+      "url": "https://apps.apple.com/se/app/google-authenticator/id388497605?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/2b/df/702bdfd3-b008-3dd0-af69-da2c920847a2/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2010-09-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "6764276890",
+      "name": "Scan QRCode: QR & Barcode",
+      "developer": "Fuzhou Xuanlong Technology Co., Ltd.",
+      "url": "https://apps.apple.com/se/app/scan-qrcode-qr-barcode/id6764276890?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/72/29/2d722971-1b98-6ba5-1841-1352e3d99e92/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-05-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "1515923348",
+      "name": "Pantamera",
+      "developer": "Returpack IT",
+      "url": "https://apps.apple.com/se/app/pantamera/id1515923348?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/65/e7/b565e7d1-a07e-98bd-2b2e-18175d6f837a/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2021-01-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "1066302005",
+      "name": "Mobill - Parkering & laddning",
+      "developer": "Mobill Scandinavia AB",
+      "url": "https://apps.apple.com/se/app/mobill-parkering-laddning/id1066302005?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3d/04/d73d0467-dd73-a9ff-ff8f-92efb2151061/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2016-01-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "554101146",
+      "name": "Försäkringskassan",
+      "developer": "Försäkringskassan",
+      "url": "https://apps.apple.com/se/app/f%C3%B6rs%C3%A4kringskassan/id554101146?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/3f/cc/9e3fcc99-4009-54fb-d266-2fe04550040d/AppIcon__U0028Prod_U0029-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-10-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "1510944943",
+      "name": "Cleanup: Telefonrensare",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "url": "https://apps.apple.com/se/app/cleanup-telefonrensare/id1510944943?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/85/0e/30850e5d-1fcf-70b9-bcda-beb222622baf/AppIcon-0-0-1x_U007ephone-0-1-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "1131162170",
+      "name": "Zaptec",
+      "developer": "Zaptec",
+      "url": "https://apps.apple.com/se/app/zaptec/id1131162170?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/3f/ae/b33fae60-a81f-7f3c-7ead-567ed9e66883/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-05-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "1154435018",
+      "name": "Mitt Telenor, Sverige",
+      "developer": "Telenor Sverige AB",
+      "url": "https://apps.apple.com/se/app/mitt-telenor-sverige/id1154435018?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c9/23/c3c9230c-adaa-cbe2-aeec-d4b4bba22f84/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2017-01-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "6447423390",
+      "name": "Parkit",
+      "developer": "Parkit Sweden AB",
+      "url": "https://apps.apple.com/se/app/parkit/id6447423390?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/b6/aa/a1b6aa81-c9dd-2af5-c4c2-0dba91b899e3/icon-ios-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-06-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "6447359785",
+      "name": "Mitt Vattenfall",
+      "developer": "Vattenfall AB",
+      "url": "https://apps.apple.com/se/app/mitt-vattenfall/id6447359785?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/58/2b/8d582b50-3835-d37e-70b0-fd4578232d02/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2023-11-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "6760458257",
+      "name": "QRCode Scanner · CodeGenerator",
+      "developer": "Wellresion Limited",
+      "url": "https://apps.apple.com/se/app/qrcode-scanner-codegenerator/id6760458257?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/24/90/5f2490a5-4094-4aa3-a262-01fbb4ab2be4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "479841366",
+      "name": "Mitt Tele2",
+      "developer": "Tele2 Sverige AB",
+      "url": "https://apps.apple.com/se/app/mitt-tele2/id479841366?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f8/85/55f885f2-be22-756f-a972-71a1e440d124/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2011-12-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "767325716",
+      "name": "E.ON",
+      "developer": "E.ON Sverige AB",
+      "url": "https://apps.apple.com/se/app/e-on/id767325716?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/c9/31/dfc93144-9687-0562-cca0-e57e51a7a783/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-02-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "439635293",
+      "name": "Volvo Cars",
+      "developer": "Volvo Car Corporation",
+      "url": "https://apps.apple.com/se/app/volvo-cars/id439635293?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/cf/dd/48cfdd0f-24fa-8d53-c8ea-e66b97f30176/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-06-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "989804926",
+      "name": "Firefox Privat webbläsare",
+      "developer": "Mozilla",
+      "url": "https://apps.apple.com/se/app/firefox-privat-webbl%C3%A4sare/id989804926?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/d0/ba/cbd0ba84-0ad8-b29d-d11d-664fd38681ac/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2015-11-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "1130498044",
+      "name": "Apple-supporten",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/se/app/apple-supporten/id1130498044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/77/89/f0778921-4693-2517-4831-45e49b9746b5/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/100x100bb.png",
+      "release_date": "2016-12-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "538370813",
+      "name": "Mitt3",
+      "developer": "Hi3G Access AB",
+      "url": "https://apps.apple.com/se/app/mitt3/id538370813?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/fd/1b/a3fd1bd0-2d6f-59ce-d062-9999df5a0d33/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-10-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "6446586182",
+      "name": "Fortum",
+      "developer": "Fortum Corporation",
+      "url": "https://apps.apple.com/se/app/fortum/id6446586182?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/d7/75/89d77592-b0e1-0218-a185-8439ed6400bc/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "release_date": "2024-06-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "1565332549",
+      "name": "DSV Tracking",
+      "developer": "DSV",
+      "url": "https://apps.apple.com/se/app/dsv-tracking/id1565332549?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/70/45/bb7045ad-1bf3-af93-4861-e92302607d2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "469353162",
+      "name": "Comviq",
+      "developer": "Tele2 Sverige AB",
+      "url": "https://apps.apple.com/se/app/comviq/id469353162?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/3b/00/5d3b00fa-8d61-4a56-da51-1d1a015277b0/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2012-01-02",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "905953485",
+      "name": "NordVPN: Snabbt och säkert VPN",
+      "developer": "Nordvpn S.A.",
+      "url": "https://apps.apple.com/se/app/nordvpn-snabbt-och-s%C3%A4kert-vpn/id905953485?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/3b/dd/f13bdd96-f63e-5c78-2f64-6a4187f06284/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2014-12-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "1670570711",
+      "name": "Yale Home",
+      "developer": "Assa Abloy Ltd",
+      "url": "https://apps.apple.com/se/app/yale-home/id1670570711?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/7a/57/8c7a5774-47d1-880a-0435-44fadbc72530/YaleAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2023-05-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1437005085",
+      "name": "Proton VPN: Snabbt och säkert",
+      "developer": "Proton AG",
+      "url": "https://apps.apple.com/se/app/proton-vpn-snabbt-och-s%C3%A4kert/id1437005085?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f2/63/abf26323-cb7a-5977-fad6-a6434bf904df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2018-11-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "448142450",
+      "name": "Truecaller - Nummerupplysning",
+      "developer": "True Software Scandinavia AB",
+      "url": "https://apps.apple.com/se/app/truecaller-nummerupplysning/id448142450?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/56/a2/a256a28c-793e-26c0-86a2-6e441129d755/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2012-11-22",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "599496594",
+      "name": "TP-Link Tether",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/se/app/tp-link-tether/id599496594?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/22/cc/b722cccb-a141-31ff-555d-bf909232a984/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-05-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "6754900760",
+      "name": "Authenticator ℠ App",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/se/app/authenticator-app/id6754900760?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/74/33/2a7433de-6823-b297-f29f-204569764176/AppIconLiquidV1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1483006309",
+      "name": "DELTACO SMART HOME",
+      "developer": "Aurdel Sweden AB",
+      "url": "https://apps.apple.com/se/app/deltaco-smart-home/id1483006309?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/39/04/2a390428-d6ba-94ad-b9c2-6384b1155530/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-10-21",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "6740517042",
+      "name": "Kia App",
+      "developer": "Kia Corporation",
+      "url": "https://apps.apple.com/se/app/kia-app/id6740517042?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/0b/36/3d0b36b2-e1a0-75fc-5ca5-38ac79c9cb25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-04-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "1553732397",
+      "name": "Trygghetspaketet",
+      "developer": "Telia Sverige AB",
+      "url": "https://apps.apple.com/se/app/trygghetspaketet/id1553732397?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/e4/c9/9ae4c9fe-abca-6c59-935d-9469c2624522/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-03-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "1498901702",
+      "name": "Hallon",
+      "developer": "Hi3G Access AB",
+      "url": "https://apps.apple.com/se/app/hallon/id1498901702?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/d2/9a/07d29a8c-d92f-ba45-6701-92b1b04b74a1/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2020-09-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "6480077263",
+      "name": "Epic Games",
+      "developer": "Epic Games Inc.",
+      "url": "https://apps.apple.com/se/app/epic-games/id6480077263?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/db/44/4edb4481-a30a-b1b6-2019-9f4161ce7f14/AppIcon-Companion-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "632634458",
+      "name": "Sector Alarm",
+      "developer": "Sector Alarm",
+      "url": "https://apps.apple.com/se/app/sector-alarm/id632634458?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/f8/ec/83f8ec13-b6b5-e5b1-f3e3-b8f8a6024483/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2013-04-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "583934690",
+      "name": "LinPark",
+      "developer": "Dukaten Parkeringsservice AB",
+      "url": "https://apps.apple.com/se/app/linpark/id583934690?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/5b/d6/375bd6db-b02d-ca0a-357f-7aac283183e4/LinPark-AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2012-12-14",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "423747572",
+      "name": "Verisure",
+      "developer": "Verisure Group AB",
+      "url": "https://apps.apple.com/se/app/verisure/id423747572?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/68/41/a46841a2-013b-b077-3977-cc201d377abe/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2011-05-26",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "505190698",
+      "name": "ParkMan",
+      "developer": "ParkMan Oy",
+      "url": "https://apps.apple.com/se/app/parkman/id505190698?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/04/95/48049588-e122-5aa3-7b5b-9f7a8630461c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2012-03-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "694668133",
+      "name": "CSN Mina sidor",
+      "developer": "Centrala studiestödsnämnden (CSN)",
+      "url": "https://apps.apple.com/se/app/csn-mina-sidor/id694668133?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/b2/7f/ddb27f69-2ac6-17eb-cbd0-4977e33d8291/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2013-09-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "296380480",
+      "name": "Bredbandskollen",
+      "developer": "Stiftelsen for Internetinfrastruktur",
+      "url": "https://apps.apple.com/se/app/bredbandskollen/id296380480?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/e6/2b/88e62bdd-97d8-05a8-abb1-c4fced16783d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2008-12-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "1052879175",
+      "name": "Brave private browser",
+      "developer": "Brave Software",
+      "url": "https://apps.apple.com/se/app/brave-private-browser/id1052879175?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/49/85/8349855c-fb03-29a3-6dc6-40211ece1a57/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-02-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "663592361",
+      "name": "DuckDuckGo, optional Duck.ai",
+      "developer": "DuckDuckGo, Inc.",
+      "url": "https://apps.apple.com/se/app/duckduckgo-optional-duck-ai/id663592361?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/4b/8f/814b8fd9-2dae-fdf1-8fce-332c1ba70ded/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2013-06-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "6456523725",
+      "name": "2FA QR Code App",
+      "developer": "Tensortech Apps",
+      "url": "https://apps.apple.com/se/app/2fa-qr-code-app/id6456523725?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/6b/08/5a6b087e-203c-ac2c-496b-ec8174178496/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-08-02",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "871096263",
+      "name": "INGO",
+      "developer": "Circle K AS",
+      "url": "https://apps.apple.com/se/app/ingo/id871096263?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/96/ba/cc96ba10-6724-570f-1ed2-27ffe6b12a70/ingo-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-05-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "1488907960",
+      "name": "Easee",
+      "developer": "Easee ASA",
+      "url": "https://apps.apple.com/se/app/easee/id1488907960?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/d8/06/b8d80639-5b96-3c10-93ec-cdfd7d226f92/AppIcon2-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-03-23",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "1168502924",
+      "name": "Sony | Sound Connect",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/se/app/sony-sound-connect/id1168502924?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/bf/2b/84bf2b5d-0e1b-3e1e-a53b-152b9ed75d39/AppIcon-0-0-1x_U007emarketing-0-3-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "release_date": "2017-02-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "1506954034",
+      "name": "Ellevio",
+      "developer": "Ellevio AB",
+      "url": "https://apps.apple.com/se/app/ellevio/id1506954034?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/49/67/dc49675a-6aaf-ff70-4bc3-cce3f8c9bb40/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-04-19",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "1317652970",
+      "name": "Garmin Connect IQ™",
+      "developer": "Garmin",
+      "url": "https://apps.apple.com/se/app/garmin-connect-iq/id1317652970?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/57/7a/cd577ac9-8065-7661-9479-c75cf8f5ac4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-04-09",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "1564419343",
+      "name": "Dreamehome",
+      "developer": "Dreame Innovation Technology (Suzhou) Co., Ltd.",
+      "url": "https://apps.apple.com/se/app/dreamehome/id1564419343?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/ff/b8/bbffb8f2-4c45-6fb1-d27b-a1c08c854a2f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-10-21",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1403367428",
+      "name": "Countdown",
+      "developer": "Find Appiness LLC",
+      "url": "https://apps.apple.com/se/app/countdown/id1403367428?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/be/ed/2fbeed57-914a-58f1-e6f2-adf1c0dde321/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "1602061522",
+      "name": "Authenticator",
+      "developer": "SMM service, s.r.o.",
+      "url": "https://apps.apple.com/se/app/authenticator/id1602061522?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/3b/1e/c93b1e68-7181-dd14-ad2e-36d8e36566b3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-02-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1523826729",
+      "name": "TV Cast for Chromecast !",
+      "developer": "EVOLLY.APP",
+      "url": "https://apps.apple.com/se/app/tv-cast-for-chromecast/id1523826729?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/83/9b/ce839b68-ad41-2220-3b59-275b973f4685/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-08-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "6759697123",
+      "name": "SmartClean AI: Storage Cleaner",
+      "developer": "AMOBEAR GROUP",
+      "url": "https://apps.apple.com/se/app/smartclean-ai-storage-cleaner/id6759697123?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cd/86/dccd864b-979d-f95f-a55c-b63f18a73e7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "6800211040",
+      "name": "CarTV - M3U IPTV bil",
+      "developer": "Lyntra Technology Ltd",
+      "url": "https://apps.apple.com/se/app/cartv-m3u-iptv-bil/id6800211040?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/3e/0e/5b3e0edf-cb0a-3741-964c-6f30cab1e295/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "1617623127",
+      "name": "MyToyota",
+      "developer": "Toyota Motor Europe S.A./N.V.",
+      "url": "https://apps.apple.com/se/app/mytoyota/id1617623127?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/da/fb/bddafbd2-358a-db8f-7045-79d5b5efa6cb/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "release_date": "2023-10-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "1186159417",
+      "name": "TP-Link Deco",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/se/app/tp-link-deco/id1186159417?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/b2/e9/00b2e9cf-67ce-fc99-aafa-de77827ed3b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2017-04-11",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "6450221505",
+      "name": "MELCloud Home",
+      "developer": "Mitsubishi Electric",
+      "url": "https://apps.apple.com/se/app/melcloud-home/id6450221505?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/47/a6/7d47a64c-96d5-4b70-9179-dec79eb96eaa/iosicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-11-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "6754630526",
+      "name": "Crystalyn: Rensa lagring",
+      "developer": "Habrutal LLC-FZ",
+      "url": "https://apps.apple.com/se/app/crystalyn-rensa-lagring/id6754630526?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/51/06/f7510631-8223-3716-581c-8a93f04db4a7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-14",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "1583884012",
+      "name": "Swipewipe: Rensa Bilder",
+      "developer": "MWM",
+      "url": "https://apps.apple.com/se/app/swipewipe-rensa-bilder/id1583884012?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/fc/fa/18fcfa8d-6b42-5050-e664-1e648f994855/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-03-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "1034649547",
+      "name": "Tuya: Smart Life, Smart Living",
+      "developer": "Tuya Smart Inc.",
+      "url": "https://apps.apple.com/se/app/tuya-smart-life-smart-living/id1034649547?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/2a/ed/892aedb0-1fe8-e98b-e3de-624fcfaec1da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-06",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "1470499037",
+      "name": "Tailscale",
+      "developer": "Tailscale Inc.",
+      "url": "https://apps.apple.com/se/app/tailscale/id1470499037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ee/0f/36ee0f11-6a78-1396-f70b-4f2c4fb34818/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-10-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1348640525",
+      "name": "Panasonic Comfort Cloud",
+      "developer": "PANASONIC HVAC & CC CO., LTD.",
+      "url": "https://apps.apple.com/se/app/panasonic-comfort-cloud/id1348640525?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/8c/ea/368cea6c-3f46-22e3-597a-cb892fb557bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-03-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6748551704",
+      "name": "Screen Mirroring + Cast To TV",
+      "developer": "CoreBit Solutions",
+      "url": "https://apps.apple.com/se/app/screen-mirroring-cast-to-tv/id6748551704?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/56/ad/3756adfc-e17f-be60-3617-4d85b5950900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-13",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1562022554",
+      "name": "XBB Configurator",
+      "developer": "Innoware Development AB",
+      "url": "https://apps.apple.com/se/app/xbb-configurator/id1562022554?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/63/b5/5c63b55c-e2d1-e138-7efa-5ce9c00f353c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-04-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "1466744542",
+      "name": "myUplink",
+      "developer": "myUpTech AB",
+      "url": "https://apps.apple.com/se/app/myuplink/id1466744542?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/c0/57/dac057d7-c14b-a3df-da17-fb9f839507f2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2019-09-07",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "1576503229",
+      "name": "Tvätta Biltvätt",
+      "developer": "Superoperator Oy",
+      "url": "https://apps.apple.com/se/app/tv%C3%A4tta-biltv%C3%A4tt/id1576503229?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/0d/26/1e0d2651-0b1d-f571-256b-b14bf88f7d8c/Production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2022-07-05",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "6560107458",
+      "name": "Lens Scan: Identifiera Allt",
+      "developer": "EvenEdge",
+      "url": "https://apps.apple.com/se/app/lens-scan-identifiera-allt/id6560107458?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/be/1e/3fbe1e3d-c1ff-0776-8d18-3992742ae7ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-09-04",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "1625671285",
+      "name": "Bambu Handy",
+      "developer": "上海轮廓科技有限公司",
+      "url": "https://apps.apple.com/se/app/bambu-handy/id1625671285?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/ae/6c/12ae6c61-c6ec-6962-79c6-03099f32a6c0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-07-14",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1632202810",
+      "name": "MyŠkoda",
+      "developer": "Skoda Auto a.s.",
+      "url": "https://apps.apple.com/se/app/my%C5%A1koda/id1632202810?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/fe/0f/86fe0fe2-f3af-71bd-7c75-72bd41dd766f/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2023-04-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "1150085200",
+      "name": "Google Family Link",
+      "developer": "Google",
+      "url": "https://apps.apple.com/se/app/google-family-link/id1150085200?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/47/03/1e47035f-e310-40bf-3b73-0f906348a8ef/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-05-29",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "1571429529",
+      "name": "Samsung Smart Switch Mobile",
+      "developer": "Samsung Electronics Co., Ltd.",
+      "url": "https://apps.apple.com/se/app/samsung-smart-switch-mobile/id1571429529?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/32/3b/7c323b30-eefb-e2ac-7d93-1b5807f4d01d/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-06-10",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "1630942420",
+      "name": "Telia Smart Control",
+      "developer": "Telia Company AB",
+      "url": "https://apps.apple.com/se/app/telia-smart-control/id1630942420?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/63/45/0863450e-7b2d-7e13-a6d5-89fde18906df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-08",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "454717972",
+      "name": "Skellefteå Kraft",
+      "developer": "Skellefteå Kraft AB",
+      "url": "https://apps.apple.com/se/app/skellefte%C3%A5-kraft/id454717972?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/2e/7a/612e7a8b-8bfe-594c-968a-3bafc2bf2398/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2011-09-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "1575903244",
+      "name": "Clean Up Phone Storage: CleanX",
+      "developer": "TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI",
+      "url": "https://apps.apple.com/se/app/clean-up-phone-storage-cleanx/id1575903244?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/6e/78/a76e7837-6d5a-7383-e130-760027676491/AppIconBaseline-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2021-08-27",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "977693421",
+      "name": "Biluppgifter",
+      "developer": "Biluppgifter Sverige AB",
+      "url": "https://apps.apple.com/se/app/biluppgifter/id977693421?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0c/c3/d8/0cc3d8ca-4b9d-6acc-d115-58f79c99af14/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "release_date": "2015-03-26",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "1093419762",
+      "name": "Ljudmätare",
+      "developer": "ExaMobile S.A.",
+      "url": "https://apps.apple.com/se/app/ljudm%C3%A4tare/id1093419762?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/0b/b9/150bb958-3696-9955-de45-2203b846017f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2016-03-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1516235668",
+      "name": "Brother Mobile Connect",
+      "developer": "Brother Industries, LTD.",
+      "url": "https://apps.apple.com/se/app/brother-mobile-connect/id1516235668?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/2f/9f/6e2f9ff8-b3ab-08c4-6eff-e5ddba164e85/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "release_date": "2021-05-31",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "1454061614",
+      "name": "Fonts",
+      "developer": "Fonts ApS",
+      "url": "https://apps.apple.com/se/app/fonts/id1454061614?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/24/bc/1324bc0e-e7c3-a9bf-8de1-3adcc618d532/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-02-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "1233271881",
+      "name": "Vimla",
+      "developer": "Vimla",
+      "url": "https://apps.apple.com/se/app/vimla/id1233271881?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/62/a2/9462a21d-9357-528d-a6f4-18a9125436b2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2017-05-16",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "1466237565",
+      "name": "Glimra",
+      "developer": "Arremon AB",
+      "url": "https://apps.apple.com/se/app/glimra/id1466237565?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/09/45/ba09459d-b4a5-98f9-9179-0664ef8e5626/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2019-06-15",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "797526334",
+      "name": "Tyck till",
+      "developer": "Stockholms stad",
+      "url": "https://apps.apple.com/se/app/tyck-till/id797526334?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/22/17/71221784-8cc3-4054-2bd2-c3c78abefc1d/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-02-03",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "1181003397",
+      "name": "Tempus Hemma",
+      "developer": "Tempus Information Systems AB",
+      "url": "https://apps.apple.com/se/app/tempus-hemma/id1181003397?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/81/8c/20818cec-d6a4-ed07-939f-1cc69d401030/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2017-09-26",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "876323966",
+      "name": "Vattenpass fri",
+      "developer": "ExaMobile S.A.",
+      "url": "https://apps.apple.com/se/app/vattenpass-fri/id876323966?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/77/ee/a177eead-ef4b-8431-efdf-fe3f6f045bd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2014-07-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "475296859",
+      "name": "Volvia",
+      "developer": "Volvia Försäkringar",
+      "url": "https://apps.apple.com/se/app/volvia/id475296859?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/fa/49/73fa4977-f241-0f5c-1123-57a6264732e6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2011-11-02",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "1499978783",
+      "name": "24 Food",
+      "developer": "24 Food",
+      "url": "https://apps.apple.com/se/app/24-food/id1499978783?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/8d/3c/778d3c74-215f-42aa-5004-eff957af806d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-02-24",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "1644031505",
+      "name": "Spot – Elpriser",
+      "developer": "Kim Ahlberg",
+      "url": "https://apps.apple.com/se/app/spot-elpriser/id1644031505?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/01/59/8d015983-9979-c8d7-6c19-4665de99c492/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.png",
+      "release_date": "2022-09-12",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6457257476",
+      "name": "NAVEE",
+      "developer": "Brightway Innovation Intelligent Technology (Suzhou) Co., Ltd.",
+      "url": "https://apps.apple.com/se/app/navee/id6457257476?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/76/fd/3d76fd80-8451-213b-0be6-4b5b4052af40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-08-17",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6771298693",
+      "name": "Translate Bridge",
+      "developer": "Fuzhou Xuanlong Technology Co., Ltd.",
+      "url": "https://apps.apple.com/se/app/translate-bridge/id6771298693?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c7/1d/67c71d12-4208-33a7-9411-6c3edbad7571/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-07-01",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "1568033706",
+      "name": "Nothing X",
+      "developer": "Nothing Technology Limited",
+      "url": "https://apps.apple.com/se/app/nothing-x/id1568033706?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/0e/ee/970eee1d-7dda-d1de-2eeb-761802c8b234/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2021-07-28",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1246158009",
+      "name": "Mjuk Biltvätt",
+      "developer": "Mjuk Biltvatt Sverige AB",
+      "url": "https://apps.apple.com/se/app/mjuk-biltv%C3%A4tt/id1246158009?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/09/2c/c2092c93-2d8e-d6cf-6e3e-486c8050ee40/AppIcon-0-0-1x_U007emarketing-0-6-85-220.jpeg/100x100bb.png",
+      "release_date": "2017-08-18",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6757071118",
+      "name": "PhoneKit AI - Clean Up Storage",
+      "developer": "子飏 彭",
+      "url": "https://apps.apple.com/se/app/phonekit-ai-clean-up-storage/id6757071118?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/0d/ae/e20dae56-deac-7453-fcf3-cce8aaaeee88/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-01-20",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "1626613141",
+      "name": "Ljudmätare (decibel)",
+      "developer": "UniCom Technology",
+      "url": "https://apps.apple.com/se/app/ljudm%C3%A4tare-decibel/id1626613141?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/8c/ef/b58cefd5-765f-ba87-e3e5-cffb922d9ea6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-05-30",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "1397386702",
+      "name": "Charge Amps",
+      "developer": "Charge Amps AB",
+      "url": "https://apps.apple.com/se/app/charge-amps/id1397386702?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/d5/92/48d59210-e908-ede7-e162-535851ec2a79/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2018-07-25",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "6761712853",
+      "name": "Tangentbordsteman: typsnitt",
+      "developer": "Rashmi Varsani",
+      "url": "https://apps.apple.com/se/app/tangentbordsteman-typsnitt/id6761712853?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/d9/58/e7d95855-06b6-a656-2a70-747f98ef5e8f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-14",
+      "genres": [
+        {
+          "id": "6002",
+          "name": "Verktyg",
+          "url": "https://apps.apple.com/se/genre/ios-verktyg/id6002?uo=2"
+        }
+      ]
+    }
+  ]
+}

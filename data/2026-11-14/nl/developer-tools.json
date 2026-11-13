@@ -1,0 +1,1611 @@
+{
+  "collected_at": "2026-11-14T00:13:29.477716+09:00",
+  "date": "2026-11-14",
+  "country": "nl",
+  "chart": "top-free",
+  "category": "developer-tools",
+  "genre_id": 6026,
+  "count": 100,
+  "apps": [
+    {
+      "rank": 1,
+      "id": "899247664",
+      "name": "TestFlight",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/nl/app/testflight/id899247664?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/ed/fb/b3edfb91-3ac2-080e-f4a1-49b5f93c7f31/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/100x100bb.png",
+      "release_date": "2014-09-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "1477376905",
+      "name": "GitHub",
+      "developer": "GitHub",
+      "url": "https://apps.apple.com/nl/app/github/id1477376905?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/cd/88/92cd8826-475d-2cd3-309d-ca1b8b07592d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-03-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "6828898364",
+      "name": "Herdr",
+      "developer": "Herdr, Inc.",
+      "url": "https://apps.apple.com/nl/app/herdr/id6828898364?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/7e/6e/f87e6e6b-d20b-a540-5429-c7fc2251bc4e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-11-06",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "982107779",
+      "name": "Expo Go",
+      "developer": "Nametag",
+      "url": "https://apps.apple.com/nl/app/expo-go/id982107779?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/46/e6/e946e61e-5db2-1a71-8d8f-739d3dee3f6a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2015-08-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "640199958",
+      "name": "Apple Developer",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/nl/app/apple-developer/id640199958?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/8d/2b/168d2bf6-bb3b-bd94-782d-caf1224dc8d6/AppIcon-Release-0-1x_U007epad-0-0-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "release_date": "2013-06-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "6755608044",
+      "name": "LocalDevVPN",
+      "developer": "Coxson Engineering LLC",
+      "url": "https://apps.apple.com/nl/app/localdevvpn/id6755608044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/0c/c0/f90cc0a7-6cf8-902c-11ce-5e5fa4ea2731/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2025-12-04",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "1234793120",
+      "name": "App Store Connect",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/nl/app/app-store-connect/id1234793120?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f6/43/14f643e8-3973-1508-106d-43992797e6b2/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/100x100bb.png",
+      "release_date": "2018-06-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "6767085653",
+      "name": "Cursor",
+      "developer": "X Corp.",
+      "url": "https://apps.apple.com/nl/app/cursor/id6767085653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/df/5e/03df5e09-ff05-767f-e27b-984c6ea39d92/AppIcon-Light-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-06-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "549039908",
+      "name": "Termius - Modern SSH Client",
+      "developer": "Termius Corporation",
+      "url": "https://apps.apple.com/nl/app/termius-modern-ssh-client/id549039908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/e5/c8/bbe5c87b-75ed-328d-c7e8-8abc66ada9da/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2012-08-07",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "6787819824",
+      "name": "T3 Code - Remote Claude & more",
+      "developer": "T3 Tools, Inc.",
+      "url": "https://apps.apple.com/nl/app/t3-code-remote-claude-more/id6787819824?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/8a/2d/f08a2d92-3bbc-56b3-4d40-08e4f20e6016/app-icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "1405459188",
+      "name": "Scriptable",
+      "developer": "Simon B. Støvring",
+      "url": "https://apps.apple.com/nl/app/scriptable/id1405459188?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "6504506653",
+      "name": "Sekai: Create · Remix · Play",
+      "developer": "Sekai",
+      "url": "https://apps.apple.com/nl/app/sekai-create-remix-play/id6504506653?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/19/64/6b196419-830b-5b19-59d7-eb2852f842ee/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2024-06-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "6795974924",
+      "name": "Plixa Quest",
+      "developer": "Artem Hrabenchuk",
+      "url": "https://apps.apple.com/nl/app/plixa-quest/id6795974924?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c4/f4/6cc4f47a-9e7c-b67d-2834-3d72061adc33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2026-08-13",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "1602054864",
+      "name": "O-KAM Pro",
+      "developer": "Shenzhen VeePai IoT Intelligent Technology LLC",
+      "url": "https://apps.apple.com/nl/app/o-kam-pro/id1602054864?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/7d/e5/d17de5f5-64f2-626e-5871-c575dcb0cd8a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-01-06",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "6766130217",
+      "name": "Orca IDE",
+      "developer": "Lovecast LLC",
+      "url": "https://apps.apple.com/nl/app/orca-ide/id6766130217?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/be/08/1dbe0868-26da-7465-66af-502fa6741779/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "6808416358",
+      "name": "Freebuff: AI Coding Agent",
+      "developer": "Freebuff, Inc.",
+      "url": "https://apps.apple.com/nl/app/freebuff-ai-coding-agent/id6808416358?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/84/99/838499e7-4ca5-a7d2-8d4a-6d9f68257a4a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-11-06",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "1606772645",
+      "name": "Google Play Console",
+      "developer": "Google",
+      "url": "https://apps.apple.com/nl/app/google-play-console/id1606772645?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f0/35/9ef035e6-3a2e-494f-42b7-b9d3619202a4/logo_play_console_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.png",
+      "release_date": "2024-08-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "6740740427",
+      "name": "Rev for Vercel",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/nl/app/rev-for-vercel/id6740740427?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/07/12/1d071270-cb40-f54c-f1a0-0ed58e7bdfa5/icon-ios-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-02-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "6819981217",
+      "name": "LL Pair",
+      "developer": "SHU-CHIH LIN",
+      "url": "https://apps.apple.com/nl/app/ll-pair/id6819981217?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/07/5d/f9075dd9-a70f-3c38-00c3-74dd8c25b03e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-10-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "6768007081",
+      "name": "Supabase Go",
+      "developer": "Sarfraz Ali Shaher Syed",
+      "url": "https://apps.apple.com/nl/app/supabase-go/id6768007081?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/81/a7/8c81a717-a5f0-33cf-bafe-6c5474d8fe61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "6475089549",
+      "name": "Matter Utilities",
+      "developer": "DIGITAL FORTRESS COMPANY LIMITED",
+      "url": "https://apps.apple.com/nl/app/matter-utilities/id6475089549?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d5/25/51d52541-fb68-d8ad-2ff6-b6ef42285827/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2024-01-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "1614022293",
+      "name": "Replit: Vibe Code with AI Fast",
+      "developer": "Replit",
+      "url": "https://apps.apple.com/nl/app/replit-vibe-code-with-ai-fast/id1614022293?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2022-10-18",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "6790977764",
+      "name": "Hermes Conduit",
+      "developer": "Long Cheung Ho",
+      "url": "https://apps.apple.com/nl/app/hermes-conduit/id6790977764?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/87/db/b787dbe0-66b2-03e3-5a19-9d6bcb426ef8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "6763365337",
+      "name": "Find My",
+      "developer": "Georgy Natsvlishvili",
+      "url": "https://apps.apple.com/nl/app/find-my/id6763365337?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/cd/ee/04cdeec3-332b-9740-d367-38d8f3cfb25b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-04-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "1463298887",
+      "name": "Userscripts",
+      "developer": "Justin Wasack",
+      "url": "https://apps.apple.com/nl/app/userscripts/id1463298887?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/be/20/47be20a2-fedd-cf0b-3a35-476ae727ae01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-05-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "6757406313",
+      "name": "OpenCode Mobile App",
+      "developer": "Rodrigo Mendoza",
+      "url": "https://apps.apple.com/nl/app/opencode-mobile-app/id6757406313?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/0c/70/cd0c7092-e4fe-f132-f1c8-8c2765db50fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-01-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "6800266871",
+      "name": "LocationLab",
+      "developer": "SHU-CHIH LIN",
+      "url": "https://apps.apple.com/nl/app/locationlab/id6800266871?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/4e/10/ed4e1083-3879-7412-a1e9-87bed0359119/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "1436902243",
+      "name": "iSH Shell",
+      "developer": "Theodore Dubois",
+      "url": "https://apps.apple.com/nl/app/ish-shell/id1436902243?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/78/e3/7a78e31a-10c7-f56e-822d-c1edf05d66e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2020-10-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "1473805438",
+      "name": "a-Shell",
+      "developer": "Nicolas Holzschuch",
+      "url": "https://apps.apple.com/nl/app/a-shell/id1473805438?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/a5/06/81a5062b-8866-7a98-76f5-fdf6e4aa3148/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2019-10-25",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "6444399635",
+      "name": "Python Coding Editor & IDE App",
+      "developer": "Cloudbit d.o.o.",
+      "url": "https://apps.apple.com/nl/app/python-coding-editor-ide-app/id6444399635?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/9e/e5/be9ee52a-2311-03b7-67ca-8e54279029de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "6742102359",
+      "name": "Dashify for Netlify.com",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/nl/app/dashify-for-netlify-com/id6742102359?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/05/e1/3d05e165-39d8-cda9-e9e5-97ba6dc52f3e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-02-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "1663675754",
+      "name": "GDevelop - Create & Play Games",
+      "developer": "GDEVELOP FRANCE",
+      "url": "https://apps.apple.com/nl/app/gdevelop-create-play-games/id1663675754?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/6d/9d/226d9d62-7a27-9605-824c-16f37750e2f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2023-04-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "6755794662",
+      "name": "rootshell: Local Terminal, SSH",
+      "developer": "Rootshell LLC",
+      "url": "https://apps.apple.com/nl/app/rootshell-local-terminal-ssh/id6755794662?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/e3/c6/0ae3c6a8-8b39-8631-2e63-3217b90b3bb9/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-04-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "6755708389",
+      "name": "Termiux",
+      "developer": "TERMUX LIMITED LIABILITY COMPANY",
+      "url": "https://apps.apple.com/nl/app/termiux/id6755708389?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/c7/0a/bbc70a0b-06ef-7ce9-1d5d-821135817f19/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-12-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "6748314140",
+      "name": "Proxmox VE Companion",
+      "developer": "Proxmox Server Solutions GmbH",
+      "url": "https://apps.apple.com/nl/app/proxmox-ve-companion/id6748314140?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/bd/85/23bd8541-8ba0-fec7-e3e4-81c102288dbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-12-30",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "1666994628",
+      "name": "Az DevOps",
+      "developer": "PURPLESOFT SRL",
+      "url": "https://apps.apple.com/nl/app/az-devops/id1666994628?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/2f/d7/d82fd792-963d-b522-241d-3e76874a16f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2023-03-01",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "1551292695",
+      "name": "Proxyman - Capture HTTPS",
+      "developer": "Proxyman LLC",
+      "url": "https://apps.apple.com/nl/app/proxyman-capture-https/id1551292695?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/f2/41/64f24162-8cf7-9f94-230b-e9d2332ef3be/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-03-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "1548193893",
+      "name": "Runestone Text Editor",
+      "developer": "Simon B. Støvring",
+      "url": "https://apps.apple.com/nl/app/runestone-text-editor/id1548193893?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/44/53/0b445391-d21f-c199-37aa-065d81ec0b3b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2022-05-05",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "6801906359",
+      "name": "STL Viewer: 3D-model & 3MF",
+      "developer": "Alper Vural",
+      "url": "https://apps.apple.com/nl/app/stl-viewer-3d-model-3mf/id6801906359?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/aa/9e/9eaa9e0b-1fcf-58ab-59ec-96aa2cd0d06e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-09-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "6759854768",
+      "name": "Advanced IP Scanner",
+      "developer": "Chun Yu Leung",
+      "url": "https://apps.apple.com/nl/app/advanced-ip-scanner/id6759854768?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/a3/12/56a31263-6086-940d-2690-172fb29ef6fa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "6794432532",
+      "name": "Temp Number | Receive SMS",
+      "developer": "Yarden Mitrani",
+      "url": "https://apps.apple.com/nl/app/temp-number-receive-sms/id6794432532?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/e7/d5/d9e7d557-3d27-f4d3-8063-2f358c255917/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-08-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "6742807404",
+      "name": "Makkie SSH",
+      "developer": "Argsment Limited",
+      "url": "https://apps.apple.com/nl/app/makkie-ssh/id6742807404?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/dc/62/f2dc6215-0cf7-dd6a-e898-3dcbd59dee46/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2025-03-10",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "6781989836",
+      "name": "Airswitch – Connect Quickly",
+      "developer": "TEHNOGRAD RM 014 DOO",
+      "url": "https://apps.apple.com/nl/app/airswitch-connect-quickly/id6781989836?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/59/77/035977b4-19f8-b11b-650b-a0dd08de3781/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-09-25",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "6767006319",
+      "name": "Hermex",
+      "developer": "Uzair Ansar",
+      "url": "https://apps.apple.com/nl/app/hermex/id6767006319?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/e8/fe/62e8fe8c-cf04-4665-84f6-46222f06f64d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-06-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1632249346",
+      "name": "Terminal#",
+      "developer": "Vasilii Shaidullin",
+      "url": "https://apps.apple.com/nl/app/terminal/id1632249346?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/83/2b/f5832b34-bd63-aa1e-6fc7-73685a2e9efc/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+      "release_date": "2022-07-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1543537943",
+      "name": "a-Shell mini",
+      "developer": "Nicolas Holzschuch",
+      "url": "https://apps.apple.com/nl/app/a-shell-mini/id1543537943?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/6d/11/0b6d1120-870e-a0e3-3636-e96d7796ff6e/AppIcon-mini-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2020-12-09",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "1038574481",
+      "name": "Kodex",
+      "developer": "Bruno Philipe Resende Silva",
+      "url": "https://apps.apple.com/nl/app/kodex/id1038574481?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/2a/fd/c72afd80-a64a-a929-0e20-fd2e82313ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/100x100bb.png",
+      "release_date": "2018-03-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "1509085044",
+      "name": "Bluetooth Inspector",
+      "developer": "George Garside",
+      "url": "https://apps.apple.com/nl/app/bluetooth-inspector/id1509085044?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/0d/88/ec0d8855-eba1-d012-17e9-4d68e751133d/App_Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2020-05-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "1447489375",
+      "name": "Koder Code Editor",
+      "developer": "Reny Mustika",
+      "url": "https://apps.apple.com/nl/app/koder-code-editor/id1447489375?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/1c/a1/eb1ca1c1-be59-166e-4c27-a9823613128a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "release_date": "2018-12-22",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "6757701908",
+      "name": "Claude Code Notifier Companion",
+      "developer": "TouchTap",
+      "url": "https://apps.apple.com/nl/app/claude-code-notifier-companion/id6757701908?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d0/79/88d07913-d574-8df6-41ff-8fb5bb924815/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-01-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "6478240412",
+      "name": "Rootly",
+      "developer": "Rootly Inc.",
+      "url": "https://apps.apple.com/nl/app/rootly/id6478240412?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/ce/fc/52cefcfe-5188-5c2c-7ebd-f796de31942f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2024-03-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "6739738501",
+      "name": "Reins: for Ollama & LM Studio",
+      "developer": "Ibrahim Cetin",
+      "url": "https://apps.apple.com/nl/app/reins-for-ollama-lm-studio/id6739738501?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/6d/7b/116d7b46-34c8-82e9-72d7-64be1c96d772/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-01-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "6770260745",
+      "name": "AI App Builder Architect",
+      "developer": "Beniamin Bar Chad",
+      "url": "https://apps.apple.com/nl/app/ai-app-builder-architect/id6770260745?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/cb/5f/3ecb5f12-1416-96d6-e3bf-5c256b457976/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-19",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "6757588699",
+      "name": "Slimme chatbot & AI-assistent",
+      "developer": "Miczon LLC",
+      "url": "https://apps.apple.com/nl/app/slimme-chatbot-ai-assistent/id6757588699?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/0c/95/8b0c95c3-b10d-7608-a20d-90dc123587df/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-04",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "6764463488",
+      "name": "Codex Relay - Remote Codex App",
+      "developer": "Kang Sungyu",
+      "url": "https://apps.apple.com/nl/app/codex-relay-remote-codex-app/id6764463488?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/c1/3d/d0c13d85-3ab9-640e-4dd0-b18f4e27a513/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "1049254261",
+      "name": "Textastic Code Editor",
+      "developer": "Alexander Blach",
+      "url": "https://apps.apple.com/nl/app/textastic-code-editor/id1049254261?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/e0/bb/38e0bb28-0527-6980-c6ce-16279645b7f3/Textastic_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2016-03-12",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "6804648934",
+      "name": "LLMAPI: AI Chat & API",
+      "developer": "Tashfeen Ahmed",
+      "url": "https://apps.apple.com/nl/app/llmapi-ai-chat-api/id6804648934?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/30/f8/2a30f87f-1a30-02f1-4c1d-03fcdbe9cf37/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-05",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "1584825745",
+      "name": "Web Inspector",
+      "developer": "And a Dinosaur",
+      "url": "https://apps.apple.com/nl/app/web-inspector/id1584825745?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/c1/f6/d2c1f6e0-ca8b-47cf-b7af-4fbfd9cd216e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-09-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "6756368191",
+      "name": "JetBrains Air",
+      "developer": "JetBrains",
+      "url": "https://apps.apple.com/nl/app/jetbrains-air/id6756368191?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/f6/71/74f671cd-6668-d23d-6043-b19a2cc88311/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-11-06",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "6803695916",
+      "name": "Alpha Overmind: AI-agenten",
+      "developer": "Pied Apps AB",
+      "url": "https://apps.apple.com/nl/app/alpha-overmind-ai-agenten/id6803695916?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/b9/34/0cb93489-4be6-77bf-3845-c6cc73bcf0aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "6805803640",
+      "name": "Keyora - Cute Keyboard",
+      "developer": "Ha Bui Thi Minh",
+      "url": "https://apps.apple.com/nl/app/keyora-cute-keyboard/id6805803640?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/24/42/8d2442f4-4526-7686-b907-be3fd8974934/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-09-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "6753074404",
+      "name": "avoGate VPN",
+      "developer": "Avocado VPN Technologies",
+      "url": "https://apps.apple.com/nl/app/avogate-vpn/id6753074404?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/ac/9a/60ac9ac1-152b-13c5-9162-1064ea546261/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-24",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "1336634154",
+      "name": "SSH Client - Secure ShellFish",
+      "developer": "Anders Borum",
+      "url": "https://apps.apple.com/nl/app/ssh-client-secure-shellfish/id1336634154?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/27/d0/9527d02e-3a22-4f7c-1082-d6a12a3211c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-06-28",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "1522870046",
+      "name": "Device Monitor²",
+      "developer": "Fast-Devs Project",
+      "url": "https://apps.apple.com/nl/app/device-monitor/id1522870046?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/63/3c/b8633c20-ce0c-23cc-283a-b4ffd424d2b4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2021-01-16",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "6757859949",
+      "name": "Moshi: herdr/tmux on SSH/MOSH",
+      "developer": "Moshi Tech Ltd.",
+      "url": "https://apps.apple.com/nl/app/moshi-herdr-tmux-on-ssh-mosh/id6757859949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/d8/12/b6d812ef-0b44-d7aa-1ccb-e5a27d59ce47/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-01-21",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "6745097949",
+      "name": "v0",
+      "developer": "Vercel, Inc",
+      "url": "https://apps.apple.com/nl/app/v0/id6745097949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/d0/e2/73d0e2f9-40fb-bd72-4fdc-4d051b74ce5f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "896694807",
+      "name": "Git client - Working Copy",
+      "developer": "Anders Borum",
+      "url": "https://apps.apple.com/nl/app/git-client-working-copy/id896694807?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c1/65/acc16564-50bb-fef7-a5e2-797237a87934/Regular-Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2014-11-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "1497044357",
+      "name": "Sticky -  AI Game Maker",
+      "developer": "Sticky NFT Marketplace Ltd.",
+      "url": "https://apps.apple.com/nl/app/sticky-ai-game-maker/id1497044357?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/d8/c1/e1d8c1a1-0605-4da5-0087-da6ad67c7448/AppIcon-Default-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2020-03-25",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "6444063249",
+      "name": "Dev Utils",
+      "developer": "Ryan Fielder",
+      "url": "https://apps.apple.com/nl/app/dev-utils/id6444063249?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/09/f3/4a09f32e-bcf2-21df-37aa-f036d8e17d02/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2022-11-15",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "1501532023",
+      "name": "ServerCat - SSH Terminal",
+      "developer": "Early Moon, LLC",
+      "url": "https://apps.apple.com/nl/app/servercat-ssh-terminal/id1501532023?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/e6/93/5be69394-b333-1ba7-90e1-85c1b57b7592/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2020-04-27",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "6770114399",
+      "name": "OnDevice: Local AI Studio",
+      "developer": "MESUT CAN YAGCI",
+      "url": "https://apps.apple.com/nl/app/ondevice-local-ai-studio/id6770114399?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/31/00/65310087-3e23-d0ce-471b-5381f28fb721/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "6755022390",
+      "name": "Mobile SSH Terminal",
+      "developer": "Binaryscript Private Limited",
+      "url": "https://apps.apple.com/nl/app/mobile-ssh-terminal/id6755022390?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/92/d8/4f92d854-f29a-87fe-5eef-c08bd5ed62a3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-30",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "1058693037",
+      "name": "Bluetooth Terminal",
+      "developer": "Lukas Pistrol",
+      "url": "https://apps.apple.com/nl/app/bluetooth-terminal/id1058693037?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/bf/4c/4ebf4ce6-86ed-777b-fdf5-91fb27731560/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2015-11-20",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "6761553426",
+      "name": "GameForge AI: Code & Build",
+      "developer": "Rishad Baker",
+      "url": "https://apps.apple.com/nl/app/gameforge-ai-code-build/id6761553426?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/4b/99/7b4b9909-41c8-c2d5-f6c1-d6f3c51724ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-05-15",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "1436650069",
+      "name": "Pyto IDE",
+      "developer": "Develobile S.p.A.",
+      "url": "https://apps.apple.com/nl/app/pyto-ide/id1436650069?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/18/35fb18d1-6367-1c1c-2b2f-4f5eb068a5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "release_date": "2018-09-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "6753083462",
+      "name": "Power Apps Mobile Preview",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/nl/app/power-apps-mobile-preview/id6753083462?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c7/03/7ec7032c-2447-7741-9b58-8c5b9afa1b3f/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "release_date": "2026-06-23",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "6758625563",
+      "name": "Nodera",
+      "developer": "Tobias Siedersleben",
+      "url": "https://apps.apple.com/nl/app/nodera/id6758625563?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/e4/0a/b2e40ae6-6782-a7d8-e0c9-329a3404f446/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "1597305065",
+      "name": "Agile Planning Poker",
+      "developer": "Ryan Fielder",
+      "url": "https://apps.apple.com/nl/app/agile-planning-poker/id1597305065?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/59/2f/d3592f86-3cfc-3186-0ca5-2bec275094fa/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "release_date": "2021-12-01",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "1550710789",
+      "name": "Node.js Lab",
+      "developer": "Firas Moussa",
+      "url": "https://apps.apple.com/nl/app/node-js-lab/id1550710789?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/57/0e/c6570eb2-a1f2-56fc-ce28-3f7060c281dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2021-02-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "6450535928",
+      "name": "Code Runner App Compiler & IDE",
+      "developer": "Cloudbit d.o.o.",
+      "url": "https://apps.apple.com/nl/app/code-runner-app-compiler-ide/id6450535928?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/a9/8a/bea98afa-4c19-90b3-8d29-8e5bd2dbd0a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2023-06-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "6755363508",
+      "name": "Gummy AI: Game Maker",
+      "developer": "Noon",
+      "url": "https://apps.apple.com/nl/app/gummy-ai-game-maker/id6755363508?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/35/0e/09350e50-9523-219c-f4bb-ec44e47a720f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-11-26",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "6813091770",
+      "name": "SiteGlance - Umami Analytics",
+      "developer": "Chengdu Yichen Technology Co., Ltd",
+      "url": "https://apps.apple.com/nl/app/siteglance-umami-analytics/id6813091770?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/27/11/f42711a4-641c-80ae-7579-4a7346f9e64c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-09-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "1437086352",
+      "name": "CSDN-程序员计算机技术交友学习社区",
+      "developer": "CSDN Network Technology Co., Ltd.",
+      "url": "https://apps.apple.com/nl/app/csdn-%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E4%BA%A4%E5%8F%8B%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA/id1437086352?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/e9/ba/7de9baaf-f82e-487b-ccbe-5f43f5431e99/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2018-10-04",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "6811555979",
+      "name": "Advanced Port Scanner",
+      "developer": "Chun Yu Leung",
+      "url": "https://apps.apple.com/nl/app/advanced-port-scanner/id6811555979?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/bf/18/5fbf186a-9384-18b1-1ed3-030b28ebfa9a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-10-08",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "6443904179",
+      "name": "Breadpad - SPICE Simulator",
+      "developer": "FreshBizOpps, LLC",
+      "url": "https://apps.apple.com/nl/app/breadpad-spice-simulator/id6443904179?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/92/f5/6592f56a-5844-47ba-4151-264139c245ed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "release_date": "2023-09-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "6746666386",
+      "name": "HTML Viewer: View Source",
+      "developer": "Utsav Mangla",
+      "url": "https://apps.apple.com/nl/app/html-viewer-view-source/id6746666386?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/83/ac/8c83ac2e-90df-8d68-5d9d-99b89eacfa40/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2025-06-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "6752669412",
+      "name": "Vibe Pocket: AI Coding Agents",
+      "developer": "Vibe Pocket, LLC",
+      "url": "https://apps.apple.com/nl/app/vibe-pocket-ai-coding-agents/id6752669412?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/96/08/05960850-0f63-3ce9-ea91-82f3a8d6b85d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2025-10-02",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "6759050747",
+      "name": "Pulse for Umami Analytics",
+      "developer": "Erick Namukolo",
+      "url": "https://apps.apple.com/nl/app/pulse-for-umami-analytics/id6759050747?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/3d/98/df3d98c2-166b-7cd4-ac0d-38040886cfa8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-02-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "6775127616",
+      "name": "UmamiAnalytics",
+      "developer": "Dominic Grimm",
+      "url": "https://apps.apple.com/nl/app/umamianalytics/id6775127616?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/a3/ea/aea3ea67-4df1-32e0-3c0d-6f3ab0efa12a/AppIcon-0-1x_U007epad-0-8-0-85-220-0.png/100x100bb.png",
+      "release_date": "2026-06-05",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "6760964429",
+      "name": "Umami Dash",
+      "developer": "MORTADA SARHEED",
+      "url": "https://apps.apple.com/nl/app/umami-dash/id6760964429?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/f9/1f/3ef91f6a-1885-1ffb-030f-3fe21e8b9b6a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2026-04-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "6766648417",
+      "name": "u-connectXplorer",
+      "developer": "u-blox Malmo AB",
+      "url": "https://apps.apple.com/nl/app/u-connectxplorer/id6766648417?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/19/31/0b1931c7-fd0a-08b1-eb7f-252d2ca12ee3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "release_date": "2026-05-11",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "6789708856",
+      "name": "Shellter: SSH & SFTP Client",
+      "developer": "Blocify LLC",
+      "url": "https://apps.apple.com/nl/app/shellter-ssh-sftp-client/id6789708856?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a6/35/59a63530-8e8a-62b5-5008-5b6e5bb9ba41/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-09-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "6755712493",
+      "name": "Railway",
+      "developer": "RailwayApp",
+      "url": "https://apps.apple.com/nl/app/railway/id6755712493?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/a5/00/53a50000-175c-6e3e-264c-d21bab373b82/ios-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "release_date": "2026-06-14",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "6754570005",
+      "name": "N8N Automations — Nathan",
+      "developer": "FarFetched",
+      "url": "https://apps.apple.com/nl/app/n8n-automations-nathan/id6754570005?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/97/2d/ec972dfd-7edd-7131-649b-e24c137269c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2025-10-29",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "6761634572",
+      "name": "3D & STL Model Viewer - Mes3D",
+      "developer": "ONNEX YAZILIM ANONIM SIRKETI",
+      "url": "https://apps.apple.com/nl/app/3d-stl-model-viewer-mes3d/id6761634572?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/34/ef/1b34ef76-6b6a-c439-61d3-73e3d9c8be35/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "release_date": "2026-04-18",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "1450994949",
+      "name": "Carnets - Jupyter",
+      "developer": "Nicolas Holzschuch",
+      "url": "https://apps.apple.com/nl/app/carnets-jupyter/id1450994949?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/88/10/2f881074-a792-07a7-3be7-0613e1babe5f/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+      "release_date": "2019-04-17",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "6759552936",
+      "name": "AI App Builder - FlutterPilot",
+      "developer": "Abrar Malekji",
+      "url": "https://apps.apple.com/nl/app/ai-app-builder-flutterpilot/id6759552936?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/82/08/9782080f-13d2-4aac-0274-302cfe0ea9c1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "release_date": "2026-03-15",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "1483790257",
+      "name": "Text Editor: TXT & HTML Viewer",
+      "developer": "TAPUNIVERSE LLC",
+      "url": "https://apps.apple.com/nl/app/text-editor-txt-html-viewer/id1483790257?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/65/4c/aa654c6c-1dc1-5f91-bcad-047aaf9244d0/TextEditor-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "release_date": "2019-10-18",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "6756284112",
+      "name": "HetzMate for Hetzner Cloud",
+      "developer": "Lars Herres",
+      "url": "https://apps.apple.com/nl/app/hetzmate-for-hetzner-cloud/id6756284112?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/cf/a7/48cfa771-ae4a-4235-db01-2dfd23935a81/HetzMate-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-03-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "6785186457",
+      "name": "SSHHIP - Modern SSH Client",
+      "developer": "Kun Chen",
+      "url": "https://apps.apple.com/nl/app/sshhip-modern-ssh-client/id6785186457?uo=2",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/11/06/8d1106d5-6d61-16d4-7cf5-abc9c087502e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "release_date": "2026-07-03",
+      "genres": [
+        {
+          "id": "6026",
+          "name": "Ontwikkelaarstools",
+          "url": "https://apps.apple.com/nl/genre/ios-ontwikkelaarstools/id6026?uo=2"
+        }
+      ]
+    }
+  ]
+}
